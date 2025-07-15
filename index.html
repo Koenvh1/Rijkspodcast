@@ -30,6 +30,10 @@
             --bs-primary-rgb: 15, 42, 73;
         }
 
+        a {
+            --bs-link-color-rgb: 15, 42, 73;
+        }
+
         .btn {
             --bs-btn-bg: #154273;
             border: none;
@@ -94,6 +98,9 @@
 <script>
     let spotify = null;
 
+    function convert_description(desc) {
+        return desc.replace("\n", "<br>\n");
+    }
     async function main() {
         const podcasts = await fetch("podcasts.json").then(x => x.json());
         let content = "";
@@ -122,7 +129,7 @@
             if (p.provider === "spotify") {
                 name = p.data.name;
                 image = p.data.images[0].url;
-                description = p.data.description;
+                description = convert_description(p.data.description);
                 id = p.data.id;
                 episodes = p.data.episodes.items;
                 episodes.reverse();
@@ -138,7 +145,7 @@
   <div class="flex-grow-1 w-100">
     <small>${e.release_date}</small>
     <h6 class="mb-1 mt-1">${e.name}</h6>
-    <small class="text-muted podcast-description">${e.description}</small>
+    <small class="text-muted podcast-description">${convert_description(e.description)}</small>
   </div>
 
   <button class="btn btn-primary mt-3 mt-sm-0 ms-0 ms-sm-3 align-self-sm-center episode" data-spotify-id="${e.uri}">
