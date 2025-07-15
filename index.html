@@ -97,18 +97,13 @@
     async function main() {
         const podcasts = await fetch("podcasts.json").then(x => x.json());
         let content = "";
+        let nlBaseCompare = new Intl.Collator("nl", {sensitivity: "base"}).compare,
 
         document.getElementById("podcast-count").innerText = podcasts.length;
 
         podcasts.sort((p1, p2) => {
             if (p1.provider === "spotify" && p2.provider === "spotify") {
-                if (p1.data.name < p2.data.name) {
-                    return -1;
-                } else if (p1.data.name > p2.data.name) {
-                    return 1;
-                } else {
-                    return 0;
-                }
+                return nlBaseCompare(p1.data.name, p2.data.name);
             }
             return 0;
         });
