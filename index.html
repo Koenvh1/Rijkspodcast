@@ -55,10 +55,11 @@
     </div>
 </header>
 
-<div class="container">
-    <ul class="list-group mb-5" id="podcasts">
+<div class="container mb-5">
+    <ul class="list-group pb-3" id="podcasts">
 
     </ul>
+    <p class="text-center"><small>Totaal aantal podcasts: <span id="podcast-count">berekenen...</span></small></p>
 </div>
 <div class="podcast-iframe">
     <div id="embed-iframe"></div>
@@ -76,6 +77,8 @@
     async function main() {
         const podcasts = await fetch("podcasts.json").then(x => x.json());
         let content = "";
+
+        document.getElementById("podcast-count").innerText = podcasts.length;
 
         podcasts.sort((p1, p2) => {
             if (p1.provider === "spotify" && p2.provider === "spotify") {
