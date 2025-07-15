@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="nl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rijkspodcastregister</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+        :root {
+            --bs-font-sans-serif: "IBM Plex Sans", sans-serif;
+            --bs-primary-rgb: 15, 42, 73;
+        }
+
+        .btn {
+            --bs-btn-bg: #154273;
+            border: none;
+        }
+
+        .podcast-thumb {
+            width: 160px;
+            height: 160px;
+        }
+
+        .podcast-description {
+            word-break: break-word;
+        }
+
+        .podcast-play {
+            border-radius: 100%;
+        }
+
+        .podcast-iframe {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            max-width: 500px;
+            width: calc(100vw - 40px);
+            height: 80px;
+        }
+
+        .podcast-iframe > iframe {
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+<!-- Top Header Section -->
+<header class="py-5">
+    <div class="container text-center">
+        <h1 class="display-4">Rijkspodcastregister</h1>
+        <p class="lead">De Rijksoverheid produceert een tal van podcasts. Vele daarvan zijn helaas niet of nauwelijks vindbaar. Met het Rijkspodcastregister probeer ik daar verandering in te brengen. Dit is een verzameling van alle podcasts van de Rijksoverheid die ik op Spotify of Apple Podcasts kon vinden.</p>
+        <p>Mocht er een podcast ontbreken die ook op Spotify staat, laat het dan weten door <a href="https://github.com/Koenvh1/Rijkspodcast/issues/new">een issue te openen</a> of een e-mail te sturen naar <a href="mailto:rijkspodcast@koenvh.nl">rijkspodcast@koenvh.nl</a>.</p>
+    </div>
+</header>
+
+<div class="container">
+    <ul class="list-group mb-5" id="podcasts">
+
+    </ul>
+</div>
+<div class="podcast-iframe">
+    <div id="embed-iframe"></div>
+</div>
+<footer class="muted text-center py-3 mt-auto">
+    <div class="container">
+        <small>Gemaakt door <a href="https://koenvh.nl">Koen van Hove</a></small>
+    </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
+<script>
+    let spotify = null;
+
+    async function main() {
+        const podcasts = await fetch("podcasts.json").then(x => x.json());
+        let content = "";
+
+        podcasts.sort((p1, p2) => {
+            if (p1.provider === "spotify" && p2.provider === "spotify") {
+                if (p1.data.name < p2.data.name) {
+                    return -1;
+                } else if (p1.data.name > p2.data.name) {
+                    return 1;
+                } else {
+                    return 0;
+                }
+            }
+            return 0;
+        });
+
+        podcasts.forEach(p => {
+            let name = null;
+            let image = null;
+            let description = null;
+            let id = null;
+            let episodes = null;
+            if (p.provider === "spotify") {
+                name = p.data.name;
+                image = p.data.images[0].url;
+                description = p.data.description;
+                id = p.data.id;
+                episodes = p.data.episodes.items;
+                episodes.reverse();
+            }
+
+            if (!episodes) {
+                console.log(p);
+            }
+
+            let episodes_content = "";
+            episodes.forEach(e => {
+                episodes_content += `<div class="d-flex flex-column flex-sm-row justify-content-between align-items-start p-3 mb-2">
+  <div class="flex-grow-1 w-100">
+    <h6 class="mb-1">${e.name}</h6>
+    <small class="text-muted podcast-description">${e.description}</small>
+  </div>
+
+  <button class="btn btn-primary mt-3 mt-sm-0 ms-0 ms-sm-3 align-self-sm-center episode" data-spotify-id="${e.uri}">
+    ▶
+  </button>
+</div>`
+            });
+
+            content += `<li class="list-group-item">
+  <div class="d-flex flex-column flex-sm-row align-items-start align-items-sm-center">
+    <img src="${image}" class="rounded me-0 mb-3 mb-sm-0 me-sm-3 podcast-thumb" alt="Thumbnail">
+
+    <div class="flex-grow-1">
+      <h6 class="mb-1">${name}</h6>
+      <small class="text-muted">${description} (<a href="${p.url}" class="muted">Open op Spotify</a>)</small>
+
+    </div>
+
+    <button class="btn btn-primary mt-3 mt-sm-0 ms-0 ms-sm-3 accordion-toggle" type="button"
+      data-bs-toggle="collapse" data-bs-target="#collapse-${id}" aria-expanded="false" aria-controls="collapse-${id}">
+      Afleveringen
+    </button>
+  </div>
+
+  <div class="collapse mt-3" id="collapse-${id}">
+      ${episodes_content}
+  </div>
+</li>`
+        });
+        document.getElementById("podcasts").innerHTML = content;
+    }
+    main().then(() => {
+        window.onSpotifyIframeApiReady = (IFrameAPI) => {
+            const element = document.getElementById('embed-iframe');
+            const options = {};
+            const callback = (EmbedController) => {
+                EmbedController.addListener('ready', () => {
+                    EmbedController.play();
+                });
+                document.querySelectorAll('.episode').forEach(
+                    episode => {
+                        episode.addEventListener('click', () => {
+                            EmbedController.loadUri(episode.dataset.spotifyId);
+                        });
+                    })
+            };
+            IFrameAPI.createController(element, options, callback);
+        };
+    });
+</script>
+</body>
+</html>
