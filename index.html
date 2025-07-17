@@ -121,26 +121,19 @@
         });
 
         podcasts.forEach(p => {
-            let name = null;
-            let image = null;
-            let description = null;
-            let id = null;
-            let episodes = null;
-            if (p.provider === "spotify") {
-                name = p.data.name;
-                image = p.data.images[0].url;
-                description = convert_description(p.data.description);
-                id = p.data.id;
-                episodes = p.data.episodes.items;
-                episodes.reverse();
-            }
+            let name = p.data.name;
+            let image = p.data.images[0].url;
+            let description = convert_description(p.data.description);
+            let id = p.data.id;
+            let episodes = p.data.episodes.items;
+            episodes.reverse();
 
-            if (!episodes) {
-                console.log(p);
-            }
-
+            let newest_episode = "";
             let episodes_content = "";
             episodes.forEach(e => {
+                if (e.release_date > newest_episode) {
+                    newest_episode = e.release_date;
+                }
                 episodes_content += `<div class="d-flex flex-column flex-sm-row justify-content-between align-items-start p-3 mb-2">
   <div class="flex-grow-1 w-100">
     <small>${e.release_date}</small>
@@ -159,8 +152,10 @@
     <img src="${image}" class="rounded me-0 mb-3 mb-sm-0 me-sm-3 podcast-thumb" alt="Thumbnail">
 
     <div class="flex-grow-1">
-      <h6 class="mb-1">${name}</h6>
-      <small class="text-muted podcast-description">${description} (<a href="${p.url}" class="muted">Open op Spotify</a>)</small>
+      <small>Laatste aflevering: ${newest_episode}</small>
+      <h6 class="mb-1 mt-1">${name}</h6>
+      <p><small class="text-muted podcast-description">${description}</small></p>
+      <p><small><a href="${p.url}" class="muted">Spotify</a>${p.apple ? ", <a href='" + p.apple + "'>Apple Podcasts</a>, <a href='" + p.apple_data.feedUrl + "'>bron-RSS</a>" : ""}</small></p>
 
     </div>
 

@@ -53,6 +53,8 @@ while True:
             print("Podcast al eerder toegevoegd!")
 
     if not exists:
-        podcasts.append({"provider": provider, "url": url, "data": results})
+        apple = input("Apple URL: ")
+        apple_data = requests.get("https://itunes.apple.com/lookup?id=" + get_trailing_number(apple)).json()["results"][0]
+        podcasts.append({"provider": provider, "url": url, "data": results, "apple": apple, "apple_data": apple_data})
         json.dump(podcasts, open("podcasts.json", "w"), indent=2)
 
