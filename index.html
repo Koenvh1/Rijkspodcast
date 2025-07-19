@@ -104,7 +104,7 @@
     async function main() {
         const podcasts = await fetch("podcasts.json").then(x => x.json());
         let content = "";
-        let nlBaseCompare = new Intl.Collator("nl", {sensitivity: "base"}).compare,
+        let nlBaseCompare = new Intl.Collator("nl", {sensitivity: "base"}).compare;
 
         document.getElementById("podcast-count").innerText = podcasts.length;
 
