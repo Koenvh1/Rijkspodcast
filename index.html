@@ -120,7 +120,7 @@
             return 0;
         });
 
-        podcasts.forEach(p => {
+        podcasts.filter(p => p).forEach(p => {
             let name = p.data.name;
             let image = p.data.images[0].url;
             let description = convert_description(p.data.description);
@@ -130,7 +130,8 @@
 
             let newest_episode = "";
             let episodes_content = "";
-            episodes.forEach(e => {
+            console.log(name)
+            episodes.filter(e => e).forEach(e => {
                 if (e.release_date > newest_episode) {
                     newest_episode = e.release_date;
                 }
