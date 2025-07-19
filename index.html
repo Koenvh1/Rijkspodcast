@@ -34,7 +34,7 @@
             --bs-link-color-rgb: 15, 42, 73;
         }
 
-        .btn {
+        .btn-primary {
             --bs-btn-bg: #154273;
             border: none;
         }
@@ -80,6 +80,16 @@
 </header>
 
 <div class="container mb-5">
+    <div class="d-flex align-items-center gap-2 mb-2 justify-content-end">
+        <span>Sorteren op:</span>
+        <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+            <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked onclick="render('alfabetical')">
+            <label class="btn btn-outline-secondary" for="btnradio1">Podcasttitel</label>
+
+            <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off" onclick="render('date')">
+            <label class="btn btn-outline-secondary" for="btnradio2">Datum</label>
+        </div>
+    </div>
     <ul class="list-group pb-3" id="podcasts">
 
     </ul>
@@ -101,19 +111,11 @@
     function convert_description(desc) {
         return desc.replace("\n", "<br>\n");
     }
-    async function main() {
+    async function render(sorting) {
         const podcasts = await fetch("podcasts.json").then(x => x.json());
-        let content = "";
         let nlBaseCompare = new Intl.Collator("nl", {sensitivity: "base"}).compare;
 
         document.getElementById("podcast-count").innerText = podcasts.length;
-
-        podcasts.sort((p1, p2) => {
-            if (p1.provider === "spotify" && p2.provider === "spotify") {
-                return nlBaseCompare(p1.data.name, p2.data.name);
-            }
-            return 0;
-        });
 
         podcasts.filter(p => p).forEach(p => {
             let name = p.data.name;
@@ -125,7 +127,6 @@
 
             let newest_episode = "";
             let episodes_content = "";
-            console.log(name)
             episodes.filter(e => e).forEach(e => {
                 if (e.release_date > newest_episode) {
                     newest_episode = e.release_date;
@@ -142,8 +143,8 @@
   </button>
 </div>`
             });
-
-            content += `<li class="list-group-item">
+            p["newest_episode"] = newest_episode;
+            p["content"] = `<li class="list-group-item">
   <div class="d-flex flex-column flex-sm-row align-items-start align-items-sm-center">
     <img src="${image}" class="rounded me-0 mb-3 mb-sm-0 me-sm-3 podcast-thumb" alt="Thumbnail">
 
@@ -166,26 +167,48 @@
   </div>
 </li>`
         });
+        podcasts.sort((p1, p2) => {
+            if (sorting === "date") {
+                return p1["newest_episode"] > p2["newest_episode"] ? -1 : 1;
+            } else {
+                return nlBaseCompare(p1.data.name, p2.data.name);
+            }
+        });
+
+        let content = podcasts.reduce((tot, p) => tot += p["content"], "");
         document.getElementById("podcasts").innerHTML = content;
-    }
-    main().then(() => {
-        window.onSpotifyIframeApiReady = (IFrameAPI) => {
-            const element = document.getElementById('embed-iframe');
-            const options = {};
-            const callback = (EmbedController) => {
-                EmbedController.addListener('ready', () => {
-                    EmbedController.play();
+
+        if (spotify) {
+            document.querySelectorAll('.episode').forEach(episode => {
+                episode.addEventListener('click', () => {
+                    spotify.loadUri(episode.dataset.spotifyId);
                 });
-                document.querySelectorAll('.episode').forEach(
-                    episode => {
+            });
+        }
+    }
+
+    async function main() {
+        render("alphabetical").then(() => {
+            window.onSpotifyIframeApiReady = (IFrameAPI) => {
+                const element = document.getElementById('embed-iframe');
+                const options = {};
+                const callback = (EmbedController) => {
+                    spotify = EmbedController;
+                    EmbedController.addListener('ready', () => {
+                        EmbedController.play();
+                    });
+                    document.querySelectorAll('.episode').forEach(episode => {
                         episode.addEventListener('click', () => {
                             EmbedController.loadUri(episode.dataset.spotifyId);
                         });
-                    })
+                    });
+                };
+                IFrameAPI.createController(element, options, callback);
             };
-            IFrameAPI.createController(element, options, callback);
-        };
-    });
+        });
+    }
+
+    main();
 </script>
 </body>
 </html>
