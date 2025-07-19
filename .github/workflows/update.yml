@@ -1,0 +1,18 @@
+name: update
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-podcasts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python3 rijkspodcast.py update
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: 'Update podcasts'
+          file_pattern: 'podcasts.json'
