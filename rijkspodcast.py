@@ -3,6 +3,7 @@ import os
 import re
 import sys
 import time
+import urllib
 
 import requests
 import spotipy
@@ -62,7 +63,7 @@ def add_podcasts():
                 print("Podcast al eerder toegevoegd!")
 
         if not exists:
-            apple = input("Apple URL: ")
+            apple = input(f"Apple URL https://podcasts.apple.com/nl/search?term={urllib.parse.quote_plus(results["name"])} : ")
             if apple:
                 apple_data = requests.get("https://itunes.apple.com/lookup?id=" + get_apple_podcasts_id(apple)).json()["results"][0]
             else:
