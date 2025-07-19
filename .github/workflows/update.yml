@@ -13,6 +13,9 @@ jobs:
           python-version: '3.13'
       - run: pip install -r requirements.txt
       - run: python3 rijkspodcast.py update
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
       - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: 'Update podcasts'
