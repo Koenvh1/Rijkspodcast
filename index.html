@@ -171,7 +171,7 @@
             if (sorting === "date") {
                 return p1["newest_episode"] > p2["newest_episode"] ? -1 : 1;
             } else {
-                return nlBaseCompare(p1.data.name, p2.data.name);
+                return nlBaseCompare(p1.data.name.trim(), p2.data.name.trim());
             }
         });
 
