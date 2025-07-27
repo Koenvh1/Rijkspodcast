@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root {
+    --bs-font-sans-serif: "IBM Plex Sans", sans-serif;
+    --bs-primary-rgb: 21, 66, 115;
+}
+
+a {
+    --bs-link-color-rgb: 21, 66, 115;
+}
+
+.btn-primary {
+    --bs-btn-bg: #154273;
+    border: none;
+}
+
+.podcast-thumb {
+    width: 160px;
+    height: 160px;
+}
+
+.podcast-description {
+    word-break: break-word;
+}
+
+.podcast-play {
+    border-radius: 100%;
+}
+
+.podcast-iframe {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    max-width: 500px;
+    width: calc(100vw - 40px);
+    height: 80px;
+}
+
+.podcast-iframe > iframe {
+    height: 100%;
+}

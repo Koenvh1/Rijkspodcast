@@ -1,8 +1,7 @@
 [
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6wZZ2ojf2XxwgfYT649wpO",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6wZZ2ojf2XxwgfYT649wpO",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -982,6 +981,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-dienst/id1548268945",
     "apple_data": {
       "wrapperType": "track",
@@ -1023,9 +1023,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3X9Ou1PeBajBCoGFkQdrfN",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3X9Ou1PeBajBCoGFkQdrfN",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -1365,12 +1364,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0w8sJgvazKV8RtEVcx3PCn",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0w8sJgvazKV8RtEVcx3PCn",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -1870,6 +1869,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/werken-voor-nederland-de-nieuwe-dijkbewakers/id1655848335",
     "apple_data": {
       "wrapperType": "track",
@@ -1913,9 +1913,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3KDZ4colYorDYob0noVXez",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3KDZ4colYorDYob0noVXez",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -2390,12 +2389,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7lKnnP7PdhAqAEHspznoCM",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7lKnnP7PdhAqAEHspznoCM",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -2815,6 +2814,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/grensverhalen/id1568368836",
     "apple_data": {
       "wrapperType": "track",
@@ -2856,9 +2856,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6AbegnpawM6X6PQ2mgIxHk",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6AbegnpawM6X6PQ2mgIxHk",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -3318,6 +3317,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/innovatie-deep-dive/id1694913587",
     "apple_data": {
       "wrapperType": "track",
@@ -3361,9 +3361,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5MypbP0uyWIZcnEtLuKSnN",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5MypbP0uyWIZcnEtLuKSnN",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -3823,6 +3822,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/hallo-hannah/id1677503433",
     "apple_data": {
       "wrapperType": "track",
@@ -3866,9 +3866,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5VWtfJI3bOU0fDfO33YgeD",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5VWtfJI3bOU0fDfO33YgeD",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -6408,6 +6407,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-publieke-ruimte/id1568120402",
     "apple_data": {
       "wrapperType": "track",
@@ -6451,9 +6451,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4FRSnJMuByQSgfGiYEZpzO",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4FRSnJMuByQSgfGiYEZpzO",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -6833,6 +6832,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/tussen-publiek-en-politiek/id1632763956",
     "apple_data": {
       "wrapperType": "track",
@@ -6876,9 +6876,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5yzeXWjC7NzPEplYSdP2tu",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5yzeXWjC7NzPEplYSdP2tu",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -7458,6 +7457,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/onzekere-zaken/id1586103440",
     "apple_data": {
       "wrapperType": "track",
@@ -7501,9 +7501,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/69j2xYZbaGeEwGImvmVwNz",
-    "data": {
+    "spotify": "https://open.spotify.com/show/69j2xYZbaGeEwGImvmVwNz",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -8003,6 +8002,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/vakidioten-in-publieke-dienst/id1590534066",
     "apple_data": {
       "wrapperType": "track",
@@ -8046,9 +8046,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5nrFSZ4seDlMOsWGMFlbQq",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5nrFSZ4seDlMOsWGMFlbQq",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -8508,6 +8507,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/digitale-zaken-op-tafel/id1720910530",
     "apple_data": {
       "wrapperType": "track",
@@ -8551,9 +8551,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6Eb7YjZnONrbelDXDEe1iQ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6Eb7YjZnONrbelDXDEe1iQ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -13573,6 +13572,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582",
     "apple_data": {
       "wrapperType": "track",
@@ -13614,9 +13614,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3Lqso0WNw0XrRXkmcVgDQH",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3Lqso0WNw0XrRXkmcVgDQH",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -14876,6 +14875,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/digitale-fitheid/id1554369298",
     "apple_data": {
       "wrapperType": "track",
@@ -14919,9 +14919,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5iTkossy0elJDVcftSXYJW",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5iTkossy0elJDVcftSXYJW",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -16156,6 +16155,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/tax-talk/id1646268516",
     "apple_data": {
       "wrapperType": "track",
@@ -16197,9 +16197,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2DSW9pQ6Mtm3DwomzPY5jX",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2DSW9pQ6Mtm3DwomzPY5jX",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -17394,6 +17393,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/gebruiker-centraal/id1537102972",
     "apple_data": {
       "wrapperType": "track",
@@ -17435,9 +17435,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1gSdLK9ARN3TzKKbZPKAm6",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1gSdLK9ARN3TzKKbZPKAm6",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -18657,6 +18656,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/diplomatie-raakt/id1458090993",
     "apple_data": {
       "wrapperType": "track",
@@ -18702,9 +18702,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0XMRdANQKZpfr0abgxZbtD",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0XMRdANQKZpfr0abgxZbtD",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -19364,6 +19363,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/voeten-in-de-aarde/id1785659013",
     "apple_data": {
       "wrapperType": "track",
@@ -19411,9 +19411,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5t7QVRJDOA6nySnsHrc7sU",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5t7QVRJDOA6nySnsHrc7sU",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -19833,6 +19832,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-uitvoering/id1749992120",
     "apple_data": {
       "wrapperType": "track",
@@ -19878,9 +19878,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0QvwNZnwgst3cIdThZRWJ3",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0QvwNZnwgst3cIdThZRWJ3",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -20155,12 +20154,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7saOGcdG3afe527DOeQCdX",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7saOGcdG3afe527DOeQCdX",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -22020,6 +22019,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/openbaar-ministerie/id1466945742",
     "apple_data": {
       "wrapperType": "track",
@@ -22061,9 +22061,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3UBDspM5BYntvzEkIkeWaH",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3UBDspM5BYntvzEkIkeWaH",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -22723,6 +22722,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/het-oordeel-van-de-officier/id1677116011",
     "apple_data": {
       "wrapperType": "track",
@@ -22766,9 +22766,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5bNq5yI44RE9xPBFRXJt0A",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5bNq5yI44RE9xPBFRXJt0A",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -23923,6 +23922,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/zorgklank-handvatten-voor-professionals-in-de-zorg/id1780286589",
     "apple_data": {
       "wrapperType": "track",
@@ -23968,9 +23968,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1CN9VlUkE4UfRqCXD8I6Yi",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1CN9VlUkE4UfRqCXD8I6Yi",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -24205,12 +24204,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3t6YSHrElKwj8uu3wPskVK",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3t6YSHrElKwj8uu3wPskVK",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -24485,6 +24484,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/podcast-van-het-ministerie-van-onderwijs-cultuur-en/id1562462522",
     "apple_data": {
       "wrapperType": "track",
@@ -24526,9 +24526,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2p1bPUkscD0R9t45UVQGLB",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2p1bPUkscD0R9t45UVQGLB",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -25307,6 +25306,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-wettenfabriek/id1608202332",
     "apple_data": {
       "wrapperType": "track",
@@ -25350,9 +25350,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3lUKSKdqzcj1sM0Bf0154f",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3lUKSKdqzcj1sM0Bf0154f",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -29453,6 +29452,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/samen-sterker-podcast-defensie/id1500332807",
     "apple_data": {
       "wrapperType": "track",
@@ -29494,9 +29494,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1XuEKwGRRPDG1mtEyd9Kgn",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1XuEKwGRRPDG1mtEyd9Kgn",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -30196,6 +30195,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-politiepodcast-cold-case/id1533052714",
     "apple_data": {
       "wrapperType": "track",
@@ -30237,9 +30237,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3iMmTWz7nPY2koev8VqEIf",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3iMmTWz7nPY2koev8VqEIf",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -30939,6 +30938,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/participatiepraat/id1653552312",
     "apple_data": {
       "wrapperType": "track",
@@ -30982,9 +30982,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1C6dgHMYgsb82yZmve40LV",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1C6dgHMYgsb82yZmve40LV",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -31324,6 +31323,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/achter-de-schermen-bij-nederland/id1751243904",
     "apple_data": {
       "wrapperType": "track",
@@ -31365,9 +31365,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6Q0okZw1p0rTtnZ4DCUXRP",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6Q0okZw1p0rTtnZ4DCUXRP",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -31827,6 +31826,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/dossier-noord/id1649488925",
     "apple_data": {
       "wrapperType": "track",
@@ -31868,9 +31868,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0a9SGeMgjM1C0OR6OppsKo",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0a9SGeMgjM1C0OR6OppsKo",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -32330,6 +32329,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-politie-podcast-mh17/id1756315422",
     "apple_data": {
       "wrapperType": "track",
@@ -32375,9 +32375,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7zQzMotzH5kPEn5KdtPawy",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7zQzMotzH5kPEn5KdtPawy",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -32797,12 +32796,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1LCgEcIitl64Vr5rLK9eVY",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1LCgEcIitl64Vr5rLK9eVY",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -33542,6 +33541,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/circulaire-kantelaars/id1551156419",
     "apple_data": {
       "wrapperType": "track",
@@ -33587,9 +33587,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1OKF2bh9JroXIx4aDOI0lI",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1OKF2bh9JroXIx4aDOI0lI",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -34024,12 +34023,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6dycOPCPVnU2niJM9OPxJn",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6dycOPCPVnU2niJM9OPxJn",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -34344,6 +34343,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/casu%C3%AFstiek-arbocuratieve-samenwerking-verbeter-de/id1777985800",
     "apple_data": {
       "wrapperType": "track",
@@ -34387,9 +34387,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2j29fkMdNyV4Dn6jBkTcR4",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2j29fkMdNyV4Dn6jBkTcR4",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -34784,12 +34783,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2bVOHMKFFK69Ebom0Mn0uH",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2bVOHMKFFK69Ebom0Mn0uH",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -35209,12 +35208,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3mjWMX6CAIozyZezsUb1kh",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3mjWMX6CAIozyZezsUb1kh",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -35594,12 +35593,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2rnnsbGN5BjCepKB1iVEgf",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2rnnsbGN5BjCepKB1iVEgf",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -35834,6 +35833,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/vws-podcast/id1747701476",
     "apple_data": {
       "wrapperType": "track",
@@ -35875,9 +35875,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2FM2YpNlzfLl5n2unXUgkJ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2FM2YpNlzfLl5n2unXUgkJ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -36392,6 +36391,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/e%C3%A9n-tegen-eenzaamheid/id1572538782",
     "apple_data": {
       "wrapperType": "track",
@@ -36433,9 +36433,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1fpWv8qfGS3kCc6mRLN0qJ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1fpWv8qfGS3kCc6mRLN0qJ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -36750,12 +36749,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2eIaEQk9sGuFoRqaDDh3OA",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2eIaEQk9sGuFoRqaDDh3OA",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -37150,6 +37149,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/ezk-podcast/id1496821838",
     "apple_data": {
       "wrapperType": "track",
@@ -37191,9 +37191,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2zT1PpbiExWNhUBirkY7KE",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2zT1PpbiExWNhUBirkY7KE",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -37693,6 +37692,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/beter-aanbesteden/id1679031876",
     "apple_data": {
       "wrapperType": "track",
@@ -37736,9 +37736,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5QlLFfFOVcU2yCsz6xUL95",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5QlLFfFOVcU2yCsz6xUL95",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -38453,6 +38452,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/waardevolle-ai-voor-gezondheid-podcast/id1547997539",
     "apple_data": {
       "wrapperType": "track",
@@ -38494,9 +38494,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0Zvry50F7Ysy6OGUSlICc1",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0Zvry50F7Ysy6OGUSlICc1",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -38916,6 +38915,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/op-het-bankje/id1568451356",
     "apple_data": {
       "wrapperType": "track",
@@ -38959,9 +38959,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2Rcsa1VaHZpLEKwkAZkJL3",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2Rcsa1VaHZpLEKwkAZkJL3",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -39236,6 +39235,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/adviezen-van-de-gezondheidsraad/id1719816794",
     "apple_data": {
       "wrapperType": "track",
@@ -39279,9 +39279,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/776O6HoLX2NIaFJuAVJpPv",
-    "data": {
+    "spotify": "https://open.spotify.com/show/776O6HoLX2NIaFJuAVJpPv",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -40581,6 +40580,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/blauw-geboren/id1603643312",
     "apple_data": {
       "wrapperType": "track",
@@ -40622,9 +40622,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/21chJkpabLpUqQDvQP9Mgo",
-    "data": {
+    "spotify": "https://open.spotify.com/show/21chJkpabLpUqQDvQP9Mgo",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -40979,6 +40978,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/onbeperkt-meedoen/id1588680023",
     "apple_data": {
       "wrapperType": "track",
@@ -41020,9 +41020,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2ZzqasYvFgVcZ9ifdHzIGT",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2ZzqasYvFgVcZ9ifdHzIGT",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -41417,12 +41416,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4OssjshVihEavmYRdlN3dC",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4OssjshVihEavmYRdlN3dC",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -41682,6 +41681,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-commandant/id1792616192",
     "apple_data": {
       "wrapperType": "track",
@@ -41723,9 +41723,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7IWwvF42tiReEFodCwJnRB",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7IWwvF42tiReEFodCwJnRB",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -42360,6 +42359,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/slobcast/id1436961207",
     "apple_data": {
       "wrapperType": "track",
@@ -42401,9 +42401,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0jdkCAQOBB7nfxNUgXQldp",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0jdkCAQOBB7nfxNUgXQldp",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -42943,6 +42942,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/ik-word-agent/id1711028241",
     "apple_data": {
       "wrapperType": "track",
@@ -42988,9 +42988,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3tt4KclZacLzIfZ2yJQeRH",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3tt4KclZacLzIfZ2yJQeRH",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -43385,12 +43384,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/456mplHFkos2wsFBwI4ez7",
-    "data": {
+    "spotify": "https://open.spotify.com/show/456mplHFkos2wsFBwI4ez7",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -47250,6 +47249,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/podium-voor-goed-politiewerk/id1513384898",
     "apple_data": {
       "wrapperType": "track",
@@ -47293,9 +47293,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6lyEKyzZGvkKPcDQhRTXwp",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6lyEKyzZGvkKPcDQhRTXwp",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -47755,6 +47754,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-agent-de-wet-en-de-opsporing/id1789349872",
     "apple_data": {
       "wrapperType": "track",
@@ -47800,9 +47800,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0cHfmZ5nUFkFhD0qXwO9H9",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0cHfmZ5nUFkFhD0qXwO9H9",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -48157,6 +48156,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/fiodcast-jaarverslag-2023/id1751884602",
     "apple_data": {
       "wrapperType": "track",
@@ -48200,9 +48200,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/294RcdFuoh0j2J3iqmCus9",
-    "data": {
+    "spotify": "https://open.spotify.com/show/294RcdFuoh0j2J3iqmCus9",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -48662,6 +48661,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/fiscaal-wijzer/id1779274214",
     "apple_data": {
       "wrapperType": "track",
@@ -48705,9 +48705,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2CqtM3msFRlsqXPhguEWpn",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2CqtM3msFRlsqXPhguEWpn",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -49047,6 +49046,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/fiodcast-jaarverslag-2024/id1815706280",
     "apple_data": {
       "wrapperType": "track",
@@ -49088,9 +49088,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2tyRLQDPFmwlzBgoJAu70Z",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2tyRLQDPFmwlzBgoJAu70Z",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -49485,12 +49484,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1L8vK1i7dAiSDcFdkcxK2v",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1L8vK1i7dAiSDcFdkcxK2v",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -49750,12 +49749,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6qFY8h9MGQjyyk51VHEu8F",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6qFY8h9MGQjyyk51VHEu8F",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -49990,6 +49989,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/alleen-samen-de-corona-podcast-van-rijksoverheid/id1531178386",
     "apple_data": {
       "wrapperType": "track",
@@ -50031,9 +50031,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2kVMS4FEQNtlWT9CkMXhjP",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2kVMS4FEQNtlWT9CkMXhjP",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -50613,12 +50612,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/31mxNi6Z2Eugmv3DKNispJ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/31mxNi6Z2Eugmv3DKNispJ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -51118,6 +51117,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/nederland-na-de-crisis/id1584675261",
     "apple_data": {
       "wrapperType": "track",
@@ -51159,9 +51159,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1Tn18wGbJHz3LClUvnFApP",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1Tn18wGbJHz3LClUvnFApP",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -52516,6 +52515,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/podcast-ondermijning/id1658801107",
     "apple_data": {
       "wrapperType": "track",
@@ -52557,9 +52557,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4vASbGJSPLHqSKWwfLnK1m",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4vASbGJSPLHqSKWwfLnK1m",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -53099,6 +53098,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/college-van-kelder-teulings/id1769419055",
     "apple_data": {
       "wrapperType": "track",
@@ -53146,9 +53146,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2oth9ZcdiFc8aotxNVmbLw",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2oth9ZcdiFc8aotxNVmbLw",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -53983,12 +53982,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2qVsJsSOdUo7n5mxtcZuiu",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2qVsJsSOdUo7n5mxtcZuiu",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -54583,6 +54582,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/rvo-podcast/id1492684528",
     "apple_data": {
       "wrapperType": "track",
@@ -54624,9 +54624,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/02dOyJsaQWHGNcrjq6UW6z",
-    "data": {
+    "spotify": "https://open.spotify.com/show/02dOyJsaQWHGNcrjq6UW6z",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -55366,12 +55365,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/260DL4Ua6wUImv0e2KH3Fi",
-    "data": {
+    "spotify": "https://open.spotify.com/show/260DL4Ua6wUImv0e2KH3Fi",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -56646,12 +56645,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0HPrxQp67xwBtL1ML8yVyG",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0HPrxQp67xwBtL1ML8yVyG",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -57111,6 +57110,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-rivm-podcast-leefomgeving-gezondheid/id1600482702",
     "apple_data": {
       "wrapperType": "track",
@@ -57154,9 +57154,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0tGmhFNgJy3Li2LsnJ0Qpt",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0tGmhFNgJy3Li2LsnJ0Qpt",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -57511,6 +57510,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-i-podcast-de-podcast-over-data-en-ict/id1568271112",
     "apple_data": {
       "wrapperType": "track",
@@ -57554,9 +57554,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1CRNFpCQTAQSdZNiYcDPfT",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1CRNFpCQTAQSdZNiYcDPfT",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -57976,6 +57975,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/rce-podcast/id1569547299",
     "apple_data": {
       "wrapperType": "track",
@@ -58017,9 +58017,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2fZzw0BKgXHIjBzQ7jBIQy",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2fZzw0BKgXHIjBzQ7jBIQy",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -59614,6 +59613,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/enter/id1648115350",
     "apple_data": {
       "wrapperType": "track",
@@ -59655,9 +59655,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0Axq8hFmwpUPgWDzyEITpp",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0Axq8hFmwpUPgWDzyEITpp",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -60572,6 +60571,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/leren-verbeteren-podcasts/id1562352812",
     "apple_data": {
       "wrapperType": "track",
@@ -60613,9 +60613,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7Ej0CvRZVaTe2gWKi1DvND",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7Ej0CvRZVaTe2gWKi1DvND",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -61010,12 +61009,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4vVwkNq6ApeqVYYMd9yLp3",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4vVwkNq6ApeqVYYMd9yLp3",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -61330,6 +61329,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/never-waste-a-good-crisis/id1583755339",
     "apple_data": {
       "wrapperType": "track",
@@ -61371,9 +61371,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/34ZeW5Sc4fpWD5NsaayQ0o",
-    "data": {
+    "spotify": "https://open.spotify.com/show/34ZeW5Sc4fpWD5NsaayQ0o",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -61793,6 +61792,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/woningmarkt-in-krimpregios/id1563294223",
     "apple_data": {
       "wrapperType": "track",
@@ -61834,9 +61834,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0WOxZHq0edmw5rzu7sxsOz",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0WOxZHq0edmw5rzu7sxsOz",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -62111,12 +62110,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2NKW80dP2v0mDbdYbnDBKl",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2NKW80dP2v0mDbdYbnDBKl",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -62576,6 +62575,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/wereldvrouwen/id1556121102",
     "apple_data": {
       "wrapperType": "track",
@@ -62621,9 +62621,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2L7kxlgPM960W942WjE1Ge",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2L7kxlgPM960W942WjE1Ge",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -66978,6 +66977,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/klapmok-met-thee/id1566819266",
     "apple_data": {
       "wrapperType": "track",
@@ -67023,9 +67023,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5u4SygXK6xCQ5kPxu8lVNS",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5u4SygXK6xCQ5kPxu8lVNS",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -67765,12 +67764,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4aHDlPHwUM2YiyeBflWMGP",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4aHDlPHwUM2YiyeBflWMGP",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -68270,12 +68269,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7aZQ6NHSnxuIsT3rhUxQIR",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7aZQ6NHSnxuIsT3rhUxQIR",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -68950,6 +68949,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/boots-on-the-ground/id1622962064",
     "apple_data": {
       "wrapperType": "track",
@@ -68991,9 +68991,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1BOTkamnUuR6AseJBjti35",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1BOTkamnUuR6AseJBjti35",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -69308,12 +69307,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7lXAcxBYP4RL5TcigpsNas",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7lXAcxBYP4RL5TcigpsNas",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -69708,12 +69707,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7EGvskhHjcWrdrQ1yLb6vG",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7EGvskhHjcWrdrQ1yLb6vG",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -70133,6 +70132,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508",
     "apple_data": {
       "wrapperType": "track",
@@ -70178,9 +70178,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6oJsjZsAiunyNsDK1g9QzK",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6oJsjZsAiunyNsDK1g9QzK",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -72095,6 +72094,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-veranderende-rol-van-een-informatieprofessional/id1695522129",
     "apple_data": {
       "wrapperType": "track",
@@ -72138,9 +72138,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4cfMM0m2K3eTEpYSSsih1J",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4cfMM0m2K3eTEpYSSsih1J",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -72615,6 +72614,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/zwarte-muisjes/id1560977631",
     "apple_data": {
       "wrapperType": "track",
@@ -72658,9 +72658,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5JvDf8RXGPwT5y5lNMhXqZ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5JvDf8RXGPwT5y5lNMhXqZ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -73055,6 +73054,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/sociaal-en-cultureel-planbureau/id1791084861",
     "apple_data": {
       "wrapperType": "track",
@@ -73096,9 +73096,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/74g4TVUNiuLgQTXbd84Ma3",
-    "data": {
+    "spotify": "https://open.spotify.com/show/74g4TVUNiuLgQTXbd84Ma3",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -73573,6 +73572,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/algemene-rekenkamer/id1630353318",
     "apple_data": {
       "wrapperType": "track",
@@ -73618,9 +73618,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1Pr6Rx1OhOYaqEvogCyRbf",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1Pr6Rx1OhOYaqEvogCyRbf",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -74240,6 +74239,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/knmi/id1710387840",
     "apple_data": {
       "wrapperType": "track",
@@ -74283,9 +74283,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2p8JguiO3cy4RyIPHA3Usu",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2p8JguiO3cy4RyIPHA3Usu",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -74745,6 +74744,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-stille-getuige-hoe-het-nederlands-forensisch/id1511479162",
     "apple_data": {
       "wrapperType": "track",
@@ -74786,9 +74786,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/73t12LlK01Hou65Sp2QbPL",
-    "data": {
+    "spotify": "https://open.spotify.com/show/73t12LlK01Hou65Sp2QbPL",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -75143,6 +75142,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-inspecteur/id1650562644",
     "apple_data": {
       "wrapperType": "track",
@@ -75184,9 +75184,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1SfNiCnouLqG3tEfaZceU8",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1SfNiCnouLqG3tEfaZceU8",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -75646,6 +75645,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/roet-in-het-eten/id1641087539",
     "apple_data": {
       "wrapperType": "track",
@@ -75689,9 +75689,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6Rcs0Zc1JJV0jyD1ujK8Ji",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6Rcs0Zc1JJV0jyD1ujK8Ji",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -76071,6 +76070,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-noordzee-in-beweging/id1803390807",
     "apple_data": {
       "wrapperType": "track",
@@ -76116,9 +76116,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5FYpo1WOJRT2SFSGyRBZBq",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5FYpo1WOJRT2SFSGyRBZBq",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -76538,6 +76537,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/rijksvastgoedbedrijf/id1588572180",
     "apple_data": {
       "wrapperType": "track",
@@ -76581,9 +76581,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5XPM6qslFrD6RT7Au8wDCI",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5XPM6qslFrD6RT7Au8wDCI",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -76963,6 +76962,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/onderaards/id1561448061",
     "apple_data": {
       "wrapperType": "track",
@@ -77008,9 +77008,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6MlWogRI0vOrwIHlwuYI5R",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6MlWogRI0vOrwIHlwuYI5R",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -77990,12 +77989,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3vd6rNj8yV10xIrfzbxCFC",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3vd6rNj8yV10xIrfzbxCFC",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -78590,12 +78589,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0TuoKqjmFIO3yGUOWQw61U",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0TuoKqjmFIO3yGUOWQw61U",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -80070,6 +80069,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/wegwijzer/id1489971787",
     "apple_data": {
       "wrapperType": "track",
@@ -80111,9 +80111,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3rzWW8ARslebr8ANGCJxBD",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3rzWW8ARslebr8ANGCJxBD",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -81973,6 +81972,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/rijkswaterstaat/id1388334689",
     "apple_data": {
       "wrapperType": "track",
@@ -82014,9 +82014,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6PSKSM0WyEFpXtOZX3UOVb",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6PSKSM0WyEFpXtOZX3UOVb",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -83211,6 +83210,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/zonmw/id1474597202",
     "apple_data": {
       "wrapperType": "track",
@@ -83252,9 +83252,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6DFyb3qMi9bmpacg0JA7KU",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6DFyb3qMi9bmpacg0JA7KU",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -83689,12 +83688,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6u9thD91g0yi3wVgzT9Wse",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6u9thD91g0yi3wVgzT9Wse",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -84474,6 +84473,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/uitspraak-centraal/id1560184843",
     "apple_data": {
       "wrapperType": "track",
@@ -84517,9 +84517,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/16WP5s450ZcpKp1KUy155A",
-    "data": {
+    "spotify": "https://open.spotify.com/show/16WP5s450ZcpKp1KUy155A",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -85114,6 +85113,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/a-o-fonds-rijk/id1731816300",
     "apple_data": {
       "wrapperType": "track",
@@ -85155,9 +85155,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5wt10Z6ykTsNV4kkclwl3e",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5wt10Z6ykTsNV4kkclwl3e",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -85537,12 +85536,12 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": ""
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6qJ2HZnvF9fzqWtsX1WlUt",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6qJ2HZnvF9fzqWtsX1WlUt",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -86162,6 +86161,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-existenti%C3%ABle-crisis/id1714235469",
     "apple_data": {
       "wrapperType": "track",
@@ -86205,9 +86205,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7KpZSJ4rugXG6vX9rfEDiQ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7KpZSJ4rugXG6vX9rfEDiQ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -87717,6 +87716,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/wrr-vogelvlucht/id1518310158",
     "apple_data": {
       "wrapperType": "track",
@@ -87758,9 +87758,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/29cGbCrlFMxTVyZTFWzG3O",
-    "data": {
+    "spotify": "https://open.spotify.com/show/29cGbCrlFMxTVyZTFWzG3O",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -87995,13 +87994,13 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "",
     "apple_data": null
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/38sIKEOzgIf6SArVKrvDR4",
-    "data": {
+    "spotify": "https://open.spotify.com/show/38sIKEOzgIf6SArVKrvDR4",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -88541,13 +88540,13 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "",
     "apple_data": null
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5GChHPdKAdrMoh0outbofX",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5GChHPdKAdrMoh0outbofX",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -90262,6 +90261,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-innovatie-ambtenaar/id1502281387",
     "apple_data": {
       "wrapperType": "track",
@@ -90303,9 +90303,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1pSI0YiRq6eTQDtg894nIG",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1pSI0YiRq6eTQDtg894nIG",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -90644,6 +90643,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/vertrekpunt-nederland/id1753025729",
     "apple_data": {
       "wrapperType": "track",
@@ -90687,9 +90687,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/73wFqrRgrzEWF50z1nzaaX",
-    "data": {
+    "spotify": "https://open.spotify.com/show/73wFqrRgrzEWF50z1nzaaX",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -95284,6 +95283,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/mijn-missie/id1470219282",
     "apple_data": {
       "wrapperType": "track",
@@ -95325,9 +95325,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7w7LDMqF9byNQJVWsNVYaw",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7w7LDMqF9byNQJVWsNVYaw",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -95827,6 +95826,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/dossier-delict-de-podcast-van-het-nifp/id1737192692",
     "apple_data": {
       "wrapperType": "track",
@@ -95870,9 +95870,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4a1UTlE81T3fih57XlcIst",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4a1UTlE81T3fih57XlcIst",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -96747,6 +96746,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-landmacht/id1494272708",
     "apple_data": {
       "wrapperType": "track",
@@ -96792,9 +96792,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4iM9GbeCsqtQZznx2YWpIz",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4iM9GbeCsqtQZznx2YWpIz",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -97229,6 +97228,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/dwang-en-dilemmas/id1791769862",
     "apple_data": {
       "wrapperType": "track",
@@ -97270,9 +97270,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3RvxKH36OTJu185O9SuYig",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3RvxKH36OTJu185O9SuYig",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -97652,6 +97651,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-marine-wereldwijd/id1693547465",
     "apple_data": {
       "wrapperType": "track",
@@ -97693,9 +97693,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6xOiLrgqqtcNuO1VwctjQ0",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6xOiLrgqqtcNuO1VwctjQ0",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -98155,6 +98154,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/zij-hielden-koers/id1620359892",
     "apple_data": {
       "wrapperType": "track",
@@ -98198,9 +98198,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6Bml9OOY6b4k10R9cr0wIt",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6Bml9OOY6b4k10R9cr0wIt",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -98635,6 +98634,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/op-houten-banden-een-podcast-voor-kinderen/id1487929347",
     "apple_data": {
       "wrapperType": "track",
@@ -98676,9 +98676,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5ybJFv2SC32YCyw7NUseHR",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5ybJFv2SC32YCyw7NUseHR",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -99538,6 +99537,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/oorlog-op-de-flank/id1583806057",
     "apple_data": {
       "wrapperType": "track",
@@ -99579,9 +99579,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3THxgAZ3cb1YaX1YwSWB3I",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3THxgAZ3cb1YaX1YwSWB3I",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -100161,6 +100160,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/militaire-geschiedenis-van-nederland/id1726796069",
     "apple_data": {
       "wrapperType": "track",
@@ -100204,9 +100204,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0rlJc3EGZnjM2YT6rGDmKb",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0rlJc3EGZnjM2YT6rGDmKb",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -100641,6 +100640,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/podcasts-over-het-meldpunt-integriteit-jenv/id1730882171",
     "apple_data": {
       "wrapperType": "track",
@@ -100682,9 +100682,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4tXI9sG0vDTYGuUw26eqy7",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4tXI9sG0vDTYGuUw26eqy7",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -101064,13 +101063,13 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "",
     "apple_data": null
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4FJY7wNeS9u2ElkOpCMaSW",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4FJY7wNeS9u2ElkOpCMaSW",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -101465,6 +101464,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/120-jaar-gezondheidsraad/id1678909037",
     "apple_data": {
       "wrapperType": "track",
@@ -101508,9 +101508,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4bqTDMttyv0aJNyvOe9gEr",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4bqTDMttyv0aJNyvOe9gEr",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -101810,6 +101809,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/onze-leefomgeving/id1668742859",
     "apple_data": {
       "wrapperType": "track",
@@ -101855,9 +101855,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5FLGu4tPbAWnh6tf45JJ73",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5FLGu4tPbAWnh6tf45JJ73",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -102412,6 +102411,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/dierenraad-podcast/id1673295389",
     "apple_data": {
       "wrapperType": "track",
@@ -102453,9 +102453,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/1R9uFBhlpmi5rsj1wcPigy",
-    "data": {
+    "spotify": "https://open.spotify.com/show/1R9uFBhlpmi5rsj1wcPigy",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -102890,6 +102889,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/raad-voor-het-openbaar-bestuur/id1655333227",
     "apple_data": {
       "wrapperType": "track",
@@ -102931,9 +102931,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4tfz5HFn5zqCoIVzLy6eR7",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4tfz5HFn5zqCoIVzLy6eR7",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -103593,6 +103592,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/echte-politieverhalen/id1751266358",
     "apple_data": {
       "wrapperType": "track",
@@ -103638,9 +103638,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3ODZ8fIfGxiV5DiXaJmxTi",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3ODZ8fIfGxiV5DiXaJmxTi",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -109316,6 +109315,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/boeiend-de-podcast/id1522926580",
     "apple_data": {
       "wrapperType": "track",
@@ -109357,9 +109357,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2eauWivHAn7mFjtFcRnatp",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2eauWivHAn7mFjtFcRnatp",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -111459,6 +111458,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-politiepodcast/id1436464301",
     "apple_data": {
       "wrapperType": "track",
@@ -111500,9 +111500,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4VrhyibMNFm2W5yEYb8yUY",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4VrhyibMNFm2W5yEYb8yUY",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -111802,13 +111801,13 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "",
     "apple_data": null
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4tivI8vK9jyehyqBxYYCtC",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4tivI8vK9jyehyqBxYYCtC",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -112468,6 +112467,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/inspectie-van-het-onderwijs-podcast/id1589022211",
     "apple_data": {
       "wrapperType": "track",
@@ -112513,9 +112513,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0gIUjS12RKpV8ObV7GgZz5",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0gIUjS12RKpV8ObV7GgZz5",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -113055,6 +113054,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/us/podcast/nederland-verbouwt-in-7-vragen/id1614210127",
     "apple_data": {
       "wrapperType": "track",
@@ -113100,9 +113100,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/63O9q4qWQxhSSNVajfr15V",
-    "data": {
+    "spotify": "https://open.spotify.com/show/63O9q4qWQxhSSNVajfr15V",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -113377,13 +113376,13 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "",
     "apple_data": null
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/085Sac6riHXCcKDxM9nB02",
-    "data": {
+    "spotify": "https://open.spotify.com/show/085Sac6riHXCcKDxM9nB02",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -113845,6 +113844,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/vluchtnummers/id1600507233",
     "apple_data": {
       "wrapperType": "track",
@@ -113890,9 +113890,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/5yrDqJGRW9d7QT2alipXFe",
-    "data": {
+    "spotify": "https://open.spotify.com/show/5yrDqJGRW9d7QT2alipXFe",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -114552,6 +114551,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/door-de-ogen-van-de-koning/id1680463170",
     "apple_data": {
       "wrapperType": "track",
@@ -114595,9 +114595,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6zOAS1TiwTDyH58wauIibB",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6zOAS1TiwTDyH58wauIibB",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -115217,6 +115216,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/een-economie-voor-de-22e-eeuw/id1715875557",
     "apple_data": {
       "wrapperType": "track",
@@ -115262,9 +115262,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7FrESPQScQr7vKqAv51SLj",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7FrESPQScQr7vKqAv51SLj",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -116339,6 +116338,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/alles-op-tafel/id1682977468",
     "apple_data": {
       "wrapperType": "track",
@@ -116380,9 +116380,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2UY9LIrltGlysx6YGUN8Ig",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2UY9LIrltGlysx6YGUN8Ig",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -116922,6 +116921,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/delta-en-duiten/id1810408656",
     "apple_data": {
       "wrapperType": "track",
@@ -116965,9 +116965,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0wNXfS5cJhODC0rHdaeJbJ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0wNXfS5cJhODC0rHdaeJbJ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -117707,6 +117706,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/over-water-klimaat/id1484633328",
     "apple_data": {
       "wrapperType": "track",
@@ -117750,9 +117750,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/6qIE07TGogFaYiCmefop4c",
-    "data": {
+    "spotify": "https://open.spotify.com/show/6qIE07TGogFaYiCmefop4c",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -118187,6 +118186,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-ondernemerschapsonderwijs-podcast/id1673856070",
     "apple_data": {
       "wrapperType": "track",
@@ -118228,9 +118228,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2uWHymECWwRfzC4Q6gKEwZ",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2uWHymECWwRfzC4Q6gKEwZ",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -118730,6 +118729,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/takedown/id1714949171",
     "apple_data": {
       "wrapperType": "track",
@@ -118773,9 +118773,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/38shqpGkvta5HgzNTJYrWv",
-    "data": {
+    "spotify": "https://open.spotify.com/show/38shqpGkvta5HgzNTJYrWv",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -119595,6 +119594,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/de-staat-van-het-strafrecht/id1562836551",
     "apple_data": {
       "wrapperType": "track",
@@ -119638,9 +119638,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/2fUgdA1OH04g1BPsGKe0Ne",
-    "data": {
+    "spotify": "https://open.spotify.com/show/2fUgdA1OH04g1BPsGKe0Ne",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -122740,6 +122739,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/ssr-meestervertellers/id1481318192",
     "apple_data": {
       "wrapperType": "track",
@@ -122783,9 +122783,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3o2g2TbiVE9lNdUZDS2N6Q",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3o2g2TbiVE9lNdUZDS2N6Q",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -126781,6 +126780,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/amlc-podcast/id1565172628",
     "apple_data": {
       "wrapperType": "track",
@@ -126822,9 +126822,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4f78X0c37BrCYDy34flt5t",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4f78X0c37BrCYDy34flt5t",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -127204,6 +127203,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/nederlandse-arbeidsinspectie/id1522303870",
     "apple_data": {
       "wrapperType": "track",
@@ -127245,9 +127245,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/3EzslKjEwgq5GrRmn3458Z",
-    "data": {
+    "spotify": "https://open.spotify.com/show/3EzslKjEwgq5GrRmn3458Z",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -127747,6 +127746,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/morele-wezens/id1812646287",
     "apple_data": {
       "wrapperType": "track",
@@ -127794,9 +127794,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/0Y2RT0megRbK4u2J6p1f6h",
-    "data": {
+    "spotify": "https://open.spotify.com/show/0Y2RT0megRbK4u2J6p1f6h",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -128816,6 +128815,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/verborgen-in-het-volle-zicht/id1530385325",
     "apple_data": {
       "wrapperType": "track",
@@ -128861,9 +128861,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/4iHoWkbTugabHmu3XJGTSU",
-    "data": {
+    "spotify": "https://open.spotify.com/show/4iHoWkbTugabHmu3XJGTSU",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -129883,6 +129882,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/wie-wat-bewaart/id1621472951",
     "apple_data": {
       "wrapperType": "track",
@@ -129928,9 +129928,8 @@
     }
   },
   {
-    "provider": "spotify",
-    "url": "https://open.spotify.com/show/7jtE5bnuZHD46nMJUAmdyG",
-    "data": {
+    "spotify": "https://open.spotify.com/show/7jtE5bnuZHD46nMJUAmdyG",
+    "spotify_data": {
       "available_markets": [
         "AD",
         "AE",
@@ -130526,6 +130525,7 @@
         ]
       }
     },
+    "provider": "spotify",
     "apple": "https://podcasts.apple.com/nl/podcast/dossier-wodc/id1724937331",
     "apple_data": {
       "wrapperType": "track",

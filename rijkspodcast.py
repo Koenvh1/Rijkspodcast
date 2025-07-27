@@ -16,6 +16,7 @@ def get_podcast_info(spotify_url):
 
     show_id = match.group(1)
 
+    # Use environment variables if possible
     if os.environ.get("SPOTIFY_CLIENT_ID"):
         credentials = {
             "client_id": os.environ["SPOTIFY_CLIENT_ID"],
@@ -23,6 +24,7 @@ def get_podcast_info(spotify_url):
         }
     else:
         credentials = json.load(open("spotify-credentials.json"))
+
     auth_manager = spotipy.oauth2.SpotifyClientCredentials(
         client_id=credentials["client_id"],
         client_secret=credentials["client_secret"]
@@ -31,6 +33,7 @@ def get_podcast_info(spotify_url):
 
     show = sp.show(show_id)
     if show["episodes"]["next"]:
+        # Spotify has a 50 episode limit per page
         i = 1
         while True:
             response = sp.show_episodes(show_id, limit=50, offset=50 * i)
@@ -48,34 +51,34 @@ def get_apple_podcasts_id(s):
 def add_podcasts():
     while True:
         name = input("Enter the URL of the podcast: ")
-        url = name
-        results = get_podcast_info(name)
+        spotify = name
+        spotify_data = get_podcast_info(name)
         provider = "spotify"
 
-        if url.strip() == "":
+        if spotify.strip() == "":
             continue
 
         podcasts = json.load(open("podcasts.json"))
         exists = False
         for podcast in podcasts:
-            if url == podcast["url"]:
+            if spotify == podcast["spotify"]:
                 exists = True
                 print("Podcast al eerder toegevoegd!")
 
         if not exists:
-            apple = input(f"Apple URL https://podcasts.apple.com/nl/search?term={urllib.parse.quote_plus(results["name"])} : ")
+            apple = input(f"Apple URL https://podcasts.apple.com/nl/search?term={urllib.parse.quote_plus(spotify_data["name"])} : ")
             if apple:
                 apple_data = requests.get("https://itunes.apple.com/lookup?id=" + get_apple_podcasts_id(apple)).json()["results"][0]
             else:
                 apple_data = None
-            podcasts.append({"provider": provider, "url": url, "data": results, "apple": apple, "apple_data": apple_data})
+            podcasts.append({"provider": provider, "spotify": spotify, "spotify_data": spotify_data, "apple": apple, "apple_data": apple_data})
             json.dump(podcasts, open("podcasts.json", "w"), indent=2)
 
 def update_podcasts():
     podcasts = json.load(open("podcasts.json"))
     for podcast in podcasts:
-        podcast["data"] = get_podcast_info(podcast["url"])
-        print(podcast["data"]["name"])
+        podcast["spotify_data"] = get_podcast_info(podcast["spotify"])
+        print(podcast["spotify_data"]["name"])
         time.sleep(0.1)
     json.dump(podcasts, open("podcasts.json", "w"), indent=2)
 
