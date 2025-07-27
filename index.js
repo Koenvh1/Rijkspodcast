@@ -119,6 +119,10 @@ async function search(text) {
                 weight: 10
             },
             {
+                name: "spotify_data.publisher",
+                weight: 10
+            },
+            {
                 name: "spotify_data.description",
                 weight: 3
             },
@@ -134,7 +138,8 @@ async function search(text) {
     });
     let results = fuse.search(text, {
         "ignoreDiacritics": true,
-        "threshold": 1
+        "threshold": 0,
+        "ignoreLocation": true
     });
     results = results.map(x => x.item);
     await render(results, "search");
