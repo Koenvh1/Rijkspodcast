@@ -27,7 +27,6 @@ async function render(podcasts, sorting) {
         let description = convert_description(p.spotify_data.description);
         let id = p.spotify_data.id;
         let episodes = p.spotify_data.episodes.items;
-        episodes.reverse();
 
         let newest_episode = "";
         let episodes_content = "";
