@@ -130644,5 +130644,1483 @@
         "Podcasts"
       ]
     }
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/1HmnGlg4JurWy6tXNfzk3N",
+    "spotify_data": {
+      "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AM",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BJ",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KI",
+        "KN",
+        "KR",
+        "KW",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "TH",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "UA",
+        "US",
+        "UY",
+        "VC",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "ZA"
+      ],
+      "copyrights": [],
+      "description": "De KB is de nationale bibliotheek van Nederland: vanuit de kracht van het geschreven woord dragen we bij aan een slimmer, vaardiger en creatiever Nederland. Dit doen we samen met partners op het terrein van erfgoed, wetenschap en met de openbare bibliotheken. Als nationale bibliotheek maakt de KB de bibliotheekcollectie Nederland zichtbaar, bruikbaar en houdbaar.",
+      "html_description": "De KB is de nationale bibliotheek van Nederland: vanuit de kracht van het geschreven woord dragen we bij aan een slimmer, vaardiger en creatiever Nederland. Dit doen we samen met partners op het terrein van erfgoed, wetenschap en met de openbare bibliotheken. Als nationale bibliotheek maakt de KB de bibliotheekcollectie Nederland zichtbaar, bruikbaar en houdbaar.",
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/show/1HmnGlg4JurWy6tXNfzk3N"
+      },
+      "href": "https://api.spotify.com/v1/shows/1HmnGlg4JurWy6tXNfzk3N",
+      "id": "1HmnGlg4JurWy6tXNfzk3N",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae409cf794930d1322acc0697",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fe409cf794930d1322acc0697",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68de409cf794930d1322acc0697",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "nl"
+      ],
+      "media_type": "audio",
+      "name": "KB nationale bibliotheek",
+      "publisher": "KB nationale bibliotheek",
+      "type": "show",
+      "uri": "spotify:show:1HmnGlg4JurWy6tXNfzk3N",
+      "total_episodes": 31,
+      "episodes": {
+        "href": "https://api.spotify.com/v1/shows/1HmnGlg4JurWy6tXNfzk3N/episodes?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 31,
+        "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3kzs3rfYb45DFvQunvhH8v/clip_426466_486466.mp3",
+            "description": "De invoering van de militaire dienstplicht riep weerstand op in socialistische en christelijke kringen. Johannes van der Veer is de geschiedenisboeken ingegaan als de eerste Nederlandse dienstweigeraar, maar klopt dit wel? Onderzoek in Delpher laat zien dat Klaas Claij hem eind negentiende eeuw voorging.   In deze podcast vertellen historici Dennis Bos en Huibert Crijns zijn verhaal aan de hand van bronnen uit Delpher. Wat dreef Claij en de mannen die in zijn voetsporen traden? Hoe reageerde de overheid? En wat schreven de kranten van die tijd?   Bekijk artikelen uit de kranten van toen: https://www.delpher.nl/thema/geschiedenis/dienstweigering   Deze podcast is gemaakt door de KB, nationale bibliotheek i.s.m. De Verbeelding Audiovisuele Producties.  Muziek:  - Socialistenmars - \u2018Het wijnglas\u2019 door Jean-Luis Pisuisse - \u2018Daar komen de schutters\u2019 door Koos Speenhoff",
+            "html_description": "De invoering van de militaire dienstplicht riep weerstand op in socialistische en christelijke kringen. Johannes van der Veer is de geschiedenisboeken ingegaan als de eerste Nederlandse dienstweigeraar, maar klopt dit wel? Onderzoek in Delpher laat zien dat Klaas Claij hem eind negentiende eeuw voorging. <br/>In deze podcast vertellen historici Dennis Bos en Huibert Crijns zijn verhaal aan de hand van bronnen uit Delpher. Wat dreef Claij en de mannen die in zijn voetsporen traden? Hoe reageerde de overheid? En wat schreven de kranten van die tijd?<br/> <br/>Bekijk artikelen uit de kranten van toen: https://www.delpher.nl/thema/geschiedenis/dienstweigering<br/> <br/>Deze podcast is gemaakt door de KB, nationale bibliotheek i.s.m. De Verbeelding Audiovisuele Producties.<br/>Muziek: <br/>-\tSocialistenmars<br/>-\t\u2018Het wijnglas\u2019 door Jean-Luis Pisuisse<br/>-\t\u2018Daar komen de schutters\u2019 door Koos Speenhoff",
+            "duration_ms": 3125838,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3Oy1UKaYjTQDciNqbIouYq"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3Oy1UKaYjTQDciNqbIouYq",
+            "id": "3Oy1UKaYjTQDciNqbIouYq",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6af27ac24ab9b36505fa02f3",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6af27ac24ab9b36505fa02f3",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6af27ac24ab9b36505fa02f3",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Podcast - Het verzet tegen de militaire dienstplicht",
+            "release_date": "2022-04-19",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3Oy1UKaYjTQDciNqbIouYq"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2HOwW92OACm2pXn9ccKJS6/clip_306167_366167.mp3",
+            "description": "Bij misdaad denken we snel aan mannen, maar \u00e9\u00e9n van de grootste seriemoordenaars uit de Nederlandse geschiedenis was een vrouw: Maria Catharina van der Linden-Swanenburg, beter bekend als Goeie Mie. Wat dreef haar? Hoe reageerde de pers? En gingen vrouwen vroeger sneller over tot geweld? In deze Delpher-podcast volg je samen met historici Stefan Glasbergen en Manon van der Heijden het spoor van misdadige vrouwen uit het verleden.   Bekijk artikelen uit de kranten van toen: https://www.delpher.nl/thema/samenleving/misdaad   Deze podcast is gemaakt door de KB, nationale bibliotheek i.s.m. De Verbeelding Videoproducties. Muziek: Hilde Jansen en Ineke Pouw",
+            "html_description": "Bij misdaad denken we snel aan mannen, maar \u00e9\u00e9n van de grootste seriemoordenaars uit de Nederlandse geschiedenis was een vrouw: Maria Catharina van der Linden-Swanenburg, beter bekend als Goeie Mie. Wat dreef haar? Hoe reageerde de pers? En gingen vrouwen vroeger sneller over tot geweld? In deze Delpher-podcast volg je samen met historici Stefan Glasbergen en Manon van der Heijden het spoor van misdadige vrouwen uit het verleden. <br/>Bekijk artikelen uit de kranten van toen: https://www.delpher.nl/thema/samenleving/misdaad<br/> <br/>Deze podcast is gemaakt door de KB, nationale bibliotheek i.s.m. De Verbeelding Videoproducties.<br/>Muziek: Hilde Jansen en Ineke Pouw",
+            "duration_ms": 2583570,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5EcfV7Zm1gJtKTOtnbEJiK"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5EcfV7Zm1gJtKTOtnbEJiK",
+            "id": "5EcfV7Zm1gJtKTOtnbEJiK",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6af27ac24ab9b36505fa02f3",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6af27ac24ab9b36505fa02f3",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6af27ac24ab9b36505fa02f3",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Podcast - Misdadige vrouwen",
+            "release_date": "2022-03-07",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5EcfV7Zm1gJtKTOtnbEJiK"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2ZcYx4SiX1aebts8lqZ3Kb/clip_507405_567405.mp3",
+            "description": "In de vijfde en laatste podcast van De Smaak van Nederland praat Hassnae Bouazza met culinair recensent Hiske Versprille over de hedendaagse keuken.   Over golfbewegingen in kooktrends en het verschil tussen wat er in restaurants gegeten wordt en wat we thuis klaarmaken. En natuurlijk over kookboeken: waarom is het jaren '70 boekje 'Beroemde gerechten uit de wereldkeuken' eigenlijk zo dun? En hoe komt ze aan die brandplekken op haar exemplaar van 'Happy Days met The Naked Chef'?",
+            "html_description": "In de vijfde en laatste podcast van De Smaak van Nederland praat Hassnae Bouazza met culinair recensent Hiske Versprille over de hedendaagse keuken. <br/>Over golfbewegingen in kooktrends en het verschil tussen wat er in restaurants gegeten wordt en wat we thuis klaarmaken. En natuurlijk over kookboeken: waarom is het jaren &#39;70 boekje &#39;Beroemde gerechten uit de wereldkeuken&#39; eigenlijk zo dun? En hoe komt ze aan die brandplekken op haar exemplaar van &#39;Happy Days met The Naked Chef&#39;?",
+            "duration_ms": 1814425,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6Aj6AgLeH4AJNQFHKIgU4a"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6Aj6AgLeH4AJNQFHKIgU4a",
+            "id": "6Aj6AgLeH4AJNQFHKIgU4a",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac9336c47435078650bc76963",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc9336c47435078650bc76963",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc9336c47435078650bc76963",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De Smaak van Nederland #5 | De hedendaagse keuken met Hiske Versprille",
+            "release_date": "2021-11-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6Aj6AgLeH4AJNQFHKIgU4a"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Zisnvb7oN2r0tGFoTDJgb/clip_457094_517094.mp3",
+            "description": "Waarom zijn er zo weinig Surinaamse kookboeken? Omdat in Suriname gekookt wordt vanuit het hart, zegt sterrenchef Soenil Bahadoer.   In de vierde podcast van de reeks 'De smaak van Nederland - van spruitjes tot sushi', vertelt hij over de smaken uit zijn jeugd, hoe de wonderlijke mix van culturen die de Surinaamse keuken kenmerkt terugkomt in zijn recept voor rendang met gemberbier en hoe oer-Hollandse bloemkool ook best soulfood kan zijn.",
+            "html_description": "Waarom zijn er zo weinig Surinaamse kookboeken? Omdat in Suriname gekookt wordt vanuit het hart, zegt sterrenchef Soenil Bahadoer. <br/>In de vierde podcast van de reeks &#39;De smaak van Nederland - van spruitjes tot sushi&#39;, vertelt hij over de smaken uit zijn jeugd, hoe de wonderlijke mix van culturen die de Surinaamse keuken kenmerkt terugkomt in zijn recept voor rendang met gemberbier en hoe oer-Hollandse bloemkool ook best soulfood kan zijn.",
+            "duration_ms": 1709141,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5swC2EN91GSVVLVNZ2A8wy"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5swC2EN91GSVVLVNZ2A8wy",
+            "id": "5swC2EN91GSVVLVNZ2A8wy",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac9336c47435078650bc76963",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc9336c47435078650bc76963",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc9336c47435078650bc76963",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De Smaak van Nederland #4 | De Surinaamse keuken met Soenil Bahadoer",
+            "release_date": "2021-11-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5swC2EN91GSVVLVNZ2A8wy"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6hiphYfUpCUwe2LRSz0Wdu/clip_383169_443169.mp3",
+            "description": "Wat hebben de zeventiende-eeuwse Franse hofkok Fran\u00e7ois de la Varenne en de beroemde chef Auguste Escoffier, schrijver van Le guide culinaire - in Nederland uitgebracht als De Keukengids - met elkaar gemeen? Ze hebben beiden met hun Franse recepten \u00e9n gebruiken een stempel gedrukt op onze Nederlandse eetcultuur.   Topchef Alain Caron vertelt in de derde podcast van 'De smaak van Nederland - van spruitjes tot sushi' over zijn fascinatie voor Escoffier, zijn avonturen in verschillende restaurants en zijn eigen interpretatie van de Franse keuken.",
+            "html_description": "Wat hebben de zeventiende-eeuwse Franse hofkok Fran\u00e7ois de la Varenne en de beroemde chef Auguste Escoffier, schrijver van Le guide culinaire - in Nederland uitgebracht als De Keukengids - met elkaar gemeen? Ze hebben beiden met hun Franse recepten \u00e9n gebruiken een stempel gedrukt op onze Nederlandse eetcultuur. <br/>Topchef Alain Caron vertelt in de derde podcast van &#39;De smaak van Nederland - van spruitjes tot sushi&#39; over zijn fascinatie voor Escoffier, zijn avonturen in verschillende restaurants en zijn eigen interpretatie van de Franse keuken.",
+            "duration_ms": 1887085,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7iwRBpIm76o2lRbaASDGW1"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7iwRBpIm76o2lRbaASDGW1",
+            "id": "7iwRBpIm76o2lRbaASDGW1",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac9336c47435078650bc76963",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc9336c47435078650bc76963",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc9336c47435078650bc76963",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De Smaak van Nederland #3 | De Franse keuken met Alain Caron",
+            "release_date": "2021-11-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7iwRBpIm76o2lRbaASDGW1"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0sl0XRneosZY9ufFbbEGb5/clip_595828_655828.mp3",
+            "description": "Wist je dat elke regio in Indonesi\u00eb zijn eigen smaken heeft? Dat de Indische keuken iets heel anders in dan de Indonesische? In de tweede podcast van de serie 'De smaak van Nederland - van spruitjes tot sushi' vertelt Vanja van der Leeden, auteur van de culinaire bestseller Indorock, over de zoektocht naar haar Indonesische roots, de koloniale bijsmaak van Indische kookboeken, zoals het Groot nieuw volledig Oost-Indisch kookboek en waarom de rijsttafel volgens haar een uiting is van gebrek aan respect voor de Indonesische cultuur.",
+            "html_description": "Wist je dat elke regio in Indonesi\u00eb zijn eigen smaken heeft? Dat de Indische keuken iets heel anders in dan de Indonesische? In de tweede podcast van de serie &#39;De smaak van Nederland - van spruitjes tot sushi&#39; vertelt Vanja van der Leeden, auteur van de culinaire bestseller Indorock, over de zoektocht naar haar Indonesische roots, de koloniale bijsmaak van Indische kookboeken, zoals het Groot nieuw volledig Oost-Indisch kookboek en waarom de rijsttafel volgens haar een uiting is van gebrek aan respect voor de Indonesische cultuur.",
+            "duration_ms": 1656952,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5pyfu7u9ektwI01V3FnR5K"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5pyfu7u9ektwI01V3FnR5K",
+            "id": "5pyfu7u9ektwI01V3FnR5K",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac9336c47435078650bc76963",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc9336c47435078650bc76963",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc9336c47435078650bc76963",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De Smaak van Nederland #2 | De Indische en Indonesische keuken met Vanja van der Leeden",
+            "release_date": "2021-11-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5pyfu7u9ektwI01V3FnR5K"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3pyiI2DgE4D2gwOfvcKx9V/clip_352158_412158.mp3",
+            "description": "Pistachenoten, komijn of haas met dadels. In Nederlandse historische kookboeken, zoals het 'Hollands of Neederlands kook-boek' uit 1724, zijn talloze ingredi\u00ebnten en recepten te vinden die we niet meteen met de Hollandse keuken associ\u00ebren. Anderzijds was onze vertrouwde tomaat begin twintigste eeuw nog een vreemd product dat actief door de tuinbouwbranche gepromoot werd met slogans zoals 'Eet tomaten, ze zijn overheerlijk en gezond!'. Waar komen al die verschillende invloeden in onze eetcultuur vandaan?   In de eerste podcast van \u2018De smaak van Nederland - van spruitjes tot sushi\u2019 nemen kookboekenexpert Charlotte Kleyn en KB-collectiespecialist Anna Rademakers je mee in de wereld van het culinair erfgoed.",
+            "html_description": "Pistachenoten, komijn of haas met dadels. In Nederlandse historische kookboeken, zoals het &#39;Hollands of Neederlands kook-boek&#39; uit 1724, zijn talloze ingredi\u00ebnten en recepten te vinden die we niet meteen met de Hollandse keuken associ\u00ebren. Anderzijds was onze vertrouwde tomaat begin twintigste eeuw nog een vreemd product dat actief door de tuinbouwbranche gepromoot werd met slogans zoals &#39;Eet tomaten, ze zijn overheerlijk en gezond!&#39;. Waar komen al die verschillende invloeden in onze eetcultuur vandaan? <br/>In de eerste podcast van \u2018De smaak van Nederland - van spruitjes tot sushi\u2019 nemen kookboekenexpert Charlotte Kleyn en KB-collectiespecialist Anna Rademakers je mee in de wereld van het culinair erfgoed.",
+            "duration_ms": 1883193,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3bcpuovMo5XseIyUSegRYk"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3bcpuovMo5XseIyUSegRYk",
+            "id": "3bcpuovMo5XseIyUSegRYk",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac9336c47435078650bc76963",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc9336c47435078650bc76963",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc9336c47435078650bc76963",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De Smaak van Nederland #1 | De historische keuken met Anna Rademakers en Charlotte Kleyn",
+            "release_date": "2021-11-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3bcpuovMo5XseIyUSegRYk"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5WZ7F3lGt3XJ890mfSM4lE/clip_589203_649203.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Charlotte van den Broek.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Charlotte van den Broek.",
+            "duration_ms": 2188882,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/50N8ot5WKlV5OhsyvmM1fm"
+            },
+            "href": "https://api.spotify.com/v1/episodes/50N8ot5WKlV5OhsyvmM1fm",
+            "id": "50N8ot5WKlV5OhsyvmM1fm",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #5 - Charlotte van den Broek",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:50N8ot5WKlV5OhsyvmM1fm"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6xtkEa87mHenPsDUZyof5e/clip_367231_427231.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Franca Treur.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Franca Treur.",
+            "duration_ms": 2125599,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4RzVQDmHEeEoj2kiKNK9Y3"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4RzVQDmHEeEoj2kiKNK9Y3",
+            "id": "4RzVQDmHEeEoj2kiKNK9Y3",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #11 - Franca Treur",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4RzVQDmHEeEoj2kiKNK9Y3"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/56YoX2zWSkcsZyqdKf0o2j/clip_362047_422047.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Herman Brusselmans.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Herman Brusselmans.",
+            "duration_ms": 1737788,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4ecvMBju8gooSs4aBq6dSm"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4ecvMBju8gooSs4aBq6dSm",
+            "id": "4ecvMBju8gooSs4aBq6dSm",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #2 - Herman Brusselmans",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4ecvMBju8gooSs4aBq6dSm"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7cyIxJtQBdvBxa5bw0dxa1/clip_256822_316822.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Jonathan Griffioen.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Jonathan Griffioen.",
+            "duration_ms": 2316023,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/55DxPpyj1co86pOMHMA0Hd"
+            },
+            "href": "https://api.spotify.com/v1/episodes/55DxPpyj1co86pOMHMA0Hd",
+            "id": "55DxPpyj1co86pOMHMA0Hd",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #10 - Jonathan Griffioen",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:55DxPpyj1co86pOMHMA0Hd"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0D3VaXUW1n8CFtAIVLOitu/clip_648536_708536.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met K. Michel.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met K. Michel.",
+            "duration_ms": 2295661,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6x6ePKA20f1pbcaxkZZiTx"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6x6ePKA20f1pbcaxkZZiTx",
+            "id": "6x6ePKA20f1pbcaxkZZiTx",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #3 - K. Michel",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6x6ePKA20f1pbcaxkZZiTx"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4cEZSI7nj21fcoRQ11BYyI/clip_355134_415134.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Kluun.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Kluun.",
+            "duration_ms": 1919103,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1mWJKtmdfmQiUmJhK54LnG"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1mWJKtmdfmQiUmJhK54LnG",
+            "id": "1mWJKtmdfmQiUmJhK54LnG",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #9 - Kluun",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1mWJKtmdfmQiUmJhK54LnG"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1ovN3rlwUx9cGYGji0TS40/clip_134980_194980.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Maria Barnas.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Maria Barnas.",
+            "duration_ms": 2166121,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5FEMVuQp3Mwsj3le0Ur7Pp"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5FEMVuQp3Mwsj3le0Ur7Pp",
+            "id": "5FEMVuQp3Mwsj3le0Ur7Pp",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #4 - Maria Barnas",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5FEMVuQp3Mwsj3le0Ur7Pp"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7DEp0l9apO6VFUCB78hHBN/clip_525935_585935.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Marieke Lucas Rijneveld.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Marieke Lucas Rijneveld.",
+            "duration_ms": 1963712,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5aJPG0duX1v6KWpkWq4vFa"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5aJPG0duX1v6KWpkWq4vFa",
+            "id": "5aJPG0duX1v6KWpkWq4vFa",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #1 - Marieke Lucas Rijneveld",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5aJPG0duX1v6KWpkWq4vFa"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0r6cKnYnOPr5lHBwP4Osl4/clip_410628_470628.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Mirthe van Doornik.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Mirthe van Doornik.",
+            "duration_ms": 1902357,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4LZB2wEajZcJ5KQsQbZVzK"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4LZB2wEajZcJ5KQsQbZVzK",
+            "id": "4LZB2wEajZcJ5KQsQbZVzK",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #8 - Mirthe van Doornik",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4LZB2wEajZcJ5KQsQbZVzK"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Qhwdsr544vtdIir5WM1Au/clip_468234_528234.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Ronald Snijders.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Ronald Snijders.",
+            "duration_ms": 2350349,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7euA2C8FnvFPbEIeg5S8vV"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7euA2C8FnvFPbEIeg5S8vV",
+            "id": "7euA2C8FnvFPbEIeg5S8vV",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #12 - Ronald Snijders",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7euA2C8FnvFPbEIeg5S8vV"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0reZBa5oPAozGbs5d6dQxe/clip_442886_502886.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Simone van Saarloos.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Simone van Saarloos.",
+            "duration_ms": 2459044,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0QcD3FTq9qx9S3kbsAlEto"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0QcD3FTq9qx9S3kbsAlEto",
+            "id": "0QcD3FTq9qx9S3kbsAlEto",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #7 - Simone van Saarloos",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0QcD3FTq9qx9S3kbsAlEto"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5NPwl02ojcPLi4zH4Eh3OD/clip_382976_442976.mp3",
+            "description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.  In deze aflevering gaat Erik Jan in gesprek met Teun van de Keuken.",
+            "html_description": "In deze podcastreeks spreekt Erik Jan Harmens verschillende schrijvers over hun werk, hun nieuwste boek en hun inspiratie.<br/>In deze aflevering gaat Erik Jan in gesprek met Teun van de Keuken.",
+            "duration_ms": 2481430,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1n3MlP6TNVtKqZiFIA6fcH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1n3MlP6TNVtKqZiFIA6fcH",
+            "id": "1n3MlP6TNVtKqZiFIA6fcH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaaecfbfe19022a847e071297",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faaecfbfe19022a847e071297",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daaecfbfe19022a847e071297",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gesprekken met schrijvers #6 - Teun van de Keuken",
+            "release_date": "2021-07-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1n3MlP6TNVtKqZiFIA6fcH"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6LyOMBOVZIGrfkTUec45rk/clip_363101_423101.mp3",
+            "description": "In deze podcast bespreekt Marieke van Delft de bundel 'Stirpivm insignium nobilitatis, tum etiam sodalium memoriale' van Crispijn de Passe. Een bijzonder boekje, want het is een album amicorum (vriendenboek) met prachtige prenten, dat nooit als zodanig gebruikt is. Hoe zit dat precies?  Liever er over lezen? Kijk op www.kb.nl/stirpium",
+            "html_description": "In deze podcast bespreekt Marieke van Delft de bundel &#39;Stirpivm insignium nobilitatis, tum etiam sodalium memoriale&#39; van Crispijn de Passe. Een bijzonder boekje, want het is een album amicorum (vriendenboek) met prachtige prenten, dat nooit als zodanig gebruikt is. Hoe zit dat precies?<br/>Liever er over lezen? Kijk op www.kb.nl/stirpium",
+            "duration_ms": 1391315,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6gG1glJ8bjbNk9NZDcR2eb"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6gG1glJ8bjbNk9NZDcR2eb",
+            "id": "6gG1glJ8bjbNk9NZDcR2eb",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa6f8071e5ac114424ae4f072",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa6f8071e5ac114424ae4f072",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da6f8071e5ac114424ae4f072",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Schatten van de KB - Een vriendenboek door Crispijn de Passe",
+            "release_date": "2021-06-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6gG1glJ8bjbNk9NZDcR2eb"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3kgK1D8YnkeeTxVvdZpPXu/clip_489834_549834.mp3",
+            "description": "In deze podcast bespreekt Marieke van Delft het boek Verandering der Surinaamsche insecten, een topstuk uit de collectie van de KB. Metamorphosis insectorum Surinamensium van Maria Sibylla Merian is een schitterend ge\u00efllustreerd boek over planten en insecten in Suriname uit 1705.",
+            "html_description": "In deze podcast bespreekt Marieke van Delft het boek Verandering der Surinaamsche insecten, een topstuk uit de collectie van de KB. Metamorphosis insectorum Surinamensium van Maria Sibylla Merian is een schitterend ge\u00efllustreerd boek over planten en insecten in Suriname uit 1705.",
+            "duration_ms": 2225765,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1vllKRZpUFtpjXURFJaGDS"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1vllKRZpUFtpjXURFJaGDS",
+            "id": "1vllKRZpUFtpjXURFJaGDS",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa6f8071e5ac114424ae4f072",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa6f8071e5ac114424ae4f072",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da6f8071e5ac114424ae4f072",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Schatten van de KB - Verandering der Surinaamsche insecten van Maria Sibylla Merian",
+            "release_date": "2021-06-07",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1vllKRZpUFtpjXURFJaGDS"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3qT0yXpkqbtHFV71qLL3hk/clip_139591_199591.mp3",
+            "description": "De Naaukeurige beschryving van het schatryke kabinet der voornaamste seldzaamheden der natuur is een beschrijving van het rariteitenkabinet van Albertus Seba uit 1734-1765.  Het rariteitenkabinet van Albertus Seba  Het verzamelen van rariteiten zoals kunstobjecten, wetenschappelijke instrumenten, schelpen, fossielen, insecten en lichaamsdelen op sterk water was een geliefde bezigheid in de achttiende eeuw. Onder de vele zeventiende- en achttiende-eeuwse Nederlandse rariteitenkabinetten neemt het kabinet van Albertus Seba een belangrijke plaats in. In korte tijd wist deze Amsterdamse apotheker een grote collectie schelpen, gesteenten, opgezette dieren en uitheemse naturalia bij elkaar te brengen.  In deze podcast bespreken we het bijzondere boek waarin zijn collectie beschreven wordt. Met recht \u00e9\u00e9n van de topstukken van de KB.",
+            "html_description": "De Naaukeurige beschryving van het schatryke kabinet der voornaamste seldzaamheden der natuur is een beschrijving van het rariteitenkabinet van Albertus Seba uit 1734-1765.<br/>Het rariteitenkabinet van Albertus Seba<br/>Het verzamelen van rariteiten zoals kunstobjecten, wetenschappelijke instrumenten, schelpen, fossielen, insecten en lichaamsdelen op sterk water was een geliefde bezigheid in de achttiende eeuw. Onder de vele zeventiende- en achttiende-eeuwse Nederlandse rariteitenkabinetten neemt het kabinet van Albertus Seba een belangrijke plaats in. In korte tijd wist deze Amsterdamse apotheker een grote collectie schelpen, gesteenten, opgezette dieren en uitheemse naturalia bij elkaar te brengen.<br/>In deze podcast bespreken we het bijzondere boek waarin zijn collectie beschreven wordt. Met recht \u00e9\u00e9n van de topstukken van de KB.",
+            "duration_ms": 1279439,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2sycyUnF4boaj0WZC1BWfx"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2sycyUnF4boaj0WZC1BWfx",
+            "id": "2sycyUnF4boaj0WZC1BWfx",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa6f8071e5ac114424ae4f072",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa6f8071e5ac114424ae4f072",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da6f8071e5ac114424ae4f072",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Schatten van de KB - Het rariteitenkabinet van Albertus Seba",
+            "release_date": "2021-05-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2sycyUnF4boaj0WZC1BWfx"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/24Jrzg8rPR0RmWzc7O6Tq0/clip_327192_387192.mp3",
+            "description": "De 16e eeuwse Eleonora Carbonier was de eerste Nederlandstalige vrouw die een sonnet schreef en publiceerde. Wat weten we van haar werk en leven? Podcastmaker Luca Duijf onderzoekt wat het gedicht van Eleonora Carbonier gemeen heeft met de po\u00ebzie van hedendaagse dichters als Lieke Marsman en Amanda Gorman.",
+            "html_description": "De 16e eeuwse Eleonora Carbonier was de eerste Nederlandstalige vrouw die een sonnet schreef en publiceerde. Wat weten we van haar werk en leven? Podcastmaker Luca Duijf onderzoekt wat het gedicht van Eleonora Carbonier gemeen heeft met de po\u00ebzie van hedendaagse dichters als Lieke Marsman en Amanda Gorman.",
+            "duration_ms": 1061120,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0RVEzWEiwKySC23YmCC7Kb"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0RVEzWEiwKySC23YmCC7Kb",
+            "id": "0RVEzWEiwKySC23YmCC7Kb",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3d263290880f5fa62d60ed83",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3d263290880f5fa62d60ed83",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3d263290880f5fa62d60ed83",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Podcast Literatuurgeschiedenis.org: Eleonora Carbonier, \u2018Au gezelleken wat is hier\u2019",
+            "release_date": "2021-05-12",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0RVEzWEiwKySC23YmCC7Kb"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2DdKejCqgoVGv9lLY7alUj/clip_137480_197480.mp3",
+            "description": "Schrijver en feminist Andreas Burnier (1931-2002) schreef als een van de eersten openlijk over homoseksualiteit en transgendergevoelens. De zoektocht naar een eigen identiteit stond centraal in haar werk. Hoe is dat voor schrijvers van nu, vijftig jaar later? Podcastmaker Luca Duijf onderzoekt Burniers zoektocht naar gender en identiteit en linkt dit aan het werk van de hedendaagse schrijver Marieke Lucas Rijneveld.",
+            "html_description": "Schrijver en feminist Andreas Burnier (1931-2002) schreef als een van de eersten openlijk over homoseksualiteit en transgendergevoelens. De zoektocht naar een eigen identiteit stond centraal in haar werk. Hoe is dat voor schrijvers van nu, vijftig jaar later? Podcastmaker Luca Duijf onderzoekt Burniers zoektocht naar gender en identiteit en linkt dit aan het werk van de hedendaagse schrijver Marieke Lucas Rijneveld.",
+            "duration_ms": 904848,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5o9PUiyKSACQ1gzrUnXKxb"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5o9PUiyKSACQ1gzrUnXKxb",
+            "id": "5o9PUiyKSACQ1gzrUnXKxb",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3d263290880f5fa62d60ed83",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3d263290880f5fa62d60ed83",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3d263290880f5fa62d60ed83",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Podcast Literatuurgeschiedenis.org: Andreas Burnier, \u2018Wij zoeken onszelf\u2019",
+            "release_date": "2021-05-12",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5o9PUiyKSACQ1gzrUnXKxb"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5KVqvGIPevNy3kUkXcnYhv/clip_146406_206406.mp3",
+            "description": "Ben je benieuwd naar de verhalen achter de schatten in onze bijzondere collectie? Vlak voor haar pensioen vertelde Marieke van Delft, conservator oude drukken, over 'Specilla circularia' uit 1656 van wiskundige Johannes Hudde. Het is een klein boekje van groot wetenschaps-historisch belang \u00e9n er zit een mooi verhaal aan vast.   Lees nog meer op https://www.kb.nl/hudde",
+            "html_description": "Ben je benieuwd naar de verhalen achter de schatten in onze bijzondere collectie? Vlak voor haar pensioen vertelde Marieke van Delft, conservator oude drukken, over &#39;Specilla circularia&#39; uit 1656 van wiskundige Johannes Hudde. Het is een klein boekje van groot wetenschaps-historisch belang \u00e9n er zit een mooi verhaal aan vast. <br/>Lees nog meer op https://www.kb.nl/hudde",
+            "duration_ms": 1193738,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1rdoREcQvjCgEZKQnGQ9KM"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1rdoREcQvjCgEZKQnGQ9KM",
+            "id": "1rdoREcQvjCgEZKQnGQ9KM",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a478eb0abe38ac3746171cf0a",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f478eb0abe38ac3746171cf0a",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d478eb0abe38ac3746171cf0a",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Schatten van de KB - Specilla circularia van Johannes Hudde",
+            "release_date": "2021-04-01",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1rdoREcQvjCgEZKQnGQ9KM"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5cSwwgkolob7cHLaZIIxrL/clip_382787_442787.mp3",
+            "description": "Verpleegkundige Jacoba de Groote en arts Arius van Tienhoven leren elkaar kennen op een Rode Kruis missie naar Servi\u00eb tijdens de Eerste Balkanoorlog in 1912. In de gruwelijke en soms levensgevaarlijke omstandigheden van de Eerste Wereldoorlog bloeit hun liefde op. Collectiespecialist Geschiedenis Huibert Crijns vertelt hun verhaal aan de hand van hun persoonlijke fotoalbums die zich in de collectie van de KB bevinden en oude krantenartikelen die hij op Delpher gevonden heeft.  Door zijn beeldende vertelstijl is het verhaal heel goed te beluisteren als podcast, maar het is natuurlijk nog mooier met de foto\u2019s van Van Tienhoven erbij. Daarom is op YouTube het verhaal te beluisteren m\u00e9t beeld: https://youtu.be/yWtGVaKiW-g",
+            "html_description": "Verpleegkundige Jacoba de Groote en arts Arius van Tienhoven leren elkaar kennen op een Rode Kruis missie naar Servi\u00eb tijdens de Eerste Balkanoorlog in 1912. In de gruwelijke en soms levensgevaarlijke omstandigheden van de Eerste Wereldoorlog bloeit hun liefde op.<br/>Collectiespecialist Geschiedenis Huibert Crijns vertelt hun verhaal aan de hand van hun persoonlijke fotoalbums die zich in de collectie van de KB bevinden en oude krantenartikelen die hij op Delpher gevonden heeft. <br/>Door zijn beeldende vertelstijl is het verhaal heel goed te beluisteren als podcast, maar het is natuurlijk nog mooier met de foto\u2019s van Van Tienhoven erbij. Daarom is op YouTube het verhaal te beluisteren m\u00e9t beeld: https://youtu.be/yWtGVaKiW-g",
+            "duration_ms": 1188804,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4YXjDd9emTLzIoj8qdvd2h"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4YXjDd9emTLzIoj8qdvd2h",
+            "id": "4YXjDd9emTLzIoj8qdvd2h",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8f16772a5535758503907537",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8f16772a5535758503907537",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8f16772a5535758503907537",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Liefde en Vriendschap: Liefde in tijden van vlektyfus",
+            "release_date": "2021-01-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4YXjDd9emTLzIoj8qdvd2h"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3hTLwpnuPxEFfXUKsvDlVR/clip_604758_664758.mp3",
+            "description": "Honderden jaren lang zeilden de Hollanders naar het verre Azi\u00eb om handel te drijven. Soms brachten ze lange jaren door in den vreemde zonder hoop op een snelle terugkeer naar hun vaderland. Hoe hielden ze het daar uit zo eenzaam en alleen? Luister naar onze podcast over het rijkgeschakeerde liefdesleven van de VOC-dienaren in Oost-Azi\u00eb.  Boudewijn Walraven is emeritus hoogleraar Koreastudies.  Melinda K\u00f3nya, die Japans heeft gestudeerd, is collectiespecialist vreemde talen bij de KB.  https://www.kb.nl/themas/liefde-en-vriendschap",
+            "html_description": "Honderden jaren lang zeilden de Hollanders naar het verre Azi\u00eb om handel te drijven. Soms brachten ze lange jaren door in den vreemde zonder hoop op een snelle terugkeer naar hun vaderland. Hoe hielden ze het daar uit zo eenzaam en alleen? Luister naar onze podcast over het rijkgeschakeerde liefdesleven van de VOC-dienaren in Oost-Azi\u00eb. <br/>Boudewijn Walraven is emeritus hoogleraar Koreastudies. <br/>Melinda K\u00f3nya, die Japans heeft gestudeerd, is collectiespecialist vreemde talen bij de KB.<br/>https://www.kb.nl/themas/liefde-en-vriendschap",
+            "duration_ms": 1488647,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1uJguou8hPR7nMsdGEVtb0"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1uJguou8hPR7nMsdGEVtb0",
+            "id": "1uJguou8hPR7nMsdGEVtb0",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8f16772a5535758503907537",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8f16772a5535758503907537",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8f16772a5535758503907537",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Liefde en Vriendschap: Liefde en lust overzee",
+            "release_date": "2020-12-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1uJguou8hPR7nMsdGEVtb0"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/78uvdnK5h6YnvdLpZVezzm/clip_278134_338134.mp3",
+            "description": "Bij liefde denken we vaak als eerste aan de romantische liefde tussen twee personen, maar onderschat ook de liefde van een supporter voor zijn favoriete sportclub niet. In deze podcast staat die clubliefde centraal. Aan de hand van het enorme clubboek Feyenoord de Grootste \u2013 gewicht maar liefst 30 kg! \u2013 neemt collectiespecialist Anna Rademakers u mee in de wereld van de \u00e9chte voetbalfan, met zijn voorliefde voor wedstrijdstatistieken, clubliederen, verzamelobjecten, clubiconen en verhalen uit de oude doos.",
+            "html_description": "Bij liefde denken we vaak als eerste aan de romantische liefde tussen twee personen, maar onderschat ook de liefde van een supporter voor zijn favoriete sportclub niet. In deze podcast staat die clubliefde centraal. Aan de hand van het enorme clubboek Feyenoord de Grootste \u2013 gewicht maar liefst 30 kg! \u2013 neemt collectiespecialist Anna Rademakers u mee in de wereld van de \u00e9chte voetbalfan, met zijn voorliefde voor wedstrijdstatistieken, clubliederen, verzamelobjecten, clubiconen en verhalen uit de oude doos.",
+            "duration_ms": 1065822,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/391BlUJa0cNkrWGruk1HkH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/391BlUJa0cNkrWGruk1HkH",
+            "id": "391BlUJa0cNkrWGruk1HkH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8f16772a5535758503907537",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8f16772a5535758503907537",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8f16772a5535758503907537",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Liefde en Vriendschap: Feyenoord de Grootste en de liefde voor een voetbalclub",
+            "release_date": "2020-12-28",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:391BlUJa0cNkrWGruk1HkH"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5m4aeItDyNcIWZWAtL6G5l/clip_224848_284848.mp3",
+            "description": "Constantijn Huygens is het prototype van de renaissance-man of de Homo universalis: een man die op alle gebieden thuis is en al zijn vaardigheden optimaal heeft ontwikkeld. Naast zijn dagelijkse bezigheden als secretaris van de stadhouder en raadsheer van de Nassause Domeinraad, was hij tevens een begenadigd dichter, een secure wetenschapper, een competente muzikant en een aardig tekenaar. Door zijn belangrijke positie aan het hof en zijn netwerk binnen de culturele en politieke wereld kende Huygens erg veel mensen. Elke dag schreef hij wel 100 tot 125 brieven om de contacten die hij maakte te onderhouden. Maar had hij ook vrienden?  En waarover schreef Huygens zoal met zijn correspondenten?   In deze podcast spreekt Jeroen Vandommele, conservator moderne handschriften van de KB, met Ineke Huysman. Zij werkt bij het Huygens ING aan een project dat alle brieven van Constantijn Huygens digitaliseert en ontsluit (http://resources.huygens.knaw.nl/briefwisselingconstantijnhuygens). Ze publiceert ook regelmatig blogs en podcasts over de brieven van Huygens (https://brievenconstantijnhuygens.wordpress.com/blogs/).   Jeroen en Ineke zullen het hebben over de briefwisseling van Constantijn Huygens en de verschillende soorten vriendschappen die Huygens heeft ontwikkeld tijdens zijn leven.",
+            "html_description": "Constantijn Huygens is het prototype van de renaissance-man of de Homo universalis: een man die op alle gebieden thuis is en al zijn vaardigheden optimaal heeft ontwikkeld. Naast zijn dagelijkse bezigheden als secretaris van de stadhouder en raadsheer van de Nassause Domeinraad, was hij tevens een begenadigd dichter, een secure wetenschapper, een competente muzikant en een aardig tekenaar. Door zijn belangrijke positie aan het hof en zijn netwerk binnen de culturele en politieke wereld kende Huygens erg veel mensen. Elke dag schreef hij wel 100 tot 125 brieven om de contacten die hij maakte te onderhouden. Maar had hij ook vrienden?  En waarover schreef Huygens zoal met zijn correspondenten? <br/>In deze podcast spreekt Jeroen Vandommele, conservator moderne handschriften van de KB, met Ineke Huysman. Zij werkt bij het Huygens ING aan een project dat alle brieven van Constantijn Huygens digitaliseert en ontsluit (http://resources.huygens.knaw.nl/briefwisselingconstantijnhuygens). Ze publiceert ook regelmatig blogs en podcasts over de brieven van Huygens (https://brievenconstantijnhuygens.wordpress.com/blogs/). <br/>Jeroen en Ineke zullen het hebben over de briefwisseling van Constantijn Huygens en de verschillende soorten vriendschappen die Huygens heeft ontwikkeld tijdens zijn leven.",
+            "duration_ms": 1451159,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4Eraaot6TPYZ9ScpJfIG3v"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4Eraaot6TPYZ9ScpJfIG3v",
+            "id": "4Eraaot6TPYZ9ScpJfIG3v",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae7b089c872757792f4fee654",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe7b089c872757792f4fee654",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de7b089c872757792f4fee654",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Liefde en Vriendschap: De vrienden van Constantijn Huygens",
+            "release_date": "2020-12-02",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4Eraaot6TPYZ9ScpJfIG3v"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3pgT9krolG8CNn5iTURAQR/clip_583248_643248.mp3",
+            "description": "In deze eerste Delpherpodcast vertellen historicus dr. Paul Puschmann en Questredacteur Mark Traa aan de hand van huwelijksadvertenties uit Delpher over de liefde van toen.  Hoe vonden mensen vroeger een partner? En waar selecteerden ze op? En is het tegenwoordig echt zo anders?  Voice-over: Derek de Lint  Deze podcast is gemaakt door de KB i.s.m. De Verbeelding Audio- en Videoproducties.  Met dank aan Beeld & Geluid.",
+            "html_description": "In deze eerste Delpherpodcast vertellen historicus dr. Paul Puschmann en Questredacteur Mark Traa aan de hand van huwelijksadvertenties uit Delpher over de liefde van toen.  Hoe vonden mensen vroeger een partner? En waar selecteerden ze op? En is het tegenwoordig echt zo anders?<br/>Voice-over: Derek de Lint<br/>Deze podcast is gemaakt door de KB i.s.m. De Verbeelding Audio- en Videoproducties.<br/>Met dank aan Beeld &amp; Geluid.",
+            "duration_ms": 2222047,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/04LQCmBG6eKOvDLWqchbTa"
+            },
+            "href": "https://api.spotify.com/v1/episodes/04LQCmBG6eKOvDLWqchbTa",
+            "id": "04LQCmBG6eKOvDLWqchbTa",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a207ebd539ae4606d22e38f2b",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f207ebd539ae4606d22e38f2b",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d207ebd539ae4606d22e38f2b",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Podcast - Liefde van toen en nu",
+            "release_date": "2020-11-19",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:04LQCmBG6eKOvDLWqchbTa"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0G2IgrwW4MNg5LN8VhUc3S/clip_215632_275632.mp3",
+            "description": "Elizabeth Wolff (1738-1804) en Agatha Deken (1741-1804) deelden zevenentwintig jaar lang huis, leven \u00e9n schrijversbestaan. Voor ze elkaar ontmoetten publiceerden beiden al niet onverdienstelijke dichtbundels. Maar nadat ze samen gingen werken kwamen ze tot nieuwe vormen van literatuur \u2013 romans in brieven \u2013 waarmee ze dusdanig beroemd werden dat we nu hun namen nog kennen. In hun romans kwamen allerlei verlichte aspecten aan bod zoals de positie van de vrouw, de maatschappelijke ontwikkelingen van hun tijd en verlichte idee\u00ebn over godsdienst. In deze podcast vertelt Marieke van Delft, conservator oude drukken van de KB, over hun avontuurlijke leven en hartsvriendschap.",
+            "html_description": "Elizabeth Wolff (1738-1804) en Agatha Deken (1741-1804) deelden zevenentwintig jaar lang huis, leven \u00e9n schrijversbestaan. Voor ze elkaar ontmoetten publiceerden beiden al niet onverdienstelijke dichtbundels. Maar nadat ze samen gingen werken kwamen ze tot nieuwe vormen van literatuur \u2013 romans in brieven \u2013 waarmee ze dusdanig beroemd werden dat we nu hun namen nog kennen. In hun romans kwamen allerlei verlichte aspecten aan bod zoals de positie van de vrouw, de maatschappelijke ontwikkelingen van hun tijd en verlichte idee\u00ebn over godsdienst. In deze podcast vertelt Marieke van Delft, conservator oude drukken van de KB, over hun avontuurlijke leven en hartsvriendschap.",
+            "duration_ms": 1278255,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/08kHcRL85el5pi3Cy2FNTY"
+            },
+            "href": "https://api.spotify.com/v1/episodes/08kHcRL85el5pi3Cy2FNTY",
+            "id": "08kHcRL85el5pi3Cy2FNTY",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8afe400dbf5a567c02579dd23a",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1ffe400dbf5a567c02579dd23a",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dfe400dbf5a567c02579dd23a",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Liefde en Vriendschap: De literaire vriendschap van Betje Wolff en Aagje Deken",
+            "release_date": "2020-11-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:08kHcRL85el5pi3Cy2FNTY"
+          }
+        ]
+      }
+    },
+    "apple": "https://podcasts.apple.com/nl/podcast/kb-nationale-bibliotheek/id1590978258",
+    "apple_data": {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1590978258,
+      "trackId": 1590978258,
+      "artistName": "KB nationale bibliotheek",
+      "collectionName": "KB nationale bibliotheek",
+      "trackName": "KB nationale bibliotheek",
+      "collectionCensoredName": "KB nationale bibliotheek",
+      "trackCensoredName": "KB nationale bibliotheek",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/kb-nationale-bibliotheek/id1590978258?uo=4",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:663110451/sounds.rss",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/kb-nationale-bibliotheek/id1590978258?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource115/v4/6e/8f/20/6e8f208a-22a9-7eae-f514-03a27d6f0926/578da49e-beda-4dc7-a124-1b62c5af33a2.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource115/v4/6e/8f/20/6e8f208a-22a9-7eae-f514-03a27d6f0926/578da49e-beda-4dc7-a124-1b62c5af33a2.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource115/v4/6e/8f/20/6e8f208a-22a9-7eae-f514-03a27d6f0926/578da49e-beda-4dc7-a124-1b62c5af33a2.jpg/100x100bb.jpg",
+      "collectionPrice": 0.0,
+      "trackPrice": 0.0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2022-04-19T12:59:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 31,
+      "trackTimeMillis": 3125,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Education",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource115/v4/6e/8f/20/6e8f208a-22a9-7eae-f514-03a27d6f0926/578da49e-beda-4dc7-a124-1b62c5af33a2.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "genres": [
+        "Education",
+        "Podcasts"
+      ]
+    }
   }
 ]
