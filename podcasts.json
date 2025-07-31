@@ -70362,15 +70362,55 @@
       "publisher": "Leerhuis Informatiehuishouding",
       "type": "show",
       "uri": "spotify:show:6oJsjZsAiunyNsDK1g9QzK",
-      "total_episodes": 43,
+      "total_episodes": 44,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6oJsjZsAiunyNsDK1g9QzK/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 43,
+        "total": 44,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/23Plr8sreXUepPI3yAMxb3/clip_0_60000.mp3",
+            "description": "Hoe veranker je duurzame toegankelijkheid binnen een grote organisatie als de Belastingdienst?Marjolein Achtereekte en Jochem Visser delen hoe zij met het DUTO-raamwerk bouwen aan een toekomstbestendige informatiehuishouding \u2014 midden in de praktijk, tussen architectuur, IV en verandering.",
+            "html_description": "<p></p><p>Hoe veranker je duurzame toegankelijkheid binnen een grote organisatie als de Belastingdienst?<br />Marjolein Achtereekte en Jochem Visser delen hoe zij met het DUTO-raamwerk bouwen aan een toekomstbestendige informatiehuishouding \u2014 midden in de praktijk, tussen architectuur, IV en verandering.</p>",
+            "duration_ms": 2327693,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6MRDpNAYGepf0guDzgTuYx"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6MRDpNAYGepf0guDzgTuYx",
+            "id": "6MRDpNAYGepf0guDzgTuYx",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a78625e78ae2963bab995eb36",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f78625e78ae2963bab995eb36",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d78625e78ae2963bab995eb36",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering #44 met als gasten Marjolein Achtereekte en Jochem Visser - Belastingdienst",
+            "release_date": "2025-07-31",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6MRDpNAYGepf0guDzgTuYx"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3OjN5XQc1jjErOFYxAarMO/clip_650454_710454.mp3",
             "description": "Technologiefilosoof Martijn Aslander en Afelonne Doek, Algemeen Rijksarchivaris en directeur van het Nationaal Archief, hebben het bij Sebo Boerma en Eric Kokke aan tafel over de waarde van informatie. Volgens Afelonne is toegang tot informatie de hoeksteen van de democratie. Martijn roept daarom op tot informatiegeletterdheid \u2013 naast digitale geletterdheid \u2013 van kenniswerkers, de \u2018informatie-amateurs\u2019. Daarmee winnen de informatieprofessionals ook.Jouw vakkennis up-to-date houden? Maak kennis met het Leerhuis: www.leerhuisinformatiehuishouding.nl",
@@ -103140,15 +103180,55 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:4tfz5HFn5zqCoIVzLy6eR7",
-      "total_episodes": 11,
+      "total_episodes": 12,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/4tfz5HFn5zqCoIVzLy6eR7/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 11,
+        "total": 12,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4aYENiforvjAlTrsQTzI1s/clip_221680_281680.mp3",
+            "description": "Rechercheur Iris gaat naar een melding waar een man van het balkon is gevallen. Is er sprake van een ongeluk, of was het moord? Ze gaat op onderzoek uit.   Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie  Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.  ",
+            "html_description": "<p>Rechercheur Iris gaat naar een melding waar een man van het balkon is gevallen. Is er sprake van een ongeluk, of was het moord? Ze gaat op onderzoek uit. <br/></p><p><br/></p><p>Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/&#64;politie<br/></p><p><br/></p><p>Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur<br/></p><p><br/></p><p>Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten. <br/></p><p><br /></p>",
+            "duration_ms": 535848,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/19s3U4f7nJfFNjCpwMkdaC"
+            },
+            "href": "https://api.spotify.com/v1/episodes/19s3U4f7nJfFNjCpwMkdaC",
+            "id": "19s3U4f7nJfFNjCpwMkdaC",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa34971b747bcacaf5ed9cbbe",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa34971b747bcacaf5ed9cbbe",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da34971b747bcacaf5ed9cbbe",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "\u2018Ik zag heel, heel veel bloed\u2019",
+            "release_date": "2025-07-31",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:19s3U4f7nJfFNjCpwMkdaC"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0rrcjbjrtjlm7nfGU3Mjw7/clip_214861_274861.mp3",
             "description": "Als een straatrover met gestolen tasjes op de vlucht gaat, sprint Peter er met zijn collega achteraan. De dief loopt zichzelf in de val op een verlaten terrein met oude gebouwen. Maar hij laat zich niet zomaar vangen.  Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie of op ons TikTok kanaal @politie. Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.  ",
