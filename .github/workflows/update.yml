@@ -18,5 +18,5 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
       - uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          commit_message: 'Update podcasts'
+          commit_message: 'Periodically update podcasts'
           file_pattern: 'podcasts.json'

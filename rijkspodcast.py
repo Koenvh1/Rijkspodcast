@@ -5,6 +5,8 @@ import sys
 import time
 import urllib
 
+import xml.etree.ElementTree as ET
+
 import requests
 import spotipy
 
@@ -73,6 +75,31 @@ def add_podcasts():
                 apple_data = None
             podcasts.append({"provider": provider, "spotify": spotify, "spotify_data": spotify_data, "apple": apple, "apple_data": apple_data})
             json.dump(podcasts, open("podcasts.json", "w"), indent=2)
+            generate_opml()
+
+def generate_opml():
+    root = ET.Element("opml")
+    root.set("version", "1.0")
+    head = ET.SubElement(root, "head")
+    title = ET.SubElement(head, "title")
+    title.text = "Rijkspodcastregister podcasts"
+
+    body = ET.SubElement(root, "body")
+
+    podcasts = json.load(open("podcasts.json"))
+    total = len(podcasts)
+    for idx, podcast in enumerate(podcasts):
+        if not podcast["apple"]:
+            continue
+        outline = ET.SubElement(body, "outline")
+        outline.set("type", "rss")
+        outline.set("text", podcast["spotify_data"]["name"])
+        outline.set("title", podcast["spotify_data"]["name"])
+        outline.set("xmlUrl", podcast["apple_data"]["feedUrl"])
+
+    tree = ET.ElementTree(root)
+    ET.indent(tree, space="\t", level=0)
+    tree.write("rijkspodcastregister.opml", encoding="utf-8", xml_declaration=True)
 
 def update_podcasts():
     podcasts = json.load(open("podcasts.json"))
@@ -88,3 +115,5 @@ if __name__ == "__main__":
     else:
         if sys.argv[1] == "update":
             update_podcasts()
+        elif sys.argv[1] == "opml":
+            generate_opml()
