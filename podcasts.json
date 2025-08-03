@@ -58178,17 +58178,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a8c2dac0ca3e19125cc2735e0",
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae252430f16591d5725cd8505",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f8c2dac0ca3e19125cc2735e0",
+          "url": "https://i.scdn.co/image/ab67656300005f1fe252430f16591d5725cd8505",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d8c2dac0ca3e19125cc2735e0",
+          "url": "https://i.scdn.co/image/ab6765630000f68de252430f16591d5725cd8505",
           "width": 64
         }
       ],
@@ -58201,15 +58201,20 @@
       "publisher": "NCSC",
       "type": "show",
       "uri": "spotify:show:2fZzw0BKgXHIjBzQ7jBIQy",
-      "total_episodes": 35,
+      "total_episodes": 40,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2fZzw0BKgXHIjBzQ7jBIQy/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 35,
+        "total": 40,
         "items": [
+          null,
+          null,
+          null,
+          null,
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2OP7niE0bmutSIeuASIDww/clip_439042_499042.mp3",
             "description": "Dankzij de wetenschap kunnen we binnen 5 tot 15 jaar een werkende quantumcomputer verwachten. Terwijl wetenschappers hard werken om de quantumcomputer werkend te krijgen, kijken anderen al vooruit naar de zogenaamde post-quantumperiode. Op zoek naar oplossingen voor problemen die we nog niet helemaal kunnen overzien. En kansen die we nog niet kunnen bedenken.In deze vijfde aflevering duiken nog dieper in de wetenschap achter de quantumcomputer en het nieuwe onderzoek dat daaruit voortvloeit, met onderzoeker \u015eeyma\u00a0Irilmazbilek (NCSC) en hoogleraar Roland van Rijswijk-Deij (Universiteit Twente). Handige en interessante links:\u00a0Over onderzoek door het NCSC: https://www.ncsc.nl/wat-doet-het-ncsc-voor-jou/onderzoekHet Het crypto-agilitymonster: https://www.ncsc.nl/actueel/weblog/weblog/2024/het-crypto-agilitymonsterPresentatie: Yasmine AbiadhGasten: \u015eeyma Irilmazbilek (NCSC) & Roland van Rijswijk - Deij (Universiteit Twente)Redactie: Jessica Maes & BKB Het CampagnebureauMontage en geluid: FC AfkickenLogo: Aron Vellekoop Le\u00f3n\u00a0",
@@ -58983,17 +58988,17 @@
             "id": "1EU7hXHeU4RskJ2X2iH6Km",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8c2dac0ca3e19125cc2735e0",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae252430f16591d5725cd8505",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8c2dac0ca3e19125cc2735e0",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe252430f16591d5725cd8505",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8c2dac0ca3e19125cc2735e0",
+                "url": "https://i.scdn.co/image/ab6765630000f68de252430f16591d5725cd8505",
                 "height": 64,
                 "width": 64
               }
@@ -59223,17 +59228,17 @@
             "id": "0l3LZerl5w94UAbfunZbrs",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2d05b8a9b3076405b2656e99",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab67656300005f1f2d05b8a9b3076405b2656e99",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68de985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000f68d2d05b8a9b3076405b2656e99",
                 "height": 64,
                 "width": 64
               }
@@ -59263,17 +59268,17 @@
             "id": "4xcF2iSjONFnHR7wyGlCfX",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2d05b8a9b3076405b2656e99",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab67656300005f1f2d05b8a9b3076405b2656e99",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68de985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000f68d2d05b8a9b3076405b2656e99",
                 "height": 64,
                 "width": 64
               }
@@ -59303,17 +59308,17 @@
             "id": "3udLJEe6g21Oyq9orOexdM",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2d05b8a9b3076405b2656e99",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab67656300005f1f2d05b8a9b3076405b2656e99",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68de985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000f68d2d05b8a9b3076405b2656e99",
                 "height": 64,
                 "width": 64
               }
@@ -59343,17 +59348,17 @@
             "id": "0d4UcN5LofvYFLbZoI57SU",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2d05b8a9b3076405b2656e99",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab67656300005f1f2d05b8a9b3076405b2656e99",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68de985c96f07d7305e153eb258",
+                "url": "https://i.scdn.co/image/ab6765630000f68d2d05b8a9b3076405b2656e99",
                 "height": 64,
                 "width": 64
               }
