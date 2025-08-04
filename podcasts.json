@@ -80404,15 +80404,55 @@
       "publisher": "Rijkswaterstaat",
       "type": "show",
       "uri": "spotify:show:3rzWW8ARslebr8ANGCJxBD",
-      "total_episodes": 41,
+      "total_episodes": 42,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3rzWW8ARslebr8ANGCJxBD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 41,
+        "total": 42,
         "items": [
+          {
+            "audio_preview_url": null,
+            "description": "Wie droomt er soms niet van? In de Waddenzee liggen we drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat taken uitvoeren. \u00a0 Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.",
+            "html_description": "<p>Wie droomt er soms niet van? In de Waddenzee liggen we drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat taken uitvoeren.</p><br/><p>\u00a0</p><br/><p>Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.</p>",
+            "duration_ms": 1618894,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3bZppnl34FgfXiQLuJ8R1f"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3bZppnl34FgfXiQLuJ8R1f",
+            "id": "3bZppnl34FgfXiQLuJ8R1f",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8af694ff74f87e082fc1261af7",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1ff694ff74f87e082fc1261af7",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68df694ff74f87e082fc1261af7",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#41 Op een onbewoond eiland",
+            "release_date": "2025-08-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3bZppnl34FgfXiQLuJ8R1f"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/605LCzuxBShfu59ek5rKlL/clip_273328_333328.mp3",
             "description": "In 1945 capituleerde de bezetter en werd de vrede getekend. Maar met de gevolgen van deze oorlog wordt Rijkswaterstaat nog steeds geconfronteerd. Tijdens de oorlog werd ons land gebombardeerd. Ook bruggen en belangrijke (spoor)wegen waren regelmatig het doelwit. En die bommen worden zelfs 80 jaar later gevonden bij werkzaamheden rond de snelweg! \u00a0 Botte Jellema ging samen met Jurian Faber, adviseur ontplofbare oorlogsresten bij Rijkswaterstaat, naar de A20\u00a0bij Moordrecht. Daar wordt een wegverbreding voorbereid. Jurian legt uit hoe we erachter komen dat er een bom ligt en wat we dan doen.",
