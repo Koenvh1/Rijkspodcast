@@ -80414,7 +80414,7 @@
         "total": 42,
         "items": [
           {
-            "audio_preview_url": null,
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59bBBKwHxMegwgkJ5ARMuO/clip_483202_543202.mp3",
             "description": "Wie droomt er soms niet van? In de Waddenzee liggen we drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat taken uitvoeren. \u00a0 Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.",
             "html_description": "<p>Wie droomt er soms niet van? In de Waddenzee liggen we drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat taken uitvoeren.</p><br/><p>\u00a0</p><br/><p>Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.</p>",
             "duration_ms": 1618894,
@@ -88853,15 +88853,55 @@
       "publisher": "Novum Innovatielab",
       "type": "show",
       "uri": "spotify:show:5GChHPdKAdrMoh0outbofX",
-      "total_episodes": 38,
+      "total_episodes": 39,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5GChHPdKAdrMoh0outbofX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 38,
+        "total": 39,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/114izCKrXIZ7Td5qxhyZUy/clip_373280_433280.mp3",
+            "description": "In deze aflevering van De Innovatieambtenaar duiken Jeroen Vonk en Raisa Getrouw diep in het gloednieuwe Novum Innovatieprogramma. Wat is het verschil met de bekende Novum Innovatiemethode? Wat is innoveren op schaal? Hoe werk je met meerdere innovatietrajecten tegelijkertijd? En hoe kunnen ambtenaren en organisaties hier zelf mee aan de slag?Wat je leert in deze aflevering:Het verschil tussen de Novum Innovatiemethode (NIM) en het Novum Innovatieprogramma (NIP)Hoe je met 3 teams simultaan aan verschillende uitdagingen werktDe praktische opzet: 4,5 maanden, 10 workshops, coaching en huiswerkWaarom \"trust the process\" zo belangrijk isHoe eindgebruikers worden betrokken via interviewsDe resultaten van de eerste pilot en wat er geleerd isTijdsinvestering: 4 uur per week per deelnemerDuur programma: 4,5 maandenTeamgrootte: 5-9 personen (multidisciplinair)Raisa Getrouw, Innovation Designer bij Novum, deelt haar ervaringen van de eerste pilot waarin drie teams met verschillende uitdagingen aan de slag gingen. Van de eerste workshop tot de demodag - je hoort alles over deze nieuwe manier van innoveren op schaal.Interesse in het programma?Stuur een mail naar innovatie@svb.nlMeer informatie:svb.nl/innovatie",
+            "html_description": "<p>In deze aflevering van De Innovatieambtenaar duiken Jeroen Vonk en Raisa Getrouw diep in het gloednieuwe Novum Innovatieprogramma. Wat is het verschil met de bekende Novum Innovatiemethode? Wat is innoveren op schaal? Hoe werk je met meerdere innovatietrajecten tegelijkertijd? En hoe kunnen ambtenaren en organisaties hier zelf mee aan de slag?</p><p>Wat je leert in deze aflevering:</p><ul><li>Het verschil tussen de Novum Innovatiemethode (NIM) en het Novum Innovatieprogramma (NIP)</li><li>Hoe je met 3 teams simultaan aan verschillende uitdagingen werkt</li><li>De praktische opzet: 4,5 maanden, 10 workshops, coaching en huiswerk</li><li>Waarom &#34;trust the process&#34; zo belangrijk is</li><li>Hoe eindgebruikers worden betrokken via interviews</li><li>De resultaten van de eerste pilot en wat er geleerd is</li></ul><p><br /></p><p>Tijdsinvestering: 4 uur per week per deelnemerDuur programma: 4,5 maandenTeamgrootte: 5-9 personen (multidisciplinair)</p><p><br /></p><p>Raisa Getrouw, Innovation Designer bij Novum, deelt haar ervaringen van de eerste pilot waarin drie teams met verschillende uitdagingen aan de slag gingen. Van de eerste workshop tot de demodag - je hoort alles over deze nieuwe manier van innoveren op schaal.</p><p>Interesse in het programma?Stuur een mail naar <a href=\"mailto:innovatie&#64;svb.nl\" rel=\"nofollow\">innovatie&#64;svb.nl</a></p><p>Meer informatie:<a href=\"www.svb.nl/innovatie\" rel=\"nofollow\">svb.nl/innovatie</a></p>",
+            "duration_ms": 2086475,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2L9WqrqkQ44iTnK1VX5ErF"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2L9WqrqkQ44iTnK1VX5ErF",
+            "id": "2L9WqrqkQ44iTnK1VX5ErF",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a92fd448b1c15576be233f610",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f92fd448b1c15576be233f610",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d92fd448b1c15576be233f610",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Het Novum Innovatieprogramma: Innoveren op schaal binnen de overheid",
+            "release_date": "2025-08-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2L9WqrqkQ44iTnK1VX5ErF"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1ZEGEOtyZdfYKqaOrk7w8P/clip_608981_668981.mp3",
             "description": "In deze aflevering vertellen we alles over project Leesplank, dat we samen met UWV en de KU Leuven hebben gedaan. Leesplank is een open source Large Language Model (LLM) voor de door de overheid, ge\u00efnspireerd door Aap, Noot en Mies. Het geeft een begrijpelijke uitleg van het project maar ook diepere technische details.  Meer informatie over de Open source LLM vind je in de volgende links. UWV wikipedia sets: https://huggingface.co/datasets/UWV/Leesplank_NL_wikipedia_simplifications https://huggingface.co/datasets/UWV/veringewikkelderingen\u00a0(deze is onaf) \u00a0 Bram datasets https://huggingface.co/datasets/BramVanroy/ultra_feedback_dutch https://huggingface.co/datasets/BramVanroy/ultrachat_200k_dutch https://huggingface.co/datasets/BramVanroy/orca_dpo_pairs_dutch \u00a0 Bram verrijkte GEITjehttps://huggingface.co/BramVanroy/GEITje-7B-ultra \u00a0 Oorspronkelijke GEITje van Edwin Rijgersberg: https://huggingface.co/Rijgersberg/GEITje-7B\u00a0(waar Leesplank dus niets aan heeft gedaan) \u00a0 Bram oude versie van vereenvoudigingsmodel,\u00a0maar staat op sleep mode en is nog niet verrijkt met onze data om op alinea niveau te werken; kan nu alleen op zinsniveau: https://huggingface.co/spaces/BramVanroy/mai-simplification-nl-2023-demo \u00a0 Scandeval GPT 4 1106 resultaten gedaan i.s.m. UWV https://scandeval.com/dutch-nlg/ https://scandeval.com/dutch-nlu/ en hier staan onze credits (bij special thanks):\u00a0https://github.com/ScandEval/ScandEval \u00a0 Tot slot hier de oerversie die Aap ge\u00efnspireerd\u00a0heeft, die dus nog op illegale data getraind is, maar wel een aardig beeld geeft van hoe het zou kunnen: https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory \u00a0 Meer informatie over de deelnemers: Bram - https://www.linkedin.com/in/bramvanroy/ Michiel - https://www.linkedin.com/in/mbuisman/ Maarten - https://www.linkedin.com/in/lensfitzgerald/",
