@@ -130404,7 +130404,46 @@
         "previous": null,
         "total": 11,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1uZ6URhK1aeJUXQSz1cn3u/clip_592171_652171.mp3",
+            "description": "De zesde editie van Dossier WODC Live heeft plaatsgevonden op de Vrije Universiteit Amsterdam en ging over Dossier Meisjescriminaliteit. In deze editie spreekt host Olivier Hendriks met universitair hoofddocent Anne-Marie Slotboom van de Vrije Universiteit Amsterdam over meisjes en jonge vrouwen die in de criminaliteit belanden.Meisjes en jonge vrouwen die crimineel gedrag vertonen zijn een blinde vlek in de strafrechtketen. Ze worden minder snel als verdachte gezien, en als ze eenmaal als verdachte in beeld zijn, dan worden ze bewust of onbewust anders bejegend dan mannen. Maar waarom dan?Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zesde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees hier het volledige rapport.Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpnames op locatie verzorgd door NFGD.",
+            "html_description": "<p>De zesde editie van Dossier WODC Live heeft plaatsgevonden op de Vrije Universiteit Amsterdam en ging over Dossier Meisjescriminaliteit. In deze editie spreekt host Olivier Hendriks met universitair hoofddocent Anne-Marie Slotboom van de Vrije Universiteit Amsterdam over meisjes en jonge vrouwen die in de criminaliteit belanden.<br />Meisjes en jonge vrouwen die crimineel gedrag vertonen zijn een blinde vlek in de strafrechtketen. Ze worden minder snel als verdachte gezien, en als ze eenmaal als verdachte in beeld zijn, dan worden ze bewust of onbewust anders bejegend dan mannen. Maar waarom dan?<br />Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zesde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van <a href=\"https://www.dossierwodc.nl/\" rel=\"nofollow\">Dossier WODC Live</a> en kijk wanneer we bij jouw in de buurt komen.<br />Meer weten over dit onderzoek? Lees <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3254/Cahier%202023-03-volledige-tekst.pdf?sequence&#61;1&amp;isAllowed&#61;y\" rel=\"nofollow\">hier</a> het volledige rapport.<br />Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">www.wodc.nl</a><br />Opnames op locatie verzorgd door NFGD.</p>",
+            "duration_ms": 2590511,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1tv4yzXeTlHjpNMWp6HVpK"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1tv4yzXeTlHjpNMWp6HVpK",
+            "id": "1tv4yzXeTlHjpNMWp6HVpK",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a39b1bf6721a2b2dd7d0b5c47",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f39b1bf6721a2b2dd7d0b5c47",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d39b1bf6721a2b2dd7d0b5c47",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Dossier WODC Live: Dossier Meisjescriminaliteit",
+            "release_date": "2025-08-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1tv4yzXeTlHjpNMWp6HVpK"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2IsZEI92K2b8ul2VZiLZMT/clip_386338_446338.mp3",
             "description": "Hoe moet de wetenschap zich staande houden in een maatschappij waarin feiten steeds meer en vaker onder druk komen te staan? En is vrije wetenschap nog wel mogelijk in een afbrokkelende rechtsstaat? Het zijn zorgen die je hebt als directeur van een kennisinstituut.In het kader van zijn eerste half jaar bij het WODC spreekt host Carlissa Remmerswaal met Ivo Giesen\u2014directeur van het WODC en hoogleraar privaatrecht aan de Universiteit Utrecht\u2014over wie hij is, over wat hij hiervoor gedaan heeft, en over de rol van het WODC in een hedendaagse maatschappij.Meer weten over het WODC en over wat het WODC doet? Ga dan naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
