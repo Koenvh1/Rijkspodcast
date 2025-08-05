@@ -58213,7 +58213,46 @@
           null,
           null,
           null,
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0gQl1fWCISvNP889wgNZts/clip_573167_633167.mp3",
+            "description": "Yasmine spreekt NCSC\u2019ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC.\u00a0Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario\u2019s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?\u00a0Presentatie: Yasmine AbiadhGasten: Sara (NCSC) en Olivier (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC AfkickenLogo: Aron Vellekoop Le\u00f3n",
+            "html_description": "<p>Yasmine spreekt NCSC\u2019ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC.</p><p>\u00a0</p><p>Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario\u2019s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?</p><p>\u00a0</p><p>Presentatie: Yasmine Abiadh</p><p>Gasten: Sara (NCSC) en Olivier (NCSC)</p><p>Redactie: NCSC &amp; BKB Het Campagnebureau</p><p>Montage en geluid: FC Afkicken</p><p>Logo: Aron Vellekoop Le\u00f3n</p>",
+            "duration_ms": 1063799,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3LJkJ2KGl1Lws3AEtom8hB"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3LJkJ2KGl1Lws3AEtom8hB",
+            "id": "3LJkJ2KGl1Lws3AEtom8hB",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae252430f16591d5725cd8505",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe252430f16591d5725cd8505",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de252430f16591d5725cd8505",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#2 - Hoe bereid je je voor?",
+            "release_date": "2025-08-05",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3LJkJ2KGl1Lws3AEtom8hB"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2OfXR5FBgdFt7qatGd5hTF/clip_364156_424156.mp3",
             "description": "In de eerste aflevering van Enter over de NAVO-top spreken we met Pieter-Jaap Aalbersberg, de Nationaal Co\u00f6rdinator Terrorisme en Veiligheid (NCTV). We spreken hem een maand voor de top, hij is op dat moment co\u00f6rdinator van alle samenwerkingsverbanden rondom de top. De voorbereidingen zijn al een jaar in volle gang. Hoe kijkt hij vooruit naar dit evenement? Welke dreigingen ziet hij in het fysieke en digitale domein? Hoe worden risico\u2019s ingeschat en welke voorbereidingen zijn getroffen? Je hoort het in aflevering 1 van Enter over de NAVO-top.\u00a0Over deze serieOp dinsdag 24 en woensdag 25 juni vond in Den Haag de NAVO-top plaats. Meer dan honderd wereldleiders en ministers kwamen bij elkaar om te praten over de veiligheid in de wereld. Bijna 6.000 delegatieleden reisden mee. En ruim 2.000 journalisten van over de hele wereld deden van de NAVO-top verslag. Er waren 27.000 agenten op de been, snelwegen en het luchtruim rond Den Haag werden afgesloten en er werden ook allerlei digitale maatregelen genomen. Het was de grootste veiligheidsoperatie in Nederland tot nu toe.\u00a0In deze serie van Enter bespreken we de voorbereidingen van de digitale beveiliging van de NAVO-top, volgen we NCSC\u2019ers op de werkvloer tijdens de top, blikken we terug op hoe het is gegaan en welke lessen zijn geleerd.\u00a0Presentatie: Yasmine AbiadhGast: Pieter-Jaap Aalbersberg (NCTV)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC AfkickenLogo: Aron Vellekoop Le\u00f3n",
