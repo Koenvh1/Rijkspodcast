@@ -80454,8 +80454,8 @@
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59bBBKwHxMegwgkJ5ARMuO/clip_483202_543202.mp3",
-            "description": "Wie droomt er soms niet van? In de Waddenzee liggen we drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat taken uitvoeren. \u00a0 Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.",
-            "html_description": "<p>Wie droomt er soms niet van? In de Waddenzee liggen we drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat taken uitvoeren.</p><br/><p>\u00a0</p><br/><p>Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.</p>",
+            "description": "Wie droomt er niet soms van? In de Waddenzee liggen wel drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat deze taken uitvoeren.\u00a0 Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is namens Rijkswaterstaat co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.",
+            "html_description": "<p>Wie droomt er niet soms van? In de Waddenzee liggen wel drie onbewoonde eilanden! E\u00e9n van die eilanden, Richel, kun je zelfs bezoeken in het zomerseizoen. Om de natuur te beschermen en gasten te ontvangen zijn er in de zomer wadwachters. Dit zijn vrijwilligers die namens Rijkswaterstaat deze taken uitvoeren.\u00a0</p><br/><p>Botte Jellema trok naar het hoge noorden om er meer over te horen. Annemarie Bembom is namens Rijkswaterstaat co\u00f6rdinator van de wadwachters en vertelt over Richel en de andere twee onbewoonde eilanden in de Waddenzee.</p>",
             "duration_ms": 1618894,
             "explicit": false,
             "external_urls": {
@@ -123258,7 +123258,46 @@
         "previous": null,
         "total": 96,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7p6KGXebutXIszUkzptLdt/clip_147554_207554.mp3",
+            "description": "In deze aflevering van de AMLC Podcast bespreken we de rol van poortwachters in de strijd tegen witwassen en terrorismefinanciering. We gaan in op de uitdagingen rond geheimhouding, gegevensdeling en de verplichting om ongebruikelijke transacties te melden of zelfs dienstverlening te weigeren. Ook komt het zelfreinigend vermogen van sectoren als de advocatuur en makelaardij aan bod, en hoe samenwerking met opsporingsinstanties steeds belangrijker wordt.Wat je leert in deze aflevering:\u2705 Hoe poortwachters invulling geven aan hun wettelijke taak\u2705 Wanneer geheimhouding doorbroken mag of moet worden\u2705 Hoe gegevensdeling kan bijdragen aan effectievere signalering\u2705 Waarom communicatie over witwassen cruciaal is voor draagvlak",
+            "html_description": "<p>In deze aflevering van de AMLC Podcast bespreken we de rol van poortwachters in de strijd tegen witwassen en terrorismefinanciering. We gaan in op de uitdagingen rond geheimhouding, gegevensdeling en de verplichting om ongebruikelijke transacties te melden of zelfs dienstverlening te weigeren. Ook komt het zelfreinigend vermogen van sectoren als de advocatuur en makelaardij aan bod, en hoe samenwerking met opsporingsinstanties steeds belangrijker wordt.</p><p>Wat je leert in deze aflevering:<br />\u2705 Hoe poortwachters invulling geven aan hun wettelijke taak<br />\u2705 Wanneer geheimhouding doorbroken mag of moet worden<br />\u2705 Hoe gegevensdeling kan bijdragen aan effectievere signalering<br />\u2705 Waarom communicatie over witwassen cruciaal is voor draagvlak</p>",
+            "duration_ms": 2075724,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0vC5WnQxbUhpMOfCFByV8W"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0vC5WnQxbUhpMOfCFByV8W",
+            "id": "0vC5WnQxbUhpMOfCFByV8W",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "96. Poortwachters en hun rol in de witwasbestrijding - Karin en Sandra",
+            "release_date": "2025-08-05",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0vC5WnQxbUhpMOfCFByV8W"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3LmSJEi8KkEFWxP2ggSyDg/clip_129312_189312.mp3",
             "description": "In deze aflevering van de AMLC Podcast duiken we samen met Hennie Verbeek-Kusters, hoofd van FIU-Nederland, diep in het FIU Jaarverslag 2024. Wat zijn de meest urgente witwasmethoden van dit moment? Hoe kijkt de FIU naar de effectiviteit van meldingen? En wat betekenen de veranderingen in de Europese meldstructuur voor poortwachters?We bespreken onder meer:De opkomst van het cashcompensatiemodel als systeemrisicoDe rol van facilitators en misbruik van rechtspersonenSanctieontwijking als witwasfenomeenTrends in meldgedrag bij banken, VASPs en creditcardmaatschappijen\ud83c\udfa7 Beluister deze aflevering als je werkt aan het voorkomen, opsporen of vervolgen van witwassen \u2013 en meer grip wilt krijgen op de richting waarin ons stelsel zich ontwikkelt.\ud83d\udcce Meer lezen?\ud83d\udc49 FIU Jaarverslag 2024\ud83d\udc49 Typologie\u00ebn over crypto (juli 2025)\ud83d\udc49 Leaders in Finance Compliance podcast aflevering op Spotify met Hennie Verbeek-Kusters (2 juli)",
