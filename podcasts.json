@@ -58211,7 +58211,46 @@
         "total": 40,
         "items": [
           null,
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Aos9nbPWZeqFa6EDLxzM4/clip_290798_350798.mp3",
+            "description": "Het is woensdagochtend 25 juni, dag 2 van de NAVO-top. Terwijl tientallen wereldleiders een paar kilometer verderop overleggen over het verhogen van de NAVO-norm, zijn op het kantoor van het NCSC tientallen mensen hard aan het werk om de digitale wereld in de gaten \u00e9n veilig te houden. Demissionair minister van Justitie en Veiligheid, David van Weel, komt net terug van een bezoek aan de werkvloer van het NCSC en vertelt kort wat hij heeft gezien. Ook spreken we met vijf NCSC\u2019ers zelf over hun bijzondere werkdag en de uitdagingen die ze zijn tegengekomen.\u00a0Presentatie: Yasmine AbiadhGasten: David van Weel (ministerie van Justitie en Veiligheid), Sabine (NCSC), Mike (NCSC), Kai (NCSC), Sebastiaan (NCSC) en Patrick (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC Afkicken",
+            "html_description": "<p>Het is woensdagochtend 25 juni, dag 2 van de NAVO-top. Terwijl tientallen wereldleiders een paar kilometer verderop overleggen over het verhogen van de NAVO-norm, zijn op het kantoor van het NCSC tientallen mensen hard aan het werk om de digitale wereld in de gaten \u00e9n veilig te houden. Demissionair minister van Justitie en Veiligheid, David van Weel, komt net terug van een bezoek aan de werkvloer van het NCSC en vertelt kort wat hij heeft gezien. Ook spreken we met vijf NCSC\u2019ers zelf over hun bijzondere werkdag en de uitdagingen die ze zijn tegengekomen.</p><p>\u00a0</p><p>Presentatie: Yasmine Abiadh</p><p>Gasten: David van Weel (ministerie van Justitie en Veiligheid), Sabine (NCSC), Mike (NCSC), Kai (NCSC), Sebastiaan (NCSC) en Patrick (NCSC)</p><p>Redactie: NCSC &amp; BKB Het Campagnebureau</p><p>Montage en geluid: FC Afkicken</p>",
+            "duration_ms": 1057250,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3cmvZaXcxyM6GLpZKfijyG"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3cmvZaXcxyM6GLpZKfijyG",
+            "id": "3cmvZaXcxyM6GLpZKfijyG",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae252430f16591d5725cd8505",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe252430f16591d5725cd8505",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de252430f16591d5725cd8505",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#4 - Een dag achter de schermen bij de NAVO-top",
+            "release_date": "2025-08-07",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3cmvZaXcxyM6GLpZKfijyG"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/14XkNa9ggh9jTrPsKcORVf/clip_128067_188067.mp3",
             "description": "Een dag voor de NAVO-top bezoeken we Jeroen Schipper, Chief Information Security Officer bij de gemeente Den Haag. De spanning over de aanstaande top is al voelbaar in de stad. Jeroen ontvangt ons in een vrijwel leeg stadhuis en vertelt honderduit, over hoe de gastgemeente zich klaarmaakt voor dit grootschalig evenement en hoe de afgelopen dagen verlopen zijn.\u00a0Bestuursondersteuner Romke en communicatieadviseur Roger nemen ons op de eerste dag van de NAVO-top mee achter de schermen bij het NCSC. Hoe gaat het tot nu toe? Zijn er al cyberincidenten waargenomen? Hoe communiceren zij hierover met doelgroepen en de buitenwereld? En hoe voorkom je maatschappelijke onrust?Presentatie: Yasmine AbiadhGasten: Jeroen Schipper (gemeente Den Haag), Romke (NCSC) en Roger (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC AfkickenLogo: Aron Vellekoop Le\u00f3n",
