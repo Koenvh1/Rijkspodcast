@@ -58210,7 +58210,46 @@
         "previous": null,
         "total": 40,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5LAdYbWoOQByowwBReOSe4/clip_574895_634895.mp3",
+            "description": "Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?Presentatie: Yasmine AbiadhGast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC Afkicken",
+            "html_description": "<p>Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?</p><p>Presentatie: Yasmine Abiadh</p><p>Gast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)</p><p>Redactie: NCSC &amp; BKB Het Campagnebureau</p><p>Montage en geluid: FC Afkicken</p>",
+            "duration_ms": 679439,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6AisXYKpH3QWiPDeCb41By"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6AisXYKpH3QWiPDeCb41By",
+            "id": "6AisXYKpH3QWiPDeCb41By",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae252430f16591d5725cd8505",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe252430f16591d5725cd8505",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de252430f16591d5725cd8505",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#5 - Hoe is het gegaan?",
+            "release_date": "2025-08-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6AisXYKpH3QWiPDeCb41By"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Aos9nbPWZeqFa6EDLxzM4/clip_290798_350798.mp3",
             "description": "Het is woensdagochtend 25 juni, dag 2 van de NAVO-top. Terwijl tientallen wereldleiders een paar kilometer verderop overleggen over het verhogen van de NAVO-norm, zijn op het kantoor van het NCSC tientallen mensen hard aan het werk om de digitale wereld in de gaten \u00e9n veilig te houden. Demissionair minister van Justitie en Veiligheid, David van Weel, komt net terug van een bezoek aan de werkvloer van het NCSC en vertelt kort wat hij heeft gezien. Ook spreken we met vijf NCSC\u2019ers zelf over hun bijzondere werkdag en de uitdagingen die ze zijn tegengekomen.\u00a0Presentatie: Yasmine AbiadhGasten: David van Weel (ministerie van Justitie en Veiligheid), Sabine (NCSC), Mike (NCSC), Kai (NCSC), Sebastiaan (NCSC) en Patrick (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC Afkicken",
@@ -78978,15 +79017,55 @@
       "publisher": "Rijkswaterstaat",
       "type": "show",
       "uri": "spotify:show:0TuoKqjmFIO3yGUOWQw61U",
-      "total_episodes": 32,
+      "total_episodes": 33,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/0TuoKqjmFIO3yGUOWQw61U/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 32,
+        "total": 33,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5lkEc8HHHbK5GcO2PcC718/clip_248653_308653.mp3",
+            "description": "Ochtendspits in Utrecht: weginspecteur Hugo is onderweg als er plotseling een urgente melding binnenkomt. Een bestuurder staat stil op een gevaarlijke plek met een lege tank. Hugo gaat er direct op af.Verder vertelt hij over de werkzaamheden aan de A12. We gaan namelijk bijna weer aan de slag tussen Veenendaal en knooppunt Lunetten. Benieuwd wat weggebruikers kunnen verwachten? Luister de podcast.",
+            "html_description": "<p>Ochtendspits in Utrecht: weginspecteur Hugo is onderweg als er plotseling een urgente melding binnenkomt. Een bestuurder staat stil op een gevaarlijke plek met een lege tank. Hugo gaat er direct op af.</p><p>Verder vertelt hij over de werkzaamheden aan de A12. We gaan namelijk bijna weer aan de slag tussen Veenendaal en knooppunt Lunetten. Benieuwd wat weggebruikers kunnen verwachten? Luister de podcast.</p>",
+            "duration_ms": 1116763,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7I1L647uYsieSOsxF3HVzi"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7I1L647uYsieSOsxF3HVzi",
+            "id": "7I1L647uYsieSOsxF3HVzi",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a338a55f40b3fe446151bca20",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f338a55f40b3fe446151bca20",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d338a55f40b3fe446151bca20",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#10 - Zonder benzine op een gevaarlijke plek en werkzaamheden aan de A12",
+            "release_date": "2025-08-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7I1L647uYsieSOsxF3HVzi"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0f3JrVXfPrEhponX9lRjWM/clip_464093_524093.mp3",
             "description": "Regio Amsterdam maakt zich op voor een drukke periode op de snelwegen. Er vinden grote werkzaamheden en evenementen plaats: 750 jaar Amsterdam, NAVO-top en SAIL. In deze aflevering gaan we in die regio op pad samen met weginspecteur Stephan. Tijdens zijn dienst rijdt hij onder meer met spoed naar een ongeval bij Schiphol en maakt hij een h\u00e9\u00e9l bijzonder incident mee: een man verliest zijn tand op de A10.* Podcast is opgenomen tijdens de werkzaamheden aan de A1 tussen de knooppunten Watergraafsmeer en Diemen.",
