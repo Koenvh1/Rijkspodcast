@@ -104222,15 +104222,55 @@
       "publisher": "Politie",
       "type": "show",
       "uri": "spotify:show:3ODZ8fIfGxiV5DiXaJmxTi",
-      "total_episodes": 138,
+      "total_episodes": 139,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 138,
+        "total": 139,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1BWb1fNWs1YePhqK4jCK7C/clip_264881_324881.mp3",
+            "description": "Na intensieve jaren neemt Fred Westerbeke afscheid als politiechef van de Eenheid Rotterdam. In deze bijzondere aflevering van de politiepodcast Boeiend gaat Niels in gesprek met Fred over zijn vertrek, de uitdagingen die hij onderweg tegenkwam \u00e9n zijn volgende stappen.Bij de start van zijn functie, ongeveer vijf jaar geleden, was Fred ook al te gast in deze podcast. Nu blikken we samen terug op zijn tijd als politiechef, de ontwikkelingen binnen de eenheid en de impact van zijn leiderschap.Een openhartig en persoonlijk gesprek over leiderschap, veranderingen in het politiewerk en wat het betekent om afscheid te nemen.#politie #chef #fredwesterbeke #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast",
+            "html_description": "<p>Na intensieve jaren neemt Fred Westerbeke afscheid als politiechef van de Eenheid Rotterdam. In deze bijzondere aflevering van de politiepodcast Boeiend gaat Niels in gesprek met Fred over zijn vertrek, de uitdagingen die hij onderweg tegenkwam \u00e9n zijn volgende stappen.Bij de start van zijn functie, ongeveer vijf jaar geleden, was Fred ook al te gast in deze podcast. Nu blikken we samen terug op zijn tijd als politiechef, de ontwikkelingen binnen de eenheid en de impact van zijn leiderschap.Een openhartig en persoonlijk gesprek over leiderschap, veranderingen in het politiewerk en wat het betekent om afscheid te nemen.<br />#politie #chef #fredwesterbeke #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast</p>",
+            "duration_ms": 2792320,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5zrOWM9941lioWkv787CnJ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5zrOWM9941lioWkv787CnJ",
+            "id": "5zrOWM9941lioWkv787CnJ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Het afscheid van politiechef Fred Westerbeke - Boeiend de Podcast",
+            "release_date": "2025-08-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5zrOWM9941lioWkv787CnJ"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0eZ1GdSDXEtChJmXoiiWkt/clip_331414_391414.mp3",
             "description": "Wat gebeurt er met slachtoffers van misdrijven nadat de politie is geweest? Welke rechten hebben zij eigenlijk? En wie helpt hen verder op weg?In deze aflevering van Boeiend de Podcast gaan we in gesprek met Peter van Slachtofferhulp Nederland. Hij vertelt over het werk van de organisatie, de samenwerking met de politie \u00e9n over de impact die dit werk heeft: op slachtoffers \u00e9n op hulpverleners zelf.Een goed gesprek over recht, herstel en hoe we samen slachtoffers zo goed mogelijk proberen te ondersteunen. En natuurlijk nemen we ook een kijkje achter de schermen bij Slachtofferhulp.Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!",
@@ -106194,28 +106234,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/231s9UtDCQjmJoPqlrQ3s8/clip_514317_574317.mp3",
             "description": "Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn \"Bureau\"-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo'n programma?  Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.  Vergeet niet om de podcast te liken en je te abonneren op ons kanaal! Volg Niels en blijf op de hoogte van al het podcast nieuws @niels_politie  #politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam  ",
-            "html_description": "<p>Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn &#34;Bureau&#34;-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo&#39;n programma?<br/>Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.<br/>Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!<br/>Volg Niels en blijf op de hoogte van al het podcast nieuws<br/>&#64;niels_politie<br/>#politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam <br/></p>",
             "duration_ms": 3255205,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3sr7WYCIoRfPq8M0N2c0E7"
             },
             "href": "https://api.spotify.com/v1/episodes/3sr7WYCIoRfPq8M0N2c0E7",
+            "html_description": "<p>Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn &#34;Bureau&#34;-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo&#39;n programma?<br/>Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.<br/>Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!<br/>Volg Niels en blijf op de hoogte van al het podcast nieuws<br/>&#64;niels_politie<br/>#politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam <br/></p>",
             "id": "3sr7WYCIoRfPq8M0N2c0E7",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
                 "width": 64
               }
             ],
@@ -117038,246 +117078,6 @@
         "total": 8,
         "items": [
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3AJ2ebwhqt57rtrrPrZo2a/clip_4885_64885.mp3",
-            "description": "Een podcast over hoe Nederland klimaatbestendig kan blijven en tegelijkertijd de welvaart kan vasthouden.Met experts en bestuurders gaat presentator Maarten Bouwhuis in gesprek over fysieke klimaatrisico\u2019s, adaptatie en financieel-economische vraagstukken.\u00a0Een NL AAA-Klimaatbestendig podcast mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat.",
-            "html_description": "<p>Een podcast over hoe Nederland klimaatbestendig kan blijven en tegelijkertijd de welvaart kan vasthouden.<br />Met experts en bestuurders gaat presentator Maarten Bouwhuis in gesprek over fysieke klimaatrisico\u2019s, adaptatie en financieel-economische vraagstukken.\u00a0</p><p>Een NL AAA-Klimaatbestendig podcast mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat.</p>",
-            "duration_ms": 67072,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/7HLutOpQosOeGGeCM1q2Ku"
-            },
-            "href": "https://api.spotify.com/v1/episodes/7HLutOpQosOeGGeCM1q2Ku",
-            "id": "7HLutOpQosOeGGeCM1q2Ku",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Trailer Delta & Duiten",
-            "release_date": "2025-04-24",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:7HLutOpQosOeGGeCM1q2Ku"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3vlZSQC8RGdF5NXgebHrJn/clip_480039_540039.mp3",
-            "description": "Nederland is de meest welvarende delta ter wereld. Onze bescherming tegen het water is iconisch, maar de grenzen van die bescherming komen in zicht. Klimaatverandering raakt onze delta, en dwingt ons tot aanpassing. Technisch, planologisch en financieel.In deze eerste aflevering van Delta & Duiten gaat Maarten Bouwhuis in gesprek met Delta-commissaris Co Verdaas. Wat is er geleerd van de watersnood in Zuid-Limburg in 2021? De schade was enorm, maar de afhandeling bleek misschien wel het grootste probleem. De ramp na de ramp, noemde burgemeester Daan Prevoo het. Hoe zorgen we ervoor dat we de volgende keer beter voorbereid zijn?Co Verdaas pleit in deze podcast voor preventie en fundamentele keuzes. Niet overal kunnen we blijven bouwen zoals voorheen. Soms is terugbouwen zelfs geen optie meer. Ook stresstesten, nieuwe verdienmodellen en betrokkenheid van banken en verzekeraars zijn nodig om Nederland klimaatbestendig te maken.\u2018Het slechtste wat je kunt doen,\u2019 zegt Verdaas, \u2018is net doen alsof er niks aan de hand is.\u2019Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
-            "html_description": "<p>Nederland is de meest welvarende delta ter wereld. Onze bescherming tegen het water is iconisch, maar de grenzen van die bescherming komen in zicht. Klimaatverandering raakt onze delta, en dwingt ons tot aanpassing. Technisch, planologisch en financieel.</p><p>In deze eerste aflevering van Delta &amp; Duiten gaat Maarten Bouwhuis in gesprek met Delta-commissaris Co Verdaas. Wat is er geleerd van de watersnood in Zuid-Limburg in 2021? De schade was enorm, maar de afhandeling bleek misschien wel het grootste probleem. De ramp na de ramp, noemde burgemeester Daan Prevoo het. Hoe zorgen we ervoor dat we de volgende keer beter voorbereid zijn?</p><p><br />Co Verdaas pleit in deze podcast voor preventie en fundamentele keuzes. Niet overal kunnen we blijven bouwen zoals voorheen. Soms is terugbouwen zelfs geen optie meer. Ook stresstesten, nieuwe verdienmodellen en betrokkenheid van banken en verzekeraars zijn nodig om Nederland klimaatbestendig te maken.</p><p>\u2018Het slechtste wat je kunt doen,\u2019 zegt Verdaas, \u2018is net doen alsof er niks aan de hand is.\u2019</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
-            "duration_ms": 1830048,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1jUpU4jAE4PFBYsW4OZLuY"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1jUpU4jAE4PFBYsW4OZLuY",
-            "id": "1jUpU4jAE4PFBYsW4OZLuY",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Deltacommissaris Co Verdaas",
-            "release_date": "2025-04-30",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1jUpU4jAE4PFBYsW4OZLuY"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Ie9FQPWuYLCsmEUDkgzjJ/clip_420799_480799.mp3",
-            "description": "In de tweede aflevering van Delta & Duiten spreekt Maarten Bouwhuis met Fahid Minhas, directeur van NEPROM, de brancheorganisatie voor project- en gebiedsontwikkelaars. Hoe houden projectontwikkelaars bij de bouw rekening met klimaatadaptatie? Kunnen we nog wel overal bouwen, of moeten we dat op sommige plekken niet meer willen?Fahid Minhas vindt dat we creatief moeten zijn, en meer moeten uitgaan van mogelijkheden. In de uiterwaarden zou je bijvoorbeeld drijvende woningen kunnen bouwen, zegt hij. En mensen moeten misschien accepteren dat hun tuin eens in de dertig jaar onder water loopt.Maar niet alleen nieuwbouw moet klimaatbestendig worden, juist in de bestaande bouw ligt een enorme opgave. Tijdens zijn periode als wethouder in Schiedam werd hij geconfronteerd met woningen met funderingsproblemen. In dat soort gevallen is de oplossing complexer en dringt zich nog meer de vraag op: wie gaat dat allemaal betalen?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
-            "html_description": "<p>In de tweede aflevering van Delta &amp; Duiten spreekt Maarten Bouwhuis met Fahid Minhas, directeur van NEPROM, de brancheorganisatie voor project- en gebiedsontwikkelaars. Hoe houden projectontwikkelaars bij de bouw rekening met klimaatadaptatie? Kunnen we nog wel overal bouwen, of moeten we dat op sommige plekken niet meer willen?</p><p><br /></p><p>Fahid Minhas vindt dat we creatief moeten zijn, en meer moeten uitgaan van mogelijkheden. In de uiterwaarden zou je bijvoorbeeld drijvende woningen kunnen bouwen, zegt hij. En mensen moeten misschien accepteren dat hun tuin eens in de dertig jaar onder water loopt.</p><p><br /></p><p>Maar niet alleen nieuwbouw moet klimaatbestendig worden, juist in de bestaande bouw ligt een enorme opgave. Tijdens zijn periode als wethouder in Schiedam werd hij geconfronteerd met woningen met funderingsproblemen. In dat soort gevallen is de oplossing complexer en dringt zich nog meer de vraag op: wie gaat dat allemaal betalen?</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
-            "duration_ms": 1542551,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1nv9QYK7W6WS9x7jtxFSje"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1nv9QYK7W6WS9x7jtxFSje",
-            "id": "1nv9QYK7W6WS9x7jtxFSje",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "NEPROM-directeur Fahid Minhas",
-            "release_date": "2025-05-14",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1nv9QYK7W6WS9x7jtxFSje"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/66Ih4DAvDWxwsmwerGwFgY/clip_552619_612619.mp3",
-            "description": "Welke rol heeft de Europese Centrale Bank bij klimaatadaptatie? Daarover spreekt Maarten Bouwhuis in de derde aflevering van Delta & Duiten met Frank Elderson, directielid van de ECB. Elderson blijkt een bankier die bijzonder bevlogen is over het klimaat, en vindt dat de ECB verstandig klimaatbeleid kan aanjagen. Banken moeten wat hem betreft bedrijven helpen bij de transitie om klimaatbestendig te worden. Sterker nog, hij ziet er een goed verdienmodel in.Ook over de rol van verzekeraars is Elderson uitgesproken. Hij ziet ze als de kanarie in de kolenmijn. Als een verzekeraar een woning op een bepaalde plek niet meer wil verzekeren, waarom zouden we daar dan nog bouwen? Het geeft namelijk aan dat het geen goede plek is. Maar hoe los je dit op voor de lange termijn?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
-            "html_description": "<p>Welke rol heeft de Europese Centrale Bank bij klimaatadaptatie? Daarover spreekt Maarten Bouwhuis in de derde aflevering van Delta &amp; Duiten met Frank Elderson, directielid van de ECB. Elderson blijkt een bankier die bijzonder bevlogen is over het klimaat, en vindt dat de ECB verstandig klimaatbeleid kan aanjagen. Banken moeten wat hem betreft bedrijven helpen bij de transitie om klimaatbestendig te worden. Sterker nog, hij ziet er een goed verdienmodel in.</p><p><br /></p><p>Ook over de rol van verzekeraars is Elderson uitgesproken. Hij ziet ze als de kanarie in de kolenmijn. Als een verzekeraar een woning op een bepaalde plek niet meer wil verzekeren, waarom zouden we daar dan nog bouwen? Het geeft namelijk aan dat het geen goede plek is. Maar hoe los je dit op voor de lange termijn?</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
-            "duration_ms": 2264040,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1G69LQXddnwKm3cyscxZME"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1G69LQXddnwKm3cyscxZME",
-            "id": "1G69LQXddnwKm3cyscxZME",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Frank Elderson - Directielid ECB",
-            "release_date": "2025-05-27",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1G69LQXddnwKm3cyscxZME"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1s28Nt86GSjFVWxQDhCnkV/clip_189130_249130.mp3",
-            "description": "De overstromingen in Zuid-Limburg in 2021 maakten pijnlijk duidelijk dat veel mensen niet wisten of ze wel verzekerd waren tegen waterschade. In deze aflevering van Delta & Duiten vertelt ASR-topman Jos Baeten aan presentator Maarten Bouwhuis dat de verzekeringssector sindsdien werkt aan een loket waar mensen eenvoudig kunnen checken of en hoe ze verzekerd zijn tegen klimaatschade.Maar Baeten kijkt verder dan alleen schadeherstel. Hij pleit voor een omslag richting \u2018build back better\u2019: sterker, veiliger en toekomstbestendig terugbouwen na een ramp. Verzekeraars moeten volgens hem actiever gaan adviseren hoe dat kan. \u2018Daar kleven veel uitdagingen aan, maar we hebben de plicht om hierover na te denken.\u2019Tegelijk waarschuwt Baeten voor een groeiende kloof tussen mensen die zich een verzekering kunnen veroorloven en mensen die dat niet kunnen. Juist kwetsbare groepen wonen vaak op risicovolle plekken. \u2018Daar komen twee sociale problemen van de lange termijn samen. We willen Nederland leefbaar houden \u2013 dat gaat niet alleen over welvaart, maar over welzijn.\u2019Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
-            "html_description": "<p>De overstromingen in Zuid-Limburg in 2021 maakten pijnlijk duidelijk dat veel mensen niet wisten of ze wel verzekerd waren tegen waterschade. In deze aflevering van Delta &amp; Duiten vertelt ASR-topman Jos Baeten aan presentator Maarten Bouwhuis dat de verzekeringssector sindsdien werkt aan een loket waar mensen eenvoudig kunnen checken of en hoe ze verzekerd zijn tegen klimaatschade.</p><p>Maar Baeten kijkt verder dan alleen schadeherstel. Hij pleit voor een omslag richting \u2018build back better\u2019: sterker, veiliger en toekomstbestendig terugbouwen na een ramp. Verzekeraars moeten volgens hem actiever gaan adviseren hoe dat kan. \u2018Daar kleven veel uitdagingen aan, maar we hebben de plicht om hierover na te denken.\u2019</p><p>Tegelijk waarschuwt Baeten voor een groeiende kloof tussen mensen die zich een verzekering kunnen veroorloven en mensen die dat niet kunnen. Juist kwetsbare groepen wonen vaak op risicovolle plekken. \u2018Daar komen twee sociale problemen van de lange termijn samen. We willen Nederland leefbaar houden \u2013 dat gaat niet alleen over welvaart, maar over welzijn.\u2019</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.<br /><br /></p>",
-            "duration_ms": 1750991,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/5N7X3nU8alP9wmKw75W9KH"
-            },
-            "href": "https://api.spotify.com/v1/episodes/5N7X3nU8alP9wmKw75W9KH",
-            "id": "5N7X3nU8alP9wmKw75W9KH",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Jos Baeten, CEO van a.s.r.",
-            "release_date": "2025-06-12",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:5N7X3nU8alP9wmKw75W9KH"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0mWUk6xiSnsw1ca2iQjfDF/clip_151782_211782.mp3",
-            "description": "In Heemskerk wordt klimaatadaptatie zichtbaar onder het straatniveau. Maarten Bouwhuis praat in deze aflevering Delta & Duiten met wethouder Ani Zalinyan over de waterbergende weg: een innovatieve oplossing waarbij regenwater onder het wegdek wordt opgevangen en vertraagd afgevoerd. Dat voorkomt overbelasting van het riool bij piekbuien en draagt bij aan herstel van de grondwaterstand.Toepassing van dit soort maatregelen is echter sterk afhankelijk van planning en financiering. \u201cJe krijgt alleen middelen voor klimaatadaptatie bij herinrichting,\u201d zegt Zalinyan. \u201cEen straat die vijf jaar geleden is gelegd, breek je niet zomaar open.\u201dNaast fysieke aanpassing is er ook aandacht nodig voor de sociale kant van vergroening. Niet iedereen heeft de middelen of ruimte om een klimaatvriendelijke tuin aan te leggen. \u201cDit is geen puur ruimtelijke vraag \u2013 het is meer een sociaal-economische vraag,\u201d stelt Zalinyan.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
-            "html_description": "<p>In Heemskerk wordt klimaatadaptatie zichtbaar onder het straatniveau. Maarten Bouwhuis praat in deze aflevering Delta &amp; Duiten met wethouder Ani Zalinyan over de waterbergende weg: een innovatieve oplossing waarbij regenwater onder het wegdek wordt opgevangen en vertraagd afgevoerd. Dat voorkomt overbelasting van het riool bij piekbuien en draagt bij aan herstel van de grondwaterstand.</p><p>Toepassing van dit soort maatregelen is echter sterk afhankelijk van planning en financiering. \u201cJe krijgt alleen middelen voor klimaatadaptatie bij herinrichting,\u201d zegt Zalinyan. \u201cEen straat die vijf jaar geleden is gelegd, breek je niet zomaar open.\u201d</p><p>Naast fysieke aanpassing is er ook aandacht nodig voor de sociale kant van vergroening. Niet iedereen heeft de middelen of ruimte om een klimaatvriendelijke tuin aan te leggen. \u201cDit is geen puur ruimtelijke vraag \u2013 het is meer een sociaal-economische vraag,\u201d stelt Zalinyan.</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
-            "duration_ms": 1748448,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1GF96h1zsY9LDV3duZh6ZE"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1GF96h1zsY9LDV3duZh6ZE",
-            "id": "1GF96h1zsY9LDV3duZh6ZE",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Ani Zalinyan, Wethouder in Heemskerk",
-            "release_date": "2025-06-25",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1GF96h1zsY9LDV3duZh6ZE"
-          },
-          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0n4dowvMwcSu0EK69nyGTn/clip_220333_280333.mp3",
             "description": "De bouwsector vreest dat strengere klimaatregels de woningbouw vertragen, maar duidelijke en eenduidige regels helpen juist. Dat zegt Jeroen Haan, voorzitter van de Unie van Waterschappen, in deze aflevering van Delta & Duiten tegen Maarten Bouwhuis. Als vooraf vastligt waar en onder welke voorwaarden gebouwd mag worden, kunnen procedures sneller verlopen. Vooral bij waterveiligheid en klimaatadaptatie zorgt duidelijkheid voor voorspelbaarheid \u2013 en dat is precies wat projectontwikkelaars, gemeenten en waterschappen nodig hebben om voortgang te boeken, zegt Haan.Tegelijkertijd wordt droogte een steeds urgentere bedreiging. Waar waterschappen van oudsher vooral bezig zijn met het afvoeren van water, draait de vraag nu steeds vaker om verdeling bij schaarste. Als er weinig water via de rivieren binnenkomt, moeten keuzes worden gemaakt: wie krijgt voorrang? Landbouw, natuur, drinkwater, industrie? Deze verdelingsvraagstukken raken de ruimtelijke inrichting van Nederland in de kern.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
             "html_description": "<p>De bouwsector vreest dat strengere klimaatregels de woningbouw vertragen, maar duidelijke en eenduidige regels helpen juist. Dat zegt Jeroen Haan, voorzitter van de Unie van Waterschappen, in deze aflevering van Delta &amp; Duiten tegen Maarten Bouwhuis. Als vooraf vastligt waar en onder welke voorwaarden gebouwd mag worden, kunnen procedures sneller verlopen. Vooral bij waterveiligheid en klimaatadaptatie zorgt duidelijkheid voor voorspelbaarheid \u2013 en dat is precies wat projectontwikkelaars, gemeenten en waterschappen nodig hebben om voortgang te boeken, zegt Haan.</p><p>Tegelijkertijd wordt droogte een steeds urgentere bedreiging. Waar waterschappen van oudsher vooral bezig zijn met het afvoeren van water, draait de vraag nu steeds vaker om verdeling bij schaarste. Als er weinig water via de rivieren binnenkomt, moeten keuzes worden gemaakt: wie krijgt voorrang? Landbouw, natuur, drinkwater, industrie? Deze verdelingsvraagstukken raken de ruimtelijke inrichting van Nederland in de kern.</p><p>Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
@@ -117356,6 +117156,246 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:6iUReh3u7PHizBlBR0XHoM"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0mWUk6xiSnsw1ca2iQjfDF/clip_151782_211782.mp3",
+            "description": "In Heemskerk wordt klimaatadaptatie zichtbaar onder het straatniveau. Maarten Bouwhuis praat in deze aflevering Delta & Duiten met wethouder Ani Zalinyan over de waterbergende weg: een innovatieve oplossing waarbij regenwater onder het wegdek wordt opgevangen en vertraagd afgevoerd. Dat voorkomt overbelasting van het riool bij piekbuien en draagt bij aan herstel van de grondwaterstand.Toepassing van dit soort maatregelen is echter sterk afhankelijk van planning en financiering. \u201cJe krijgt alleen middelen voor klimaatadaptatie bij herinrichting,\u201d zegt Zalinyan. \u201cEen straat die vijf jaar geleden is gelegd, breek je niet zomaar open.\u201dNaast fysieke aanpassing is er ook aandacht nodig voor de sociale kant van vergroening. Niet iedereen heeft de middelen of ruimte om een klimaatvriendelijke tuin aan te leggen. \u201cDit is geen puur ruimtelijke vraag \u2013 het is meer een sociaal-economische vraag,\u201d stelt Zalinyan.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>In Heemskerk wordt klimaatadaptatie zichtbaar onder het straatniveau. Maarten Bouwhuis praat in deze aflevering Delta &amp; Duiten met wethouder Ani Zalinyan over de waterbergende weg: een innovatieve oplossing waarbij regenwater onder het wegdek wordt opgevangen en vertraagd afgevoerd. Dat voorkomt overbelasting van het riool bij piekbuien en draagt bij aan herstel van de grondwaterstand.</p><p>Toepassing van dit soort maatregelen is echter sterk afhankelijk van planning en financiering. \u201cJe krijgt alleen middelen voor klimaatadaptatie bij herinrichting,\u201d zegt Zalinyan. \u201cEen straat die vijf jaar geleden is gelegd, breek je niet zomaar open.\u201d</p><p>Naast fysieke aanpassing is er ook aandacht nodig voor de sociale kant van vergroening. Niet iedereen heeft de middelen of ruimte om een klimaatvriendelijke tuin aan te leggen. \u201cDit is geen puur ruimtelijke vraag \u2013 het is meer een sociaal-economische vraag,\u201d stelt Zalinyan.</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
+            "duration_ms": 1748448,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1GF96h1zsY9LDV3duZh6ZE"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1GF96h1zsY9LDV3duZh6ZE",
+            "id": "1GF96h1zsY9LDV3duZh6ZE",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Ani Zalinyan, Wethouder in Heemskerk",
+            "release_date": "2025-06-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1GF96h1zsY9LDV3duZh6ZE"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1s28Nt86GSjFVWxQDhCnkV/clip_189130_249130.mp3",
+            "description": "De overstromingen in Zuid-Limburg in 2021 maakten pijnlijk duidelijk dat veel mensen niet wisten of ze wel verzekerd waren tegen waterschade. In deze aflevering van Delta & Duiten vertelt ASR-topman Jos Baeten aan presentator Maarten Bouwhuis dat de verzekeringssector sindsdien werkt aan een loket waar mensen eenvoudig kunnen checken of en hoe ze verzekerd zijn tegen klimaatschade.Maar Baeten kijkt verder dan alleen schadeherstel. Hij pleit voor een omslag richting \u2018build back better\u2019: sterker, veiliger en toekomstbestendig terugbouwen na een ramp. Verzekeraars moeten volgens hem actiever gaan adviseren hoe dat kan. \u2018Daar kleven veel uitdagingen aan, maar we hebben de plicht om hierover na te denken.\u2019Tegelijk waarschuwt Baeten voor een groeiende kloof tussen mensen die zich een verzekering kunnen veroorloven en mensen die dat niet kunnen. Juist kwetsbare groepen wonen vaak op risicovolle plekken. \u2018Daar komen twee sociale problemen van de lange termijn samen. We willen Nederland leefbaar houden \u2013 dat gaat niet alleen over welvaart, maar over welzijn.\u2019Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>De overstromingen in Zuid-Limburg in 2021 maakten pijnlijk duidelijk dat veel mensen niet wisten of ze wel verzekerd waren tegen waterschade. In deze aflevering van Delta &amp; Duiten vertelt ASR-topman Jos Baeten aan presentator Maarten Bouwhuis dat de verzekeringssector sindsdien werkt aan een loket waar mensen eenvoudig kunnen checken of en hoe ze verzekerd zijn tegen klimaatschade.</p><p>Maar Baeten kijkt verder dan alleen schadeherstel. Hij pleit voor een omslag richting \u2018build back better\u2019: sterker, veiliger en toekomstbestendig terugbouwen na een ramp. Verzekeraars moeten volgens hem actiever gaan adviseren hoe dat kan. \u2018Daar kleven veel uitdagingen aan, maar we hebben de plicht om hierover na te denken.\u2019</p><p>Tegelijk waarschuwt Baeten voor een groeiende kloof tussen mensen die zich een verzekering kunnen veroorloven en mensen die dat niet kunnen. Juist kwetsbare groepen wonen vaak op risicovolle plekken. \u2018Daar komen twee sociale problemen van de lange termijn samen. We willen Nederland leefbaar houden \u2013 dat gaat niet alleen over welvaart, maar over welzijn.\u2019</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.<br /><br /></p>",
+            "duration_ms": 1750991,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5N7X3nU8alP9wmKw75W9KH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5N7X3nU8alP9wmKw75W9KH",
+            "id": "5N7X3nU8alP9wmKw75W9KH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Jos Baeten, CEO van a.s.r.",
+            "release_date": "2025-06-12",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5N7X3nU8alP9wmKw75W9KH"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/66Ih4DAvDWxwsmwerGwFgY/clip_552619_612619.mp3",
+            "description": "Welke rol heeft de Europese Centrale Bank bij klimaatadaptatie? Daarover spreekt Maarten Bouwhuis in de derde aflevering van Delta & Duiten met Frank Elderson, directielid van de ECB. Elderson blijkt een bankier die bijzonder bevlogen is over het klimaat, en vindt dat de ECB verstandig klimaatbeleid kan aanjagen. Banken moeten wat hem betreft bedrijven helpen bij de transitie om klimaatbestendig te worden. Sterker nog, hij ziet er een goed verdienmodel in.Ook over de rol van verzekeraars is Elderson uitgesproken. Hij ziet ze als de kanarie in de kolenmijn. Als een verzekeraar een woning op een bepaalde plek niet meer wil verzekeren, waarom zouden we daar dan nog bouwen? Het geeft namelijk aan dat het geen goede plek is. Maar hoe los je dit op voor de lange termijn?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>Welke rol heeft de Europese Centrale Bank bij klimaatadaptatie? Daarover spreekt Maarten Bouwhuis in de derde aflevering van Delta &amp; Duiten met Frank Elderson, directielid van de ECB. Elderson blijkt een bankier die bijzonder bevlogen is over het klimaat, en vindt dat de ECB verstandig klimaatbeleid kan aanjagen. Banken moeten wat hem betreft bedrijven helpen bij de transitie om klimaatbestendig te worden. Sterker nog, hij ziet er een goed verdienmodel in.</p><p><br /></p><p>Ook over de rol van verzekeraars is Elderson uitgesproken. Hij ziet ze als de kanarie in de kolenmijn. Als een verzekeraar een woning op een bepaalde plek niet meer wil verzekeren, waarom zouden we daar dan nog bouwen? Het geeft namelijk aan dat het geen goede plek is. Maar hoe los je dit op voor de lange termijn?</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
+            "duration_ms": 2264040,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1G69LQXddnwKm3cyscxZME"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1G69LQXddnwKm3cyscxZME",
+            "id": "1G69LQXddnwKm3cyscxZME",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Frank Elderson - Directielid ECB",
+            "release_date": "2025-05-27",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1G69LQXddnwKm3cyscxZME"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Ie9FQPWuYLCsmEUDkgzjJ/clip_420799_480799.mp3",
+            "description": "In de tweede aflevering van Delta & Duiten spreekt Maarten Bouwhuis met Fahid Minhas, directeur van NEPROM, de brancheorganisatie voor project- en gebiedsontwikkelaars. Hoe houden projectontwikkelaars bij de bouw rekening met klimaatadaptatie? Kunnen we nog wel overal bouwen, of moeten we dat op sommige plekken niet meer willen?Fahid Minhas vindt dat we creatief moeten zijn, en meer moeten uitgaan van mogelijkheden. In de uiterwaarden zou je bijvoorbeeld drijvende woningen kunnen bouwen, zegt hij. En mensen moeten misschien accepteren dat hun tuin eens in de dertig jaar onder water loopt.Maar niet alleen nieuwbouw moet klimaatbestendig worden, juist in de bestaande bouw ligt een enorme opgave. Tijdens zijn periode als wethouder in Schiedam werd hij geconfronteerd met woningen met funderingsproblemen. In dat soort gevallen is de oplossing complexer en dringt zich nog meer de vraag op: wie gaat dat allemaal betalen?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>In de tweede aflevering van Delta &amp; Duiten spreekt Maarten Bouwhuis met Fahid Minhas, directeur van NEPROM, de brancheorganisatie voor project- en gebiedsontwikkelaars. Hoe houden projectontwikkelaars bij de bouw rekening met klimaatadaptatie? Kunnen we nog wel overal bouwen, of moeten we dat op sommige plekken niet meer willen?</p><p><br /></p><p>Fahid Minhas vindt dat we creatief moeten zijn, en meer moeten uitgaan van mogelijkheden. In de uiterwaarden zou je bijvoorbeeld drijvende woningen kunnen bouwen, zegt hij. En mensen moeten misschien accepteren dat hun tuin eens in de dertig jaar onder water loopt.</p><p><br /></p><p>Maar niet alleen nieuwbouw moet klimaatbestendig worden, juist in de bestaande bouw ligt een enorme opgave. Tijdens zijn periode als wethouder in Schiedam werd hij geconfronteerd met woningen met funderingsproblemen. In dat soort gevallen is de oplossing complexer en dringt zich nog meer de vraag op: wie gaat dat allemaal betalen?</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
+            "duration_ms": 1542551,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1nv9QYK7W6WS9x7jtxFSje"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1nv9QYK7W6WS9x7jtxFSje",
+            "id": "1nv9QYK7W6WS9x7jtxFSje",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "NEPROM-directeur Fahid Minhas",
+            "release_date": "2025-05-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1nv9QYK7W6WS9x7jtxFSje"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3vlZSQC8RGdF5NXgebHrJn/clip_480039_540039.mp3",
+            "description": "Nederland is de meest welvarende delta ter wereld. Onze bescherming tegen het water is iconisch, maar de grenzen van die bescherming komen in zicht. Klimaatverandering raakt onze delta, en dwingt ons tot aanpassing. Technisch, planologisch en financieel.In deze eerste aflevering van Delta & Duiten gaat Maarten Bouwhuis in gesprek met Delta-commissaris Co Verdaas. Wat is er geleerd van de watersnood in Zuid-Limburg in 2021? De schade was enorm, maar de afhandeling bleek misschien wel het grootste probleem. De ramp na de ramp, noemde burgemeester Daan Prevoo het. Hoe zorgen we ervoor dat we de volgende keer beter voorbereid zijn?Co Verdaas pleit in deze podcast voor preventie en fundamentele keuzes. Niet overal kunnen we blijven bouwen zoals voorheen. Soms is terugbouwen zelfs geen optie meer. Ook stresstesten, nieuwe verdienmodellen en betrokkenheid van banken en verzekeraars zijn nodig om Nederland klimaatbestendig te maken.\u2018Het slechtste wat je kunt doen,\u2019 zegt Verdaas, \u2018is net doen alsof er niks aan de hand is.\u2019Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>Nederland is de meest welvarende delta ter wereld. Onze bescherming tegen het water is iconisch, maar de grenzen van die bescherming komen in zicht. Klimaatverandering raakt onze delta, en dwingt ons tot aanpassing. Technisch, planologisch en financieel.</p><p>In deze eerste aflevering van Delta &amp; Duiten gaat Maarten Bouwhuis in gesprek met Delta-commissaris Co Verdaas. Wat is er geleerd van de watersnood in Zuid-Limburg in 2021? De schade was enorm, maar de afhandeling bleek misschien wel het grootste probleem. De ramp na de ramp, noemde burgemeester Daan Prevoo het. Hoe zorgen we ervoor dat we de volgende keer beter voorbereid zijn?</p><p><br />Co Verdaas pleit in deze podcast voor preventie en fundamentele keuzes. Niet overal kunnen we blijven bouwen zoals voorheen. Soms is terugbouwen zelfs geen optie meer. Ook stresstesten, nieuwe verdienmodellen en betrokkenheid van banken en verzekeraars zijn nodig om Nederland klimaatbestendig te maken.</p><p>\u2018Het slechtste wat je kunt doen,\u2019 zegt Verdaas, \u2018is net doen alsof er niks aan de hand is.\u2019</p><p><br />Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p>",
+            "duration_ms": 1830048,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1jUpU4jAE4PFBYsW4OZLuY"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1jUpU4jAE4PFBYsW4OZLuY",
+            "id": "1jUpU4jAE4PFBYsW4OZLuY",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Deltacommissaris Co Verdaas",
+            "release_date": "2025-04-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1jUpU4jAE4PFBYsW4OZLuY"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3AJ2ebwhqt57rtrrPrZo2a/clip_4885_64885.mp3",
+            "description": "Een podcast over hoe Nederland klimaatbestendig kan blijven en tegelijkertijd de welvaart kan vasthouden.Met experts en bestuurders gaat presentator Maarten Bouwhuis in gesprek over fysieke klimaatrisico\u2019s, adaptatie en financieel-economische vraagstukken.\u00a0Een NL AAA-Klimaatbestendig podcast mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat.",
+            "html_description": "<p>Een podcast over hoe Nederland klimaatbestendig kan blijven en tegelijkertijd de welvaart kan vasthouden.<br />Met experts en bestuurders gaat presentator Maarten Bouwhuis in gesprek over fysieke klimaatrisico\u2019s, adaptatie en financieel-economische vraagstukken.\u00a0</p><p>Een NL AAA-Klimaatbestendig podcast mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat.</p>",
+            "duration_ms": 67072,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7HLutOpQosOeGGeCM1q2Ku"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7HLutOpQosOeGGeCM1q2Ku",
+            "id": "7HLutOpQosOeGGeCM1q2Ku",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a46ae798a6aded1deceb949d0",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f46ae798a6aded1deceb949d0",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d46ae798a6aded1deceb949d0",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Trailer Delta & Duiten",
+            "release_date": "2025-04-24",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7HLutOpQosOeGGeCM1q2Ku"
           }
         ]
       }
