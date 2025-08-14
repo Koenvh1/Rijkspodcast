@@ -103540,15 +103540,55 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:4tfz5HFn5zqCoIVzLy6eR7",
-      "total_episodes": 12,
+      "total_episodes": 13,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/4tfz5HFn5zqCoIVzLy6eR7/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 12,
+        "total": 13,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5C74TSZ7Za4VllfctuzkUa/clip_217263_277263.mp3",
+            "description": "Jan Willem sprint achter een inbreker aan die hij op heterdaad betrapt. Een gezin hoorde vanuit hun bed de insluiper. \u2018De vader stond al met een mes klaar bovenaan de trap om zijn gezin te beschermen.\u2019  Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie  Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.  ",
+            "html_description": "<p>Jan Willem sprint achter een inbreker aan die hij op heterdaad betrapt. Een gezin hoorde vanuit hun bed de insluiper. \u2018De vader stond al met een mes klaar bovenaan de trap om zijn gezin te beschermen.\u2019<br/></p><p><br/></p><p>Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/&#64;politie<br/></p><p><br/></p><p>Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur<br/></p><p><br/></p><p>Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten. <br/></p><p><br /></p>",
+            "duration_ms": 610008,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1D3Mg3tdlg8X8RguDzbkqU"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1D3Mg3tdlg8X8RguDzbkqU",
+            "id": "1D3Mg3tdlg8X8RguDzbkqU",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a5f2081f1d7f88c2a345074fe",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f5f2081f1d7f88c2a345074fe",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d5f2081f1d7f88c2a345074fe",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "'Ik zag de vlammen uit het wapen komen\u2019",
+            "release_date": "2025-08-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1D3Mg3tdlg8X8RguDzbkqU"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4aYENiforvjAlTrsQTzI1s/clip_221680_281680.mp3",
             "description": "Rechercheur Iris gaat naar een melding waar een man van het balkon is gevallen. Is er sprake van een ongeluk, of was het moord? Ze gaat op onderzoek uit.   Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie  Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.  ",
