@@ -89089,15 +89089,55 @@
       "publisher": "Novum Innovatielab",
       "type": "show",
       "uri": "spotify:show:5GChHPdKAdrMoh0outbofX",
-      "total_episodes": 39,
+      "total_episodes": 40,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5GChHPdKAdrMoh0outbofX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 39,
+        "total": 40,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6F6PbBblpAmR9je2PeY5Bv/clip_624728_684728.mp3",
+            "description": "In deze aflevering van De Innovatieambtenaar behandelen Jeroen en Marijn de eerste fase van de Novum Innovatiemethode (NIM): Opstarten. Waarom is deze fase zo cruciaal voor het succes van innovatieprojecten?Je leert over:Waarom je altijd moet beginnen met het probleem, niet de oplossingHoe je rode vlaggen herkent die wijzen op ongeschikte projectenWat een goede opdrachtgever onderscheidt in de opstartfaseHet belang van multidisciplinaire teamsamenstellingWaarom projectnamen belangrijk zijn (en welke je moet vermijden)De grootste valkuilen in de opstartfase en hoe je ze voorkomtPraktische tips voor het werken met canvassen vs. traditionele vergaderingenMet praktijkvoorbeelden zoals \"eenzaamheid oplossen met robots\" en concrete tips voor ambtenaren die hun eerste innovatieproject willen starten.Volgende aflevering: Fase 2 - Begrijpen.",
+            "html_description": "<p>In deze aflevering van De Innovatieambtenaar behandelen Jeroen en Marijn de eerste fase van de Novum Innovatiemethode (NIM): Opstarten. Waarom is deze fase zo cruciaal voor het succes van innovatieprojecten?</p><p>Je leert over:</p><ul><li>Waarom je altijd moet beginnen met het probleem, niet de oplossing</li><li>Hoe je rode vlaggen herkent die wijzen op ongeschikte projecten</li><li>Wat een goede opdrachtgever onderscheidt in de opstartfase</li><li>Het belang van multidisciplinaire teamsamenstelling</li><li>Waarom projectnamen belangrijk zijn (en welke je moet vermijden)</li><li>De grootste valkuilen in de opstartfase en hoe je ze voorkomt</li><li>Praktische tips voor het werken met canvassen vs. traditionele vergaderingen</li></ul><p><br /></p><p>Met praktijkvoorbeelden zoals &#34;eenzaamheid oplossen met robots&#34; en concrete tips voor ambtenaren die hun eerste innovatieproject willen starten.</p><p>Volgende aflevering: Fase 2 - Begrijpen.</p>",
+            "duration_ms": 1641000,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6fMBvhZhlUo6btchQvJBEC"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6fMBvhZhlUo6btchQvJBEC",
+            "id": "6fMBvhZhlUo6btchQvJBEC",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a92fd448b1c15576be233f610",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f92fd448b1c15576be233f610",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d92fd448b1c15576be233f610",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "NIM Fase 1: Opstarten - Het Fundament van Innovatiesucces",
+            "release_date": "2025-08-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6fMBvhZhlUo6btchQvJBEC"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/114izCKrXIZ7Td5qxhyZUy/clip_373280_433280.mp3",
             "description": "In deze aflevering van De Innovatieambtenaar duiken Jeroen Vonk en Raisa Getrouw diep in het gloednieuwe Novum Innovatieprogramma. Wat is het verschil met de bekende Novum Innovatiemethode? Wat is innoveren op schaal? Hoe werk je met meerdere innovatietrajecten tegelijkertijd? En hoe kunnen ambtenaren en organisaties hier zelf mee aan de slag?Wat je leert in deze aflevering:Het verschil tussen de Novum Innovatiemethode (NIM) en het Novum Innovatieprogramma (NIP)Hoe je met 3 teams simultaan aan verschillende uitdagingen werktDe praktische opzet: 4,5 maanden, 10 workshops, coaching en huiswerkWaarom \"trust the process\" zo belangrijk isHoe eindgebruikers worden betrokken via interviewsDe resultaten van de eerste pilot en wat er geleerd isTijdsinvestering: 4 uur per week per deelnemerDuur programma: 4,5 maandenTeamgrootte: 5-9 personen (multidisciplinair)Raisa Getrouw, Innovation Designer bij Novum, deelt haar ervaringen van de eerste pilot waarin drie teams met verschillende uitdagingen aan de slag gingen. Van de eerste workshop tot de demodag - je hoort alles over deze nieuwe manier van innoveren op schaal.Interesse in het programma?Stuur een mail naar innovatie@svb.nlMeer informatie:svb.nl/innovatie",
