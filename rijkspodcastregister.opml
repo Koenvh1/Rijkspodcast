@@ -123,5 +123,7 @@
 		<outline type="rss" text="Wie Wat Bewaart" title="Wie Wat Bewaart" xmlUrl="https://app.springcast.fm/podcast-xml/19687" />
 		<outline type="rss" text="Dossier WODC" title="Dossier WODC" xmlUrl="https://anchor.fm/s/e9f55368/podcast/rss" />
 		<outline type="rss" text="KB nationale bibliotheek" title="KB nationale bibliotheek" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:663110451/sounds.rss" />
+		<outline type="rss" text="De top kijkt om" title="De top kijkt om" xmlUrl="https://anchor.fm/s/59362d70/podcast/rss" />
+		<outline type="rss" text="DNB Talks" title="DNB Talks" xmlUrl="https://feeds.castos.com/0257v" />
 	</body>
 </opml>
