@@ -69415,15 +69415,16 @@
       "publisher": "Committed Podcast",
       "type": "show",
       "uri": "spotify:show:1BOTkamnUuR6AseJBjti35",
-      "total_episodes": 3,
+      "total_episodes": 4,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1BOTkamnUuR6AseJBjti35/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 3,
+        "total": 4,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3LtPKKR1vPEMhMnMpgV8V5/clip_441345_501345.mp3",
             "description": "In deze aflevering duiken Sven en Ren\u00e9 in de wereld van ge\u00efntegreerde operationele IT-systemen voor de landmacht, waarin informatiegestuurd optreden van levensbelang kan zijn. Hoe verandert technologie de landmacht? En hoe zorgt JIVC ervoor dat militairen de IT krijgen die ze nodig hebben en zo de veiligheid vergroten? Ze spreken Hein van de JIVC-afdeling Landgebonden IT en luitenant-kolonel Erik van de landmacht die hun werk en ervaring op dit gebied met ons delen.",
