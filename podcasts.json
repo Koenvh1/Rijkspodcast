@@ -70642,15 +70642,55 @@
       "publisher": "Leerhuis Informatiehuishouding",
       "type": "show",
       "uri": "spotify:show:6oJsjZsAiunyNsDK1g9QzK",
-      "total_episodes": 44,
+      "total_episodes": 45,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6oJsjZsAiunyNsDK1g9QzK/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 44,
+        "total": 45,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0651kMovKlaZVnlBibzWUI/clip_127682_187682.mp3",
+            "description": "",
+            "html_description": "<p></p>",
+            "duration_ms": 1779931,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4LB8Vu1gwfjQbY9cAdIVj8"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4LB8Vu1gwfjQbY9cAdIVj8",
+            "id": "4LB8Vu1gwfjQbY9cAdIVj8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa83556efd30a19a305ca8017",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa83556efd30a19a305ca8017",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da83556efd30a19a305ca8017",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering #45 met als gasten Irene Moonen en Vera van Dun - IGJ",
+            "release_date": "2025-08-28",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4LB8Vu1gwfjQbY9cAdIVj8"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/23Plr8sreXUepPI3yAMxb3/clip_0_60000.mp3",
             "description": "Hoe veranker je duurzame toegankelijkheid binnen een grote organisatie als de Belastingdienst?Marjolein Achtereekte en Jochem Visser delen hoe zij met het DUTO-raamwerk bouwen aan een toekomstbestendige informatiehuishouding \u2014 midden in de praktijk, tussen architectuur, IV en verandering.",
@@ -103620,15 +103660,55 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:4tfz5HFn5zqCoIVzLy6eR7",
-      "total_episodes": 13,
+      "total_episodes": 14,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/4tfz5HFn5zqCoIVzLy6eR7/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 13,
+        "total": 14,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7JIAPmnr9TQImRM7cGcIuO/clip_375867_435867.mp3",
+            "description": "Een man steekt op klaarlichte dag drie mensen neer die hij niet kent. Ze zijn zwaargewond. David gaat achter de dader aan. Als hij zijn wapen trekt vraagt hij zich af: kom ik nog wel thuis vanavond?  Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie  Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.   ",
+            "html_description": "<p>Een man steekt op klaarlichte dag drie mensen neer die hij niet kent. Ze zijn zwaargewond. David gaat achter de dader aan. Als hij zijn wapen trekt vraagt hij zich af: kom ik nog wel thuis vanavond?<br/></p><p><br/></p><p>Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/&#64;politie<br/></p><p><br/></p><p>Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur<br/></p><p><br/></p><p>Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten. <br/></p><p><br/></p><p><br /></p>",
+            "duration_ms": 719928,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/45toTK7DuZcVnYSWHGkZ9W"
+            },
+            "href": "https://api.spotify.com/v1/episodes/45toTK7DuZcVnYSWHGkZ9W",
+            "id": "45toTK7DuZcVnYSWHGkZ9W",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6ee2124b6370b87f48e8ee17",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6ee2124b6370b87f48e8ee17",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6ee2124b6370b87f48e8ee17",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "\u2018Hij bleef maar tikken\u2019",
+            "release_date": "2025-08-28",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:45toTK7DuZcVnYSWHGkZ9W"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5C74TSZ7Za4VllfctuzkUa/clip_217263_277263.mp3",
             "description": "Jan Willem sprint achter een inbreker aan die hij op heterdaad betrapt. Een gezin hoorde vanuit hun bed de insluiper. \u2018De vader stond al met een mes klaar bovenaan de trap om zijn gezin te beschermen.\u2019  Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie  Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.  ",
