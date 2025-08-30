@@ -7759,13 +7759,286 @@
         "previous": null,
         "total": 7,
         "items": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7lPYIN6EF4TAmvB6YvT9ZX/clip_495787_555787.mp3",
+            "description": "\u2018Aanvoerder van de Alliantie Hand in Hand\u2019, noemt Ron van Gelder (gemeente Rotterdam) zich het liefst. Zijn opdracht: van een verloederd winkelgebied in Rotterdam Zuid weer een vitaal en aantrekkelijk stuk stad maken. Stap voor stap wint de gemeente terrein op de ondermijning en verpaupering. Door veel op straat te zijn en met de buurtbewoners te praten, panden op te kopen, de openbare ruimte op te knappen en regelmatig binnen te lopen bij schimmige ondernemers. Onbegonnen werk? Nee joh! Ron was al met pensioen maar ging voor deze klus toch weer aan de slag!",
+            "html_description": "<p>\u2018Aanvoerder van de Alliantie Hand in Hand\u2019, noemt Ron van Gelder (gemeente Rotterdam) zich het liefst. Zijn opdracht: van een verloederd winkelgebied in Rotterdam Zuid weer een vitaal en aantrekkelijk stuk stad maken. Stap voor stap wint de gemeente terrein op de ondermijning en verpaupering. Door veel op straat te zijn en met de buurtbewoners te praten, panden op te kopen, de openbare ruimte op te knappen en regelmatig binnen te lopen bij schimmige ondernemers. Onbegonnen werk? Nee joh! Ron was al met pensioen maar ging voor deze klus toch weer aan de slag!</p>",
+            "duration_ms": 1846465,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/58ncv5GHiRVGMnGrmsX0l0"
+            },
+            "href": "https://api.spotify.com/v1/episodes/58ncv5GHiRVGMnGrmsX0l0",
+            "id": "58ncv5GHiRVGMnGrmsX0l0",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaef014062a2f689244bd7344",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faef014062a2f689244bd7344",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daef014062a2f689244bd7344",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 6: Ron van Gelder (gemeente Rotterdam) \u2013 Hand in hand voor een leefbare buurt",
+            "release_date": "2021-10-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:58ncv5GHiRVGMnGrmsX0l0"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3gM5gh2zbpHD924RejLGng/clip_0_60000.mp3",
+            "description": "Met de slogan \u2018Als je niet gaat stemmen, moet je ook niet zeiken\u2019 probeerde het Waterschap Limburg in 2019 meer kiezers naar de stembus te lokken voor de waterschapsverkiezingen. De opkomst is altijd laag want: onbekend maakt onbemind. Maar de overstromingen in juli zetten het Waterschap in \u00e9\u00e9n klap op de kaart. Maarten spreekt in deze aflevering met Cindy Reijnders (strategisch adviseur en woordvoerder) over de verwoestende en de verbindende kracht van water, saamhorigheid, crisiscommunicatie, \u00e9n wat het betekent als je zelf ook in het rampgebied woont. \u201cJe voelt nog beter wat de omgeving nodig heeft, wat je moet doen om beter uit zo\u2019n crisis te komen.\u201d",
+            "html_description": "<p>Met de slogan \u2018Als je niet gaat stemmen, moet je ook niet zeiken\u2019 probeerde het Waterschap Limburg in 2019 meer kiezers naar de stembus te lokken voor de waterschapsverkiezingen. De opkomst is altijd laag want: onbekend maakt onbemind. Maar de overstromingen in juli zetten het Waterschap in \u00e9\u00e9n klap op de kaart. Maarten spreekt in deze aflevering met Cindy Reijnders (strategisch adviseur en woordvoerder) over de verwoestende en de verbindende kracht van water, saamhorigheid, crisiscommunicatie, \u00e9n wat het betekent als je zelf ook in het rampgebied woont. \u201cJe voelt nog beter wat de omgeving nodig heeft, wat je moet doen om beter uit zo\u2019n crisis te komen.\u201d</p>",
+            "duration_ms": 1849782,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4wQynV27D7KTiMUwkc6EPR"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4wQynV27D7KTiMUwkc6EPR",
+            "id": "4wQynV27D7KTiMUwkc6EPR",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaef014062a2f689244bd7344",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faef014062a2f689244bd7344",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daef014062a2f689244bd7344",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 5: Cindy Reijnders (Waterschap Limburg) \u2013 Watersnoodramp 2021",
+            "release_date": "2021-10-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4wQynV27D7KTiMUwkc6EPR"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5d0ItOBIuahTlKeHmIv4uh/clip_260181_320181.mp3",
+            "description": "Maarten gaat in gesprek met gezinsregisseur Peggy Kersten (gemeente Maastricht). Zij komt in het dagelijks leven bij gezinnen over de vloer en gaat met hen op zoek naar de juiste zorg voor hun problemen. Deze gezinnen krijgen alle kanten hulp, van verschillende hulpverleners die vaak langs elkaar heen werken. Peggy doet wat nodig is: verbindt de problemen van het gezin met de hulp die het echt nodig heeft. En soms is dat een nieuwe stofzuiger in plaats van wekelijks een paar uur thuiszorg. Het resultaat? \u201cIk kan doen wat er nodig is, gezinnen helpen met hun problemen. En mensen voelen zich weer gehoord.\u201d\u00a0",
+            "html_description": "<p>Maarten gaat in gesprek met gezinsregisseur Peggy Kersten (gemeente Maastricht). Zij komt in het dagelijks leven bij gezinnen over de vloer en gaat met hen op zoek naar de juiste zorg voor hun problemen. Deze gezinnen krijgen alle kanten hulp, van verschillende hulpverleners die vaak langs elkaar heen werken. Peggy doet wat nodig is: verbindt de problemen van het gezin met de hulp die het echt nodig heeft. En soms is dat een nieuwe stofzuiger in plaats van wekelijks een paar uur thuiszorg. Het resultaat? \u201cIk kan doen wat er nodig is, gezinnen helpen met hun problemen. En mensen voelen zich weer gehoord.\u201d\u00a0</p>",
+            "duration_ms": 1722671,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2pL93iPXEKClVJtpKRzGhI"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2pL93iPXEKClVJtpKRzGhI",
+            "id": "2pL93iPXEKClVJtpKRzGhI",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaef014062a2f689244bd7344",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faef014062a2f689244bd7344",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daef014062a2f689244bd7344",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 4: Peggy Kersten (gemeente Maastricht) \u2013 Regie op hulp aan gezinnen",
+            "release_date": "2021-10-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2pL93iPXEKClVJtpKRzGhI"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5vqe2hsCCbPeMultqPNxEx/clip_534383_594383.mp3",
+            "description": "Maarten duikt in de wereld van het innen van gemeentebelastingen en het kwijtschelden van schuld. De wereld van Kaj van Brummelen (gemeente Amsterdam), die verkozen werd tot Jonge ambtenaar van het jaar 2021. Veel inwoners begrepen brieven niet, door begrippen als \u2018vermogen\u2019 en \u2018betalingscapaciteit\u2019. Zij haakten daardoor af in de kwijtscheldingsprocedure. Kaj heeft daar iets aan gedaan. Maar er blijven genoeg lastige dilemma\u2019s over: wanneer vorder je geld in met dwangbevelen en wanneer met een sociale aanpak? En doen we niet te veel \u2018met computers af\u2019 en te weinig met de menselijke maat?",
+            "html_description": "<p>Maarten duikt in de wereld van het innen van gemeentebelastingen en het kwijtschelden van schuld. De wereld van Kaj van Brummelen (gemeente Amsterdam), die verkozen werd tot Jonge ambtenaar van het jaar 2021. Veel inwoners begrepen brieven niet, door begrippen als \u2018vermogen\u2019 en \u2018betalingscapaciteit\u2019. Zij haakten daardoor af in de kwijtscheldingsprocedure. Kaj heeft daar iets aan gedaan. Maar er blijven genoeg lastige dilemma\u2019s over: wanneer vorder je geld in met dwangbevelen en wanneer met een sociale aanpak? En doen we niet te veel \u2018met computers af\u2019 en te weinig met de menselijke maat?</p>",
+            "duration_ms": 1344313,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5qhYskTmqV6JKQYcMLIjsz"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5qhYskTmqV6JKQYcMLIjsz",
+            "id": "5qhYskTmqV6JKQYcMLIjsz",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaef014062a2f689244bd7344",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faef014062a2f689244bd7344",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daef014062a2f689244bd7344",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 3: Kaj van Brummelen (gemeente Amsterdam) \u2013 Wie snapt kwijtschelding nog?",
+            "release_date": "2021-10-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5qhYskTmqV6JKQYcMLIjsz"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6jU98BjvdwWojOxg5FIJw8/clip_0_60000.mp3",
+            "description": "Het Utrechtse fieldlab caf\u00e9s, middenin de coronacrisis, was veel meer dan een groot en gecontroleerd feest in de oude binnenstad. Het was ook een krankzinnig plan (op het eerste gezicht), een hoop gedoe en later een mooie samenwerking met \u2018Den Haag\u2019 en een innig verbond met de plaatselijke horeca. Hoe je dat regelt, vertelt projectleider Ellen Heijenga van de gemeente Utrecht: \u201cIk ben trots op de stad en op de ondernemers!\u201d",
+            "html_description": "<p>Het Utrechtse fieldlab caf\u00e9s, middenin de coronacrisis, was veel meer dan een groot en gecontroleerd feest in de oude binnenstad. Het was ook een krankzinnig plan (op het eerste gezicht), een hoop gedoe en later een mooie samenwerking met \u2018Den Haag\u2019 en een innig verbond met de plaatselijke horeca. Hoe je dat regelt, vertelt projectleider Ellen Heijenga van de gemeente Utrecht: \u201cIk ben trots op de stad en op de ondernemers!\u201d</p>",
+            "duration_ms": 1542478,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6F5PaQR7ZKhyiWwWnhD8Nm"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6F5PaQR7ZKhyiWwWnhD8Nm",
+            "id": "6F5PaQR7ZKhyiWwWnhD8Nm",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaef014062a2f689244bd7344",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faef014062a2f689244bd7344",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daef014062a2f689244bd7344",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 2: Ellen Heijenga (gemeente Utrecht) \u2013 Fieldlab caf\u00e9s",
+            "release_date": "2021-10-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6F5PaQR7ZKhyiWwWnhD8Nm"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7L8nNYfmeVeMWxrvxxkBbo/clip_394497_454497.mp3",
+            "description": "In deze aflevering is Dave Geensen te gast, \u2018projectmanager Host City Eurovision Song Contest 2021\u2019. Met andere woorden: gemeentebaas van het songfestival. Een mega-evenement binnenhalen en organiseren is sowieso al geen peulenschil, corona maakte het er niet bepaald makkelijker op. Met dank aan een flinke dosis lef, ondernemerschap en een portie \u2018geen woorden maar daden\u2019 in de publieke dienst werd Eurovisie 2021 toch een groot succes. Maar wat had Rotterdam, de stad met de armste postcode van Nederland, daar eigenlijk aan?",
+            "html_description": "<p>In deze aflevering is Dave Geensen te gast, \u2018projectmanager Host City Eurovision Song Contest 2021\u2019. Met andere woorden: gemeentebaas van het songfestival. Een mega-evenement binnenhalen en organiseren is sowieso al geen peulenschil, corona maakte het er niet bepaald makkelijker op. Met dank aan een flinke dosis lef, ondernemerschap en een portie \u2018geen woorden maar daden\u2019 in de publieke dienst werd Eurovisie 2021 toch een groot succes. Maar wat had Rotterdam, de stad met de armste postcode van Nederland, daar eigenlijk aan?</p>",
+            "duration_ms": 1582837,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1DfsGuRF3S4Z4kV9cWvFTi"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1DfsGuRF3S4Z4kV9cWvFTi",
+            "id": "1DfsGuRF3S4Z4kV9cWvFTi",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaef014062a2f689244bd7344",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faef014062a2f689244bd7344",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daef014062a2f689244bd7344",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 1: Dave Geensen (gemeente Rotterdam) \u2013 Eurovisie Rotterdam",
+            "release_date": "2021-10-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1DfsGuRF3S4Z4kV9cWvFTi"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2OYIL9dSkOTSGhzDzdqJyd/clip_0_51931.mp3",
+            "description": "Wat denkt de gemeenteambtenaar die beweert dat hij ook een blindedarm kan verwijderen? En waarom voelen sommige publieke professionals zich als Pippi Langkous? Nieuwsgierig? Volg dan vanaf 25 oktober de nieuwe podcastserie Vakidioten in publieke dienst, waarin secretaris-generaal Maarten Schurink (van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties) met ambtenraren in gesprek gaat over hun vak. Het is een serie waarin hij op zoek gaat naar de dilemma\u2019s, de grenzen, de missers en de goede voorbeelden. Op zoek naar het verhaal achter het verhaal van de vakidioten in publieke dienst.",
+            "html_description": "<p>Wat denkt de gemeenteambtenaar die beweert dat hij ook een blindedarm kan verwijderen? En waarom voelen sommige publieke professionals zich als Pippi Langkous? Nieuwsgierig? </p><p>Volg dan vanaf 25 oktober de nieuwe podcastserie Vakidioten in publieke dienst, waarin secretaris-generaal Maarten Schurink (van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties) met ambtenraren in gesprek gaat over hun vak. </p><p>Het is een serie waarin hij op zoek gaat naar de dilemma\u2019s, de grenzen, de missers en de goede voorbeelden. Op zoek naar het verhaal achter het verhaal van de vakidioten in publieke dienst.</p>",
+            "duration_ms": 51931,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6BD9CM7p4MOxjyOdmMBPim"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6BD9CM7p4MOxjyOdmMBPim",
+            "id": "6BD9CM7p4MOxjyOdmMBPim",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2d5347a051018f3ed6e22a3c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2d5347a051018f3ed6e22a3c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2d5347a051018f3ed6e22a3c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Vakidioten in publieke dienst - Trailer",
+            "release_date": "2021-10-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6BD9CM7p4MOxjyOdmMBPim"
+          }
         ]
       }
     },
@@ -98639,96 +98912,16 @@
         "total": 6,
         "items": [
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0eDMusbAaaumx2c59iJ92b/clip_0_60000.mp3",
-            "description": "75 jaar na het be\u00ebindigen van de Tweede Wereldoorlog staan we stil bij de bevrijding en vieren we dat we sindsdien weer in vrijheid leven. De bevrijding van Nederland duurde ongeveer 9 maanden en vond in fases plaats. Terwijl het zuiden van Nederland al was bevrijd, was de rest van Nederland nog in handen van de nazi\u2019s. Om dat verhaal inzichtelijk te maken en invoelbaar voor kinderen is deze podcast gemaakt.",
-            "html_description": "<p>75 jaar na het be\u00ebindigen van de Tweede Wereldoorlog staan we stil bij de bevrijding en vieren we dat we sindsdien weer in vrijheid leven. De bevrijding van Nederland duurde ongeveer 9 maanden en vond in fases plaats. Terwijl het zuiden van Nederland al was bevrijd, was de rest van Nederland nog in handen van de nazi\u2019s. Om dat verhaal inzichtelijk te maken en invoelbaar voor kinderen is deze podcast gemaakt.</p>",
-            "duration_ms": 72385,
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/45WhAVxlBpOeG6BZrRNDNW/clip_483201_543201.mp3",
+            "description": "Eindelijk komt Leendert in Groningen aan. Hij ziet zijn oma weer, voor het eerst sinds de oorlog begon. En ze doen een verrassende ontdekking over de verrader. Maar Groningen is nog niet bevrijd, en er volgen dagenlange gevechten. Pas als die voorbij zijn, zal blijken of de missie van Leendert geslaagd is.",
+            "html_description": "<p>Eindelijk komt Leendert in Groningen aan. Hij ziet zijn oma weer, voor het eerst sinds de oorlog begon. En ze doen een verrassende ontdekking over de verrader. Maar Groningen is nog niet bevrijd, en er volgen dagenlange gevechten. Pas als die voorbij zijn, zal blijken of de missie van Leendert geslaagd is.</p>",
+            "duration_ms": 1037662,
             "explicit": false,
             "external_urls": {
-              "spotify": "https://open.spotify.com/episode/4AeFs6flp7aqeuNjRvV6ND"
+              "spotify": "https://open.spotify.com/episode/0DmGRSpyrGBhgTKIVi0o7Y"
             },
-            "href": "https://api.spotify.com/v1/episodes/4AeFs6flp7aqeuNjRvV6ND",
-            "id": "4AeFs6flp7aqeuNjRvV6ND",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ad2bbd088cfca5dc66b823b5f",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fd2bbd088cfca5dc66b823b5f",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68dd2bbd088cfca5dc66b823b5f",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl-NL",
-            "languages": [
-              "nl-NL"
-            ],
-            "name": "Trailer Op Houten Banden",
-            "release_date": "2019-09-18",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:4AeFs6flp7aqeuNjRvV6ND"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0tu9n03I1Amsq5rEyf2sFy/clip_638450_698450.mp3",
-            "description": "Leendert maakt de bevrijding in Terneuzen mee. De mensen vieren feest, maar het wordt ook duidelijk dat de oorlog nog niet voorbij is. De vader van Leendert zit in het verzet en krijgt de vraag om een boodschap af te leveren in Groningen. De geallieerden hebben het vermoeden dat er een verrader in het Gronings verzet zit, die de bevrijding wel eens zou kunnen dwarsbomen. Maar de vader van Leendert kan het fysiek niet aan en het verzet oppert dat zijn 15-jarige zoon wel kan gaan. Leendert heeft wel zin in dat avontuur! Samen met iemand van het verzet maakt hij plannen voor de tocht.",
-            "html_description": "<p>Leendert maakt de bevrijding in Terneuzen mee. De mensen vieren feest, maar het wordt ook duidelijk dat de oorlog nog niet voorbij is. De vader van Leendert zit in het verzet en krijgt de vraag om een boodschap af te leveren in Groningen. De geallieerden hebben het vermoeden dat er een verrader in het Gronings verzet zit, die de bevrijding wel eens zou kunnen dwarsbomen. Maar de vader van Leendert kan het fysiek niet aan en het verzet oppert dat zijn 15-jarige zoon wel kan gaan. Leendert heeft wel zin in dat avontuur! Samen met iemand van het verzet maakt hij plannen voor de tocht.</p>",
-            "duration_ms": 794854,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/0uhEFGAbsTjjziVYwT26S4"
-            },
-            "href": "https://api.spotify.com/v1/episodes/0uhEFGAbsTjjziVYwT26S4",
-            "id": "0uhEFGAbsTjjziVYwT26S4",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a7017ea6306cd9b54be5a429f",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f7017ea6306cd9b54be5a429f",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d7017ea6306cd9b54be5a429f",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl-NL",
-            "languages": [
-              "nl-NL"
-            ],
-            "name": "Aflevering 1: De verrader (september 1944)",
-            "release_date": "2019-10-09",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:0uhEFGAbsTjjziVYwT26S4"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/25RQ5y1eDRsf2zGAxGywqd/clip_607340_667340.mp3",
-            "description": "Leendert gaat op weg. Op een fiets met houten banden, want rubberen banden zijn niet meer te krijgen. Zijn tocht gaat door Brabant, langs het net bevrijde Breda naar Drimmelen. Daar moet hij de Biesbosch oversteken om in Gorinchem te komen, zijn eindbestemming van die dag. Maar in Drimmelen, een dorpje aan de Brabantse kant van de Biesbosch, hoort hij dat de Duitsers nog in Zuid-Holland zitten. Dat valt vies tegen, nu moet hij door bezet gebied fietsen en dat is gevaarlijk!",
-            "html_description": "<p>Leendert gaat op weg. Op een fiets met houten banden, want rubberen banden zijn niet meer te krijgen. Zijn tocht gaat door Brabant, langs het net bevrijde Breda naar Drimmelen. Daar moet hij de Biesbosch oversteken om in Gorinchem te komen, zijn eindbestemming van die dag. Maar in Drimmelen, een dorpje aan de Brabantse kant van de Biesbosch, hoort hij dat de Duitsers nog in Zuid-Holland zitten. Dat valt vies tegen, nu moet hij door bezet gebied fietsen en dat is gevaarlijk!</p>",
-            "duration_ms": 765858,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/0fdjh3KD6N7mKM7mwePLoX"
-            },
-            "href": "https://api.spotify.com/v1/episodes/0fdjh3KD6N7mKM7mwePLoX",
-            "id": "0fdjh3KD6N7mKM7mwePLoX",
+            "href": "https://api.spotify.com/v1/episodes/0DmGRSpyrGBhgTKIVi0o7Y",
+            "id": "0DmGRSpyrGBhgTKIVi0o7Y",
             "images": [
               {
                 "url": "https://i.scdn.co/image/ab6765630000ba8aeb4d0def78a8f3d540bde39d",
@@ -98752,51 +98945,11 @@
             "languages": [
               "nl-NL"
             ],
-            "name": "Aflevering 2: Soldaten in de Biesbosch (november 1944)",
-            "release_date": "2019-11-14",
+            "name": "Aflevering 5: Een envelop met een foto (april 1945)",
+            "release_date": "2020-03-20",
             "release_date_precision": "day",
             "type": "episode",
-            "uri": "spotify:episode:0fdjh3KD6N7mKM7mwePLoX"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3BECqhVgDrR6eP1qVgjP73/clip_497701_557701.mp3",
-            "description": "Na Gorinchem rijdt Leendert verder naar het noordoosten, naar Nijkerk. Onderweg ziet hij de ellende van de oorlog in volle omvang. Magere kinderen met hun moeder die eten zoeken omdat de Hongerwinter is aangebroken. Uitgebrande huizen in Putten. Leendert wordt er somber van. Als hij dan ook nog eens verkeerd rijdt, zit hij echt in de put. Hij wil naar huis, naar zijn moeder en zijn vrienden.",
-            "html_description": "<p>Na Gorinchem rijdt Leendert verder naar het noordoosten, naar Nijkerk. Onderweg ziet hij de ellende van de oorlog in volle omvang. Magere kinderen met hun moeder die eten zoeken omdat de Hongerwinter is aangebroken. Uitgebrande huizen in Putten. Leendert wordt er somber van. Als hij dan ook nog eens verkeerd rijdt, zit hij echt in de put. Hij wil naar huis, naar zijn moeder en zijn vrienden.</p>",
-            "duration_ms": 751248,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/0umQpWzZw1izN4P0Gf9ogY"
-            },
-            "href": "https://api.spotify.com/v1/episodes/0umQpWzZw1izN4P0Gf9ogY",
-            "id": "0umQpWzZw1izN4P0Gf9ogY",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aeb4d0def78a8f3d540bde39d",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1feb4d0def78a8f3d540bde39d",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68deb4d0def78a8f3d540bde39d",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl-NL",
-            "languages": [
-              "nl-NL"
-            ],
-            "name": "Aflevering 3: Nacht in het bos (januari 1945) ",
-            "release_date": "2020-01-28",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:0umQpWzZw1izN4P0Gf9ogY"
+            "uri": "spotify:episode:0DmGRSpyrGBhgTKIVi0o7Y"
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4RzduhimUtOXRWUK0PM7tT/clip_393053_453053.mp3",
@@ -98839,16 +98992,16 @@
             "uri": "spotify:episode:4bZC8BSLFQBpr3MKPBjdr1"
           },
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/45WhAVxlBpOeG6BZrRNDNW/clip_483201_543201.mp3",
-            "description": "Eindelijk komt Leendert in Groningen aan. Hij ziet zijn oma weer, voor het eerst sinds de oorlog begon. En ze doen een verrassende ontdekking over de verrader. Maar Groningen is nog niet bevrijd, en er volgen dagenlange gevechten. Pas als die voorbij zijn, zal blijken of de missie van Leendert geslaagd is.",
-            "html_description": "<p>Eindelijk komt Leendert in Groningen aan. Hij ziet zijn oma weer, voor het eerst sinds de oorlog begon. En ze doen een verrassende ontdekking over de verrader. Maar Groningen is nog niet bevrijd, en er volgen dagenlange gevechten. Pas als die voorbij zijn, zal blijken of de missie van Leendert geslaagd is.</p>",
-            "duration_ms": 1037662,
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3BECqhVgDrR6eP1qVgjP73/clip_497701_557701.mp3",
+            "description": "Na Gorinchem rijdt Leendert verder naar het noordoosten, naar Nijkerk. Onderweg ziet hij de ellende van de oorlog in volle omvang. Magere kinderen met hun moeder die eten zoeken omdat de Hongerwinter is aangebroken. Uitgebrande huizen in Putten. Leendert wordt er somber van. Als hij dan ook nog eens verkeerd rijdt, zit hij echt in de put. Hij wil naar huis, naar zijn moeder en zijn vrienden.",
+            "html_description": "<p>Na Gorinchem rijdt Leendert verder naar het noordoosten, naar Nijkerk. Onderweg ziet hij de ellende van de oorlog in volle omvang. Magere kinderen met hun moeder die eten zoeken omdat de Hongerwinter is aangebroken. Uitgebrande huizen in Putten. Leendert wordt er somber van. Als hij dan ook nog eens verkeerd rijdt, zit hij echt in de put. Hij wil naar huis, naar zijn moeder en zijn vrienden.</p>",
+            "duration_ms": 751248,
             "explicit": false,
             "external_urls": {
-              "spotify": "https://open.spotify.com/episode/0DmGRSpyrGBhgTKIVi0o7Y"
+              "spotify": "https://open.spotify.com/episode/0umQpWzZw1izN4P0Gf9ogY"
             },
-            "href": "https://api.spotify.com/v1/episodes/0DmGRSpyrGBhgTKIVi0o7Y",
-            "id": "0DmGRSpyrGBhgTKIVi0o7Y",
+            "href": "https://api.spotify.com/v1/episodes/0umQpWzZw1izN4P0Gf9ogY",
+            "id": "0umQpWzZw1izN4P0Gf9ogY",
             "images": [
               {
                 "url": "https://i.scdn.co/image/ab6765630000ba8aeb4d0def78a8f3d540bde39d",
@@ -98872,11 +99025,131 @@
             "languages": [
               "nl-NL"
             ],
-            "name": "Aflevering 5: Een envelop met een foto (april 1945)",
-            "release_date": "2020-03-20",
+            "name": "Aflevering 3: Nacht in het bos (januari 1945) ",
+            "release_date": "2020-01-28",
             "release_date_precision": "day",
             "type": "episode",
-            "uri": "spotify:episode:0DmGRSpyrGBhgTKIVi0o7Y"
+            "uri": "spotify:episode:0umQpWzZw1izN4P0Gf9ogY"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/25RQ5y1eDRsf2zGAxGywqd/clip_607340_667340.mp3",
+            "description": "Leendert gaat op weg. Op een fiets met houten banden, want rubberen banden zijn niet meer te krijgen. Zijn tocht gaat door Brabant, langs het net bevrijde Breda naar Drimmelen. Daar moet hij de Biesbosch oversteken om in Gorinchem te komen, zijn eindbestemming van die dag. Maar in Drimmelen, een dorpje aan de Brabantse kant van de Biesbosch, hoort hij dat de Duitsers nog in Zuid-Holland zitten. Dat valt vies tegen, nu moet hij door bezet gebied fietsen en dat is gevaarlijk!",
+            "html_description": "<p>Leendert gaat op weg. Op een fiets met houten banden, want rubberen banden zijn niet meer te krijgen. Zijn tocht gaat door Brabant, langs het net bevrijde Breda naar Drimmelen. Daar moet hij de Biesbosch oversteken om in Gorinchem te komen, zijn eindbestemming van die dag. Maar in Drimmelen, een dorpje aan de Brabantse kant van de Biesbosch, hoort hij dat de Duitsers nog in Zuid-Holland zitten. Dat valt vies tegen, nu moet hij door bezet gebied fietsen en dat is gevaarlijk!</p>",
+            "duration_ms": 765858,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0fdjh3KD6N7mKM7mwePLoX"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0fdjh3KD6N7mKM7mwePLoX",
+            "id": "0fdjh3KD6N7mKM7mwePLoX",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aeb4d0def78a8f3d540bde39d",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1feb4d0def78a8f3d540bde39d",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68deb4d0def78a8f3d540bde39d",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Aflevering 2: Soldaten in de Biesbosch (november 1944)",
+            "release_date": "2019-11-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0fdjh3KD6N7mKM7mwePLoX"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0tu9n03I1Amsq5rEyf2sFy/clip_638450_698450.mp3",
+            "description": "Leendert maakt de bevrijding in Terneuzen mee. De mensen vieren feest, maar het wordt ook duidelijk dat de oorlog nog niet voorbij is. De vader van Leendert zit in het verzet en krijgt de vraag om een boodschap af te leveren in Groningen. De geallieerden hebben het vermoeden dat er een verrader in het Gronings verzet zit, die de bevrijding wel eens zou kunnen dwarsbomen. Maar de vader van Leendert kan het fysiek niet aan en het verzet oppert dat zijn 15-jarige zoon wel kan gaan. Leendert heeft wel zin in dat avontuur! Samen met iemand van het verzet maakt hij plannen voor de tocht.",
+            "html_description": "<p>Leendert maakt de bevrijding in Terneuzen mee. De mensen vieren feest, maar het wordt ook duidelijk dat de oorlog nog niet voorbij is. De vader van Leendert zit in het verzet en krijgt de vraag om een boodschap af te leveren in Groningen. De geallieerden hebben het vermoeden dat er een verrader in het Gronings verzet zit, die de bevrijding wel eens zou kunnen dwarsbomen. Maar de vader van Leendert kan het fysiek niet aan en het verzet oppert dat zijn 15-jarige zoon wel kan gaan. Leendert heeft wel zin in dat avontuur! Samen met iemand van het verzet maakt hij plannen voor de tocht.</p>",
+            "duration_ms": 794854,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0uhEFGAbsTjjziVYwT26S4"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0uhEFGAbsTjjziVYwT26S4",
+            "id": "0uhEFGAbsTjjziVYwT26S4",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7017ea6306cd9b54be5a429f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f7017ea6306cd9b54be5a429f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d7017ea6306cd9b54be5a429f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Aflevering 1: De verrader (september 1944)",
+            "release_date": "2019-10-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0uhEFGAbsTjjziVYwT26S4"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0eDMusbAaaumx2c59iJ92b/clip_0_60000.mp3",
+            "description": "75 jaar na het be\u00ebindigen van de Tweede Wereldoorlog staan we stil bij de bevrijding en vieren we dat we sindsdien weer in vrijheid leven. De bevrijding van Nederland duurde ongeveer 9 maanden en vond in fases plaats. Terwijl het zuiden van Nederland al was bevrijd, was de rest van Nederland nog in handen van de nazi\u2019s. Om dat verhaal inzichtelijk te maken en invoelbaar voor kinderen is deze podcast gemaakt.",
+            "html_description": "<p>75 jaar na het be\u00ebindigen van de Tweede Wereldoorlog staan we stil bij de bevrijding en vieren we dat we sindsdien weer in vrijheid leven. De bevrijding van Nederland duurde ongeveer 9 maanden en vond in fases plaats. Terwijl het zuiden van Nederland al was bevrijd, was de rest van Nederland nog in handen van de nazi\u2019s. Om dat verhaal inzichtelijk te maken en invoelbaar voor kinderen is deze podcast gemaakt.</p>",
+            "duration_ms": 72385,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4AeFs6flp7aqeuNjRvV6ND"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4AeFs6flp7aqeuNjRvV6ND",
+            "id": "4AeFs6flp7aqeuNjRvV6ND",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ad2bbd088cfca5dc66b823b5f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fd2bbd088cfca5dc66b823b5f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dd2bbd088cfca5dc66b823b5f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Trailer Op Houten Banden",
+            "release_date": "2019-09-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4AeFs6flp7aqeuNjRvV6ND"
           }
         ]
       }
