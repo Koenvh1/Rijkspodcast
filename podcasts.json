@@ -130999,7 +130999,46 @@
         "previous": null,
         "total": 12,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/62PkCGwd7kT5pJoWtpC60R/clip_550031_610031.mp3",
+            "description": "Wist je dat Nederland \u00e9\u00e9n van de weinige Europese landen is zonder lekenrechtspraak, waarin burgers zonder juridische opleiding toch deelnemen aan de rechtspraak? Bijvoorbeeld als lid van een jury die een verdachte schuldig of onschuldig bevindt. Waarom hebben we dat niet hier? En zou het een goed idee zijn om het alsnog in te voeren?In deze aflevering spreekt host Carlissa Remmerswaal met Marijke ter Voert en Elco Nab van de Radboud Universiteit over hun WODC-onderzoek naar de voor- en nadelen van lekenrechtspraak in het strafrecht. Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060.Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
+            "html_description": "<p>Wist je dat Nederland \u00e9\u00e9n van de weinige Europese landen is zonder lekenrechtspraak, waarin burgers zonder juridische opleiding toch deelnemen aan de rechtspraak? Bijvoorbeeld als lid van een jury die een verdachte schuldig of onschuldig bevindt. Waarom hebben we dat niet hier? En zou het een goed idee zijn om het alsnog in te voeren?<br />In deze aflevering spreekt host Carlissa Remmerswaal met Marijke ter Voert en Elco Nab van de Radboud Universiteit over hun WODC-onderzoek naar de voor- en nadelen van lekenrechtspraak in het strafrecht. <br />Meer weten over dit onderzoek? Lees hier het <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3444/lekenrechtspraak-in-strafzaken-West-Europa-volledige-tekst.pdf?sequence&#61;1&amp;isAllowed&#61;y\" rel=\"nofollow\">\u2060volledige rapport</a>\u2060.<br />Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">www.wodc.nl</a><br />Opname en montage gedaan in eigen beheer WODC.</p>",
+            "duration_ms": 1331003,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1dZoVcsKNWsFmU9u7rrlwd"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1dZoVcsKNWsFmU9u7rrlwd",
+            "id": "1dZoVcsKNWsFmU9u7rrlwd",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a65fe90b9db4a16be0701e263",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f65fe90b9db4a16be0701e263",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d65fe90b9db4a16be0701e263",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Burgers als rechters: goed idee voor de rechtspraak?",
+            "release_date": "2025-09-01",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1dZoVcsKNWsFmU9u7rrlwd"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1uZ6URhK1aeJUXQSz1cn3u/clip_592171_652171.mp3",
             "description": "De zesde editie van Dossier WODC Live heeft plaatsgevonden op de Vrije Universiteit Amsterdam en ging over Dossier Meisjescriminaliteit. In deze editie spreekt host Olivier Hendriks met universitair hoofddocent Anne-Marie Slotboom van de Vrije Universiteit Amsterdam over meisjes en jonge vrouwen die in de criminaliteit belanden.Meisjes en jonge vrouwen die crimineel gedrag vertonen zijn een blinde vlek in de strafrechtketen. Ze worden minder snel als verdachte gezien, en als ze eenmaal als verdachte in beeld zijn, dan worden ze bewust of onbewust anders bejegend dan mannen. Maar waarom dan?Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zesde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees hier het volledige rapport.Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpnames op locatie verzorgd door NFGD.",
