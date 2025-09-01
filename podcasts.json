@@ -86824,15 +86824,55 @@
       "publisher": "WRR",
       "type": "show",
       "uri": "spotify:show:7KpZSJ4rugXG6vX9rfEDiQ",
-      "total_episodes": 33,
+      "total_episodes": 34,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7KpZSJ4rugXG6vX9rfEDiQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 33,
+        "total": 34,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Yh8kF7LUk5ag3XeZhSvLa/clip_244048_304048.mp3",
+            "description": "De WRR organiseerde samen met de Wetenschappelijke Klimaatraad (WKR) en het Sociaal Cultureel Planbureau (SCP) op 30 juni 2025 het symposium \u2018Klimaatadaptatie: ook een sociaal vraagstuk\u2019. Aanleiding was het in kort tijdsbestek verschijnen van hun rapporten over dit onderwerp. Beluister in deze aflevering van Vogelvlucht de presentaties van de drie inleiders: Suzanne Hulscher (WRR), Marjolijn Haasnoot (WKR) en Yvonne de Kluizenaar (SCP), ingeleid door dagvoorzitter Marijke Roskam.",
+            "html_description": "De WRR organiseerde samen met de Wetenschappelijke Klimaatraad (WKR) en het Sociaal Cultureel Planbureau (SCP) op 30 juni 2025 het symposium \u2018Klimaatadaptatie: ook een sociaal vraagstuk\u2019. Aanleiding was het in kort tijdsbestek verschijnen van hun rapporten over dit onderwerp. Beluister in deze aflevering van Vogelvlucht de presentaties van de drie inleiders: Suzanne Hulscher (WRR), Marjolijn Haasnoot (WKR) en Yvonne de Kluizenaar (SCP), ingeleid door dagvoorzitter Marijke Roskam.",
+            "duration_ms": 1967699,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2bWHc5f6wefj5qK8z7VVug"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2bWHc5f6wefj5qK8z7VVug",
+            "id": "2bWHc5f6wefj5qK8z7VVug",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a895bd59ffd6c7ec35c13696d",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f895bd59ffd6c7ec35c13696d",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d895bd59ffd6c7ec35c13696d",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Vogelvlucht #34 Klimaatadaptatie: ook een sociaal vraagstuk",
+            "release_date": "2025-09-01",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2bWHc5f6wefj5qK8z7VVug"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2jKJ13qJlIf3lTeVxycmUJ/clip_545131_605131.mp3",
             "description": "\u201cWe moeten bij de WRR de thema\u2019s kiezen die over vier, vijf jaar dominant zijn\u2019, stelt Ab Klink, sinds juli 2024 raadslid bij de WRR en hoogleraar zorg, arbeid en politieke sturing aan de Vrije Universiteit te Amsterdam. Een gesprek over opgroeien in Rotterdam, de periode als minister van Volksgezondheid, Welzijn en Sport tijdens het kabinet Balkenende-IV en zijn visie op de rol van de WRR.",
