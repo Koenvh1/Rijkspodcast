@@ -131030,15 +131030,16 @@
       "publisher": "WODC",
       "type": "show",
       "uri": "spotify:show:7jtE5bnuZHD46nMJUAmdyG",
-      "total_episodes": 12,
+      "total_episodes": 13,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7jtE5bnuZHD46nMJUAmdyG/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 12,
+        "total": 13,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/62PkCGwd7kT5pJoWtpC60R/clip_550031_610031.mp3",
             "description": "Wist je dat Nederland \u00e9\u00e9n van de weinige Europese landen is zonder lekenrechtspraak, waarin burgers zonder juridische opleiding toch deelnemen aan de rechtspraak? Bijvoorbeeld als lid van een jury die een verdachte schuldig of onschuldig bevindt. Waarom hebben we dat niet hier? En zou het een goed idee zijn om het alsnog in te voeren?In deze aflevering spreekt host Carlissa Remmerswaal met Marijke ter Voert en Elco Nab van de Radboud Universiteit over hun WODC-onderzoek naar de voor- en nadelen van lekenrechtspraak in het strafrecht. Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060.Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
