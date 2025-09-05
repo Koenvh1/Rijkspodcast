@@ -66377,7 +66377,7 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6zFMMumEG138vYhjc3xK5m/clip_332282_392282.mp3",
             "description": "Een vijftienjarenbegroting, geld dat ieder jaar op moet zijn, duizend tanks of een leger IT\u2019ers; soms lijkt geld alles te bepalen. Deborah en Anne-Marij gaan in gesprek met Ellen Bien, hoofddirecteur financi\u00ebn en control en bespreken hoe de hazen lopen. Hebben de financi\u00eben alle macht over Defensie?",
-            "duration_ms": 3571943,
+            "duration_ms": 3571944,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/5Mcg9aQQVmkYB3BUvOsURP"
@@ -133629,15 +133629,55 @@
       "publisher": "Interviews met oud-bewindspersonen en oud-topambtenaren",
       "type": "show",
       "uri": "spotify:show:6vM4ioqldTXWWxD6xW5zSg",
-      "total_episodes": 42,
+      "total_episodes": 43,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6vM4ioqldTXWWxD6xW5zSg/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 42,
+        "total": 43,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7G5u86aIuABoJegfE7L4p7/clip_260661_320661.mp3",
+            "description": "Beschrijving: Henk van Essen begon zijn loopbaan in uniform op straat en klom op tot de hoogste politiefunctie van Nederland: van mei 2020 tot en met februari 2024 was hij korpschef van de Nationale Politie. Contact met de werkvloer bleef belangrijk: \u201cDan krijg je voeding en feeling, en weet je: d\u00e1\u00e1r gaat het om.\u201d Dienstbaar zijn aan de samenleving is volgens Van Essen de kern van het politiewerk, ook in een tijd waarin de rol van de politie verandert en digitalisering een steeds grotere rol speelt. \u201cDat vind ik onze maatschappelijke opdracht.\u201d Daarbij gaat het om kennen en gekend worden, om benaderbaar en aanspreekbaar te zijn. \u201cHet is het DNA van de politie.\u201d Luister naar Henk van Essen in gesprek met Paul \u2019t Hart en Sandra van Thiel.",
+            "html_description": "<p>Beschrijving: Henk van Essen begon zijn loopbaan in uniform op straat en klom op tot de hoogste politiefunctie van Nederland: van mei 2020 tot en met februari 2024 was hij korpschef van de Nationale Politie. Contact met de werkvloer bleef belangrijk: \u201cDan krijg je voeding en feeling, en weet je: d\u00e1\u00e1r gaat het om.\u201d Dienstbaar zijn aan de samenleving is volgens Van Essen de kern van het politiewerk, ook in een tijd waarin de rol van de politie verandert en digitalisering een steeds grotere rol speelt. \u201cDat vind ik onze maatschappelijke opdracht.\u201d Daarbij gaat het om kennen en gekend worden, om benaderbaar en aanspreekbaar te zijn. \u201cHet is het DNA van de politie.\u201d Luister naar Henk van Essen in gesprek met Paul \u2019t Hart en Sandra van Thiel.</p>",
+            "duration_ms": 5442880,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/67DZ3otvJ5wCYWJTFwIftK"
+            },
+            "href": "https://api.spotify.com/v1/episodes/67DZ3otvJ5wCYWJTFwIftK",
+            "id": "67DZ3otvJ5wCYWJTFwIftK",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaeb9a062f7d74b94fe143f73",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faeb9a062f7d74b94fe143f73",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daeb9a062f7d74b94fe143f73",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "\u201cElke keer weer terug naar de werkvloer\u201d",
+            "release_date": "2025-09-05",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:67DZ3otvJ5wCYWJTFwIftK"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5wp3YLcpw53nfQ48Ui22YR/clip_488009_548009.mp3",
             "description": "Geert van Maanen was onder andere (plaatsvervangend) DG Rijksbegroting, en SG bij de ministeries van Financi\u00ebn, Verkeer & Waterstaat en VWS. Een SG moet goed zijn in processen, stelt hij, omdat dat leidt tot betere inhoud dan via de inhoud zelf. Maar het gaat ook om iets anders, je positie cre\u00ebren: \u201cJe kan een hoop voor elkaar krijgen, puur door je positie.\u201d Verder is enige afstand van belang: tot het ambtelijk apparaat, de bewindspersonen \u00e9n de waan van de dag. Hij ziet graag dat ambtenaren weer \u2018terugkomen bij de inhoud\u2019. \u201cHet inhoudelijke geluid is behoorlijk weg, dat wordt gemist in de maatschappij en het politieke debat.\u201d Luister naar Geert van Maanen in gesprek met Roel Bekker en Zeger van der Wal.",
