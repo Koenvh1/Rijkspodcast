@@ -131039,7 +131039,46 @@
         "previous": null,
         "total": 13,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6O4Cz5wp4dX7UVgjNfqtRS/clip_216497_276497.mp3",
+            "description": "Van 9 tot en met 16 september 2025 is het de Week van de Rechtsstaat. Tijdens deze week wordt er aandacht besteed aan de Nederlandse rechtsstaat en hoe bijzonder het eigenlijk is dat wij deze mogen hebben. Verschillende instituten openen (letterlijk) hun deuren en laten zo zien hoe zij een bijdrage aan de rechtsstaat leveren. Ook het WODC doet mee.In deze korte special spreekt host Carlissa Remmerswaal met Ivo Giesen\u2014directeur van het WODC en hoogleraar privaatrecht aan de Universiteit Utrecht\u2014over de rol die het WODC speelt in het in stand houden en verbeteren van de Nederlandse rechtsstaat.Meer weten over de Week van de Rechtsstaat? Ga naar deze \u2060website\u2060.Voor onderzoek over de rechtsstaat en aanverwante thema's, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
+            "html_description": "<p>Van 9 tot en met 16 september 2025 is het de Week van de Rechtsstaat. Tijdens deze week wordt er aandacht besteed aan de Nederlandse rechtsstaat en hoe bijzonder het eigenlijk is dat wij deze mogen hebben. Verschillende instituten openen (letterlijk) hun deuren en laten zo zien hoe zij een bijdrage aan de rechtsstaat leveren. Ook het WODC doet mee.<br />In deze korte special spreekt host Carlissa Remmerswaal met Ivo Giesen\u2014directeur van het WODC en hoogleraar privaatrecht aan de Universiteit Utrecht\u2014over de rol die het WODC speelt in het in stand houden en verbeteren van de Nederlandse rechtsstaat.<br />Meer weten over de Week van de Rechtsstaat? Ga naar deze <a href=\"https://www.weekvanderechtsstaat.nl\" rel=\"nofollow\">\u2060website</a>\u2060.<br />Voor onderzoek over de rechtsstaat en aanverwante thema&#39;s, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">www.wodc.nl</a><br />Opname en montage gedaan in eigen beheer WODC.</p>",
+            "duration_ms": 522090,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5kxF1sOlS6hkKVeKNtEDB4"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5kxF1sOlS6hkKVeKNtEDB4",
+            "id": "5kxF1sOlS6hkKVeKNtEDB4",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a65fe90b9db4a16be0701e263",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f65fe90b9db4a16be0701e263",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d65fe90b9db4a16be0701e263",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Special: Week van de Rechtsstaat",
+            "release_date": "2025-09-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5kxF1sOlS6hkKVeKNtEDB4"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/62PkCGwd7kT5pJoWtpC60R/clip_550031_610031.mp3",
             "description": "Wist je dat Nederland \u00e9\u00e9n van de weinige Europese landen is zonder lekenrechtspraak, waarin burgers zonder juridische opleiding toch deelnemen aan de rechtspraak? Bijvoorbeeld als lid van een jury die een verdachte schuldig of onschuldig bevindt. Waarom hebben we dat niet hier? En zou het een goed idee zijn om het alsnog in te voeren?In deze aflevering spreekt host Carlissa Remmerswaal met Marijke ter Voert en Elco Nab van de Radboud Universiteit over hun WODC-onderzoek naar de voor- en nadelen van lekenrechtspraak in het strafrecht. Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060.Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
