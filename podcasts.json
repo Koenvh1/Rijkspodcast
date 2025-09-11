@@ -63128,7 +63128,7 @@
             "languages": [
               "nl"
             ],
-            "name": "#102: Tijd voor de zomervakantie!",
+            "name": "Tijd voor de zomervakantie!",
             "release_date": "2025-07-18",
             "release_date_precision": "day",
             "type": "episode",
@@ -66577,7 +66577,7 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1QzxxDtNZJweHrjMGBvtiv/clip_273907_333907.mp3",
             "description": "\u2018We bereiden ons voor op de vorige oorlog.\u2019 In deel 2 over dit vooroordeel praten Deborah en Anne-Marij met de Commandant Landstrijdkrachten, luitenant-generaal Martin Wijnen. \u201cThe wars of choice zijn voorbij. We werken richting the wars of necessity.\u201d Welke oorlog bereiden we ons op voor? Moet de landmacht daar \u00e1lles voor kunnen? Hoe ziet de combinatie van mobiliteit, bescherming en slagkracht er over een decennium uit? \u201cWe zijn heel goed geworden in crisis management activities, en moeten weer heel goed worden in gevechtsoperaties. Het is als turnen. We waren heel goed op het paard en sprong, maar we moeten nu heel goed worden op de ringen en de ongelijke brug.\u201d",
-            "duration_ms": 3471431,
+            "duration_ms": 3471432,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6WvzQbRaawMlmV2W536B2P"
@@ -91471,14 +91471,14 @@
       "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:73wFqrRgrzEWF50z1nzaaX",
-      "total_episodes": 110,
+      "total_episodes": 109,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/73wFqrRgrzEWF50z1nzaaX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/73wFqrRgrzEWF50z1nzaaX/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 110,
+        "total": 109,
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3U4FOUibV2me4H8VEGg0if/clip_596016_656016.mp3",
@@ -93001,46 +93001,6 @@
             "uri": "spotify:episode:2mQEWJsSPA9AAcO5Aaqtii"
           },
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6ZrkqTQ0cxiUfYF9xle8Ne/clip_293968_353968.mp3",
-            "description": "Het Korps Commandotroepen verleende ook dit jaar weer medewerking aan TV-programma Kamp Van Koningsbrugge. Waarom doen de kandidaten mee aan het tweede seizoen? Podcastmaakster Julya gaat op onderzoek uit en vraagt het aan instructeur Patrick, voormalig marinier en commando. Hij geeft zijn visie hierop. Het grootste verschil met zijn werk als coach bij Resilience Performance Training Center (sportschool Barendrecht), waarbij Patrick jonge mensen traint en voorbereidt op een baan bij defensie of politie, is dat de kandidaten zich met name met programma Kamp van Koningsbrugge identificeren en niet zozeer op zoek zijn naar een nieuwe, uitdagende baan. Ook geeft Patrick zijn visie op of de kandidaten geschikt zijn voor het Korps Commandotroepen.  Zijn grootste tip als je commando wilt worden? Niet twijfelen, gewoon doen!  Vergeet je niet te abonneren, zodat je als eerste op de hoogte bent van nieuwe afleveringen.  Wil jij commando worden? Bezoek www.werkenbijdefensie.nl/commando voor meer informatie over de special forces van de landmacht.",
-            "html_description": "<p>Het Korps Commandotroepen verleende ook dit jaar weer medewerking aan TV-programma Kamp Van Koningsbrugge. Waarom doen de kandidaten mee aan het tweede seizoen? Podcastmaakster Julya gaat op onderzoek uit en vraagt het aan instructeur Patrick, voormalig marinier en commando. Hij geeft zijn visie hierop. Het grootste verschil met zijn werk als coach bij Resilience Performance Training Center (sportschool Barendrecht), waarbij Patrick jonge mensen traint en voorbereidt op een baan bij defensie of politie, is dat de kandidaten zich met name met programma Kamp van Koningsbrugge identificeren en niet zozeer op zoek zijn naar een nieuwe, uitdagende baan. Ook geeft Patrick zijn visie op of de kandidaten geschikt zijn voor het Korps Commandotroepen.<br /> <br /> Zijn grootste tip als je commando wilt worden? Niet twijfelen, gewoon doen!<br /> <br /> Vergeet je niet te abonneren, zodat je als eerste op de hoogte bent van nieuwe afleveringen.<br /> <br /> Wil jij commando worden? Bezoek www.werkenbijdefensie.nl/commando voor meer informatie over de special forces van de landmacht.</p>",
-            "duration_ms": 898298,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/3drjJTv6Vdx3biupy3gKhj"
-            },
-            "href": "https://api.spotify.com/v1/episodes/3drjJTv6Vdx3biupy3gKhj",
-            "id": "3drjJTv6Vdx3biupy3gKhj",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a3a9f7532cb45414a30eddb1c",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f3a9f7532cb45414a30eddb1c",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d3a9f7532cb45414a30eddb1c",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Behind the Scenes bij het Korps Commandotroepen (KCT) - Instructeur Patrick van der Vlies",
-            "release_date": "2022-01-20",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:3drjJTv6Vdx3biupy3gKhj"
-          },
-          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1oQsEXpcwPlXjM8DTGBDq3/clip_150536_210536.mp3",
             "description": "Maar liefst 6 uur doen over een verplaatsing van 600 meter?! Hoe dat precies zit, hoor je in deze podcastaflevering met oud-commando Richard Bergmans. Richard is, namens het Korps Commandotroepen (KCT), een van de instructeurs in het nieuwe seizoen van Kamp Van Koningsbrugge, waar de Landmacht en het Korps Commandotroepen ook dit jaar weer medewerking aan verleenden.\u00a0  Doe jij de dingen die je zegt dat je doet, ook als je het gevoel hebt dat er niemand kijkt?  Richard wil met zijn bijdrage aan Kamp Van Koningsbrugge het KCT goed vertegenwoordigen. Richard is net als zijn opa groene-baret-dragend en hij is daarnaast ook instructeur geweest in de echte commando-opleiding.  Tegenwoordig heeft Richard een eigen bedrijf, Threefront, waarmee hij andere bedrijven een radicaal andere manier van werken voor teams aanleert. Samen met zijn compagnons en mede special forces operators schreef hij het boek: Green On.  Bij het verschijnen van deze aflevering van Mijn Missie staat het boek al maandenlang in de top 10 van de Managementboek Top 100, dit boek is zeker een aanrader om te lezen!  Vergeet je niet te abonneren, zodat je als eerste op de hoogte bent van nieuwe afleveringen.  Wil jij commando worden? Bezoek www.werkenbijdefensie.nl/commando voor meer informatie over de special forces van de landmacht.",
             "html_description": "<p>Maar liefst 6 uur doen over een verplaatsing van 600 meter?! Hoe dat precies zit, hoor je in deze podcastaflevering met oud-commando Richard Bergmans. Richard is, namens het Korps Commandotroepen (KCT), een van de instructeurs in het nieuwe seizoen van Kamp Van Koningsbrugge, waar de Landmacht en het Korps Commandotroepen ook dit jaar weer medewerking aan verleenden.\u00a0<br /> <br /> Doe jij de dingen die je zegt dat je doet, ook als je het gevoel hebt dat er niemand kijkt?<br /> <br /> Richard wil met zijn bijdrage aan Kamp Van Koningsbrugge het KCT goed vertegenwoordigen. Richard is net als zijn opa groene-baret-dragend en hij is daarnaast ook instructeur geweest in de echte commando-opleiding.<br /> <br /> Tegenwoordig heeft Richard een eigen bedrijf, Threefront, waarmee hij andere bedrijven een radicaal andere manier van werken voor teams aanleert. Samen met zijn compagnons en mede special forces operators schreef hij het boek: Green On.<br /> <br /> Bij het verschijnen van deze aflevering van Mijn Missie staat het boek al maandenlang in de top 10 van de Managementboek Top 100, dit boek is zeker een aanrader om te lezen!<br /> <br /> Vergeet je niet te abonneren, zodat je als eerste op de hoogte bent van nieuwe afleveringen.<br /> <br /> Wil jij commando worden? Bezoek www.werkenbijdefensie.nl/commando voor meer informatie over de special forces van de landmacht.</p>",
@@ -93483,28 +93443,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7zMCfGxyq9YLT1E4WeFDXR/clip_395742_455742.mp3",
             "description": "Nederlandse militairen dragen sinds 2015 bij aan de strijd tegen Islamitische Staat. In 2018 werd deze missie voor het eerst toegekend aan de Nationale Reserve. Zij beveiligden het vliegveld van de coalitie in Jordani\u00eb. Sergeant Arend de Jong maakte deel uit van die missie. Hij vertelt over zijn functie als reservist, balans burger en militair en zijn missie in Jordani\u00eb.",
+            "html_description": "<p>Nederlandse militairen dragen sinds 2015 bij aan de strijd tegen Islamitische Staat. In 2018 werd deze missie voor het eerst toegekend aan de Nationale Reserve. Zij beveiligden het vliegveld van de coalitie in Jordani\u00eb. Sergeant Arend de Jong maakte deel uit van die missie. Hij vertelt over zijn functie als reservist, balans burger en militair en zijn missie in Jordani\u00eb.</p>",
             "duration_ms": 2739513,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1s80Qw0yDkj0iib73HvOJH"
             },
             "href": "https://api.spotify.com/v1/episodes/1s80Qw0yDkj0iib73HvOJH",
-            "html_description": "<p>Nederlandse militairen dragen sinds 2015 bij aan de strijd tegen Islamitische Staat. In 2018 werd deze missie voor het eerst toegekend aan de Nationale Reserve. Zij beveiligden het vliegveld van de coalitie in Jordani\u00eb. Sergeant Arend de Jong maakte deel uit van die missie. Hij vertelt over zijn functie als reservist, balans burger en militair en zijn missie in Jordani\u00eb.</p>",
             "id": "1s80Qw0yDkj0iib73HvOJH",
             "images": [
               {
-                "height": 640,
                 "url": "https://i.scdn.co/image/ab6765630000ba8ae584409678854c517d26964e",
+                "height": 640,
                 "width": 640
               },
               {
-                "height": 300,
                 "url": "https://i.scdn.co/image/ab67656300005f1fe584409678854c517d26964e",
+                "height": 300,
                 "width": 300
               },
               {
-                "height": 64,
                 "url": "https://i.scdn.co/image/ab6765630000f68de584409678854c517d26964e",
+                "height": 64,
                 "width": 64
               }
             ],
