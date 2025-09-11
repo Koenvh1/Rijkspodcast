@@ -31,7 +31,7 @@ def get_podcast_info(spotify_url):
         client_id=credentials["client_id"],
         client_secret=credentials["client_secret"]
     )
-    sp = spotipy.Spotify(auth_manager=auth_manager)
+    sp = spotipy.Spotify(auth_manager=auth_manager, requests_timeout=10, retries=10)
 
     show = sp.show(show_id)
     if show["episodes"]["next"]:
@@ -104,9 +104,16 @@ def generate_opml():
 def update_podcasts():
     podcasts = json.load(open("podcasts.json"))
     for podcast in podcasts:
-        podcast["spotify_data"] = get_podcast_info(podcast["spotify"])
-        print(podcast["spotify_data"]["name"])
-        time.sleep(0.1)
+        try:
+            podcast["spotify_data"] = get_podcast_info(podcast["spotify"])
+            print(podcast["spotify_data"]["name"])
+            time.sleep(0.1)
+        except spotipy.SpotifyException as e:
+            if e.http_status == 404:
+                print("NOT FOUND: " + podcast["spotify_data"]["name"])
+            else:
+                raise e
+
     json.dump(podcasts, open("podcasts.json", "w"), indent=2)
 
 if __name__ == "__main__":
