@@ -63085,15 +63085,55 @@
       "publisher": "Landmacht FM",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
-      "total_episodes": 104,
+      "total_episodes": 105,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 104,
+        "total": 105,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/595F156gZD7ggNxacbGpYN/clip_430018_490018.mp3",
+            "description": "De vakantie is voorbij, dus tijd voor Anne-Marij en Deborah om kansen te pakken. In deze aflevering verkennen zij de open defence academy, de ODA, samen met Marielle van der Berg, adviseur leren en ontwikkelen en Ralph Spijker, onderwijskundig adviseur. Beide zijn werkzaam bij de NLDA en houden zich bezig met het bedenken van oplossingen op leervraagstukken. Welke kansen ODA biedt voor jou, je eenheid of je community hoor je in deze aflevering. Luister je mee, naar de nieuwe aflevering Klapmok met thee.",
+            "html_description": "<p>De vakantie is voorbij, dus tijd voor Anne-Marij en Deborah om kansen te pakken. In deze aflevering verkennen zij de open defence academy, de ODA, samen met Marielle van der Berg, adviseur leren en ontwikkelen en Ralph Spijker, onderwijskundig adviseur. Beide zijn werkzaam bij de NLDA en houden zich bezig met het bedenken van oplossingen op leervraagstukken. Welke kansen ODA biedt voor jou, je eenheid of je community hoor je in deze aflevering.</p> <p>Luister je mee, naar de nieuwe aflevering Klapmok met thee.</p>",
+            "duration_ms": 2979918,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7HFcBj9va0Yyufb13vnECM"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7HFcBj9va0Yyufb13vnECM",
+            "id": "7HFcBj9va0Yyufb13vnECM",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1ce1cabe32cc595d50376067",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1ce1cabe32cc595d50376067",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1ce1cabe32cc595d50376067",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#102: Pak je kans met ODA!",
+            "release_date": "2025-09-10",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7HFcBj9va0Yyufb13vnECM"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5WcctDT5VOJsGXv9tXWGCy/clip_165128_225128.mp3",
             "description": "Anne-Marij en Deborah wensen alle luisteraars natuurlijk een hele fijne zomer toe. Daarbij blikken ze ook nog even terug op het afgelopen jaar. En voor de die-hard fans: wat is jouw top 3 van Klapmok met Thee het afgelopen jaar? Na de zomervakantie staan er weer veel interessante onderwerpen en gasten op de planning!",
@@ -65057,28 +65097,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1rcGVpygK6cnNhFDCg6NNc/clip_273811_333811.mp3",
             "description": "Ruzie, roddels\u2026 Anne-Marij en Deborah hebben een conflict. En ze gaan in gesprek met mediators Yvette en Jacob. Ok\u00e9\u2026 misschien is het conflict verzonnen, maar toch zijn ze benieuwd wat mediators nou eigenlijk doen. Wanneer is iets een conflict? Wat voor mensen worden mediator? Welke zaken springen mediators op? \u201cEn dan sta je naast twee partijen terwijl ze samen het dossier door de shredder halen. Mensen willen eigenlijk helemaal geen conflict.\u201d",
-            "html_description": "<p>Ruzie, roddels\u2026 Anne-Marij en Deborah hebben een conflict. En ze gaan in gesprek met mediators Yvette en Jacob. Ok\u00e9\u2026 misschien is het conflict verzonnen, maar toch zijn ze benieuwd wat mediators nou eigenlijk doen. Wanneer is iets een conflict? Wat voor mensen worden mediator? Welke zaken springen mediators op? \u201cEn dan sta je naast twee partijen terwijl ze samen het dossier door de shredder halen. Mensen willen eigenlijk helemaal geen conflict.\u201d</p>",
             "duration_ms": 3093133,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1NMXcKxo1WtYpfUwNfnkuv"
             },
             "href": "https://api.spotify.com/v1/episodes/1NMXcKxo1WtYpfUwNfnkuv",
+            "html_description": "<p>Ruzie, roddels\u2026 Anne-Marij en Deborah hebben een conflict. En ze gaan in gesprek met mediators Yvette en Jacob. Ok\u00e9\u2026 misschien is het conflict verzonnen, maar toch zijn ze benieuwd wat mediators nou eigenlijk doen. Wanneer is iets een conflict? Wat voor mensen worden mediator? Welke zaken springen mediators op? \u201cEn dan sta je naast twee partijen terwijl ze samen het dossier door de shredder halen. Mensen willen eigenlijk helemaal geen conflict.\u201d</p>",
             "id": "1NMXcKxo1WtYpfUwNfnkuv",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aa9a47ca6e5ed1d03afccce1e",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa9a47ca6e5ed1d03afccce1e",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fa9a47ca6e5ed1d03afccce1e",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fa9a47ca6e5ed1d03afccce1e",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68da9a47ca6e5ed1d03afccce1e",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68da9a47ca6e5ed1d03afccce1e",
                 "width": 64
               }
             ],
