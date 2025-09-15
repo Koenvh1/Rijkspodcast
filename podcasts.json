@@ -51383,15 +51383,16 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:1Tn18wGbJHz3LClUvnFApP",
-      "total_episodes": 30,
+      "total_episodes": 31,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Tn18wGbJHz3LClUvnFApP/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 30,
+        "total": 31,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2Ew4DcjpwCHIuKQpuWl31W/clip_133828_193828.mp3",
             "description": "Digitalisering, maatschappelijke onrust en de toenemende invloed van ondermijnende criminaliteit zetten onze rechtsstaat onder druk. De politie staat voor een fundamentele uitdaging: hoe blijven we als organisatie stevig staan in een samenleving die steeds sneller verandert?\u00a0In deze aflevering van de podcast #ONDERMIJNING gaan we in gesprek met Hanneke Ekelmans, lid van de korpsleiding van de politie. We duiken in de strategische agenda \u2018Stevig staan in deze tijd\u2019, waarin de koers voor de politie richting 2030 wordt uitgezet. Wat betekent het om een zelfbewuste, rechtstatelijke en verbonden politie te zijn? En wat vraagt dit van samenwerking met burgers, bedrijven en ketenpartners in de aanpak van ondermijning?\u00a0Hanneke deelt niet alleen haar visie op de toekomst van politiewerk, maar spreekt ook openhartig over haar persoonlijke drijfveren, de dilemma\u2019s die ze tegenkomt en wat haar motiveert in de strijd tegen georganiseerde criminaliteit.\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie. Christiaan Los van het Landelijk Programma Ondermijning en Iris Schagen, student Governance en Management van Complexe Systemen en lid van studententeam BOOST. Samen gaan zij met Hanneke in gesprek over keuzes, dilemma\u2019s en de toekomst van politiewerk in een steeds complexere wereld.\u00a0",
@@ -82684,8 +82685,8 @@
         "ZA"
       ],
       "copyrights": [],
-      "description": "Wij stimuleren gezondheidsonderzoek en zorginnovatie om daarmee de zorg beter te maken en gezondheid te verbeteren.",
-      "html_description": "Wij stimuleren gezondheidsonderzoek en zorginnovatie om daarmee de zorg beter te maken en gezondheid te verbeteren.",
+      "description": "Met kennis werken aan een goede gezondheid voor iedereen. Daar staat ZonMw voor. ZonMw programmeert en financiert onderzoek en vernieuwing in gezondheid, zorg en welzijn, stimuleert kennisinfrastructuren en het gebruik van de ontwikkelde kennis. Samen met partners werkt ZonMw aan het signaleren en agenderen van kennisbehoeftes. Onze belangrijkste opdrachtgevers zijn het ministerie van VWS en NWO.",
+      "html_description": "Met kennis werken aan een goede gezondheid voor iedereen. Daar staat ZonMw voor.<br/>ZonMw programmeert en financiert onderzoek en vernieuwing in gezondheid, zorg en welzijn, stimuleert kennisinfrastructuren en het gebruik van de ontwikkelde kennis. Samen met partners werkt ZonMw aan het signaleren en agenderen van kennisbehoeftes. Onze belangrijkste opdrachtgevers zijn het ministerie van VWS en NWO.",
       "explicit": false,
       "external_urls": {
         "spotify": "https://open.spotify.com/show/6PSKSM0WyEFpXtOZX3UOVb"
