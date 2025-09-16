@@ -4115,15 +4115,55 @@
       "publisher": "De Publieke Ruimte",
       "type": "show",
       "uri": "spotify:show:5VWtfJI3bOU0fDfO33YgeD",
-      "total_episodes": 58,
+      "total_episodes": 59,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 58,
+        "total": 59,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2FSVX4ROJ50ZcAIitBIaLN/clip_611191_671191.mp3",
+            "description": "De Staat van de Uitvoering heeft een special uitgebracht: \u00a0een toekomstverkenning met een aantal toekomstimpressies die een inkijkje geven in hoe de publieke dienstverlening er in 2035 uit zou kunnen zien. Martijn en Otto laten zich inspireren door de geschetste vergezichten en bespreken met hun gasten hoe realistisch de toekomstperspectieven zijn \u00e9n hoe de toekomstimpressies nu al stapsgewijs worden gerealiseerd.  Te gast zijn: Loes Mulder (secretaris-generaal OCW), \u00a0Hans Ouwehand (voorzitter Raad van Bestuur CAK), Rodrique Engering (voorzitter Raad van Bestuur KvK) en Jasper van Dijk (econoom en onderzoeksleider bij het Instituut voor Publieke Economie). Ook horen we de voorzitter van de stuurgroep van de Staat van de Uitvoering Abdeluheb Choho (directeur-generaal RVO)\u00a0 Daarnaast vertellen vier kandidaat-Tweede Kamerleden over hun toekomstvisie ten aanzien van de publieke dienstverlening: Inge van Dijk (CDA), Nathalie van Berkel (D66), Rens de Boer (VOLT) en Luc Stultiens (GroenLinks-PvdA).\u00a0",
+            "html_description": "<p>De Staat van de Uitvoering heeft een special uitgebracht: \u00a0een toekomstverkenning met een aantal toekomstimpressies die een inkijkje geven in hoe de publieke dienstverlening er in 2035 uit zou kunnen zien. Martijn en Otto laten zich inspireren door de geschetste vergezichten en bespreken met hun gasten hoe realistisch de toekomstperspectieven zijn \u00e9n hoe de toekomstimpressies nu al stapsgewijs worden gerealiseerd. </p><br/><p>Te gast zijn: Loes Mulder (secretaris-generaal OCW), \u00a0Hans Ouwehand (voorzitter Raad van Bestuur CAK), Rodrique Engering (voorzitter Raad van Bestuur KvK) en Jasper van Dijk (econoom en onderzoeksleider bij het Instituut voor Publieke Economie). Ook horen we de voorzitter van de stuurgroep van de Staat van de Uitvoering Abdeluheb Choho (directeur-generaal RVO)\u00a0</p><br/><p>Daarnaast vertellen vier kandidaat-Tweede Kamerleden over hun toekomstvisie ten aanzien van de publieke dienstverlening: Inge van Dijk (CDA), Nathalie van Berkel (D66), Rens de Boer (VOLT) en Luc Stultiens (GroenLinks-PvdA).\u00a0</p>",
+            "duration_ms": 3122568,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1GATmpaBQGEPWSP6ZxptDX"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1GATmpaBQGEPWSP6ZxptDX",
+            "id": "1GATmpaBQGEPWSP6ZxptDX",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Staat van de Uitvoering 2025 - Toekomst impressies",
+            "release_date": "2025-09-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1GATmpaBQGEPWSP6ZxptDX"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ULZivCslJ5qfNKUrLEduc/clip_511630_571630.mp3",
             "description": "Uitvoeringsleiderschap is een bijzondere vorm van publiek leiderschap. Leiders in de uitvoering moeten zowel de buitenwereld (maatschappij, politiek, media) als de binnenwereld (medewerkers, systemen, processen) begrijpen en met elkaar verbinden.\u00a0 Maar hoe voorkom je een spagaat tussen binnen- en buitenwereld?\u00a0 \u00a0 In deze aflevering van podcast De Publieke Ruimte gaan we met Zeger van der Wal (hoogleraar Universiteit Leiden) in gesprek over zijn nieuwe boek getiteld \u201cUitvoeringsleiderschap\u201d. Te gast zijn de overheidsmanager van het jaar 2024 Miriam Twilt-Mendon\u00e7a (vestigingsdirecteur Detentiecentrum Rotterdam) en de bestuursvoorzitter van het UWV Maarten Camps.\u00a0 \u00a0 Zijn uitvoeringsleiders meer praktisch ingesteld en oplossingsgericht dan hun beleidscollega\u2019s? Hoe sturen zij op rollen, afspraken en relaties? Welk voorbeeldgedrag is onmisbaar en hoe zichtbaar kan een publiek leider zich opstellen in de media?\u00a0 We schetsen een profiel voor publieke leiders in de uitvoering en bespreken zaken zoals de maatschappelijke antenne, het politiek ambtelijk samenspel, operational excellence, en de onmisbare \u2018can do\u2019-mentaliteit.",
@@ -6087,32 +6127,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4lEp6l2nMsF3D7IM1IjeFt/clip_559535_619535.mp3",
             "description": "Dienstverlening is h\u00e9t woord van deze aflevering. Dit bespreken we met Simon Sibma,\u00a0voorzitter van de RvB van de SVB en trekker van het spoor Toekomstbestendige Dienstverlening. Want hoe en voor wie verbeteren we die dienstverlening eigenlijk? Waar beginnen we? Maike Klip volgde een maand lang haar eigen contact met de overheid. Vanuit haar perspectief \u00e9n dat van de overheid. En Vincent van Beek vertelt over de Haagse dienstverlening op het platform Mijn Den Haag. Kortom: een aflevering bomvol dienstverlening!",
-            "html_description": "<p>Dienstverlening is h\u00e9t woord van deze aflevering. Dit bespreken we met Simon Sibma,\u00a0voorzitter van de RvB van de SVB en trekker van het spoor Toekomstbestendige Dienstverlening. Want hoe en voor wie verbeteren we die dienstverlening eigenlijk? Waar beginnen we? Maike Klip volgde een maand lang haar eigen contact met de overheid. Vanuit haar perspectief \u00e9n dat van de overheid. En Vincent van Beek vertelt over de Haagse dienstverlening op het platform Mijn Den Haag. Kortom: een aflevering bomvol dienstverlening!</p>",
             "duration_ms": 2619376,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3idOfbs8edet0y9EBNquhM"
             },
             "href": "https://api.spotify.com/v1/episodes/3idOfbs8edet0y9EBNquhM",
+            "html_description": "<p>Dienstverlening is h\u00e9t woord van deze aflevering. Dit bespreken we met Simon Sibma,\u00a0voorzitter van de RvB van de SVB en trekker van het spoor Toekomstbestendige Dienstverlening. Want hoe en voor wie verbeteren we die dienstverlening eigenlijk? Waar beginnen we? Maike Klip volgde een maand lang haar eigen contact met de overheid. Vanuit haar perspectief \u00e9n dat van de overheid. En Vincent van Beek vertelt over de Haagse dienstverlening op het platform Mijn Den Haag. Kortom: een aflevering bomvol dienstverlening!</p>",
             "id": "3idOfbs8edet0y9EBNquhM",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -16714,7 +16754,7 @@
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6gIWcZ5Mvz3KVqEknBZb9N/clip_129217_189217.mp3",
             "description": "The audio recording of the keynote of Morten Meyerhoff Nielsen, expert in public sector digital transformation at the United Nations University, at the User Needs First International Conference 2025 Morten presented his insights on how technology can enhance government services through accessibility and user-centricity. His talk explored the four-piece framework, preventive, predictive, proactive, and personalized services, while comparing design standards across countries like the UK, Australia, Canada, and Denmark. Nielsen emphasized how proper governance and design standards are crucial for bridging the gap between users, designers, and policymakers to create truly effective digital services.",
             "html_description": "The audio recording of the keynote of Morten Meyerhoff Nielsen, expert in public sector digital transformation at the United Nations University, at the User Needs First International Conference 2025 Morten presented his insights on how technology can enhance government services through accessibility and user-centricity. His talk explored the four-piece framework, preventive, predictive, proactive, and personalized services, while comparing design standards across countries like the UK, Australia, Canada, and Denmark. Nielsen emphasized how proper governance and design standards are crucial for bridging the gap between users, designers, and policymakers to create truly effective digital services.",
-            "duration_ms": 2797463,
+            "duration_ms": 2797464,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/02jqQ1t5lcpJCQqwcaQzMi"
