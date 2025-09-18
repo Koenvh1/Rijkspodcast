@@ -117549,15 +117549,55 @@
       "publisher": "Bureau Scherpte Diepte",
       "type": "show",
       "uri": "spotify:show:2UY9LIrltGlysx6YGUN8Ig",
-      "total_episodes": 8,
+      "total_episodes": 9,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2UY9LIrltGlysx6YGUN8Ig/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 8,
+        "total": 9,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0RttoSXf5dSBWEAxbV8e05/clip_514792_574792.mp3",
+            "description": "De businesscase voor klimaatadaptatie is glashelder: niets doen kost ons veel meer dan nu investeren. Dat zegt Sandra Phlippen, Praktijkhoogleraar duurzaam bankieren en hoofdeconoom ABN Amro (tijdelijk met sabbatical). Ze legt uit waarom klimaat en economie geen tegenstelling zijn, maar juist onlosmakelijk met elkaar verbonden.In deze aflevering van Delta & Duiten gaat\u00a0 Maarten Bouwhuis in gesprek met Sandra Phlippen over de politieke en economische keuzes die nodig zijn om Nederland toekomstbestendig te maken. Van de kosten van overstromingen tot de sociale ongelijkheid in kwetsbare wijken: investeren in klimaatadaptatie betekent investeren in de economie van morgen.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>De businesscase voor klimaatadaptatie is glashelder: niets doen kost ons veel meer dan nu investeren. Dat zegt Sandra Phlippen, Praktijkhoogleraar duurzaam bankieren en hoofdeconoom ABN Amro (tijdelijk met sabbatical). Ze legt uit waarom klimaat en economie geen tegenstelling zijn, maar juist onlosmakelijk met elkaar verbonden.</p><p>In deze aflevering van Delta &amp; Duiten gaat\u00a0 Maarten Bouwhuis in gesprek met Sandra Phlippen over de politieke en economische keuzes die nodig zijn om Nederland toekomstbestendig te maken. Van de kosten van overstromingen tot de sociale ongelijkheid in kwetsbare wijken: investeren in klimaatadaptatie betekent investeren in de economie van morgen.</p><p>Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.<br /><br /></p>",
+            "duration_ms": 2086380,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7E5fwfULpz3TQx6QNUcn3b"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7E5fwfULpz3TQx6QNUcn3b",
+            "id": "7E5fwfULpz3TQx6QNUcn3b",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0d77f11529812317e2d70196",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0d77f11529812317e2d70196",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0d77f11529812317e2d70196",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Sandra Phlippen, Hoogleraar duurzaam bankieren en hoofdeconoom ABN Amro",
+            "release_date": "2025-09-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7E5fwfULpz3TQx6QNUcn3b"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5zcAjLAiIYiw3xOLXRvjvg/clip_220333_280333.mp3",
             "description": "De bouwsector vreest dat strengere klimaatregels de woningbouw vertragen, maar duidelijke en eenduidige regels helpen juist. Dat zegt Jeroen Haan, voorzitter van de Unie van Waterschappen, in deze aflevering van Delta & Duiten tegen Maarten Bouwhuis. Als vooraf vastligt waar en onder welke voorwaarden gebouwd mag worden, kunnen procedures sneller verlopen. Vooral bij waterveiligheid en klimaatadaptatie zorgt duidelijkheid voor voorspelbaarheid \u2013 en dat is precies wat projectontwikkelaars, gemeenten en waterschappen nodig hebben om voortgang te boeken, zegt Haan.Tegelijkertijd wordt droogte een steeds urgentere bedreiging. Waar waterschappen van oudsher vooral bezig zijn met het afvoeren van water, draait de vraag nu steeds vaker om verdeling bij schaarste. Als er weinig water via de rivieren binnenkomt, moeten keuzes worden gemaakt: wie krijgt voorrang? Landbouw, natuur, drinkwater, industrie? Deze verdelingsvraagstukken raken de ruimtelijke inrichting van Nederland in de kern.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
