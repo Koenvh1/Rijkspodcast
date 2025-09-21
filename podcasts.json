@@ -63162,7 +63162,7 @@
       ],
       "media_type": "audio",
       "name": "Klapmok met Thee",
-      "publisher": "Landmacht FM",
+      "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
       "total_episodes": 105,
@@ -68854,7 +68854,7 @@
       ],
       "media_type": "audio",
       "name": "Boots on the Ground",
-      "publisher": "Landmacht FM",
+      "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:7aZQ6NHSnxuIsT3rhUxQIR",
       "total_episodes": 12,
@@ -96701,8 +96701,8 @@
         "ZA"
       ],
       "copyrights": [],
-      "description": "Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek, de bemanning en hoe het systeem in een grotere formatie past. \u201cAls je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.\"",
-      "html_description": "Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek, de bemanning en hoe het systeem in een grotere formatie past. \u201cAls je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.&#34;",
+      "description": "In De Tank onderzoeken we het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek, de bemanning en hoe het systeem in een grotere formatie past. \u201cAls je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.\"",
+      "html_description": "<p>In De Tank onderzoeken we het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek, de bemanning en hoe het systeem in een grotere formatie past. \u201cAls je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.&#34;</p>",
       "explicit": false,
       "external_urls": {
         "spotify": "https://open.spotify.com/show/4a1UTlE81T3fih57XlcIst"
@@ -96712,17 +96712,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a2de9f2698f4fc1c33c5667d2",
+          "url": "https://i.scdn.co/image/ab6765630000ba8a45a711250904414a31d618c2",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f2de9f2698f4fc1c33c5667d2",
+          "url": "https://i.scdn.co/image/ab67656300005f1f45a711250904414a31d618c2",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d2de9f2698f4fc1c33c5667d2",
+          "url": "https://i.scdn.co/image/ab6765630000f68d45a711250904414a31d618c2",
           "width": 64
         }
       ],
@@ -96731,663 +96731,23 @@
         "nl"
       ],
       "media_type": "audio",
-      "name": "De Landmacht...",
-      "publisher": "Landmacht FM",
+      "name": "De Tank",
+      "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:4a1UTlE81T3fih57XlcIst",
-      "total_episodes": 17,
+      "total_episodes": 4,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/4a1UTlE81T3fih57XlcIst/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 17,
+        "total": 4,
         "items": [
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2hfKNKDYYqWLugM2wgtz8d/clip_569809_629809.mp3",
-            "description": "Leren van elkaar, sneller innoveren en een flexibelere organisatie; de samenwerking tussen de Landmacht en het bedrijfsleven floreert. In deze serie gaat Patrick Regan op zoek naar deze initiatieven. Van de ontwikkeling van een Hercules Smart Dome, tot Virtual Reality Trainingen en Robotica. In deze introductie geeft de Commandant Landstrijdkrachten zijn visie en blikken we vooruit op de serie.  In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.",
-            "html_description": "<p>Leren van elkaar, sneller innoveren en een flexibelere organisatie; de samenwerking tussen de Landmacht en het bedrijfsleven floreert. In deze serie gaat Patrick Regan op zoek naar deze initiatieven. Van de ontwikkeling van een Hercules Smart Dome, tot Virtual Reality Trainingen en Robotica. In deze introductie geeft de Commandant Landstrijdkrachten zijn visie en blikken we vooruit op de serie.<br /> <br /> In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.</p>",
-            "duration_ms": 1070106,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/0qZvOWEvumUHJL5wuDJuJC"
-            },
-            "href": "https://api.spotify.com/v1/episodes/0qZvOWEvumUHJL5wuDJuJC",
-            "id": "0qZvOWEvumUHJL5wuDJuJC",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a32fc5363754b032e933ae6dc",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f32fc5363754b032e933ae6dc",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d32fc5363754b032e933ae6dc",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Werkt Samen - Waarom We Samenwerken",
-            "release_date": "2020-01-09",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:0qZvOWEvumUHJL5wuDJuJC"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2U8adafuLWbNZW8GPhVFav/clip_534763_594763.mp3",
-            "description": "Een diepe samenwerking tussen de krijgsmacht en de maatschappij, waarbij het uitruilen van materieel, personeel en diensten een gewone zaak moet worden; In Nederland noemen we het de adaptieve Krijgsmacht, internationaal als het Total Force Concept. \"Een systeem waarbij je als hele maatschappij verantwoordelijk bent voor je veiligheid.\"  In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.",
-            "html_description": "<p>Een diepe samenwerking tussen de krijgsmacht en de maatschappij, waarbij het uitruilen van materieel, personeel en diensten een gewone zaak moet worden; In Nederland noemen we het de adaptieve Krijgsmacht, internationaal als het Total Force Concept. &#34;Een systeem waarbij je als hele maatschappij verantwoordelijk bent voor je veiligheid.&#34;<br /> <br /> In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.</p>",
-            "duration_ms": 1550053,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/6LIWcomsQ9diAxkZhdSx91"
-            },
-            "href": "https://api.spotify.com/v1/episodes/6LIWcomsQ9diAxkZhdSx91",
-            "id": "6LIWcomsQ9diAxkZhdSx91",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abe33834b28f334c52901e440",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbe33834b28f334c52901e440",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbe33834b28f334c52901e440",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Werkt Samen - De Adaptieve Krijgsmacht",
-            "release_date": "2020-01-14",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:6LIWcomsQ9diAxkZhdSx91"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12gPgYZ08GBS1eWzgg4dnV/clip_579985_639985.mp3",
-            "description": "Onderhoud, van een boutje vervangen, tot de midlife update van onze voertuigen. Van oudsher is het onderhouden van ons materieel een taak waarin de Landmacht veel met het bedrijfsleven samenwerkt. Vandaag bekijken we de vernieuwing daarin. Bijvoorbeeld bij het additive manufacturing expertisecentrum in Leusden, waar de landmacht de eerste stappen zet in de wereld van het 3D printen. Of bij Reihnmetall Nederland waar burgers en militairen samenwerken om het onderhoud van de Boxer zo efficient mogelijk te doen.  In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.",
-            "html_description": "<p>Onderhoud, van een boutje vervangen, tot de midlife update van onze voertuigen. Van oudsher is het onderhouden van ons materieel een taak waarin de Landmacht veel met het bedrijfsleven samenwerkt. Vandaag bekijken we de vernieuwing daarin. Bijvoorbeeld bij het additive manufacturing expertisecentrum in Leusden, waar de landmacht de eerste stappen zet in de wereld van het 3D printen. Of bij Reihnmetall Nederland waar burgers en militairen samenwerken om het onderhoud van de Boxer zo efficient mogelijk te doen.<br /> <br /> In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.</p>",
-            "duration_ms": 1889567,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1p3CNVf2PvVRJhOLewyYwj"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1p3CNVf2PvVRJhOLewyYwj",
-            "id": "1p3CNVf2PvVRJhOLewyYwj",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a123bb140bdc1d301bf4c5f53",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f123bb140bdc1d301bf4c5f53",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d123bb140bdc1d301bf4c5f53",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Werkt Samen - Onderhoud en 3D Printen",
-            "release_date": "2020-01-21",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1p3CNVf2PvVRJhOLewyYwj"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1SNIm0YYGYyQ2bU6lRiI6Y/clip_228782_288782.mp3",
-            "description": "Een zelfrijdende robot of een voertuig dat de tassen van infanteristen draagt, in Oirschot, bij de RAS-eenheid (Robitica en Autonome Systemen), zou je ze zomaar tegen het lijf lopen. Vandaag in De Landmacht Werkt Samen: De implementatie van deze nieuwe technologie\u00ebn in onze gevechtsbrigades en de ethische dilemma\u2019s waar we voor komen te staan.  In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.",
-            "html_description": "<p>Een zelfrijdende robot of een voertuig dat de tassen van infanteristen draagt, in Oirschot, bij de RAS-eenheid (Robitica en Autonome Systemen), zou je ze zomaar tegen het lijf lopen. Vandaag in De Landmacht Werkt Samen: De implementatie van deze nieuwe technologie\u00ebn in onze gevechtsbrigades en de ethische dilemma\u2019s waar we voor komen te staan.<br /> <br /> In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.</p>",
-            "duration_ms": 2043846,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/6QJVK3zJeaMGhPY7aaaNvh"
-            },
-            "href": "https://api.spotify.com/v1/episodes/6QJVK3zJeaMGhPY7aaaNvh",
-            "id": "6QJVK3zJeaMGhPY7aaaNvh",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a9a32a68406872ca1ba6e121c",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f9a32a68406872ca1ba6e121c",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d9a32a68406872ca1ba6e121c",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Werkt Samen - Robots, Kunstmatige Intelligentie en de Happiness Functie",
-            "release_date": "2020-01-23",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:6QJVK3zJeaMGhPY7aaaNvh"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3WoqNlt59L7vyFfMpyTlJ9/clip_382591_442591.mp3",
-            "description": "Een proeftuin voor bedrijven en de landmacht om de \u2018militaire basis van de toekomst\u2019 te ontwikkelen. In het Fieldlab Smartbase in Ede zoekt de krijgsmacht samen met start-ups en het Midden- kleinbedrijf naar innovatieve en baanbrekende idee\u00ebn voor het kamp van de toekomst. Of het nu voor de Forward Operating Base met een kleine vooruitgeschoven eenheid, of een \u2018Kamp Holland\u2019, dat voor duizenden militairen als thuisbasis dient. Het bedrijfsleven en de landmacht zoeken samen naar oplossingen voor problemen in de categorie\u00ebn logistiek, bescherming, water en energie.  In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.",
-            "html_description": "<p>Een proeftuin voor bedrijven en de landmacht om de \u2018militaire basis van de toekomst\u2019 te ontwikkelen. In het Fieldlab Smartbase in Ede zoekt de krijgsmacht samen met start-ups en het Midden- kleinbedrijf naar innovatieve en baanbrekende idee\u00ebn voor het kamp van de toekomst. Of het nu voor de Forward Operating Base met een kleine vooruitgeschoven eenheid, of een \u2018Kamp Holland\u2019, dat voor duizenden militairen als thuisbasis dient. Het bedrijfsleven en de landmacht zoeken samen naar oplossingen voor problemen in de categorie\u00ebn logistiek, bescherming, water en energie.<br /> <br /> In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.</p>",
-            "duration_ms": 2026031,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/7tBDIRflw5EyedluKbVKKp"
-            },
-            "href": "https://api.spotify.com/v1/episodes/7tBDIRflw5EyedluKbVKKp",
-            "id": "7tBDIRflw5EyedluKbVKKp",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ada67d67c518b67399dcde8ed",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fda67d67c518b67399dcde8ed",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68dda67d67c518b67399dcde8ed",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Werkt Samen - Snelle Poorten en Beschermende Donuts - Fieldlab Smartbase",
-            "release_date": "2020-01-28",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:7tBDIRflw5EyedluKbVKKp"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/52h9GSeIOrAKFJp5hLqNwL/clip_377115_437115.mp3",
-            "description": "In de laatste aflevering van het eerste seizoen van 'De Landmacht', duiken we in de virtuele wereld en gesimuleerd trainen. Hoe we bijvoorbeeld het SUIT-Systeem gebruiken om skills en drills in Virtual Reality te trainen. Of hoe we spacial computing en haptic feedback toe kunnen passen om chirurgen n\u00f3g beter op te leiden.  In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.",
-            "html_description": "<p>In de laatste aflevering van het eerste seizoen van &#39;De Landmacht&#39;, duiken we in de virtuele wereld en gesimuleerd trainen. Hoe we bijvoorbeeld het SUIT-Systeem gebruiken om skills en drills in Virtual Reality te trainen. Of hoe we spacial computing en haptic feedback toe kunnen passen om chirurgen n\u00f3g beter op te leiden.<br /> <br /> In het eerste seizoen van De Landmacht, De Landmacht Werkt Samen, onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.</p>",
-            "duration_ms": 2310582,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/0x4sOVchArmG5OnZdAjjdk"
-            },
-            "href": "https://api.spotify.com/v1/episodes/0x4sOVchArmG5OnZdAjjdk",
-            "id": "0x4sOVchArmG5OnZdAjjdk",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ad2b84847dc642d681bf4d2ee",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fd2b84847dc642d681bf4d2ee",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68dd2b84847dc642d681bf4d2ee",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Werkt Samen - Vallen en Opstaan in Virtual Reality",
-            "release_date": "2020-01-30",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:0x4sOVchArmG5OnZdAjjdk"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4X4q6N1Abr3j7J1o0DgGv8/clip_605330_665330.mp3",
-            "description": "Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?",
-            "html_description": "<p>Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?</p>",
-            "duration_ms": 1463040,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1gwHLSlDgf3VoOfkQWZsJw"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1gwHLSlDgf3VoOfkQWZsJw",
-            "id": "1gwHLSlDgf3VoOfkQWZsJw",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a1c5dbfc42ebde61fe0f3524a",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f1c5dbfc42ebde61fe0f3524a",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d1c5dbfc42ebde61fe0f3524a",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Maakt Muziek - Prinsjesdag",
-            "release_date": "2021-02-17",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1gwHLSlDgf3VoOfkQWZsJw"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2NSwsGXAdJAaRTEgLxTGFX/clip_120387_180387.mp3",
-            "description": "In Den Haag gaat Sharwhan kijken bij de erewacht. Een ceremonie waarbij ambassadeurs geloofsbrieven aan de Koning overhandigen. Hij zet de eerste stappen in zijn zoektocht naar de gelijkenissen en verschillen tussen de militaire- en commerci\u00eble muziek.  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?",
-            "html_description": "<p>In Den Haag gaat Sharwhan kijken bij de erewacht. Een ceremonie waarbij ambassadeurs geloofsbrieven aan de Koning overhandigen. Hij zet de eerste stappen in zijn zoektocht naar de gelijkenissen en verschillen tussen de militaire- en commerci\u00eble muziek.<br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?</p>",
-            "duration_ms": 1627846,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/6o5G4D7QKBntuOQ8ELmDZU"
-            },
-            "href": "https://api.spotify.com/v1/episodes/6o5G4D7QKBntuOQ8ELmDZU",
-            "id": "6o5G4D7QKBntuOQ8ELmDZU",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aedda0fb2ee623a454fc57c3a",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fedda0fb2ee623a454fc57c3a",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68dedda0fb2ee623a454fc57c3a",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Maakt Muziek - De Erewacht \ud83d\udc51",
-            "release_date": "2021-02-25",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:6o5G4D7QKBntuOQ8ELmDZU"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6ObxxTej8jXEkjA3VZzTBY/clip_488773_548773.mp3",
-            "description": "Sharwhan gaat op bezoek bij het Fanfarekorps Nationale Reserve (FKNR) en ontdekt de achtergrond van de Taptoe. Ook verbaast hij zich over de uniformiteit onder de militairen, de doorgroeimogelijkheden binnen de militaire muziek en de grootte van de Nationale Taptoe.  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?",
-            "html_description": "<p>Sharwhan gaat op bezoek bij het Fanfarekorps Nationale Reserve (FKNR) en ontdekt de achtergrond van de Taptoe. Ook verbaast hij zich over de uniformiteit onder de militairen, de doorgroeimogelijkheden binnen de militaire muziek en de grootte van de Nationale Taptoe.<br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?</p>",
-            "duration_ms": 1556584,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/0aSOUVxYcOcW19Rx2h687H"
-            },
-            "href": "https://api.spotify.com/v1/episodes/0aSOUVxYcOcW19Rx2h687H",
-            "id": "0aSOUVxYcOcW19Rx2h687H",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a415aedf0cdedb67b397cfed7",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f415aedf0cdedb67b397cfed7",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d415aedf0cdedb67b397cfed7",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...Maakt Muziek - \ud83c\udfba Taptoe, Fanfarekorps Nationale Reserve",
-            "release_date": "2021-03-04",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:0aSOUVxYcOcW19Rx2h687H"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5hra2f0sLTO0TITEj5fybf/clip_205838_265838.mp3",
-            "description": "In aflevering vier van \u2018De Landmacht Maakt Muziek\u2019 onderzoekt Sharwhan de loopbaan van Soldaat 1 Niels Assink en producer Ogri. De eerste speelt trombone bij het Regimentsfanfare 'Garde Grenadiers en Jagers\u2019. De tweede is bekend van Afrobros en heeft als producer meerdere wereldhits op zijn naam staan. Hoe kwamen zij tot waar ze nu zijn? Hoe blijven zij groeien? En welke rol speelt hun industrie daarin?  Wil je de videoversie van deze podcast zien? Die vind je op YouTube: https://www.youtube.com/watch?v=MRvi1nzmIq0  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  \u2014\u2014  Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b  De koninklijke landmacht:  https://www.instagram.com/koninklijke...\u200b  Landmacht Orkesten  https://www.instagram.com/rfggj_\u200b  https://www.instagram.com/fknr.official\u200b  https://www.instagram.com/fanfarebere...\u200b  https://www.instagram.com/kmkjwf\u200b",
-            "html_description": "<p>In aflevering vier van \u2018De Landmacht Maakt Muziek\u2019 onderzoekt Sharwhan de loopbaan van Soldaat 1 Niels Assink en producer Ogri. De eerste speelt trombone bij het Regimentsfanfare &#39;Garde Grenadiers en Jagers\u2019. De tweede is bekend van Afrobros en heeft als producer meerdere wereldhits op zijn naam staan. Hoe kwamen zij tot waar ze nu zijn? Hoe blijven zij groeien? En welke rol speelt hun industrie daarin?<br /> <br /> Wil je de videoversie van deze podcast zien? Die vind je op YouTube: <a href=\"https://www.youtube.com/watch?v&#61;MRvi1nzmIq0\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;MRvi1nzmIq0</a><br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> \u2014\u2014<br /> <br /> Whan:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b<br /> <br /> De koninklijke landmacht:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnNFU2FHbjhEbkNQTlFiT3A3Mjd1bmxlYURid3xBQ3Jtc0tsWV9nWElaN1k0bGdPTnBTa2FlNzVLcWd6cW9LaUNUdXkxUU5WTThmWUtsaUJ2SzRlblpYaU1Lc1FKbGdLREVJd2pEVExOc3dpX2FfaEVjal9XM2xqYjBrSlpEbnQxUWVUOUs1aFV1cFdwTFF1bXVZWQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkoninklijkelandmacht\" rel=\"nofollow\"> https://www.instagram.com/koninklijke...</a>\u200b<br /> <br /> Landmacht Orkesten<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnBfUWhhYjRyd2QtdjJCdC1WY3ZiYmxnQUxMZ3xBQ3Jtc0ttLV9iMnpDN2NVYjFZMzdqV09LZzVwQmhGMDBpUmZOZmZBMFFLYjNKcWV3dmVhSUVJbVAtd1pjYzNVcUg4ZzhRalBUbDg0RkhEM181cENQMEdXYzREQ0VVWjBmU2VTZVFqRWlwMVljUDhWUFV0YndaRQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Frfggj_\" rel=\"nofollow\"> https://www.instagram.com/rfggj_</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbmZlZk9mVXdLME9Dd2JrUTMtbjZUTWUxcnNRZ3xBQ3Jtc0ttR3pTOVNqN3hPOUx1Nk1EQTg5eHduRm9EdW9LeEw2V2ZnYXdPRW5fMm5ycG9mQ2xiaVdCM2VxUEdDZjFWSTl4R1FPUUlUcU9aczY2RGNyTk9XTWF5YUFGTUI1N3VlLTdOTUVkZ3E1cjU4aTFlYkZoMA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffknr.official\" rel=\"nofollow\"> https://www.instagram.com/fknr.official</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWlSQ05ocE14NUM3aGltV19rcmNVNTlIQk80Z3xBQ3Jtc0tuY2RWajQweU03Q0hCTlJTdGwwYTJmSUxZVGhsdy1FaTIyMlp0eVlXZHA0UXVRZ1VXVzFRUlkwUVY2TW12ejZUZk5oU3luWGlXZjE3WHM0VV9tcUdpTDQtdzNUanBib2RtaEZWQmlERHdiMXFnZGd1RQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffanfareberedenwapens\" rel=\"nofollow\"> https://www.instagram.com/fanfarebere...</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbVNMclEwdnlMVHBnTjJfMFljckRuNlVYOUI4UXxBQ3Jtc0ttUzl0cjg1bnZwOWI1MXNPQmFfaHA1YktMbjM5WDZQbE4tZTcyOE1SbG4tVGlTd3IyNGZUanpUdEtOeEFzM04wUjY1RzVqOENYbUp4VXJESGV3VHBsMmgxbWZ3SUFkQVpQdlYwdkQ3Mmx5TF9ES1BDNA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkmkjwf\" rel=\"nofollow\"> https://www.instagram.com/kmkjwf</a>\u200b</p>",
-            "duration_ms": 1565727,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/3O0doobwjn6T5KkGiSUJQ2"
-            },
-            "href": "https://api.spotify.com/v1/episodes/3O0doobwjn6T5KkGiSUJQ2",
-            "id": "3O0doobwjn6T5KkGiSUJQ2",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a94173845c150bc673b1558fc",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f94173845c150bc673b1558fc",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d94173845c150bc673b1558fc",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "\u2026Maakt Muziek - Training Grounds",
-            "release_date": "2021-03-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:3O0doobwjn6T5KkGiSUJQ2"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3KbJMNxhW7Q5E0QZCSFPz7/clip_461309_521309.mp3",
-            "description": "Sharwhan nodigt militaire muziekanten Simon en Tony uit in zijn domein, de studio en vraagt ze bij te dragen aan een van zijn eigen nummers \u2018Letter To You\u2019. De chemie tussen de muziekanten wordt direct duidelijk en de sessie blijkt een opmaat naar meer.  Wil je de videoversie van deze podcast zien? Die vind je op YouTube: https://www.youtube.com/watch?v=Zb7yKZX0duY&t=422s  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  \u2014\u2014  Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b  De koninklijke landmacht:  https://www.instagram.com/koninklijke...\u200b  Landmacht Orkesten  https://www.instagram.com/rfggj_\u200b  https://www.instagram.com/fknr.official\u200b  https://www.instagram.com/fanfarebere...\u200b  https://www.instagram.com/kmkjwf\u200b",
-            "html_description": "<p>Sharwhan nodigt militaire muziekanten Simon en Tony uit in zijn domein, de studio en vraagt ze bij te dragen aan een van zijn eigen nummers \u2018Letter To You\u2019. De chemie tussen de muziekanten wordt direct duidelijk en de sessie blijkt een opmaat naar meer.<br /> <br /> Wil je de videoversie van deze podcast zien? Die vind je op YouTube: <a href=\"https://www.youtube.com/watch?v&#61;Zb7yKZX0duY&amp;t&#61;422s\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;Zb7yKZX0duY&amp;t&#61;422s</a><br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> \u2014\u2014<br /> <br /> Whan:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b<br /> <br /> De koninklijke landmacht:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnNFU2FHbjhEbkNQTlFiT3A3Mjd1bmxlYURid3xBQ3Jtc0tsWV9nWElaN1k0bGdPTnBTa2FlNzVLcWd6cW9LaUNUdXkxUU5WTThmWUtsaUJ2SzRlblpYaU1Lc1FKbGdLREVJd2pEVExOc3dpX2FfaEVjal9XM2xqYjBrSlpEbnQxUWVUOUs1aFV1cFdwTFF1bXVZWQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkoninklijkelandmacht\" rel=\"nofollow\"> https://www.instagram.com/koninklijke...</a>\u200b<br /> <br /> Landmacht Orkesten<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnBfUWhhYjRyd2QtdjJCdC1WY3ZiYmxnQUxMZ3xBQ3Jtc0ttLV9iMnpDN2NVYjFZMzdqV09LZzVwQmhGMDBpUmZOZmZBMFFLYjNKcWV3dmVhSUVJbVAtd1pjYzNVcUg4ZzhRalBUbDg0RkhEM181cENQMEdXYzREQ0VVWjBmU2VTZVFqRWlwMVljUDhWUFV0YndaRQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Frfggj_\" rel=\"nofollow\"> https://www.instagram.com/rfggj_</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbmZlZk9mVXdLME9Dd2JrUTMtbjZUTWUxcnNRZ3xBQ3Jtc0ttR3pTOVNqN3hPOUx1Nk1EQTg5eHduRm9EdW9LeEw2V2ZnYXdPRW5fMm5ycG9mQ2xiaVdCM2VxUEdDZjFWSTl4R1FPUUlUcU9aczY2RGNyTk9XTWF5YUFGTUI1N3VlLTdOTUVkZ3E1cjU4aTFlYkZoMA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffknr.official\" rel=\"nofollow\"> https://www.instagram.com/fknr.official</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWlSQ05ocE14NUM3aGltV19rcmNVNTlIQk80Z3xBQ3Jtc0tuY2RWajQweU03Q0hCTlJTdGwwYTJmSUxZVGhsdy1FaTIyMlp0eVlXZHA0UXVRZ1VXVzFRUlkwUVY2TW12ejZUZk5oU3luWGlXZjE3WHM0VV9tcUdpTDQtdzNUanBib2RtaEZWQmlERHdiMXFnZGd1RQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffanfareberedenwapens\" rel=\"nofollow\"> https://www.instagram.com/fanfarebere...</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbVNMclEwdnlMVHBnTjJfMFljckRuNlVYOUI4UXxBQ3Jtc0ttUzl0cjg1bnZwOWI1MXNPQmFfaHA1YktMbjM5WDZQbE4tZTcyOE1SbG4tVGlTd3IyNGZUanpUdEtOeEFzM04wUjY1RzVqOENYbUp4VXJESGV3VHBsMmgxbWZ3SUFkQVpQdlYwdkQ3Mmx5TF9ES1BDNA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkmkjwf\" rel=\"nofollow\"> https://www.instagram.com/kmkjwf</a>\u200b</p>",
-            "duration_ms": 1436003,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/4tIJKXjm6FwsqPPOcbwy4a"
-            },
-            "href": "https://api.spotify.com/v1/episodes/4tIJKXjm6FwsqPPOcbwy4a",
-            "id": "4tIJKXjm6FwsqPPOcbwy4a",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a54d30b97738ee91d119ee372",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f54d30b97738ee91d119ee372",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d54d30b97738ee91d119ee372",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "\u2026Maakt Muziek - Welkom In Mijn Wereld",
-            "release_date": "2021-03-18",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:4tIJKXjm6FwsqPPOcbwy4a"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5qQPlVE4upqWCbsKMyr1Ig/clip_539659_599659.mp3",
-            "description": "Hoe creatief is een militaire muzikant nou? En hoe werken creatievelingen? Sharwhan gaat in gesprek met Sergeant-1 Piet Durk Meijer, trombonist bij de Koninklijke Militaire Kapel Johan Willem Friso, en muzikant Joshua Newton over hun verschillen en overeenkomsten; van storytelling en de industrie tot creatieve processen en tegenslagen. Ook ontstaat er iets nieuws: een echte samenwerking.  Wil je de videoversie van deze podcast zien? Die vind je op YouTube: https://www.youtube.com/watch?v=1cCq5vCNEek  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  \u2014\u2014  Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b  De koninklijke landmacht:  https://www.instagram.com/koninklijke...\u200b  Landmacht Orkesten  https://www.instagram.com/rfggj_\u200b  https://www.instagram.com/fknr.official\u200b  https://www.instagram.com/fanfarebere...\u200b  https://www.instagram.com/kmkjwf\u200b",
-            "html_description": "<p>Hoe creatief is een militaire muzikant nou? En hoe werken creatievelingen? Sharwhan gaat in gesprek met Sergeant-1 Piet Durk Meijer, trombonist bij de Koninklijke Militaire Kapel Johan Willem Friso, en muzikant Joshua Newton over hun verschillen en overeenkomsten; van storytelling en de industrie tot creatieve processen en tegenslagen. Ook ontstaat er iets nieuws: een echte samenwerking.<br /> <br /> Wil je de videoversie van deze podcast zien? Die vind je op YouTube: <a href=\"https://www.youtube.com/watch?v&#61;1cCq5vCNEek\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;1cCq5vCNEek</a><br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> \u2014\u2014<br /> <br /> Whan:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b<br /> <br /> De koninklijke landmacht:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnNFU2FHbjhEbkNQTlFiT3A3Mjd1bmxlYURid3xBQ3Jtc0tsWV9nWElaN1k0bGdPTnBTa2FlNzVLcWd6cW9LaUNUdXkxUU5WTThmWUtsaUJ2SzRlblpYaU1Lc1FKbGdLREVJd2pEVExOc3dpX2FfaEVjal9XM2xqYjBrSlpEbnQxUWVUOUs1aFV1cFdwTFF1bXVZWQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkoninklijkelandmacht\" rel=\"nofollow\"> https://www.instagram.com/koninklijke...</a>\u200b<br /> <br /> Landmacht Orkesten<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnBfUWhhYjRyd2QtdjJCdC1WY3ZiYmxnQUxMZ3xBQ3Jtc0ttLV9iMnpDN2NVYjFZMzdqV09LZzVwQmhGMDBpUmZOZmZBMFFLYjNKcWV3dmVhSUVJbVAtd1pjYzNVcUg4ZzhRalBUbDg0RkhEM181cENQMEdXYzREQ0VVWjBmU2VTZVFqRWlwMVljUDhWUFV0YndaRQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Frfggj_\" rel=\"nofollow\"> https://www.instagram.com/rfggj_</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbmZlZk9mVXdLME9Dd2JrUTMtbjZUTWUxcnNRZ3xBQ3Jtc0ttR3pTOVNqN3hPOUx1Nk1EQTg5eHduRm9EdW9LeEw2V2ZnYXdPRW5fMm5ycG9mQ2xiaVdCM2VxUEdDZjFWSTl4R1FPUUlUcU9aczY2RGNyTk9XTWF5YUFGTUI1N3VlLTdOTUVkZ3E1cjU4aTFlYkZoMA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffknr.official\" rel=\"nofollow\"> https://www.instagram.com/fknr.official</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWlSQ05ocE14NUM3aGltV19rcmNVNTlIQk80Z3xBQ3Jtc0tuY2RWajQweU03Q0hCTlJTdGwwYTJmSUxZVGhsdy1FaTIyMlp0eVlXZHA0UXVRZ1VXVzFRUlkwUVY2TW12ejZUZk5oU3luWGlXZjE3WHM0VV9tcUdpTDQtdzNUanBib2RtaEZWQmlERHdiMXFnZGd1RQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffanfareberedenwapens\" rel=\"nofollow\"> https://www.instagram.com/fanfarebere...</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbVNMclEwdnlMVHBnTjJfMFljckRuNlVYOUI4UXxBQ3Jtc0ttUzl0cjg1bnZwOWI1MXNPQmFfaHA1YktMbjM5WDZQbE4tZTcyOE1SbG4tVGlTd3IyNGZUanpUdEtOeEFzM04wUjY1RzVqOENYbUp4VXJESGV3VHBsMmgxbWZ3SUFkQVpQdlYwdkQ3Mmx5TF9ES1BDNA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkmkjwf\" rel=\"nofollow\"> https://www.instagram.com/kmkjwf</a>\u200b</p>",
-            "duration_ms": 2737162,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/5M2AMG5nXP1iW98NyukHEW"
-            },
-            "href": "https://api.spotify.com/v1/episodes/5M2AMG5nXP1iW98NyukHEW",
-            "id": "5M2AMG5nXP1iW98NyukHEW",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a9a301275c3a4f1451a3f0a33",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f9a301275c3a4f1451a3f0a33",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d9a301275c3a4f1451a3f0a33",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "\u2026Maakt Muziek - Storytellers",
-            "release_date": "2021-03-25",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:5M2AMG5nXP1iW98NyukHEW"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1grcvHBtv5Hj6m4t2v3J5L/clip_157639_217639.mp3",
-            "description": "Nu hij de wereld van de militaire muziekanten heeft ontdekt - \u201cUndercover Supersterren\u201d - vraagt Sharwhan aan vier militairen om hun stijl aan het nummer Liefde van Joshua Newton toe te voegen: \u201cEn Of Dat Is Gelukt.\u201d Ook geeft hij antwoord op de grote vraag: Welke industrie werkt er beter? Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  Je vindt het nummer Liefde door Joshua Newton en de Koninklijke Landmacht op alle streamingservices: http://landmacht.fm/liefde  Je hoort: Joshua Newton - Zang Dave Onyx - Piano Sergeant 1 Tony DeRoy - Saxofoon Sergeant 1 Simon Bruul - Trompet Korporaal 1 Marvin Schaap - Trom Korporaal 1 Robin Muizer - Accoustische Drums Whan - Digitale Drums + Layer Instrumenten Compositie: Dave Onyx en Sergeant 1 Tony Deroy Arrangement: Whan, Dave Onyx en Sergeant 1 Tony Deroy\u00a0 Tekst: Joshua Newton Productie: Whan \u2014\u2014 Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b Presentator Sharwhan Soekhai is beter bekend als producer Whan. Naast zijn carri\u00e8re als songwriter, artiest, host en radio dj is Whan ook nog werkzaam als producer, waarbij hij samenwerkingen op zijn naam heeft staan met o.a. French Montana, Justin Mylo, BN\u2019ers zoals Kaj van de Voort. en is hij een bekende bij publisher Warner/Chapelle.",
-            "html_description": "<p>Nu hij de wereld van de militaire muziekanten heeft ontdekt - \u201cUndercover Supersterren\u201d - vraagt Sharwhan aan vier militairen om hun stijl aan het nummer Liefde van Joshua Newton toe te voegen: \u201cEn Of Dat Is Gelukt.\u201d Ook geeft hij antwoord op de grote vraag: Welke industrie werkt er beter? Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> Je vindt het nummer Liefde door Joshua Newton en de Koninklijke Landmacht op alle streamingservices: http://landmacht.fm/liefde<br /> <br /> Je hoort:</p> <p>Joshua Newton - Zang<br /> Dave Onyx - Piano<br /> Sergeant 1 Tony DeRoy - Saxofoon<br /> Sergeant 1 Simon Bruul - Trompet<br /> Korporaal 1 Marvin Schaap - Trom<br /> Korporaal 1 Robin Muizer - Accoustische Drums<br /> Whan - Digitale Drums &#43; Layer Instrumenten</p> <p>Compositie: Dave Onyx en Sergeant 1 Tony Deroy<br /> Arrangement: Whan, Dave Onyx en Sergeant 1 Tony Deroy\u00a0<br /> Tekst: Joshua Newton<br /> Productie: Whan</p> <p>\u2014\u2014</p> <p>Whan:</p> <p><a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b</p> <p>Presentator Sharwhan Soekhai is beter bekend als producer Whan. Naast zijn carri\u00e8re als songwriter, artiest, host en radio dj is Whan ook nog werkzaam als producer, waarbij hij samenwerkingen op zijn naam heeft staan met o.a. French Montana, Justin Mylo, BN\u2019ers zoals Kaj van de Voort. en is hij een bekende bij publisher Warner/Chapelle.</p>",
-            "duration_ms": 2163382,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1LHbT8SAyjgkcqHbptgi1J"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1LHbT8SAyjgkcqHbptgi1J",
-            "id": "1LHbT8SAyjgkcqHbptgi1J",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a9a1d4547d9b06cee04cbb81b",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f9a1d4547d9b06cee04cbb81b",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d9a1d4547d9b06cee04cbb81b",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "\u2026Maakt Muziek - Liefde, Verbind",
-            "release_date": "2021-04-01",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1LHbT8SAyjgkcqHbptgi1J"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/539BppDerouLBkRO6IJRla/clip_588810_648810.mp3",
-            "description": "Om te begrijpen hoe de tank er vandaag de dag bij staat, duikt Thomas Weemaes in deze aflevering in de geschiedenis van de tank, het sterkste beest van de Koninklijke Landmacht. Van de eerste Nederlandse tank, de Centurion, tot de schok bij Duitse militairen toen de tank in de Eerste Wereldoorlog voor het eerst een slagveld op reed: \"Het Duitse front schoof 2 kilometer op.\"  --  Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
-            "html_description": "<p>Om te begrijpen hoe de tank er vandaag de dag bij staat, duikt Thomas Weemaes in deze aflevering in de geschiedenis van de tank, het sterkste beest van de Koninklijke Landmacht. Van de eerste Nederlandse tank, de Centurion, tot de schok bij Duitse militairen toen de tank in de Eerste Wereldoorlog voor het eerst een slagveld op reed: &#34;Het Duitse front schoof 2 kilometer op.&#34;<br /> <br /> --<br /> <br /> Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
-            "duration_ms": 1728078,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/13MIToqmjxbjdPVPTLWVd7"
-            },
-            "href": "https://api.spotify.com/v1/episodes/13MIToqmjxbjdPVPTLWVd7",
-            "id": "13MIToqmjxbjdPVPTLWVd7",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aaa01e010baf8ec80884debb9",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1faa01e010baf8ec80884debb9",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68daa01e010baf8ec80884debb9",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...De Tank - Vuurkracht, Bepantsering, Snelheid",
-            "release_date": "2021-06-16",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:13MIToqmjxbjdPVPTLWVd7"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Cr0xqwD0yHTUM50c5hXMO/clip_624342_684342.mp3",
-            "description": "Spierballen vertoon, de samenwerking met Duitsland, het optreden met andere eenheden en de toekomst van de tank. Hoe trainen bemanningen bijvoorbeeld grote gezamenlijke optredens? En wat is de grootste bedreiding voor de tank?  --  Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
-            "html_description": "<p>Spierballen vertoon, de samenwerking met Duitsland, het optreden met andere eenheden en de toekomst van de tank. Hoe trainen bemanningen bijvoorbeeld grote gezamenlijke optredens? En wat is de grootste bedreiding voor de tank?<br /> <br /> --<br /> <br /> Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
-            "duration_ms": 1563951,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1YE84HubeE5beeSijsv18n"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1YE84HubeE5beeSijsv18n",
-            "id": "1YE84HubeE5beeSijsv18n",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a87335984091a203d7fea4c2a",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f87335984091a203d7fea4c2a",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d87335984091a203d7fea4c2a",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...De Tank - Een Unieke Samenwerking",
-            "release_date": "2021-06-23",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1YE84HubeE5beeSijsv18n"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5NpnYLbmL4Iql1D53804pq/clip_398912_458912.mp3",
-            "description": "De bestuurder, de schutter, de lader en de commandant; een tank met vier personen laten functioneren kost precisie. De eenheid moet perfect op elkaar ingespeeld zijn en elkaar blind vertrouwen; een hapering kan levens kosten. \"Het moment dat die klap komt en het projectiel de schietbuis uitkomt, dat is het beste gevoel.\"  --  Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
-            "html_description": "<p>De bestuurder, de schutter, de lader en de commandant; een tank met vier personen laten functioneren kost precisie. De eenheid moet perfect op elkaar ingespeeld zijn en elkaar blind vertrouwen; een hapering kan levens kosten. &#34;Het moment dat die klap komt en het projectiel de schietbuis uitkomt, dat is het beste gevoel.&#34;<br /> <br /> --<br /> <br /> Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
-            "duration_ms": 2134047,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/3f4QSUVCb3MLtWOyx2dxqg"
-            },
-            "href": "https://api.spotify.com/v1/episodes/3f4QSUVCb3MLtWOyx2dxqg",
-            "id": "3f4QSUVCb3MLtWOyx2dxqg",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae0ac7785af844322750eb566",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe0ac7785af844322750eb566",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68de0ac7785af844322750eb566",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "...De Tank - De Bemanning",
-            "release_date": "2021-06-30",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:3f4QSUVCb3MLtWOyx2dxqg"
-          },
-          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2KU0HGs9xNQvI5O6OejGOZ/clip_592181_652181.mp3",
-            "description": "60 ton, een 120 milimeter kanon, 4 bemanningsleden... \"Als je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.\" Thomas gaat terug naar TACTIS in Amersfoort om zelf te ervaring hoe het er in een tank aan toe gaat tijdens een grootschalig gevecht. \"Wij halen iedere fout eruit en confronteren eenheden daarmee. Die leerstof is goud waard.\"  --  Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
-            "html_description": "<p>60 ton, een 120 milimeter kanon, 4 bemanningsleden... &#34;Als je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.&#34; Thomas gaat terug naar TACTIS in Amersfoort om zelf te ervaring hoe het er in een tank aan toe gaat tijdens een grootschalig gevecht. &#34;Wij halen iedere fout eruit en confronteren eenheden daarmee. Die leerstof is goud waard.&#34;<br /> <br /> --<br /> <br /> Seizoen 3 van De Landmacht onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht: de tank. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
+            "description": "60 ton, een 120 milimeter kanon, 4 bemanningsleden... \"Als je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.\" Thomas gaat terug naar TACTIS in Amersfoort om zelf te ervaring hoe het er in een tank aan toe gaat tijdens een grootschalig gevecht. \"Wij halen iedere fout eruit en confronteren eenheden daarmee. Die leerstof is goud waard.\"  --  De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
+            "html_description": "<p>60 ton, een 120 milimeter kanon, 4 bemanningsleden... &#34;Als je vuurt, die kracht is niet te omschrijven, dan staat de wereld een seconde stil.&#34; Thomas gaat terug naar TACTIS in Amersfoort om zelf te ervaring hoe het er in een tank aan toe gaat tijdens een grootschalig gevecht. &#34;Wij halen iedere fout eruit en confronteren eenheden daarmee. Die leerstof is goud waard.&#34;<br /> <br /> --<br /> <br /> De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
             "duration_ms": 1731448,
             "explicit": false,
             "external_urls": {
@@ -97418,11 +96778,131 @@
             "languages": [
               "nl"
             ],
-            "name": "...De Tank - 'Dan staat de wereld een seconde stil'",
+            "name": "'Dan staat de wereld een seconde stil'",
             "release_date": "2021-07-07",
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:3GQXZ4D1qQ9JlWPRsW9vTV"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5NpnYLbmL4Iql1D53804pq/clip_398912_458912.mp3",
+            "description": "De bestuurder, de schutter, de lader en de commandant; een tank met vier personen laten functioneren kost precisie. De eenheid moet perfect op elkaar ingespeeld zijn en elkaar blind vertrouwen; een hapering kan levens kosten. \"Het moment dat die klap komt en het projectiel de schietbuis uitkomt, dat is het beste gevoel.\"  --  De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
+            "html_description": "<p>De bestuurder, de schutter, de lader en de commandant; een tank met vier personen laten functioneren kost precisie. De eenheid moet perfect op elkaar ingespeeld zijn en elkaar blind vertrouwen; een hapering kan levens kosten. &#34;Het moment dat die klap komt en het projectiel de schietbuis uitkomt, dat is het beste gevoel.&#34;<br /> <br /> --<br /> <br /> De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
+            "duration_ms": 2134047,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3f4QSUVCb3MLtWOyx2dxqg"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3f4QSUVCb3MLtWOyx2dxqg",
+            "id": "3f4QSUVCb3MLtWOyx2dxqg",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae0ac7785af844322750eb566",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe0ac7785af844322750eb566",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de0ac7785af844322750eb566",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De Bemanning",
+            "release_date": "2021-06-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3f4QSUVCb3MLtWOyx2dxqg"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Cr0xqwD0yHTUM50c5hXMO/clip_624342_684342.mp3",
+            "description": "Spierballen vertoon, de samenwerking met Duitsland, het optreden met andere eenheden en de toekomst van de tank. Hoe trainen bemanningen bijvoorbeeld grote gezamenlijke optredens? En wat is de grootste bedreiding voor de tank?  --  De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
+            "html_description": "<p>Spierballen vertoon, de samenwerking met Duitsland, het optreden met andere eenheden en de toekomst van de tank. Hoe trainen bemanningen bijvoorbeeld grote gezamenlijke optredens? En wat is de grootste bedreiding voor de tank?<br /> <br /> --<br /> <br /> De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
+            "duration_ms": 1563951,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1YE84HubeE5beeSijsv18n"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1YE84HubeE5beeSijsv18n",
+            "id": "1YE84HubeE5beeSijsv18n",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a87335984091a203d7fea4c2a",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f87335984091a203d7fea4c2a",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d87335984091a203d7fea4c2a",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Een Unieke Samenwerking",
+            "release_date": "2021-06-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1YE84HubeE5beeSijsv18n"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/539BppDerouLBkRO6IJRla/clip_588810_648810.mp3",
+            "description": "Om te begrijpen hoe de tank er vandaag de dag bij staat, duikt Thomas Weemaes in deze aflevering in de geschiedenis van de tank, het sterkste beest van de Koninklijke Landmacht. Van de eerste Nederlandse tank, de Centurion, tot de schok bij Duitse militairen toen de tank in de Eerste Wereldoorlog voor het eerst een slagveld op reed: \"Het Duitse front schoof 2 kilometer op.\"  --  De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.",
+            "html_description": "<p>Om te begrijpen hoe de tank er vandaag de dag bij staat, duikt Thomas Weemaes in deze aflevering in de geschiedenis van de tank, het sterkste beest van de Koninklijke Landmacht. Van de eerste Nederlandse tank, de Centurion, tot de schok bij Duitse militairen toen de tank in de Eerste Wereldoorlog voor het eerst een slagveld op reed: &#34;Het Duitse front schoof 2 kilometer op.&#34;<br /> <br /> --<br /> <br /> De Tank onderzoekt het krachtigste wapensysteem van de Koninklijke Landmacht. Thomas Weemaes bekijkt de historie, de techniek van het systeem, de bemanning en hoe het systeem in een grotere formatie past.</p>",
+            "duration_ms": 1728078,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/13MIToqmjxbjdPVPTLWVd7"
+            },
+            "href": "https://api.spotify.com/v1/episodes/13MIToqmjxbjdPVPTLWVd7",
+            "id": "13MIToqmjxbjdPVPTLWVd7",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aaa01e010baf8ec80884debb9",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1faa01e010baf8ec80884debb9",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68daa01e010baf8ec80884debb9",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Vuurkracht, Bepantsering, Snelheid",
+            "release_date": "2021-06-16",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:13MIToqmjxbjdPVPTLWVd7"
           }
         ]
       }
