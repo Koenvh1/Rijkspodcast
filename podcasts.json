@@ -16471,6 +16471,46 @@
         "total": 25,
         "items": [
           {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2pC6pgpzLVtvsOMyIUeaav/clip_122789_182789.mp3",
+            "description": "Wil je weten of jouw dienstverlening en communicatie duidelijk is? Wil je die verbeteren? Daar is een effectieve manier voor: testen, testen en nog eens testen.   In deze podcast hoor je ervaringen uit de praktijk. En krijg je direct toepasbare tips!",
+            "html_description": "Wil je weten of jouw dienstverlening en communicatie duidelijk is? Wil je die verbeteren? Daar is een effectieve manier voor: testen, testen en nog eens testen. <br/>In deze podcast hoor je ervaringen uit de praktijk. En krijg je direct toepasbare tips!",
+            "duration_ms": 2839301,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0ynFgjOgv2qLOmvW55QZea"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0ynFgjOgv2qLOmvW55QZea",
+            "id": "0ynFgjOgv2qLOmvW55QZea",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3dad47cb66e6af341d903c68",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3dad47cb66e6af341d903c68",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3dad47cb66e6af341d903c68",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Testen, testen en nog eens testen (Direct Duidelijk Tour)",
+            "release_date": "2025-09-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0ynFgjOgv2qLOmvW55QZea"
+          },
+          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7yZZMZQjsIB61ejZuNZ8Q9/clip_489732_549732.mp3",
             "description": "In the podcast series 'User Needs First Across Borders', we talk to international speakers who were guests at the User Needs First International Conference 2025. This episode features Mariannne van den Anker, Alexander Smit and Priyanka D' souza.",
             "html_description": "In the podcast series &#39;User Needs First Across Borders&#39;, we talk to international speakers who were guests at the User Needs First International Conference 2025. This episode features Mariannne van den Anker, Alexander Smit and Priyanka D&#39; souza.",
@@ -17429,46 +17469,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:4MODSQpXaAPZgMorteKpas"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1r2dPhKlr6XCLdqTFQIcrV/clip_390462_450462.mp3",
-            "description": "Direct duidelijk communiceren gaat over veel meer dan duidelijke brieven schrijven. Dat blijkt wel uit het grote aantal onderwerpen waarover we het tijdens de Direct Duidelijk Tour hebben gehad. Een inleiding door Renata Verloop, presentator van de eerste 50 afleveringen van de Direct Duidelijk Tour.",
-            "html_description": "Direct duidelijk communiceren gaat over veel meer dan duidelijke brieven schrijven. Dat blijkt wel uit het grote aantal onderwerpen waarover we het tijdens de Direct Duidelijk Tour hebben gehad. Een inleiding door Renata Verloop, presentator van de eerste 50 afleveringen van de Direct Duidelijk Tour.",
-            "duration_ms": 455616,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/64Ud7fudxd46FJTvRazTnl"
-            },
-            "href": "https://api.spotify.com/v1/episodes/64Ud7fudxd46FJTvRazTnl",
-            "id": "64Ud7fudxd46FJTvRazTnl",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "In\u00adleiding: Dit kun je leren van direct duidelijk communi\u00adceren",
-            "release_date": "2023-08-14",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:64Ud7fudxd46FJTvRazTnl"
           }
         ]
       }
@@ -69584,7 +69584,46 @@
         "previous": null,
         "total": 5,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/61chufbBlr510QPIzxtNO8/clip_361945_421945.mp3",
+            "description": "In deze aflevering kijken we naar een minder zichtbare maar cruciale spel in de IT-organisatie van Defensie, het IT Continuity Center, oftewel het ITCC. Het ITCC is het centrale punt waar de continu\u00efteit van alle IT-diensten binnen Defensie worden bewaakt. Denk aan 24/7 monitoring, het snel oppakken van verstoringen en het zorgen dat systemen blijven draaien zowel op de werkvloer in Nederland als tijdens missies in het buitenland. Het centrum valt onder het Joint Informatie Voorziening Commando oftewel het JIVC. En het speelt een sleutelrol in hoe Defensie digitaal opereert. In deze aflevering spreken we Paul, hoofd ITCC. Hij vertelt ons wat ITCC precies doet, waarom het zo belangrijk is en hoe het samenwerkt met andere onderdelen binnen en buiten Defensie.",
+            "html_description": "<p>In deze aflevering kijken we naar een minder zichtbare maar cruciale spel in de IT-organisatie van Defensie, het IT Continuity Center, oftewel het ITCC. Het ITCC is het centrale punt waar de continu\u00efteit van alle IT-diensten binnen Defensie worden bewaakt. Denk aan 24/7 monitoring, het snel oppakken van verstoringen en het zorgen dat systemen blijven draaien zowel op de werkvloer in Nederland als tijdens missies in het buitenland. Het centrum valt onder het Joint Informatie Voorziening Commando oftewel het JIVC. En het speelt een sleutelrol in hoe Defensie digitaal opereert. In deze aflevering spreken we Paul, hoofd ITCC. Hij vertelt ons wat ITCC precies doet, waarom het zo belangrijk is en hoe het samenwerkt met andere onderdelen binnen en buiten Defensie.</p>",
+            "duration_ms": 2010453,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2dsPOzWTnePIcXKBTIdHNa"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2dsPOzWTnePIcXKBTIdHNa",
+            "id": "2dsPOzWTnePIcXKBTIdHNa",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aea2ee9514bed1dd7c87bfd88",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fea2ee9514bed1dd7c87bfd88",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dea2ee9514bed1dd7c87bfd88",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "COMMITTED Podcast #16 | IT Continuity Center van het JIVC",
+            "release_date": "2025-09-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2dsPOzWTnePIcXKBTIdHNa"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2BIJ3NjqViDAZOaXOiqkg3/clip_269103_329103.mp3",
             "description": "Stel je voor: je staat op een afgelegen locatie, ergens in het veld. Alles en iedereen is klaar om te starten \u2014 maar er is geen verbinding. Geen data, geen communicatie, geen co\u00f6rdinatie. Dan ligt alles stil.Binnen Defensie is connectiviteit van levensbelang. En daar zorgt de sectie Connectiviteit van Platform Services Defensie voor \u2014 dag in, dag uit, op honderden locaties in binnen- en buitenland.In deze aflevering spreken we met Nick, Plaatsvervangend Hoofd sectie Connectiviteit en Martijn, IT-manager bij Field Services, een team dat letterlijk met zijn voeten in de klei staat. Zij nemen ons mee in het werk achter de schermen: van glasvezel en satellietverbindingen tot de mensen die zorgen dat de krijgsmacht altijd online is.Wat doet deze sectie precies, waarom is het zo belangrijk \u2014 en waarom is dit misschien wel de plek waar jij jouw IT-kennis in kunt zetten met \u00e9chte impact? Je hoort het nu.",
