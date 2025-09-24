@@ -16438,17 +16438,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8aa1b30b4ec20431ad68574b89",
+          "url": "https://i.scdn.co/image/ab6765630000ba8a23b778d3f3959ec75b97b5cf",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fa1b30b4ec20431ad68574b89",
+          "url": "https://i.scdn.co/image/ab67656300005f1f23b778d3f3959ec75b97b5cf",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68da1b30b4ec20431ad68574b89",
+          "url": "https://i.scdn.co/image/ab6765630000f68d23b778d3f3959ec75b97b5cf",
           "width": 64
         }
       ],
@@ -16472,8 +16472,8 @@
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7yZZMZQjsIB61ejZuNZ8Q9/clip_489732_549732.mp3",
-            "description": "In the podcast series 'User Needs First Across Borders', we talk to international speakers who were guests at the User Needs First International Conference 2025. This episode features Mariannne van den Anker, Alexander Smit and Priyanka D' souza.",
-            "html_description": "In the podcast series &#39;User Needs First Across Borders&#39;, we talk to international speakers who were guests at the User Needs First International Conference 2025. This episode features Mariannne van den Anker, Alexander Smit and Priyanka D&#39; souza.",
+            "description": "In this podcast series 'User Needs First Across Borders' we talk to international speakers who were guests at the User Centered conference in April 2025. This episode features:  Marianne van den Anker, ombudsman Rotterdam-Rijmond region.  Alexander Smit, researcher / lecturer University of Groningen.  Priyanka D'Souza, senior user researcher, department for business and trade, UK government.  The focus of this episode is: About Inclusion, a real point of view from real people",
+            "html_description": "In this podcast series &#39;User Needs First Across Borders&#39; we talk to international speakers who were guests at the User Centered conference in April 2025. This episode features:<br/>Marianne van den Anker, ombudsman Rotterdam-Rijmond region.<br/>Alexander Smit, researcher / lecturer University of Groningen.<br/>Priyanka D&#39;Souza, senior user researcher, department for business and trade, UK government.<br/>The focus of this episode is: About Inclusion, a real point of view from real people",
             "duration_ms": 3491951,
             "explicit": false,
             "external_urls": {
@@ -120406,15 +120406,55 @@
       "publisher": "SSR Communicatie",
       "type": "show",
       "uri": "spotify:show:2fUgdA1OH04g1BPsGKe0Ne",
-      "total_episodes": 72,
+      "total_episodes": 73,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2fUgdA1OH04g1BPsGKe0Ne/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2fUgdA1OH04g1BPsGKe0Ne/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 72,
+        "total": 73,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0cVRXduJf8YabPkeBZGohT/clip_471493_531493.mp3",
+            "description": "Wat als iemand neurodivers is en bijvoorbeeld borderline, ADHD of autisme heeft? Hoe zorg je dan voor een passende straf? Is het rechtvaardig om iemands persoonlijkheidsstoornis mee te rekenen of juist niet? Want wat is de impact van neurodiversiteitslabels op een vonnis? Daan Langkamp gaat daarover in gesprek met L\u00e9on de Bruin, hoogleraar Cognitieve Diversiteit aan de Radboud Universiteit Nijmegen en hoogleraar Filosofie van de Neurowetenschappen aan het Amsterdam UMC.",
+            "html_description": "<p>Wat als iemand neurodivers is en bijvoorbeeld borderline, ADHD of autisme heeft? Hoe zorg je dan voor een passende straf? Is het rechtvaardig om iemands persoonlijkheidsstoornis mee te rekenen of juist niet? Want wat is de impact van neurodiversiteitslabels op een vonnis? Daan Langkamp gaat daarover in gesprek met L\u00e9on de Bruin, hoogleraar Cognitieve Diversiteit aan de Radboud Universiteit Nijmegen en hoogleraar Filosofie van de Neurowetenschappen aan het Amsterdam UMC.</p>",
+            "duration_ms": 1609704,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7ozG9MOs1PYMWLZ5ATUv10"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7ozG9MOs1PYMWLZ5ATUv10",
+            "id": "7ozG9MOs1PYMWLZ5ATUv10",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a33b17363da79194a276cfca2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f33b17363da79194a276cfca2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d33b17363da79194a276cfca2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Episode 73: L\u00e9on de Bruin \u2013 Wat is de impact van neurodiversiteitslabels op een vonnis?",
+            "release_date": "2025-09-24",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7ozG9MOs1PYMWLZ5ATUv10"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7DadsvYck25sIXy2zgxjyi/clip_381823_441823.mp3",
             "description": "Wat zijn de mogelijkheden \u00e9n de moeilijkheden bij het toepassen van maatwerk en de menselijke maat?  Paulien de Winter, rechtssocioloog en universitair hoofddocent rechtstheorie aan de Universiteit Utrecht, praat erover met Daan Langkamp. Naar aanleiding van haar boek Van hard naar hart praat ze over het verschil tussen deze begrippen en het onderzoek dat ze ernaar deed.",
@@ -122378,28 +122418,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/72i4lR9I87T4TM8tlRGhUn/clip_261331_321331.mp3",
             "description": "\u2018Ben ik eerlijk behandeld?\u2019 In het tweede deel van het tweeluik over procedurele rechtvaardigheid is staatsraad Andr\u00e9 Verburg te gast. Hilke Grootelaar gaat met hem in gesprek over bejegening, beslechting en bewijs aan de hand van zijn proefschrift \u2018Bestuursrechtspraak in balans\u2019.",
-            "html_description": "<p>\u2018Ben ik eerlijk behandeld?\u2019 In het tweede deel van het tweeluik over procedurele rechtvaardigheid is staatsraad Andr\u00e9 Verburg te gast. Hilke Grootelaar gaat met hem in gesprek over bejegening, beslechting en bewijs aan de hand van zijn proefschrift \u2018Bestuursrechtspraak in balans\u2019.</p>",
             "duration_ms": 762566,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3erD7EWGIz4LX0xT1SCCB5"
             },
             "href": "https://api.spotify.com/v1/episodes/3erD7EWGIz4LX0xT1SCCB5",
+            "html_description": "<p>\u2018Ben ik eerlijk behandeld?\u2019 In het tweede deel van het tweeluik over procedurele rechtvaardigheid is staatsraad Andr\u00e9 Verburg te gast. Hilke Grootelaar gaat met hem in gesprek over bejegening, beslechting en bewijs aan de hand van zijn proefschrift \u2018Bestuursrechtspraak in balans\u2019.</p>",
             "id": "3erD7EWGIz4LX0xT1SCCB5",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a33b17363da79194a276cfca2",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a33b17363da79194a276cfca2",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f33b17363da79194a276cfca2",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f33b17363da79194a276cfca2",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d33b17363da79194a276cfca2",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d33b17363da79194a276cfca2",
                 "width": 64
               }
             ],
