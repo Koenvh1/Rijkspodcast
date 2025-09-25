@@ -103340,15 +103340,55 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:4tfz5HFn5zqCoIVzLy6eR7",
-      "total_episodes": 15,
+      "total_episodes": 16,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/4tfz5HFn5zqCoIVzLy6eR7/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 15,
+        "total": 16,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0wn9Knh6gszxQVFjmQaFbY/clip_144871_204871.mp3",
+            "description": "Als een vrouw een slang in haar woning ziet, gaat wijkagent Peter er naartoe. Niemand weet of het beest giftig is. En hoe groot is het ding eigenlijk? Dat wordt al gauw duidelijk...  Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie  Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.  ",
+            "html_description": "<p>Als een vrouw een slang in haar woning ziet, gaat wijkagent Peter er naartoe. Niemand weet of het beest giftig is. En hoe groot is het ding eigenlijk? Dat wordt al gauw duidelijk...<br/></p><p><br/></p><p>Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/&#64;politie<br/></p><p><br/></p><p>Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur<br/></p><p><br/></p><p>Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten. <br/></p><p><br /></p>",
+            "duration_ms": 402528,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2D6UtJwLnvsK46jFNYt8E4"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2D6UtJwLnvsK46jFNYt8E4",
+            "id": "2D6UtJwLnvsK46jFNYt8E4",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8acfd4396ce3f2e46670500d17",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fcfd4396ce3f2e46670500d17",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dcfd4396ce3f2e46670500d17",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "'Slangen vangen'",
+            "release_date": "2025-09-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2D6UtJwLnvsK46jFNYt8E4"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3gDpeVZmD4igBk0WYuT2iz/clip_262002_322002.mp3",
             "description": "Een man met verward gedrag en een mes komt op Frans en zijn collega af. Ze proberen van alles om hem stoppen. Maar de man lijkt helemaal niks te voelen. Hoe kunnen ze hem tegenhouden?   Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie  Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur  Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.  ",
