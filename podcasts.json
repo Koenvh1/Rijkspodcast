@@ -70842,15 +70842,55 @@
       "publisher": "Leerhuis Informatiehuishouding",
       "type": "show",
       "uri": "spotify:show:6oJsjZsAiunyNsDK1g9QzK",
-      "total_episodes": 45,
+      "total_episodes": 46,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6oJsjZsAiunyNsDK1g9QzK/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 45,
+        "total": 46,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Ue4afVdG8EpjmSdobeLfs/clip_328822_388822.mp3",
+            "description": "",
+            "html_description": "<p></p>",
+            "duration_ms": 1887660,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3qM7UAKZISW2qCqgXk8DAE"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3qM7UAKZISW2qCqgXk8DAE",
+            "id": "3qM7UAKZISW2qCqgXk8DAE",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae2a4d9a9d68cfccde91d0242",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe2a4d9a9d68cfccde91d0242",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de2a4d9a9d68cfccde91d0242",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "aflevering 46 met als gasten  Thom Schuring en Jan Willem van Dijk - Provincie Groningen",
+            "release_date": "2025-09-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3qM7UAKZISW2qCqgXk8DAE"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0651kMovKlaZVnlBibzWUI/clip_127682_187682.mp3",
             "description": "",
