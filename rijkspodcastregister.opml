@@ -43,7 +43,6 @@
 		<outline type="rss" text="Adviezen van de Gezondheidsraad" title="Adviezen van de Gezondheidsraad" xmlUrl="https://rss.springcast.app/yM4u4g" />
 		<outline type="rss" text="Blauw Geboren" title="Blauw Geboren" xmlUrl="https://feeds.buzzsprout.com/1909083.rss" />
 		<outline type="rss" text="Onbeperkt Meedoen" title="Onbeperkt Meedoen" xmlUrl="https://rss.springcast.app/n0kuEo" />
-		<outline type="rss" text="De Commandant" title="De Commandant" xmlUrl="https://feeds.buzzsprout.com/2445926.rss" />
 		<outline type="rss" text="Slobcast" title="Slobcast" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:501293985/sounds.rss" />
 		<outline type="rss" text="IK WORD AGENT" title="IK WORD AGENT" xmlUrl="https://app.springcast.fm/podcast-xml/19167" />
 		<outline type="rss" text="Podium voor Goed Politiewerk" title="Podium voor Goed Politiewerk" xmlUrl="https://feeds.transistor.fm/podium-voor-goed-politiewerk-podcast" />
@@ -89,7 +88,7 @@
 		<outline type="rss" text="Vertrekpunt Nederland" title="Vertrekpunt Nederland" xmlUrl="https://feeds.simplecast.com/qOAtzz5c" />
 		<outline type="rss" text="Mijn Missie" title="Mijn Missie" xmlUrl="https://app.springcast.fm/podcast-xml/17081" />
 		<outline type="rss" text="Dossier Delict - de podcast van het NIFP" title="Dossier Delict - de podcast van het NIFP" xmlUrl="https://feeds.acast.com/public/shows/6579b18ff921fb0016838310" />
-		<outline type="rss" text="De Landmacht..." title="De Landmacht..." xmlUrl="https://app.springcast.fm/podcast-xml/17084" />
+		<outline type="rss" text="De Tank" title="De Tank" xmlUrl="https://app.springcast.fm/podcast-xml/17084" />
 		<outline type="rss" text="Dwang en Dilemma's" title="Dwang en Dilemma's" xmlUrl="https://anchor.fm/s/f9955048/podcast/rss" />
 		<outline type="rss" text="De Marine Wereldwijd" title="De Marine Wereldwijd" xmlUrl="https://app.springcast.fm/podcast-xml/18452" />
 		<outline type="rss" text="Zij Hielden Koers" title="Zij Hielden Koers" xmlUrl="https://app.springcast.fm/podcast-xml/16082" />
@@ -105,7 +104,7 @@
 		<outline type="rss" text="Boeiend De Podcast" title="Boeiend De Podcast" xmlUrl="https://anchor.fm/s/2a8edcc4/podcast/rss" />
 		<outline type="rss" text="De Politiepodcast" title="De Politiepodcast" xmlUrl="https://app.springcast.fm/podcast-xml/18501" />
 		<outline type="rss" text="Inspectie van het Onderwijs Podcast" title="Inspectie van het Onderwijs Podcast" xmlUrl="https://app.springcast.fm/podcast-xml/14959" />
-		<outline type="rss" text="Nederland verbouwt in 7 vragen" title="Nederland verbouwt in 7 vragen" xmlUrl="https://rss.springcast.app/y3bux7" />
+		<outline type="rss" text="Lange lijnen in de leefomgeving" title="Lange lijnen in de leefomgeving" xmlUrl="https://rss.springcast.app/y3bux7" />
 		<outline type="rss" text="Vluchtnummers" title="Vluchtnummers" xmlUrl="https://rss.art19.com/vluchtnummers" />
 		<outline type="rss" text="Door de ogen van de Koning" title="Door de ogen van de Koning" xmlUrl="https://www.omnycontent.com/d/playlist/9a879009-9913-4c6a-9792-b2b70034bb74/553d9e8d-7d88-4b7f-8f81-b2f301020980/4a03f09e-c531-47cb-b87d-b2f301020996/podcast.rss" />
 		<outline type="rss" text="Een Economie voor de 22e eeuw" title="Een Economie voor de 22e eeuw" xmlUrl="https://app.springcast.fm/podcast-xml/19308" />
@@ -125,5 +124,9 @@
 		<outline type="rss" text="KB nationale bibliotheek" title="KB nationale bibliotheek" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:663110451/sounds.rss" />
 		<outline type="rss" text="De top kijkt om" title="De top kijkt om" xmlUrl="https://anchor.fm/s/59362d70/podcast/rss" />
 		<outline type="rss" text="DNB Talks" title="DNB Talks" xmlUrl="https://feeds.castos.com/0257v" />
+		<outline type="rss" text="Below the radar, Above yourself" title="Below the radar, Above yourself" xmlUrl="https://rss.art19.com/below-the-radar-above-yourself" />
+		<outline type="rss" text="De Landmacht Maakt Muziek" title="De Landmacht Maakt Muziek" xmlUrl="https://rss.springcast.app/yRYup9" />
+		<outline type="rss" text="De Landmacht Werkt Samen" title="De Landmacht Werkt Samen" xmlUrl="https://rss.springcast.app/yPGurz" />
+		<outline type="rss" text="De Commandant" title="De Commandant" xmlUrl="https://rss.springcast.app/loVuod" />
 	</body>
 </opml>

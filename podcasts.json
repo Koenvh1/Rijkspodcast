@@ -41500,309 +41500,6 @@
     "apple": ""
   },
   {
-    "spotify": "https://open.spotify.com/show/4OssjshVihEavmYRdlN3dC",
-    "spotify_data": {
-      "available_markets": [
-        "AD",
-        "AE",
-        "AG",
-        "AL",
-        "AM",
-        "AO",
-        "AR",
-        "AT",
-        "AU",
-        "AZ",
-        "BA",
-        "BB",
-        "BE",
-        "BF",
-        "BG",
-        "BH",
-        "BI",
-        "BJ",
-        "BN",
-        "BO",
-        "BR",
-        "BS",
-        "BT",
-        "BW",
-        "BZ",
-        "CA",
-        "CH",
-        "CI",
-        "CL",
-        "CM",
-        "CO",
-        "CR",
-        "CV",
-        "CW",
-        "CY",
-        "CZ",
-        "DE",
-        "DJ",
-        "DK",
-        "DM",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FJ",
-        "FM",
-        "FR",
-        "GA",
-        "GB",
-        "GD",
-        "GE",
-        "GH",
-        "GM",
-        "GN",
-        "GQ",
-        "GR",
-        "GT",
-        "GW",
-        "GY",
-        "HK",
-        "HN",
-        "HR",
-        "HT",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JM",
-        "JO",
-        "JP",
-        "KE",
-        "KH",
-        "KI",
-        "KM",
-        "KN",
-        "KR",
-        "KW",
-        "LA",
-        "LB",
-        "LC",
-        "LI",
-        "LR",
-        "LS",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "ME",
-        "MG",
-        "MH",
-        "MK",
-        "ML",
-        "MN",
-        "MO",
-        "MR",
-        "MT",
-        "MU",
-        "MV",
-        "MW",
-        "MX",
-        "MY",
-        "MZ",
-        "NA",
-        "NE",
-        "NG",
-        "NI",
-        "NL",
-        "NO",
-        "NP",
-        "NR",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PG",
-        "PH",
-        "PL",
-        "PR",
-        "PS",
-        "PT",
-        "PW",
-        "PY",
-        "QA",
-        "RO",
-        "RS",
-        "RW",
-        "SA",
-        "SB",
-        "SC",
-        "SE",
-        "SG",
-        "SI",
-        "SK",
-        "SL",
-        "SM",
-        "SN",
-        "SR",
-        "ST",
-        "SV",
-        "SZ",
-        "TD",
-        "TG",
-        "TH",
-        "TL",
-        "TN",
-        "TO",
-        "TR",
-        "TT",
-        "TV",
-        "TW",
-        "TZ",
-        "UA",
-        "US",
-        "UY",
-        "UZ",
-        "VC",
-        "VN",
-        "VU",
-        "WS",
-        "XK",
-        "ZA",
-        "ZM",
-        "ZW"
-      ],
-      "copyrights": [],
-      "description": "De Koninklijke Landmacht moet Nederland en haar NAVO-bondgenoten verdedigen, desnoods met geweld. In een wereld waar de oorlogsdreiging toeneemt, moet de landmacht beter voorbereid zijn op een grootschalig conflict dat zich elk moment kan aandienen. De commandant van de landmacht hanteert hiervoor in zijn \u2018command message\u2019 een duidelijke kernboodschap; zijn militairen moeten \u2018willen, slimmer en kunnen vechten\u2019.In deze podcast voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierin geassisteerd door presentator Thomas Weemaes.",
-      "html_description": "<p>De Koninklijke Landmacht moet Nederland en haar NAVO-bondgenoten verdedigen, desnoods met geweld. In een wereld waar de oorlogsdreiging toeneemt, moet de landmacht beter voorbereid zijn op een grootschalig conflict dat zich elk moment kan aandienen. De commandant van de landmacht hanteert hiervoor in zijn \u2018command message\u2019 een duidelijke kernboodschap; zijn militairen moeten \u2018willen, slimmer en kunnen vechten\u2019.<br /><br />In deze podcast voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierin geassisteerd door presentator Thomas Weemaes.</p>",
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/show/4OssjshVihEavmYRdlN3dC"
-      },
-      "href": "https://api.spotify.com/v1/shows/4OssjshVihEavmYRdlN3dC",
-      "id": "4OssjshVihEavmYRdlN3dC",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a24df0cf19ca21e882656debd",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f24df0cf19ca21e882656debd",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d24df0cf19ca21e882656debd",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "languages": [
-        "nl"
-      ],
-      "media_type": "audio",
-      "name": "De Commandant",
-      "publisher": "Koninklijke Landmacht",
-      "type": "show",
-      "uri": "spotify:show:4OssjshVihEavmYRdlN3dC",
-      "total_episodes": 1,
-      "episodes": {
-        "href": "https://api.spotify.com/v1/shows/4OssjshVihEavmYRdlN3dC/episodes?offset=0&limit=50",
-        "limit": 50,
-        "next": null,
-        "offset": 0,
-        "previous": null,
-        "total": 1,
-        "items": [
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/68CKa4IqdlUAMNuxBL713Y/clip_389308_449308.mp3",
-            "description": "Terwijl op dit moment drones het slagveld lijken te domineren, zijn investeringen nog steeds in vuursteun bittere noodzaak. Commandant Landstrijdkrachten praat met projectofficier \u2018Versterken Vuursteun\u2019 luitenant-kolonel Rody Spruijt van het Wapen der Artillerie over de werking van het wapen, de kracht en de stand van zaken.",
-            "html_description": "<p>Terwijl op dit moment drones het slagveld lijken te domineren, zijn investeringen nog steeds in vuursteun bittere noodzaak. Commandant Landstrijdkrachten praat met projectofficier \u2018Versterken Vuursteun\u2019 luitenant-kolonel Rody Spruijt van het Wapen der Artillerie over de werking van het wapen, de kracht en de stand van zaken.</p>",
-            "duration_ms": 2743353,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/3mtAeJa4wU3Medjz4sYFZl"
-            },
-            "href": "https://api.spotify.com/v1/episodes/3mtAeJa4wU3Medjz4sYFZl",
-            "id": "3mtAeJa4wU3Medjz4sYFZl",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a24df0cf19ca21e882656debd",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f24df0cf19ca21e882656debd",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d24df0cf19ca21e882656debd",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Investeren in Vuursteun",
-            "release_date": "2025-06-12",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:3mtAeJa4wU3Medjz4sYFZl"
-          }
-        ]
-      }
-    },
-    "provider": "spotify",
-    "apple": "https://podcasts.apple.com/nl/podcast/de-commandant/id1792616192",
-    "apple_data": {
-      "wrapperType": "track",
-      "kind": "podcast",
-      "collectionId": 1792616192,
-      "trackId": 1792616192,
-      "artistName": "Koninklijke Landmacht",
-      "collectionName": "De Commandant",
-      "trackName": "De Commandant",
-      "collectionCensoredName": "De Commandant",
-      "trackCensoredName": "De Commandant",
-      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/de-commandant/id1792616192?uo=4",
-      "feedUrl": "https://feeds.buzzsprout.com/2445926.rss",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/de-commandant/id1792616192?uo=4",
-      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/38/8b/bb388b7e-a4a7-9e20-6147-cad41c982902/mza_10367185659016950546.jpg/30x30bb.jpg",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/38/8b/bb388b7e-a4a7-9e20-6147-cad41c982902/mza_10367185659016950546.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/38/8b/bb388b7e-a4a7-9e20-6147-cad41c982902/mza_10367185659016950546.jpg/100x100bb.jpg",
-      "collectionPrice": 0.0,
-      "trackPrice": 0.0,
-      "collectionHdPrice": 0,
-      "releaseDate": "2025-04-27T04:00:00Z",
-      "collectionExplicitness": "notExplicit",
-      "trackExplicitness": "cleaned",
-      "trackCount": 2,
-      "trackTimeMillis": 3415,
-      "country": "USA",
-      "currency": "USD",
-      "primaryGenreName": "Government",
-      "contentAdvisoryRating": "Clean",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/38/8b/bb388b7e-a4a7-9e20-6147-cad41c982902/mza_10367185659016950546.jpg/600x600bb.jpg",
-      "genreIds": [
-        "1511",
-        "26"
-      ],
-      "genres": [
-        "Government",
-        "Podcasts"
-      ]
-    }
-  },
-  {
     "spotify": "https://open.spotify.com/show/7IWwvF42tiReEFodCwJnRB",
     "spotify_data": {
       "available_markets": [
@@ -136544,6 +136241,1990 @@
         "Podcasts",
         "Business",
         "Management"
+      ]
+    }
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/04q1ydXzd0JZCMQuoYbhro",
+    "spotify_data": {
+      "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VC",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "copyrights": [],
+      "description": "Dit is de podcast van het Korps Commandotroepen.\u00a0De Nederlandse special forces. Zij opereren\u00a0in het diepste geheim en niemand weet precies wat ze doen.\u00a0Deze podcast geeft voor het eerst een kijkje in het werk en leven van de commando\u2019s. Iedere aflevering neemt een commando jou mee op een gevaarlijke,\u00a0geheime missie. Wie zijn die mannen met de\u00a0groene baretten?\u00a0En waarom hebben zij voor dit werk gekozen?\u00a0De commando's vertellen waar ze voor\u00a0opgeleid worden,\u00a0hoe een geheime missie in z'n werk gaat en wat voor een type mens geschikt is om zo\u2019n groene baret te mogen\u00a0dragen.",
+      "html_description": "<p>Dit is de podcast van het Korps Commandotroepen.\u00a0De Nederlandse special forces. Zij opereren\u00a0in het diepste geheim en niemand weet precies wat ze doen.\u00a0Deze podcast geeft voor het eerst een kijkje in het werk en leven van de commando\u2019s. Iedere aflevering neemt een commando jou mee op een gevaarlijke,\u00a0geheime missie. Wie zijn die mannen met de\u00a0groene baretten?\u00a0En waarom hebben zij voor dit werk gekozen?\u00a0De commando&#39;s vertellen waar ze voor\u00a0opgeleid worden,\u00a0hoe een geheime missie in z&#39;n werk gaat en wat voor een type mens geschikt is om zo\u2019n groene baret te mogen\u00a0dragen.</p>",
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/show/04q1ydXzd0JZCMQuoYbhro"
+      },
+      "href": "https://api.spotify.com/v1/shows/04q1ydXzd0JZCMQuoYbhro",
+      "id": "04q1ydXzd0JZCMQuoYbhro",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "nl"
+      ],
+      "media_type": "audio",
+      "name": "Below the radar, Above yourself",
+      "publisher": "Werken bij Defensie",
+      "type": "show",
+      "uri": "spotify:show:04q1ydXzd0JZCMQuoYbhro",
+      "total_episodes": 12,
+      "episodes": {
+        "href": "https://api.spotify.com/v1/shows/04q1ydXzd0JZCMQuoYbhro/episodes?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 12,
+        "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6ZBEwOiEqGkHXICyMjzwqX/clip_631152_691152.mp3",
+            "description": "Commando\u2019s opereren normaal gesproken in het diepste geheim, niemand weet precies wat ze doen. De missie waar Stefan ons mee naar toe neemt is een uitzondering hierop. Hier weten we w\u00e9l wat de commando\u2019s aan het doen zijn, namelijk Nederlanders en Afghanen evacueren uit Kabul. Aan het eind van de zomer van 2021 neemt de Taliban in een onvoorstelbaar tempo Afghanistan in. Kranten staan er iedere dag vol van en journaals openen hun bulletin ermee. Misschien herinner je de beelden nog van grote mensenmassa\u2019s op landingsbanen en mensen die zich vastklampen aan vliegtuigen. In deze aflevering hoor je hoe je als commando in zo\u2019n chaotische situatie orde op zaken stelt en hoe je te werk gaat als iedereen meekijkt.Wil je meer weten over het werk van de commando\u2019s? Kijk dan op\u00a0werkenbijdefensie.nl/commandoHost: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Commando\u2019s opereren normaal gesproken in het diepste geheim, niemand weet precies wat ze doen. De missie waar Stefan ons mee naar toe neemt is een uitzondering hierop. Hier weten we w\u00e9l wat de commando\u2019s aan het doen zijn, namelijk Nederlanders en Afghanen evacueren uit Kabul. Aan het eind van de zomer van 2021 neemt de Taliban in een onvoorstelbaar tempo Afghanistan in. Kranten staan er iedere dag vol van en journaals openen hun bulletin ermee. Misschien herinner je de beelden nog van grote mensenmassa\u2019s op landingsbanen en mensen die zich vastklampen aan vliegtuigen. In deze aflevering hoor je hoe je als commando in zo\u2019n chaotische situatie orde op zaken stelt en hoe je te werk gaat als iedereen meekijkt.</p><p><br /></p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op\u00a0werkenbijdefensie.nl/commando</p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 3715578,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0dc7ERMQeLw71MxrMhAs1B"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0dc7ERMQeLw71MxrMhAs1B",
+            "id": "0dc7ERMQeLw71MxrMhAs1B",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Stefan | In de spotlight",
+            "release_date": "2022-04-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0dc7ERMQeLw71MxrMhAs1B"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3966BXi7Sfrj2z5kwvHD7d/clip_367318_427318.mp3",
+            "description": "We hebben 10 afleveringen over de hedendaagse commando\u2019s gemaakt, maar het korps kent een rijke geschiedenis. In deze aflevering blikken we terug. Eugene is een gepensioneerde commando en vertelt ons hoe het is om een derde generatie commando te zijn. Hij neemt ons mee op een van zijn eerste missies.\u00a0Wil je meer weten over het werk van de commando\u2019s? Kijk dan op\u00a0werkenbijdefensie.nl/commandoHost: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>We hebben 10 afleveringen over de hedendaagse commando\u2019s gemaakt, maar het korps kent een rijke geschiedenis. In deze aflevering blikken we terug. Eugene is een gepensioneerde commando en vertelt ons hoe het is om een derde generatie commando te zijn. Hij neemt ons mee op een van zijn eerste missies.</p><p>\u00a0</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op\u00a0werkenbijdefensie.nl/commando</p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2692884,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6PGrqkq406PGuxHALVCklv"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6PGrqkq406PGuxHALVCklv",
+            "id": "6PGrqkq406PGuxHALVCklv",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Eugene | Veteraan vertelt",
+            "release_date": "2022-03-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6PGrqkq406PGuxHALVCklv"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Zx6MqIAOpEiL4R9Cy8aYi/clip_553000_613000.mp3",
+            "description": "Robin neemt ons mee op missie naar de hete woestijn in Mali. We leren van hem dat het werk als sniper veel meer inhoudt dan een doelwit raken van een lange afstand. Hij laat ons het sniperwerk zien dat je niet in een film ziet. In Mali zat hij dagenlang ingegraven in een geul, om maar niet ontdekt te worden. Of dat gelukt is hoor je in deze aflevering.\u00a0Wil je meer weten over het werk van de commando\u2019s? Kijk dan op\u00a0werkenbijdefensie.nl/commando\u00a0Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Robin neemt ons mee op missie naar de hete woestijn in Mali. We leren van hem dat het werk als sniper veel meer inhoudt dan een doelwit raken van een lange afstand. Hij laat ons het sniperwerk zien dat je niet in een film ziet. In Mali zat hij dagenlang ingegraven in een geul, om maar niet ontdekt te worden. Of dat gelukt is hoor je in deze aflevering.</p><p>\u00a0</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op\u00a0werkenbijdefensie.nl/commando</p><p>\u00a0</p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 3263869,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5zTBu3ogkUGSCoNOSjfhlp"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5zTBu3ogkUGSCoNOSjfhlp",
+            "id": "5zTBu3ogkUGSCoNOSjfhlp",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Robin | Onopvallend opereren",
+            "release_date": "2022-03-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5zTBu3ogkUGSCoNOSjfhlp"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5mUoGvYThYXDuhtIgHUgEN/clip_570671_630671.mp3",
+            "description": "In de voorlopig laatste aflevering van deze serie maken we kennis met Mats. Net als Willem is hij op het eerste gezicht eerder een man die je bij het studentencorps zou verwachten dan bij het Korps Commandotroepen. Maar schijn bedriegt en Mats is juist misschien wel de ideale commando. Hij neemt je mee op een HALO sprong en laat je voelen hoe het is om van 12 kilometer hoogte uit een vliegtuig te springen en direct gevechtsklaar te zijn. Als de sprong goed gaat, tenminste...\u00a0Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0\u00a0Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>In de voorlopig laatste aflevering van deze serie maken we kennis met Mats. Net als Willem is hij op het eerste gezicht eerder een man die je bij het studentencorps zou verwachten dan bij het Korps Commandotroepen. Maar schijn bedriegt en Mats is juist misschien wel de ideale commando. Hij neemt je mee op een HALO sprong en laat je voelen hoe het is om van 12 kilometer hoogte uit een vliegtuig te springen en direct gevechtsklaar te zijn. Als de sprong goed gaat, tenminste...\u00a0</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0\u00a0</p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2698187,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0ryaM6ydofG4oGXuCT5EtI"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0ryaM6ydofG4oGXuCT5EtI",
+            "id": "0ryaM6ydofG4oGXuCT5EtI",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Mats | Vrije val",
+            "release_date": "2021-03-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0ryaM6ydofG4oGXuCT5EtI"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/56SdqdKOLbPLiypitdI609/clip_385850_445850.mp3",
+            "description": "De belangrijkste taak van de Commando\u2019s is het helpen van mensen. Of ze nou bevrijd of verzorgd moeten worden. Met Mathijs ga je mee op missie naar Irak waar zijn trainingsmissie veranderde in het runnen van een veldhospitaal aan het front. Daar moet Mathijs bepalen welke mensen er wel, en welke er niet geholpen kunnen worden. En dan wordt er een wel heel bijzondere gewonde binnengebracht...\u00a0Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>De belangrijkste taak van de Commando\u2019s is het helpen van mensen. Of ze nou bevrijd of verzorgd moeten worden. Met Mathijs ga je mee op missie naar Irak waar zijn trainingsmissie veranderde in het runnen van een veldhospitaal aan het front. Daar moet Mathijs bepalen welke mensen er wel, en welke er niet geholpen kunnen worden. En dan wordt er een wel heel bijzondere gewonde binnengebracht...\u00a0</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando </p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2808946,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6IliNygrzd4yzwwaZLQSjr"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6IliNygrzd4yzwwaZLQSjr",
+            "id": "6IliNygrzd4yzwwaZLQSjr",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Mathijs | Een onverwachte missie",
+            "release_date": "2021-03-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6IliNygrzd4yzwwaZLQSjr"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2TWE74DnxbwsmP8DtnXEJi/clip_241162_301162.mp3",
+            "description": "Als je een commando vraagt wat het zwaarste is dat ze hebben meegemaakt, dan is het de commando opleiding. Waarom is die opleiding zo\u2019n uitputtingsslag? En hoe bereid je je daar mentaal op voor? Mike neemt je mee de opleiding in. Kan hij het aan of geeft hij op?\u00a0Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0\u00a0Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Als je een commando vraagt wat het zwaarste is dat ze hebben meegemaakt, dan is het de commando opleiding. Waarom is die opleiding zo\u2019n uitputtingsslag? En hoe bereid je je daar mentaal op voor? Mike neemt je mee de opleiding in. Kan hij het aan of geeft hij op?\u00a0</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0\u00a0</p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2371056,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3Alyk4U68mhmdfspuxKN2a"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3Alyk4U68mhmdfspuxKN2a",
+            "id": "3Alyk4U68mhmdfspuxKN2a",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Mike | Commando worden",
+            "release_date": "2021-03-16",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3Alyk4U68mhmdfspuxKN2a"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3FbBtLaxMB66Lu4TOQ3PzA/clip_558570_618570.mp3",
+            "description": "Commando\u2019s moeten zich kunnen voortbewegen op elk mogelijk terrein, zonder gezien of gehoord te worden. Henk is Heeres Bergfu\u0308hrer en is getraind om in hoge bergen met weinig zuurstof te overleven. In deze aflevering gaat Henk op trainingsmissie naar Alaska en alles loopt volgens plan. Tot er een noodsignaal komt van een team bergbeklimmers. Wat doe je als commando als er iemand overlijdt boven op de berg waar jezelf aan het trainen bent?Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0\u00a0Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Commando\u2019s moeten zich kunnen voortbewegen op elk mogelijk terrein, zonder gezien of gehoord te worden. Henk is Heeres Bergfu\u0308hrer en is getraind om in hoge bergen met weinig zuurstof te overleven. In deze aflevering gaat Henk op trainingsmissie naar Alaska en alles loopt volgens plan. Tot er een noodsignaal komt van een team bergbeklimmers. Wat doe je als commando als er iemand overlijdt boven op de berg waar jezelf aan het trainen bent?</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op <a href=\"https://werkenbijdefensie.nl/commando\" rel=\"nofollow\">\u200bwerkenbijdefensie.nl/commando</a>\u00a0\u00a0</p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2713286,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2Al5GcookBwnW62EThv7So"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2Al5GcookBwnW62EThv7So",
+            "id": "2Al5GcookBwnW62EThv7So",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Henk |\u00a0Pieken en dalen",
+            "release_date": "2021-03-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2Al5GcookBwnW62EThv7So"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/75C6j5csk2Fg4mRTY2O9B2/clip_476866_536866.mp3",
+            "description": "Je hoeft geen commando te zijn om met de commando\u2019s te mogen werken. Tim werkt voor de explosieve opruimingsdienst. Wanneer er bermbommen onschadelijk gemaakt moeten worden, ben je blij als je Tim bij je hebt. Hij kan dat als een van de beste.\u00a0En dat dit werk zich afspeelt op gevaarlijke plekken blijkt wel als hij tijdens een missie geraakt wordt door een kogel\u2026Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0 Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Je hoeft geen commando te zijn om met de commando\u2019s te mogen werken. Tim werkt voor de explosieve opruimingsdienst. Wanneer er bermbommen onschadelijk gemaakt moeten worden, ben je blij als je Tim bij je hebt. Hij kan dat als een van de beste.\u00a0En dat dit werk zich afspeelt op gevaarlijke plekken blijkt wel als hij tijdens een missie geraakt wordt door een kogel\u2026</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0 </p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2378579,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6A67rgPrZ4qyOwtCXhlm7n"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6A67rgPrZ4qyOwtCXhlm7n",
+            "id": "6A67rgPrZ4qyOwtCXhlm7n",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Tim | Vijandelijk vuur\u00a0",
+            "release_date": "2021-03-02",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6A67rgPrZ4qyOwtCXhlm7n"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0F68CBf45bEcTGA3JZzSdI/clip_536488_596488.mp3",
+            "description": "Willem vinkt in eerste instantie niet alle stereotyperingen af die aan een commando kleven. Hij houdt van yoga en Franse literatuur. Maar hij laat zien dat iedereen met de juiste mindset commando kan worden. Willem vertelt hoe hij commando is geworden en neemt ons mee op top secret missie.Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0\u00a0Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Willem vinkt in eerste instantie niet alle stereotyperingen af die aan een commando kleven. Hij houdt van yoga en Franse literatuur. Maar hij laat zien dat iedereen met de juiste mindset commando kan worden. Willem vertelt hoe hij commando is geworden en neemt ons mee op top secret missie.</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0\u00a0</p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2853877,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2qTrLeBjl0c8PMkhbAp0qH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2qTrLeBjl0c8PMkhbAp0qH",
+            "id": "2qTrLeBjl0c8PMkhbAp0qH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Willem | Top Secret",
+            "release_date": "2021-02-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2qTrLeBjl0c8PMkhbAp0qH"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5saVVUlG4lW2tHRQYVZqeN/clip_424445_484445.mp3",
+            "description": "In deze aflevering maken we kennis met Rinus en Cliff. Ze zijn beide commando, maar Cliff is een van de bijzonderste leden van het Korps. Cliff is een hond, een goed getrainde hond. Cliff gaat mee op alle missies waar zijn baasje Rinus naartoe gaat. Ze springen samen uit vliegtuigen en vallen gebouwen binnen. In deze aflevering moeten Rinus en Cliff assisteren bij een arrestatie in Afghanistan. Kan Cliff laten zien waarvoor hij is opgeleid?\u00a0\u00a0Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0 Host: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>In deze aflevering maken we kennis met Rinus en Cliff. Ze zijn beide commando, maar Cliff is een van de bijzonderste leden van het Korps. Cliff is een hond, een goed getrainde hond. Cliff gaat mee op alle missies waar zijn baasje Rinus naartoe gaat. Ze springen samen uit vliegtuigen en vallen gebouwen binnen. In deze aflevering moeten Rinus en Cliff assisteren bij een arrestatie in Afghanistan. Kan Cliff laten zien waarvoor hij is opgeleid?\u00a0\u00a0</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op \u200bwerkenbijdefensie.nl/commando\u00a0 </p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2428917,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6p1t0l8GNLmx7PEVvxnjHB"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6p1t0l8GNLmx7PEVvxnjHB",
+            "id": "6p1t0l8GNLmx7PEVvxnjHB",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Rinus & Cliff |\u00a0Trouwe buddy\u2019s",
+            "release_date": "2021-02-16",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6p1t0l8GNLmx7PEVvxnjHB"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/41g5QklQbLFGfjtLcFEm4C/clip_133348_193348.mp3",
+            "description": "Rico neemt je mee op missie naar Afghanistan. Een ogenschijnlijk makkelijke inzet leidt tot een vuurgevecht waarbij Rico bommen moet afvuren op een gebouw. En dat terwijl zijn collega\u2019s op 50 meter van het gebouw zitten. Hoe dit afloopt, hoor je in deze aflevering.\u00a0Wil je meer weten over het werk van de commando\u2019s? Kijk dan op werkenbijdefensie.nl/commandoHost: Dennis GaensAudiodesign: Studio KloaqProductie: Dag en Nacht MediaZie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Rico neemt je mee op missie naar Afghanistan. Een ogenschijnlijk makkelijke inzet leidt tot een vuurgevecht waarbij Rico bommen moet afvuren op een gebouw. En dat terwijl zijn collega\u2019s op 50 meter van het gebouw zitten. Hoe dit afloopt, hoor je in deze aflevering.\u00a0</p><p>Wil je meer weten over het werk van de commando\u2019s? Kijk dan op <a href=\"https://werkenbijdefensie.nl/commando\" rel=\"nofollow\">werkenbijdefensie.nl/commando</a></p><p><br /></p><p>Host: Dennis Gaens</p><p>Audiodesign: Studio Kloaq</p><p>Productie: Dag en Nacht Media</p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 2450024,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3qZHhlR3ZvWarIV9KEdIIR"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3qZHhlR3ZvWarIV9KEdIIR",
+            "id": "3qZHhlR3ZvWarIV9KEdIIR",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Rico | Danger close",
+            "release_date": "2021-02-16",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3qZHhlR3ZvWarIV9KEdIIR"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3s9kRC54IOL4xeF3SK2XSv/clip_49914_109914.mp3",
+            "description": "Dit is de podcast van het Korps Commandotroepen. De Nederlandse special forces. Zij opereren in het diepste geheim.\u00a0Nu vertellen ze voor het eerst wie ze zijn en wat ze doen. Iedere aflevering neemt een commando jou mee op geheime missie. Wat heb je nodig om commando te worden?\u00a0Beluister Below the Radar, Above yourself vanaf dinsdag 16 februari. Zie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info.",
+            "html_description": "<p>Dit is de podcast van het Korps Commandotroepen. De Nederlandse special forces. Zij opereren in het diepste geheim.\u00a0Nu vertellen ze voor het eerst wie ze zijn en wat ze doen. Iedere aflevering neemt een commando jou mee op geheime missie. Wat heb je nodig om commando te worden?\u00a0</p><p>Beluister Below the Radar, Above yourself vanaf dinsdag 16 februari. </p><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p>",
+            "duration_ms": 182125,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/00IIBQi2Fa4RQRDBdj7OD9"
+            },
+            "href": "https://api.spotify.com/v1/episodes/00IIBQi2Fa4RQRDBdj7OD9",
+            "id": "00IIBQi2Fa4RQRDBdj7OD9",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a37dfc4f045ab594d0e246a6e",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f37dfc4f045ab594d0e246a6e",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d37dfc4f045ab594d0e246a6e",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Ga mee op geheime missie met de commando's",
+            "release_date": "2021-02-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:00IIBQi2Fa4RQRDBdj7OD9"
+          }
+        ]
+      }
+    },
+    "apple": "https://podcasts.apple.com/nl/podcast/below-the-radar-above-yourself/id1551973183",
+    "apple_data": {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1551973183,
+      "trackId": 1551973183,
+      "artistName": "Werken bij Defensie",
+      "collectionName": "Below the radar, Above yourself",
+      "trackName": "Below the radar, Above yourself",
+      "collectionCensoredName": "Below the radar, Above yourself",
+      "trackCensoredName": "Below the radar, Above yourself",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/below-the-radar-above-yourself/id1551973183?uo=4",
+      "feedUrl": "https://rss.art19.com/below-the-radar-above-yourself",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/below-the-radar-above-yourself/id1551973183?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/45/09/bd/4509bdfa-a780-8b6a-c839-46fdbdb1218a/mza_3866282477702543041.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/45/09/bd/4509bdfa-a780-8b6a-c839-46fdbdb1218a/mza_3866282477702543041.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/45/09/bd/4509bdfa-a780-8b6a-c839-46fdbdb1218a/mza_3866282477702543041.jpeg/100x100bb.jpg",
+      "collectionPrice": 0.0,
+      "trackPrice": 0.0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2022-04-04T02:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 12,
+      "trackTimeMillis": 3715,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Documentary",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/45/09/bd/4509bdfa-a780-8b6a-c839-46fdbdb1218a/mza_3866282477702543041.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1321",
+        "1410"
+      ],
+      "genres": [
+        "Documentary",
+        "Podcasts",
+        "Society & Culture",
+        "Business",
+        "Careers"
+      ]
+    }
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/4OVaoSNhJPWGWxHp5JZ1Ka",
+    "spotify_data": {
+      "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VC",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "copyrights": [],
+      "description": "Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?",
+      "html_description": "<p>Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?</p>",
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/show/4OVaoSNhJPWGWxHp5JZ1Ka"
+      },
+      "href": "https://api.spotify.com/v1/shows/4OVaoSNhJPWGWxHp5JZ1Ka",
+      "id": "4OVaoSNhJPWGWxHp5JZ1Ka",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a0fdf06d10f03229392ec0de2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f0fdf06d10f03229392ec0de2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d0fdf06d10f03229392ec0de2",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "nl"
+      ],
+      "media_type": "audio",
+      "name": "De Landmacht Maakt Muziek",
+      "publisher": "Koninklijke Landmacht",
+      "type": "show",
+      "uri": "spotify:show:4OVaoSNhJPWGWxHp5JZ1Ka",
+      "total_episodes": 7,
+      "episodes": {
+        "href": "https://api.spotify.com/v1/shows/4OVaoSNhJPWGWxHp5JZ1Ka/episodes?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7,
+        "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1cFARMGopiIPG3ME72U9LV/clip_157638_217638.mp3",
+            "description": "Nu hij de wereld van de militaire muziekanten heeft ontdekt - \u201cUndercover Supersterren\u201d - vraagt Sharwhan aan vier militairen om hun stijl aan het nummer Liefde van Joshua Newton toe te voegen: \u201cEn Of Dat Is Gelukt.\u201d Ook geeft hij antwoord op de grote vraag: Welke industrie werkt er beter? Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  Je vindt het nummer Liefde door Joshua Newton en de Koninklijke Landmacht op alle streamingservices: http://landmacht.fm/liefde  Je hoort: Joshua Newton - Zang Dave Onyx - Piano Sergeant 1 Tony DeRoy - Saxofoon Sergeant 1 Simon Bruul - Trompet Korporaal 1 Marvin Schaap - Trom Korporaal 1 Robin Muizer - Accoustische Drums Whan - Digitale Drums + Layer Instrumenten Compositie: Dave Onyx en Sergeant 1 Tony Deroy Arrangement: Whan, Dave Onyx en Sergeant 1 Tony Deroy\u00a0 Tekst: Joshua Newton Productie: Whan \u2014\u2014 Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b Presentator Sharwhan Soekhai is beter bekend als producer Whan. Naast zijn carri\u00e8re als songwriter, artiest, host en radio dj is Whan ook nog werkzaam als producer, waarbij hij samenwerkingen op zijn naam heeft staan met o.a. French Montana, Justin Mylo, BN\u2019ers zoals Kaj van de Voort. en is hij een bekende bij publisher Warner/Chapelle.",
+            "html_description": "<p>Nu hij de wereld van de militaire muziekanten heeft ontdekt - \u201cUndercover Supersterren\u201d - vraagt Sharwhan aan vier militairen om hun stijl aan het nummer Liefde van Joshua Newton toe te voegen: \u201cEn Of Dat Is Gelukt.\u201d Ook geeft hij antwoord op de grote vraag: Welke industrie werkt er beter? Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> Je vindt het nummer Liefde door Joshua Newton en de Koninklijke Landmacht op alle streamingservices: http://landmacht.fm/liefde<br /> <br /> Je hoort:</p> <p>Joshua Newton - Zang<br /> Dave Onyx - Piano<br /> Sergeant 1 Tony DeRoy - Saxofoon<br /> Sergeant 1 Simon Bruul - Trompet<br /> Korporaal 1 Marvin Schaap - Trom<br /> Korporaal 1 Robin Muizer - Accoustische Drums<br /> Whan - Digitale Drums &#43; Layer Instrumenten</p> <p>Compositie: Dave Onyx en Sergeant 1 Tony Deroy<br /> Arrangement: Whan, Dave Onyx en Sergeant 1 Tony Deroy\u00a0<br /> Tekst: Joshua Newton<br /> Productie: Whan</p> <p>\u2014\u2014</p> <p>Whan:</p> <p><a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b</p> <p>Presentator Sharwhan Soekhai is beter bekend als producer Whan. Naast zijn carri\u00e8re als songwriter, artiest, host en radio dj is Whan ook nog werkzaam als producer, waarbij hij samenwerkingen op zijn naam heeft staan met o.a. French Montana, Justin Mylo, BN\u2019ers zoals Kaj van de Voort. en is hij een bekende bij publisher Warner/Chapelle.</p>",
+            "duration_ms": 2163336,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/11iWASBKwJPlyslMT7SL4C"
+            },
+            "href": "https://api.spotify.com/v1/episodes/11iWASBKwJPlyslMT7SL4C",
+            "id": "11iWASBKwJPlyslMT7SL4C",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a217b0c34d6141714d236547c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f217b0c34d6141714d236547c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d217b0c34d6141714d236547c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Liefde, Verbind",
+            "release_date": "2021-04-01",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:11iWASBKwJPlyslMT7SL4C"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12VvcC4qFsZiOWhHa8R9er/clip_570958_630958.mp3",
+            "description": "Hoe creatief is een militaire muzikant nou? En hoe werken creatievelingen? Sharwhan gaat in gesprek met Sergeant-1 Piet Durk Meijer, trombonist bij de Koninklijke Militaire Kapel Johan Willem Friso, en muzikant Joshua Newton over hun verschillen en overeenkomsten; van storytelling en de industrie tot creatieve processen en tegenslagen. Ook ontstaat er iets nieuws: een echte samenwerking.  Wil je de videoversie van deze podcast zien? Die vind je op YouTube: https://www.youtube.com/watch?v=1cCq5vCNEek  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  \u2014\u2014  Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b  De koninklijke landmacht:  https://www.instagram.com/koninklijke...\u200b  Landmacht Orkesten  https://www.instagram.com/rfggj_\u200b  https://www.instagram.com/fknr.official\u200b  https://www.instagram.com/fanfarebere...\u200b  https://www.instagram.com/kmkjwf\u200b",
+            "html_description": "<p>Hoe creatief is een militaire muzikant nou? En hoe werken creatievelingen? Sharwhan gaat in gesprek met Sergeant-1 Piet Durk Meijer, trombonist bij de Koninklijke Militaire Kapel Johan Willem Friso, en muzikant Joshua Newton over hun verschillen en overeenkomsten; van storytelling en de industrie tot creatieve processen en tegenslagen. Ook ontstaat er iets nieuws: een echte samenwerking.<br /> <br /> Wil je de videoversie van deze podcast zien? Die vind je op YouTube: <a href=\"https://www.youtube.com/watch?v&#61;1cCq5vCNEek\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;1cCq5vCNEek</a><br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> \u2014\u2014<br /> <br /> Whan:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b<br /> <br /> De koninklijke landmacht:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnNFU2FHbjhEbkNQTlFiT3A3Mjd1bmxlYURid3xBQ3Jtc0tsWV9nWElaN1k0bGdPTnBTa2FlNzVLcWd6cW9LaUNUdXkxUU5WTThmWUtsaUJ2SzRlblpYaU1Lc1FKbGdLREVJd2pEVExOc3dpX2FfaEVjal9XM2xqYjBrSlpEbnQxUWVUOUs1aFV1cFdwTFF1bXVZWQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkoninklijkelandmacht\" rel=\"nofollow\"> https://www.instagram.com/koninklijke...</a>\u200b<br /> <br /> Landmacht Orkesten<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnBfUWhhYjRyd2QtdjJCdC1WY3ZiYmxnQUxMZ3xBQ3Jtc0ttLV9iMnpDN2NVYjFZMzdqV09LZzVwQmhGMDBpUmZOZmZBMFFLYjNKcWV3dmVhSUVJbVAtd1pjYzNVcUg4ZzhRalBUbDg0RkhEM181cENQMEdXYzREQ0VVWjBmU2VTZVFqRWlwMVljUDhWUFV0YndaRQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Frfggj_\" rel=\"nofollow\"> https://www.instagram.com/rfggj_</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbmZlZk9mVXdLME9Dd2JrUTMtbjZUTWUxcnNRZ3xBQ3Jtc0ttR3pTOVNqN3hPOUx1Nk1EQTg5eHduRm9EdW9LeEw2V2ZnYXdPRW5fMm5ycG9mQ2xiaVdCM2VxUEdDZjFWSTl4R1FPUUlUcU9aczY2RGNyTk9XTWF5YUFGTUI1N3VlLTdOTUVkZ3E1cjU4aTFlYkZoMA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffknr.official\" rel=\"nofollow\"> https://www.instagram.com/fknr.official</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWlSQ05ocE14NUM3aGltV19rcmNVNTlIQk80Z3xBQ3Jtc0tuY2RWajQweU03Q0hCTlJTdGwwYTJmSUxZVGhsdy1FaTIyMlp0eVlXZHA0UXVRZ1VXVzFRUlkwUVY2TW12ejZUZk5oU3luWGlXZjE3WHM0VV9tcUdpTDQtdzNUanBib2RtaEZWQmlERHdiMXFnZGd1RQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffanfareberedenwapens\" rel=\"nofollow\"> https://www.instagram.com/fanfarebere...</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbVNMclEwdnlMVHBnTjJfMFljckRuNlVYOUI4UXxBQ3Jtc0ttUzl0cjg1bnZwOWI1MXNPQmFfaHA1YktMbjM5WDZQbE4tZTcyOE1SbG4tVGlTd3IyNGZUanpUdEtOeEFzM04wUjY1RzVqOENYbUp4VXJESGV3VHBsMmgxbWZ3SUFkQVpQdlYwdkQ3Mmx5TF9ES1BDNA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkmkjwf\" rel=\"nofollow\"> https://www.instagram.com/kmkjwf</a>\u200b</p>",
+            "duration_ms": 2737128,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1dsGF9hWWUhc4uICSKZf3C"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1dsGF9hWWUhc4uICSKZf3C",
+            "id": "1dsGF9hWWUhc4uICSKZf3C",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a134c805b708c4156ed53fe65",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f134c805b708c4156ed53fe65",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d134c805b708c4156ed53fe65",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Storytellers",
+            "release_date": "2021-03-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1dsGF9hWWUhc4uICSKZf3C"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/02kCbeJUI617dwBmgOZblx/clip_461789_521789.mp3",
+            "description": "Sharwhan nodigt militaire muziekanten Simon en Tony uit in zijn domein, de studio en vraagt ze bij te dragen aan een van zijn eigen nummers \u2018Letter To You\u2019. De chemie tussen de muziekanten wordt direct duidelijk en de sessie blijkt een opmaat naar meer.  Wil je de videoversie van deze podcast zien? Die vind je op YouTube: https://www.youtube.com/watch?v=Zb7yKZX0duY&t=422s  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  \u2014\u2014  Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b  De koninklijke landmacht:  https://www.instagram.com/koninklijke...\u200b  Landmacht Orkesten  https://www.instagram.com/rfggj_\u200b  https://www.instagram.com/fknr.official\u200b  https://www.instagram.com/fanfarebere...\u200b  https://www.instagram.com/kmkjwf\u200b",
+            "html_description": "<p>Sharwhan nodigt militaire muziekanten Simon en Tony uit in zijn domein, de studio en vraagt ze bij te dragen aan een van zijn eigen nummers \u2018Letter To You\u2019. De chemie tussen de muziekanten wordt direct duidelijk en de sessie blijkt een opmaat naar meer.<br /> <br /> Wil je de videoversie van deze podcast zien? Die vind je op YouTube: <a href=\"https://www.youtube.com/watch?v&#61;Zb7yKZX0duY&amp;t&#61;422s\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;Zb7yKZX0duY&amp;t&#61;422s</a><br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> \u2014\u2014<br /> <br /> Whan:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b<br /> <br /> De koninklijke landmacht:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnNFU2FHbjhEbkNQTlFiT3A3Mjd1bmxlYURid3xBQ3Jtc0tsWV9nWElaN1k0bGdPTnBTa2FlNzVLcWd6cW9LaUNUdXkxUU5WTThmWUtsaUJ2SzRlblpYaU1Lc1FKbGdLREVJd2pEVExOc3dpX2FfaEVjal9XM2xqYjBrSlpEbnQxUWVUOUs1aFV1cFdwTFF1bXVZWQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkoninklijkelandmacht\" rel=\"nofollow\"> https://www.instagram.com/koninklijke...</a>\u200b<br /> <br /> Landmacht Orkesten<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnBfUWhhYjRyd2QtdjJCdC1WY3ZiYmxnQUxMZ3xBQ3Jtc0ttLV9iMnpDN2NVYjFZMzdqV09LZzVwQmhGMDBpUmZOZmZBMFFLYjNKcWV3dmVhSUVJbVAtd1pjYzNVcUg4ZzhRalBUbDg0RkhEM181cENQMEdXYzREQ0VVWjBmU2VTZVFqRWlwMVljUDhWUFV0YndaRQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Frfggj_\" rel=\"nofollow\"> https://www.instagram.com/rfggj_</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbmZlZk9mVXdLME9Dd2JrUTMtbjZUTWUxcnNRZ3xBQ3Jtc0ttR3pTOVNqN3hPOUx1Nk1EQTg5eHduRm9EdW9LeEw2V2ZnYXdPRW5fMm5ycG9mQ2xiaVdCM2VxUEdDZjFWSTl4R1FPUUlUcU9aczY2RGNyTk9XTWF5YUFGTUI1N3VlLTdOTUVkZ3E1cjU4aTFlYkZoMA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffknr.official\" rel=\"nofollow\"> https://www.instagram.com/fknr.official</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWlSQ05ocE14NUM3aGltV19rcmNVNTlIQk80Z3xBQ3Jtc0tuY2RWajQweU03Q0hCTlJTdGwwYTJmSUxZVGhsdy1FaTIyMlp0eVlXZHA0UXVRZ1VXVzFRUlkwUVY2TW12ejZUZk5oU3luWGlXZjE3WHM0VV9tcUdpTDQtdzNUanBib2RtaEZWQmlERHdiMXFnZGd1RQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffanfareberedenwapens\" rel=\"nofollow\"> https://www.instagram.com/fanfarebere...</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbVNMclEwdnlMVHBnTjJfMFljckRuNlVYOUI4UXxBQ3Jtc0ttUzl0cjg1bnZwOWI1MXNPQmFfaHA1YktMbjM5WDZQbE4tZTcyOE1SbG4tVGlTd3IyNGZUanpUdEtOeEFzM04wUjY1RzVqOENYbUp4VXJESGV3VHBsMmgxbWZ3SUFkQVpQdlYwdkQ3Mmx5TF9ES1BDNA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkmkjwf\" rel=\"nofollow\"> https://www.instagram.com/kmkjwf</a>\u200b</p>",
+            "duration_ms": 1435968,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1kfltDhWzRR7XsfhELOZQo"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1kfltDhWzRR7XsfhELOZQo",
+            "id": "1kfltDhWzRR7XsfhELOZQo",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a5f759d01acd853fdc638b361",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f5f759d01acd853fdc638b361",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d5f759d01acd853fdc638b361",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Welkom In Mijn Wereld",
+            "release_date": "2021-03-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1kfltDhWzRR7XsfhELOZQo"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5U0GuXvvV090sfrF6W13uC/clip_258836_318836.mp3",
+            "description": "In aflevering vier van \u2018De Landmacht Maakt Muziek\u2019 onderzoekt Sharwhan de loopbaan van Soldaat 1 Niels Assink en producer Ogri. De eerste speelt trombone bij het Regimentsfanfare 'Garde Grenadiers en Jagers\u2019. De tweede is bekend van Afrobros en heeft als producer meerdere wereldhits op zijn naam staan. Hoe kwamen zij tot waar ze nu zijn? Hoe blijven zij groeien? En welke rol speelt hun industrie daarin?  Wil je de videoversie van deze podcast zien? Die vind je op YouTube: https://www.youtube.com/watch?v=MRvi1nzmIq0  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?  \u2014\u2014  Whan:  https://www.instagram.com/whan_n1\u200b  https://www.facebook.com/whanmusic\u200b  De koninklijke landmacht:  https://www.instagram.com/koninklijke...\u200b  Landmacht Orkesten  https://www.instagram.com/rfggj_\u200b  https://www.instagram.com/fknr.official\u200b  https://www.instagram.com/fanfarebere...\u200b  https://www.instagram.com/kmkjwf\u200b",
+            "html_description": "<p>In aflevering vier van \u2018De Landmacht Maakt Muziek\u2019 onderzoekt Sharwhan de loopbaan van Soldaat 1 Niels Assink en producer Ogri. De eerste speelt trombone bij het Regimentsfanfare &#39;Garde Grenadiers en Jagers\u2019. De tweede is bekend van Afrobros en heeft als producer meerdere wereldhits op zijn naam staan. Hoe kwamen zij tot waar ze nu zijn? Hoe blijven zij groeien? En welke rol speelt hun industrie daarin?<br /> <br /> Wil je de videoversie van deze podcast zien? Die vind je op YouTube: <a href=\"https://www.youtube.com/watch?v&#61;MRvi1nzmIq0\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;MRvi1nzmIq0</a><br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In seizoen 2, \u2018De Landmacht maakt Muziek\u2019 zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?<br /> <br /> \u2014\u2014<br /> <br /> Whan:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqblNpNXRycG00V3BKY2dZcVc1NUo1RVBUVHA2QXxBQ3Jtc0trU25iX2tBUnY4WV9TN1hINzkyanVSbTVFR0ZDUlpHWGc5UExvRjhiZWNTUkdyd2RZaTFMX19kMy0tRmxtWjktMDJYeWxOZ2M0bEt6SEZzbGhIRUtUVHJVY1VyVTFsTHZLWWo5ODNrTGlGN2R4VnQ3MA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fwhan_n1\" rel=\"nofollow\"> https://www.instagram.com/whan_n1</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbGxnMzZRbXJvRkNKakdhbFZxVUFRTUtvTlZ2QXxBQ3Jtc0tuUnpJYzJoTGttZWR2R2xyYkE0U0ZUYkp4YVNkX2RuWFhQS1RWcUpma3o2M09SOUZZcmZiSXJmSnZ2cHdvYzk0MS1HeUlPb1lTdDRRRnd3TzJMUzlhR3JBaWRld09mXzJIb1JJM1dyUm5leE1zTXdVUQ&amp;q&#61;https%3A%2F%2Fwww.facebook.com%2Fwhanmusic\" rel=\"nofollow\"> https://www.facebook.com/whanmusic</a>\u200b<br /> <br /> De koninklijke landmacht:<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnNFU2FHbjhEbkNQTlFiT3A3Mjd1bmxlYURid3xBQ3Jtc0tsWV9nWElaN1k0bGdPTnBTa2FlNzVLcWd6cW9LaUNUdXkxUU5WTThmWUtsaUJ2SzRlblpYaU1Lc1FKbGdLREVJd2pEVExOc3dpX2FfaEVjal9XM2xqYjBrSlpEbnQxUWVUOUs1aFV1cFdwTFF1bXVZWQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkoninklijkelandmacht\" rel=\"nofollow\"> https://www.instagram.com/koninklijke...</a>\u200b<br /> <br /> Landmacht Orkesten<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbnBfUWhhYjRyd2QtdjJCdC1WY3ZiYmxnQUxMZ3xBQ3Jtc0ttLV9iMnpDN2NVYjFZMzdqV09LZzVwQmhGMDBpUmZOZmZBMFFLYjNKcWV3dmVhSUVJbVAtd1pjYzNVcUg4ZzhRalBUbDg0RkhEM181cENQMEdXYzREQ0VVWjBmU2VTZVFqRWlwMVljUDhWUFV0YndaRQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Frfggj_\" rel=\"nofollow\"> https://www.instagram.com/rfggj_</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbmZlZk9mVXdLME9Dd2JrUTMtbjZUTWUxcnNRZ3xBQ3Jtc0ttR3pTOVNqN3hPOUx1Nk1EQTg5eHduRm9EdW9LeEw2V2ZnYXdPRW5fMm5ycG9mQ2xiaVdCM2VxUEdDZjFWSTl4R1FPUUlUcU9aczY2RGNyTk9XTWF5YUFGTUI1N3VlLTdOTUVkZ3E1cjU4aTFlYkZoMA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffknr.official\" rel=\"nofollow\"> https://www.instagram.com/fknr.official</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbWlSQ05ocE14NUM3aGltV19rcmNVNTlIQk80Z3xBQ3Jtc0tuY2RWajQweU03Q0hCTlJTdGwwYTJmSUxZVGhsdy1FaTIyMlp0eVlXZHA0UXVRZ1VXVzFRUlkwUVY2TW12ejZUZk5oU3luWGlXZjE3WHM0VV9tcUdpTDQtdzNUanBib2RtaEZWQmlERHdiMXFnZGd1RQ&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Ffanfareberedenwapens\" rel=\"nofollow\"> https://www.instagram.com/fanfarebere...</a>\u200b<br /> <a href=\"https://www.youtube.com/redirect?event&#61;video_description&amp;redir_token&#61;QUFFLUhqbVNMclEwdnlMVHBnTjJfMFljckRuNlVYOUI4UXxBQ3Jtc0ttUzl0cjg1bnZwOWI1MXNPQmFfaHA1YktMbjM5WDZQbE4tZTcyOE1SbG4tVGlTd3IyNGZUanpUdEtOeEFzM04wUjY1RzVqOENYbUp4VXJESGV3VHBsMmgxbWZ3SUFkQVpQdlYwdkQ3Mmx5TF9ES1BDNA&amp;q&#61;https%3A%2F%2Fwww.instagram.com%2Fkmkjwf\" rel=\"nofollow\"> https://www.instagram.com/kmkjwf</a>\u200b</p>",
+            "duration_ms": 1565688,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7gMsWcOn5ituJDpJurtqyU"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7gMsWcOn5ituJDpJurtqyU",
+            "id": "7gMsWcOn5ituJDpJurtqyU",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6d6923541fb0b879dee96939",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6d6923541fb0b879dee96939",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6d6923541fb0b879dee96939",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Training Grounds",
+            "release_date": "2021-03-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7gMsWcOn5ituJDpJurtqyU"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2yMwNk8yGhF1pCWgpPsmKl/clip_488677_548677.mp3",
+            "description": "Sharwhan gaat op bezoek bij het Fanfarekorps Nationale Reserve (FKNR) en ontdekt de achtergrond van de Taptoe. Ook verbaast hij zich over de uniformiteit onder de militairen, de doorgroeimogelijkheden binnen de militaire muziek en de grootte van de Nationale Taptoe.  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In De Landmacht maakt Muziek zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?",
+            "html_description": "<p>Sharwhan gaat op bezoek bij het Fanfarekorps Nationale Reserve (FKNR) en ontdekt de achtergrond van de Taptoe. Ook verbaast hij zich over de uniformiteit onder de militairen, de doorgroeimogelijkheden binnen de militaire muziek en de grootte van de Nationale Taptoe.<br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In De Landmacht maakt Muziek zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?</p>",
+            "duration_ms": 1556544,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/19BUoogWX09srigQpH77SL"
+            },
+            "href": "https://api.spotify.com/v1/episodes/19BUoogWX09srigQpH77SL",
+            "id": "19BUoogWX09srigQpH77SL",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a853ee912bb019ed1b85cb099",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f853ee912bb019ed1b85cb099",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d853ee912bb019ed1b85cb099",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "\ud83c\udfba Taptoe, Fanfarekorps Nationale Reserve",
+            "release_date": "2021-03-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:19BUoogWX09srigQpH77SL"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4OB6TqP6EWZiv3al95V2Ou/clip_590254_650254.mp3",
+            "description": "In Den Haag gaat Sharwhan kijken bij de erewacht. Een ceremonie waarbij ambassadeurs geloofsbrieven aan de Koning overhandigen. Hij zet de eerste stappen in zijn zoektocht naar de gelijkenissen en verschillen tussen de militaire- en commerci\u00eble muziek.  Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In De Landmacht maakt Muziek zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?",
+            "html_description": "<p>In Den Haag gaat Sharwhan kijken bij de erewacht. Een ceremonie waarbij ambassadeurs geloofsbrieven aan de Koning overhandigen. Hij zet de eerste stappen in zijn zoektocht naar de gelijkenissen en verschillen tussen de militaire- en commerci\u00eble muziek.<br /> <br /> Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In De Landmacht maakt Muziek zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?</p>",
+            "duration_ms": 1627800,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5WBDidgF3iIUIHEHcPYk1X"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5WBDidgF3iIUIHEHcPYk1X",
+            "id": "5WBDidgF3iIUIHEHcPYk1X",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a94a323f05bc8e9c56bfa3454",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f94a323f05bc8e9c56bfa3454",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d94a323f05bc8e9c56bfa3454",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De Erewacht \ud83d\udc51",
+            "release_date": "2021-02-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5WBDidgF3iIUIHEHcPYk1X"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Eea8z7DPnJ6mJ0YHCJHO5/clip_586224_646224.mp3",
+            "description": "Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In De Landmacht maakt Muziek zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?",
+            "html_description": "<p>Wat gebeurt er als je een commerci\u00eble artiest samen zet met gedisciplineerde muzikanten van de Koninklijke Landmacht? In De Landmacht maakt Muziek zoekt muzikant/producer Sharwhan Soekhai naar overeenkomsten tussen de militaire muziek en de moderne muziekwereld. Hoe staat een strak georganiseerde ceremonie zoals Prinsjesdag tegenover de ongeorganiseerde creativiteit van de commerci\u00eble muziekindustrie?</p>",
+            "duration_ms": 1462992,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3anELqarQEAGcezTi97aKt"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3anELqarQEAGcezTi97aKt",
+            "id": "3anELqarQEAGcezTi97aKt",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7f2462b481963a92fa99f5f3",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f7f2462b481963a92fa99f5f3",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d7f2462b481963a92fa99f5f3",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Prinsjesdag",
+            "release_date": "2021-02-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3anELqarQEAGcezTi97aKt"
+          }
+        ]
+      }
+    },
+    "apple": "https://podcasts.apple.com/nl/podcast/de-landmacht-maakt-muziek/id1841221776",
+    "apple_data": {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1841221776,
+      "trackId": 1841221776,
+      "artistName": "Koninklijke Landmacht",
+      "collectionName": "De Landmacht Maakt Muziek",
+      "trackName": "De Landmacht Maakt Muziek",
+      "collectionCensoredName": "De Landmacht Maakt Muziek",
+      "trackCensoredName": "De Landmacht Maakt Muziek",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/de-landmacht-maakt-muziek/id1841221776?uo=4",
+      "feedUrl": "https://rss.springcast.app/yRYup9",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/de-landmacht-maakt-muziek/id1841221776?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/fa/1d/bafa1d73-53bf-080c-6426-a612fa2405f0/mza_3570048046747230294.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/fa/1d/bafa1d73-53bf-080c-6426-a612fa2405f0/mza_3570048046747230294.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/fa/1d/bafa1d73-53bf-080c-6426-a612fa2405f0/mza_3570048046747230294.jpg/100x100bb.jpg",
+      "collectionPrice": 0.0,
+      "trackPrice": 0.0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2021-04-01T12:11:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 7,
+      "trackTimeMillis": 2163,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Government",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/fa/1d/bafa1d73-53bf-080c-6426-a612fa2405f0/mza_3570048046747230294.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "genres": [
+        "Government",
+        "Podcasts"
+      ]
+    }
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/5SBWJjMsvvzUgYiQjsjCbh",
+    "spotify_data": {
+      "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VC",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "copyrights": [],
+      "description": "In De Landmacht Werkt Samen onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.",
+      "html_description": "<p>In De Landmacht Werkt Samen onderzoeken we de samenwerking tussen de Koninklijke Landmacht en het bedrijfsleven. Van Robotica en Autonome Systemen tot de uitwisseling van personeel in het onderhoud van onze voertuigen.</p>",
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/show/5SBWJjMsvvzUgYiQjsjCbh"
+      },
+      "href": "https://api.spotify.com/v1/shows/5SBWJjMsvvzUgYiQjsjCbh",
+      "id": "5SBWJjMsvvzUgYiQjsjCbh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a449a8825a75c4120ec9bad57",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f449a8825a75c4120ec9bad57",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d449a8825a75c4120ec9bad57",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "nl"
+      ],
+      "media_type": "audio",
+      "name": "De Landmacht Werkt Samen",
+      "publisher": "Koninklijke Landmacht",
+      "type": "show",
+      "uri": "spotify:show:5SBWJjMsvvzUgYiQjsjCbh",
+      "total_episodes": 6,
+      "episodes": {
+        "href": "https://api.spotify.com/v1/shows/5SBWJjMsvvzUgYiQjsjCbh/episodes?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 6,
+        "items": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "apple": "https://podcasts.apple.com/nl/podcast/de-landmacht-werkt-samen/id1841221862",
+    "apple_data": {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1841221862,
+      "trackId": 1841221862,
+      "artistName": "Koninklijke Landmacht",
+      "collectionName": "De Landmacht Werkt Samen",
+      "trackName": "De Landmacht Werkt Samen",
+      "collectionCensoredName": "De Landmacht Werkt Samen",
+      "trackCensoredName": "De Landmacht Werkt Samen",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/de-landmacht-werkt-samen/id1841221862?uo=4",
+      "feedUrl": "https://rss.springcast.app/yPGurz",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/de-landmacht-werkt-samen/id1841221862?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/c1/c1/d3c1c12f-8de2-2646-fe6a-ebb8ddf43b05/mza_11038273433591166735.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/c1/c1/d3c1c12f-8de2-2646-fe6a-ebb8ddf43b05/mza_11038273433591166735.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/c1/c1/d3c1c12f-8de2-2646-fe6a-ebb8ddf43b05/mza_11038273433591166735.jpg/100x100bb.jpg",
+      "collectionPrice": 0.0,
+      "trackPrice": 0.0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2020-01-30T13:32:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 6,
+      "trackTimeMillis": 2310,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Government",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/c1/c1/d3c1c12f-8de2-2646-fe6a-ebb8ddf43b05/mza_11038273433591166735.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "genres": [
+        "Government",
+        "Podcasts"
+      ]
+    }
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/3xCsqq60LTvAMJhJ2GZK9R",
+    "spotify_data": {
+      "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VC",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "copyrights": [],
+      "description": "De Koninklijke Landmacht moet Nederland en haar NAVO-bondgenoten verdedigen, desnoods met geweld. In een wereld waar de oorlogsdreiging toeneemt, moet de landmacht beter voorbereid zijn op een grootschalig conflict dat zich elk moment kan aandienen. De commandant van de landmacht hanteert hiervoor in zijn \u2018command message\u2019 een duidelijke kernboodschap; zijn militairen moeten \u2018willen, slimmer en kunnen vechten\u2019.In deze podcast voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierin geassisteerd door presentator Thomas Weemaes.",
+      "html_description": "<p>De Koninklijke Landmacht moet Nederland en haar NAVO-bondgenoten verdedigen, desnoods met geweld. In een wereld waar de oorlogsdreiging toeneemt, moet de landmacht beter voorbereid zijn op een grootschalig conflict dat zich elk moment kan aandienen. De commandant van de landmacht hanteert hiervoor in zijn \u2018command message\u2019 een duidelijke kernboodschap; zijn militairen moeten \u2018willen, slimmer en kunnen vechten\u2019.<br /><br />In deze podcast voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierin geassisteerd door presentator Thomas Weemaes.</p>",
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/show/3xCsqq60LTvAMJhJ2GZK9R"
+      },
+      "href": "https://api.spotify.com/v1/shows/3xCsqq60LTvAMJhJ2GZK9R",
+      "id": "3xCsqq60LTvAMJhJ2GZK9R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a54fe1fcf9290a69d2ff8b385",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f54fe1fcf9290a69d2ff8b385",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d54fe1fcf9290a69d2ff8b385",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "nl"
+      ],
+      "media_type": "audio",
+      "name": "De Commandant",
+      "publisher": "Koninklijke Landmacht",
+      "type": "show",
+      "uri": "spotify:show:3xCsqq60LTvAMJhJ2GZK9R",
+      "total_episodes": 4,
+      "episodes": {
+        "href": "https://api.spotify.com/v1/shows/3xCsqq60LTvAMJhJ2GZK9R/episodes?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 4,
+        "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4HezDwvSQuoiYcdvc11JYz/clip_339481_399481.mp3",
+            "description": "Terwijl op dit moment drones het slagveld lijken te domineren, zijn investeringen nog steeds in vuursteun bittere noodzaak. Commandant Landstrijdkrachten praat met\u00a0projectofficier \u2018Versterken Vuursteun\u2019\u00a0luitenant-kolonel Rody Spruijt van het Wapen der Artillerie over dewerking van het wapen, de kracht en de stand van zaken.",
+            "html_description": "<p>Terwijl op dit moment drones het slagveld lijken te domineren, zijn investeringen nog steeds in vuursteun bittere noodzaak. Commandant Landstrijdkrachten praat met\u00a0projectofficier \u2018Versterken Vuursteun\u2019\u00a0luitenant-kolonel Rody Spruijt van het Wapen der Artillerie over dewerking van het wapen, de kracht en de stand van zaken.</p>",
+            "duration_ms": 2743224,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1wk012VVrPueGLd1Qzyz2i"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1wk012VVrPueGLd1Qzyz2i",
+            "id": "1wk012VVrPueGLd1Qzyz2i",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a935215df22a9ec3543696f93",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f935215df22a9ec3543696f93",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d935215df22a9ec3543696f93",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Investeren in Vuursteun",
+            "release_date": "2025-06-12",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1wk012VVrPueGLd1Qzyz2i"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1odHxU7aTlgaK5DpW5PBaG/clip_283793_343793.mp3",
+            "description": "Met de huidige dreiging en spanning in de wereld moeten militairen bereid zijn om te vechten. De Koninklijke Landmacht beschermt onze vrijheid, desnoods met geweld. Dat vraagt om een bepaalde mindset bij militairen. Maar ook de mindset van burgermedewerkers bij de landmacht en die van de samenleving in Nederland is belangrijk. Maar wat is mindset eigenlijk? Die vraag staat centraal in deze aflevering van de podcastserie \u2018De Commandant\u2019. We gaan in gesprek met adjudant Paulo van Seters, die jarenlang hoofdinstructeur en opleider bij School Luchtmobiel was en een deskundige op het gebied van mindset. Hij vindt net als luitenant-generaal Jan Swillens dat mindset draait om je eigen persoonlijke overtuiging en instelling om het beste te doen wat nu nodig is. Over De Commandant In deze podcastserie voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierbij geassisteerd door presentator Thomas Weemaes.",
+            "html_description": "<p>Met de huidige dreiging en spanning in de wereld moeten militairen bereid zijn om te vechten. De Koninklijke Landmacht beschermt onze vrijheid, desnoods met geweld. Dat vraagt om een bepaalde mindset bij militairen. Maar ook de mindset van burgermedewerkers bij de landmacht en die van de samenleving in Nederland is belangrijk.</p> <p>Maar wat is mindset eigenlijk? Die vraag staat centraal in deze aflevering van de podcastserie \u2018De Commandant\u2019. We gaan in gesprek met adjudant Paulo van Seters, die jarenlang hoofdinstructeur en opleider bij School Luchtmobiel was en een deskundige op het gebied van mindset. Hij vindt net als luitenant-generaal Jan Swillens dat mindset draait om je eigen persoonlijke overtuiging en instelling om het beste te doen wat nu nodig is.</p> <p>Over De Commandant</p> <p>In deze podcastserie voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierbij geassisteerd door presentator Thomas Weemaes.</p>",
+            "duration_ms": 3415200,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/00wx6cWw7OmkZwCJCnAtCS"
+            },
+            "href": "https://api.spotify.com/v1/episodes/00wx6cWw7OmkZwCJCnAtCS",
+            "id": "00wx6cWw7OmkZwCJCnAtCS",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0e5305262cd119ef816cc28d",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0e5305262cd119ef816cc28d",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0e5305262cd119ef816cc28d",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Mindset",
+            "release_date": "2025-04-27",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:00wx6cWw7OmkZwCJCnAtCS"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4gGOq3ku1SluJTCkRQTEuv/clip_388351_448351.mp3",
+            "description": "De dreiging in de wereld is de laatste jaren flink toegenomen. Met de oorlog in Oekra\u00efne zijn grootschalige conflicten gevoelsmatig dichterbij dan ooit. Voor Nederland en haar NAVO-bondgenoten betekent dit een andere mindset waarbij het noodzakelijk is om oorlogsontwikkelingen nauwlettend in de gaten te houden.\u00a0 Deze aflevering van de podcastserie \u2018De Commandant\u2019 staat daarom in het teken van \u2019Lessons Learned\u2019. We gaan in gesprek met luitenant-kolonel Pieter Soldaat, hoofd van het bureau'Lessons Learned Oekra\u00efne' bij de Koninklijke Landmacht. Hij vertelt hoe de landmacht desituatie op afstand monitort, contact onderhoudt met militairen ter plaatse en voortdurend ervaringen verzamelt. Deze lessen worden vervolgens vertaald naar specifieke trainingen en structureel ge\u00efmplementeerd binnen de organisatie. Luitenant-generaal Jan Swillens vertelt hoe de landmacht dit doet.\u00a0 Podcast De Commandant In deze podcastserie voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierbij geassisteerd door presentator Thomas Weemaes.",
+            "html_description": "<p>De dreiging in de wereld is de laatste jaren flink toegenomen. Met de oorlog in Oekra\u00efne zijn grootschalige conflicten gevoelsmatig dichterbij dan ooit. Voor Nederland en haar NAVO-bondgenoten betekent dit een andere mindset waarbij het noodzakelijk is om oorlogsontwikkelingen nauwlettend in de gaten te houden.\u00a0</p> <p>Deze aflevering van de podcastserie \u2018De Commandant\u2019 staat daarom in het teken van \u2019Lessons Learned\u2019. We gaan in gesprek met luitenant-kolonel Pieter Soldaat, hoofd van het bureau&#39;Lessons Learned Oekra\u00efne&#39; bij de Koninklijke Landmacht. Hij vertelt hoe de landmacht desituatie op afstand monitort, contact onderhoudt met militairen ter plaatse en voortdurend ervaringen verzamelt. Deze lessen worden vervolgens vertaald naar specifieke trainingen en structureel ge\u00efmplementeerd binnen de organisatie. Luitenant-generaal Jan Swillens vertelt hoe de landmacht dit doet.\u00a0</p> <p>Podcast De Commandant</p> <p>In deze podcastserie voert luitenant-generaal Jan Swillens, als Commandant Landstrijdkrachten, met experts uit de organisatie inspirerende gesprekken over verschillende onderwerpen en licht hij zijn visie op de landmacht toe. Hij wordt hierbij geassisteerd door presentator Thomas Weemaes.</p>",
+            "duration_ms": 3452976,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0zLagArmR0PzEK00gHuyTf"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0zLagArmR0PzEK00gHuyTf",
+            "id": "0zLagArmR0PzEK00gHuyTf",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab0c83636866843014608fe3f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb0c83636866843014608fe3f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db0c83636866843014608fe3f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Lessons Learned Oekra\u00efne",
+            "release_date": "2025-03-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0zLagArmR0PzEK00gHuyTf"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6dzpExzjVOq3QOrNeT6KZQ/clip_443460_503460.mp3",
+            "description": "De oorlogsdreiging in de wereld is de laatste jaren flink toegenomen. Voor Nederland en haar NAVO-bondgenoten betekent dit een andere mindset. In plaats van voorbereiden op planbare missies, moeten onze militairen nu elk moment klaar zijn voor een grootschalig conflict. In deze aflevering bespreekt de Commandant Landstrijdkrachten, luitenant-generaal Jan Swillens, zijn visie op de landmacht. Dit doet hij samen met twee belangrijke onderofficieren binnen de landmacht: de landmachtadjudant en de adjudant Human Resources. Zij worden hierin geassisteerd door presentator Thomas Weemaes.",
+            "html_description": "<p>De oorlogsdreiging in de wereld is de laatste jaren flink toegenomen. Voor Nederland en haar NAVO-bondgenoten betekent dit een andere mindset. In plaats van voorbereiden op planbare missies, moeten onze militairen nu elk moment klaar zijn voor een grootschalig conflict.</p> <p>In deze aflevering bespreekt de Commandant Landstrijdkrachten, luitenant-generaal Jan Swillens, zijn visie op de landmacht. Dit doet hij samen met twee belangrijke onderofficieren binnen de landmacht: de landmachtadjudant en de adjudant Human Resources. Zij worden hierin geassisteerd door presentator Thomas Weemaes.</p>",
+            "duration_ms": 2578024,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/66BeB5T6HmAyWkzxrOCliJ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/66BeB5T6HmAyWkzxrOCliJ",
+            "id": "66BeB5T6HmAyWkzxrOCliJ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a318b9d83f51ad67eabaa48e5",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f318b9d83f51ad67eabaa48e5",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d318b9d83f51ad67eabaa48e5",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Command Message: Willen, Kunnen, Slimmer vechten",
+            "release_date": "2024-11-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:66BeB5T6HmAyWkzxrOCliJ"
+          }
+        ]
+      }
+    },
+    "apple": "https://podcasts.apple.com/nl/podcast/de-commandant/id1792616192",
+    "apple_data": {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1792616192,
+      "trackId": 1792616192,
+      "artistName": "Koninklijke Landmacht",
+      "collectionName": "De Commandant",
+      "trackName": "De Commandant",
+      "collectionCensoredName": "De Commandant",
+      "trackCensoredName": "De Commandant",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/de-commandant/id1792616192?uo=4",
+      "feedUrl": "https://rss.springcast.app/loVuod",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/de-commandant/id1792616192?uo=4",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/51/7e/55517e33-8279-2b36-4453-d21bac13181e/mza_9317021004697454934.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/51/7e/55517e33-8279-2b36-4453-d21bac13181e/mza_9317021004697454934.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/51/7e/55517e33-8279-2b36-4453-d21bac13181e/mza_9317021004697454934.jpg/100x100bb.jpg",
+      "collectionPrice": 0.0,
+      "trackPrice": 0.0,
+      "collectionHdPrice": 0,
+      "releaseDate": "2025-06-12T06:19:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "cleaned",
+      "trackCount": 4,
+      "trackTimeMillis": 2743,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Government",
+      "contentAdvisoryRating": "Clean",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/51/7e/55517e33-8279-2b36-4453-d21bac13181e/mza_9317021004697454934.jpg/600x600bb.jpg",
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "genres": [
+        "Government",
+        "Podcasts"
       ]
     }
   }
