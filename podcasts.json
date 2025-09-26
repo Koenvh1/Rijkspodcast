@@ -16471,6 +16471,46 @@
         "total": 25,
         "items": [
           {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2pC6pgpzLVtvsOMyIUeaav/clip_122789_182789.mp3",
+            "description": "Wil je weten of jouw dienstverlening en communicatie duidelijk is? Wil je die verbeteren? Daar is een effectieve manier voor: testen, testen en nog eens testen.   In deze podcast hoor je ervaringen uit de praktijk. En krijg je direct toepasbare tips!",
+            "html_description": "Wil je weten of jouw dienstverlening en communicatie duidelijk is? Wil je die verbeteren? Daar is een effectieve manier voor: testen, testen en nog eens testen. <br/>In deze podcast hoor je ervaringen uit de praktijk. En krijg je direct toepasbare tips!",
+            "duration_ms": 2839301,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0ynFgjOgv2qLOmvW55QZea"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0ynFgjOgv2qLOmvW55QZea",
+            "id": "0ynFgjOgv2qLOmvW55QZea",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3dad47cb66e6af341d903c68",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3dad47cb66e6af341d903c68",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3dad47cb66e6af341d903c68",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Testen, testen en nog eens testen (Direct Duidelijk Tour)",
+            "release_date": "2025-09-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0ynFgjOgv2qLOmvW55QZea"
+          },
+          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7yZZMZQjsIB61ejZuNZ8Q9/clip_489732_549732.mp3",
             "description": "In this podcast series 'User Needs First Across Borders' we talk to international speakers who were guests at the User Centered conference in April 2025. This episode features:  Marianne van den Anker, ombudsman Rotterdam-Rijmond region.  Alexander Smit, researcher / lecturer University of Groningen.  Priyanka D'Souza, senior user researcher, department for business and trade, UK government.  The focus of this episode is: About Inclusion, a real point of view from real people",
             "html_description": "In this podcast series &#39;User Needs First Across Borders&#39; we talk to international speakers who were guests at the User Centered conference in April 2025. This episode features:<br/>Marianne van den Anker, ombudsman Rotterdam-Rijmond region.<br/>Alexander Smit, researcher / lecturer University of Groningen.<br/>Priyanka D&#39;Souza, senior user researcher, department for business and trade, UK government.<br/>The focus of this episode is: About Inclusion, a real point of view from real people",
@@ -17429,46 +17469,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:4MODSQpXaAPZgMorteKpas"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1r2dPhKlr6XCLdqTFQIcrV/clip_390462_450462.mp3",
-            "description": "Direct duidelijk communiceren gaat over veel meer dan duidelijke brieven schrijven. Dat blijkt wel uit het grote aantal onderwerpen waarover we het tijdens de Direct Duidelijk Tour hebben gehad. Een inleiding door Renata Verloop, presentator van de eerste 50 afleveringen van de Direct Duidelijk Tour.",
-            "html_description": "Direct duidelijk communiceren gaat over veel meer dan duidelijke brieven schrijven. Dat blijkt wel uit het grote aantal onderwerpen waarover we het tijdens de Direct Duidelijk Tour hebben gehad. Een inleiding door Renata Verloop, presentator van de eerste 50 afleveringen van de Direct Duidelijk Tour.",
-            "duration_ms": 455616,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/64Ud7fudxd46FJTvRazTnl"
-            },
-            "href": "https://api.spotify.com/v1/episodes/64Ud7fudxd46FJTvRazTnl",
-            "id": "64Ud7fudxd46FJTvRazTnl",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "In\u00adleiding: Dit kun je leren van direct duidelijk communi\u00adceren",
-            "release_date": "2023-08-14",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:64Ud7fudxd46FJTvRazTnl"
           }
         ]
       }
@@ -51075,46 +51075,6 @@
             "uri": "spotify:episode:6sIGlCNdbVcc5WMV0aZYDE"
           },
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Gd6My23sLLcNVqaLa97u4/clip_0_60000.mp3",
-            "description": "Nu de hardste lockdowns achter de rug zijn, krabbelt ons sociale leven weer langzaam op. De \u00e9\u00e9n\u00a0zal meer\u00a0moeite hebben dan de ander met\u00a0de terugkeer naar het\u00a0oude normaal.\u00a0De\u00a0coronacrisis heeft bij sommigen een flinke aanslag gehad om hun mentale gezondheid. Hoe kunnen we ruimte bieden aan verschillende tempo's van herstel?\u00a0Hoe helpen we elkaar er weer bovenop?We bespreken het met Louise Gunning,\u00a0emeritus hoogleraar, president-commissaris van de Schiphol Group en voorzitter van de KHMW, en met Karlijn Hermans, lid van de Nationale\u00a0Denktank,\u00a0die als PhD\u2019er onderzoek deed naar de rol van sociale factoren in de ontwikkeling van psychische problematiek bij jongeren.Zie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info. Hosted on Acast. See acast.com/privacy for more information.See omnystudio.com/listener for privacy information.",
-            "html_description": "<p>Nu de hardste lockdowns achter de rug zijn, krabbelt ons sociale leven weer langzaam op. De \u00e9\u00e9n\u00a0zal meer\u00a0moeite hebben dan de ander met\u00a0de terugkeer naar het\u00a0oude normaal.\u00a0De\u00a0coronacrisis heeft bij sommigen een flinke aanslag gehad om hun mentale gezondheid. Hoe kunnen we ruimte bieden aan verschillende tempo&#39;s van herstel?\u00a0Hoe helpen we elkaar er weer bovenop?</p><p>We bespreken het met Louise Gunning,\u00a0emeritus hoogleraar, president-commissaris van de Schiphol Group en voorzitter van de KHMW, en met Karlijn Hermans, lid van de Nationale\u00a0Denktank,\u00a0die als PhD\u2019er onderzoek deed naar de rol van sociale factoren in de ontwikkeling van psychische problematiek bij jongeren.</p><br /><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p><p>See <a href=\"https://omnystudio.com/listener\" rel=\"nofollow\">omnystudio.com/listener</a> for privacy information.</p>",
-            "duration_ms": 1894112,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/3grBuDdagDFOZX361Zq5iH"
-            },
-            "href": "https://api.spotify.com/v1/episodes/3grBuDdagDFOZX361Zq5iH",
-            "id": "3grBuDdagDFOZX361Zq5iH",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aecf6b6c45bf8ffbc31b6f944",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fecf6b6c45bf8ffbc31b6f944",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68decf6b6c45bf8ffbc31b6f944",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Sociale en Mentale Veerkracht",
-            "release_date": "2021-09-15",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:3grBuDdagDFOZX361Zq5iH"
-          },
-          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/455961ppmAL3fc7Sw5UEVe/clip_0_60000.mp3",
             "description": "Niet iedereen is op dezelfde manier en even hard geraakt tijdens de coronacrisis. Er zijn nieuwe verschillen ontstaan, en oude ongelijkheden zijn verdiept. Zoals bij elke crisis is gebleken welke broosheden in de samenleving onder de druk van uitzonderlijke omstandigheden bezwijken. Wat moeten we nu doen om juist die zwakke plekken te verstevigen? Vandaag bespreken we\u00a0het\u00a0zzp-schap\u00a0in en na de coronacrisis. We doen dat met Mark Roscam Abbing,\u00a0programma\u00a0Directeur-Generaal Samenleving en COVID-19\u00a0bij de Rijksoverheid, en theatermaker en\u00a0zzp\u2019er Sara de Monchy.\u00a0Wat leert de coronacrisis ons over de huidige zzp constructie?\u00a0En bij wie ligt de bal: de overheid of de ondernemer?Zie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info. Hosted on Acast. See acast.com/privacy for more information.See omnystudio.com/listener for privacy information.",
             "html_description": "<p>Niet iedereen is op dezelfde manier en even hard geraakt tijdens de coronacrisis. Er zijn nieuwe verschillen ontstaan, en oude ongelijkheden zijn verdiept. Zoals bij elke crisis is gebleken welke broosheden in de samenleving onder de druk van uitzonderlijke omstandigheden bezwijken. Wat moeten we nu doen om juist die zwakke plekken te verstevigen? </p><p>Vandaag bespreken we\u00a0het\u00a0zzp-schap\u00a0in en na de coronacrisis. We doen dat met Mark Roscam Abbing,\u00a0programma\u00a0Directeur-Generaal Samenleving en COVID-19\u00a0bij de Rijksoverheid, en theatermaker en\u00a0zzp\u2019er Sara de Monchy.\u00a0Wat leert de coronacrisis ons over de huidige zzp constructie?\u00a0En bij wie ligt de bal: de overheid of de ondernemer?</p><br /><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p><p>See <a href=\"https://omnystudio.com/listener\" rel=\"nofollow\">omnystudio.com/listener</a> for privacy information.</p>",
@@ -51153,6 +51113,46 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:2g1deW6N0uCd1RNxxAa2x6"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Gd6My23sLLcNVqaLa97u4/clip_0_60000.mp3",
+            "description": "Nu de hardste lockdowns achter de rug zijn, krabbelt ons sociale leven weer langzaam op. De \u00e9\u00e9n\u00a0zal meer\u00a0moeite hebben dan de ander met\u00a0de terugkeer naar het\u00a0oude normaal.\u00a0De\u00a0coronacrisis heeft bij sommigen een flinke aanslag gehad om hun mentale gezondheid. Hoe kunnen we ruimte bieden aan verschillende tempo's van herstel?\u00a0Hoe helpen we elkaar er weer bovenop?We bespreken het met Louise Gunning,\u00a0emeritus hoogleraar, president-commissaris van de Schiphol Group en voorzitter van de KHMW, en met Karlijn Hermans, lid van de Nationale\u00a0Denktank,\u00a0die als PhD\u2019er onderzoek deed naar de rol van sociale factoren in de ontwikkeling van psychische problematiek bij jongeren.Zie het privacybeleid op https://art19.com/privacy en de privacyverklaring van Californi\u00eb op https://art19.com/privacy#do-not-sell-my-info. Hosted on Acast. See acast.com/privacy for more information.See omnystudio.com/listener for privacy information.",
+            "html_description": "<p>Nu de hardste lockdowns achter de rug zijn, krabbelt ons sociale leven weer langzaam op. De \u00e9\u00e9n\u00a0zal meer\u00a0moeite hebben dan de ander met\u00a0de terugkeer naar het\u00a0oude normaal.\u00a0De\u00a0coronacrisis heeft bij sommigen een flinke aanslag gehad om hun mentale gezondheid. Hoe kunnen we ruimte bieden aan verschillende tempo&#39;s van herstel?\u00a0Hoe helpen we elkaar er weer bovenop?</p><p>We bespreken het met Louise Gunning,\u00a0emeritus hoogleraar, president-commissaris van de Schiphol Group en voorzitter van de KHMW, en met Karlijn Hermans, lid van de Nationale\u00a0Denktank,\u00a0die als PhD\u2019er onderzoek deed naar de rol van sociale factoren in de ontwikkeling van psychische problematiek bij jongeren.</p><br /><p>Zie het privacybeleid op <a href=\"https://art19.com/privacy\" rel=\"nofollow\">https://art19.com/privacy</a> en de privacyverklaring van Californi\u00eb op <a href=\"https://art19.com/privacy#do-not-sell-my-info\" rel=\"nofollow\">https://art19.com/privacy#do-not-sell-my-info</a>.</p><p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"nofollow\">acast.com/privacy</a> for more information.</p><p>See <a href=\"https://omnystudio.com/listener\" rel=\"nofollow\">omnystudio.com/listener</a> for privacy information.</p>",
+            "duration_ms": 1894112,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3grBuDdagDFOZX361Zq5iH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3grBuDdagDFOZX361Zq5iH",
+            "id": "3grBuDdagDFOZX361Zq5iH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aecf6b6c45bf8ffbc31b6f944",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fecf6b6c45bf8ffbc31b6f944",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68decf6b6c45bf8ffbc31b6f944",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Sociale en Mentale Veerkracht",
+            "release_date": "2021-09-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3grBuDdagDFOZX361Zq5iH"
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/38YrSAe2htHFVbZ8HJvcJ6/clip_0_60000.mp3",
