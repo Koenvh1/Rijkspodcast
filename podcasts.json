@@ -51120,15 +51120,16 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:1Tn18wGbJHz3LClUvnFApP",
-      "total_episodes": 31,
+      "total_episodes": 32,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Tn18wGbJHz3LClUvnFApP/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 31,
+        "total": 32,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6wxPZ5tHKi3DJCGb0PsCTI/clip_490790_550790.mp3",
             "description": "Jongeren die opgroeien in kwetsbare omstandigheden lopen het risico al op de basisschool in aanraking te komen met criminaliteit. Naarmate ze ouder worden, kunnen sommigen verder afglijden en uiteindelijk in aanraking met de georganiseerde misdaad. Het Educatief Programma Jongeren (EPJO) is speciaal ontwikkeld om jongeren bewust te maken van de keuzes die ze maken en de gevolgen die deze keuzes kunnen hebben.\u00a0\u00a0\u00a0In deze aflevering vertellen Gerard Zwarts, programmaleider EPJO bij de politie, en ervaringsdeskundige Jessy de Pina over het programma. Wat houdt het EPJO precies in? Wat is het doel ervan? En welke rol speelt een ervaringsdeskundige binnen het programma? Daarnaast draait elke les om bewustwording volgens Gerard en Jessy. Jessy maakt jongeren duidelijk dat \u00e9\u00e9n impulsieve keuze, gemaakt in slechts 0,3 seconden, levenslange gevolgen kunnen hebben.\u00a0\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie. Alain Meijer zit vanuit het Landelijk Programma Ondermijning aan tafel. Samen met Robhin Engelen, student sociologie en lid van team BOOST, stellen ze Gerard en Jessy vragen over hun ervaringen met jongeren en het EPJO.\u00a0\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f \u2060\u2060#28 - Ilse van de Groep en Laura van Duin over Puberteit en Criminaliteit\u00a0\ud83c\udf99\ufe0f \u2060\u2060\u2060\u2060#10 - Maryam El Rahmouni over Preventie met Gezag\u00a0\ud83c\udf99\ufe0f \u2060\u2060\u2060\u2060#7 - Reinier de Groen over Jonge Aanwas en Wijkprojecten\u00a0",
@@ -130607,15 +130608,16 @@
       "publisher": "WODC",
       "type": "show",
       "uri": "spotify:show:7jtE5bnuZHD46nMJUAmdyG",
-      "total_episodes": 13,
+      "total_episodes": 14,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7jtE5bnuZHD46nMJUAmdyG/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 13,
+        "total": 14,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6O4Cz5wp4dX7UVgjNfqtRS/clip_216497_276497.mp3",
             "description": "Van 9 tot en met 16 september 2025 is het de Week van de Rechtsstaat. Tijdens deze week wordt er aandacht besteed aan de Nederlandse rechtsstaat en hoe bijzonder het eigenlijk is dat wij deze mogen hebben. Verschillende instituten openen (letterlijk) hun deuren en laten zo zien hoe zij een bijdrage aan de rechtsstaat leveren. Ook het WODC doet mee.In deze korte special spreekt host Carlissa Remmerswaal met Ivo Giesen\u2014directeur van het WODC en hoogleraar privaatrecht aan de Universiteit Utrecht\u2014over de rol die het WODC speelt in het in stand houden en verbeteren van de Nederlandse rechtsstaat.Meer weten over de Week van de Rechtsstaat? Ga naar deze \u2060website\u2060.Voor onderzoek over de rechtsstaat en aanverwante thema's, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
