@@ -4126,8 +4126,8 @@
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2IUZBfZkPniDjDmKTlSSee/clip_300505_360505.mp3",
-            "description": "De helft van de totale formatie van kerndepartementen bestaat uit overheadfuncties. Bij gemeenten en waterschappen is dat een kwart. En bij uitvoeringsorganisaties ongeveer een vijfde. Maar wat zeggen die cijfers? Is overhead per definitie overbodig? Of juist randvoorwaardelijk om tot goede dienstverlening te komen?\u00a0 Op 11 september vond in Utrecht de Dag van de Duiding plaats. Deze dag werd georganiseerd door Venster voor Bedrijfsvoering in samenwerking met de Rijksbrede benchmarkgroep, de RBB-groep. Publieke organisaties (uitvoeringsorganisaties, provincies, waterschappen en gemeenten) leerden op deze dag van elkaars bedrijfsvoering door inzichten en kennis met elkaar te delen.  Martijn en Otto blikken terug op deze dag aan de hand van de inzichten die drie directeuren: Mari\u00ebl Middendorp (secretaris-algemeen directeur bij het Hoogheemraadschap van Rijnland), Zeger Baelde (directeur Bedrijfsvoering bij RDW) en Connie Eli (directeur Dienstverlening bij de gemeente Amsterdam). Samen met organisatieadviseur Mark Huijben bespreken ze de overhead bij de overheid.\u00a0 \u00a0",
-            "html_description": "<p>De helft van de totale formatie van kerndepartementen bestaat uit overheadfuncties. Bij gemeenten en waterschappen is dat een kwart. En bij uitvoeringsorganisaties ongeveer een vijfde. Maar wat zeggen die cijfers? Is overhead per definitie overbodig? Of juist randvoorwaardelijk om tot goede dienstverlening te komen?\u00a0</p><br/><p>Op 11 september vond in Utrecht de Dag van de Duiding plaats. Deze dag werd georganiseerd door Venster voor Bedrijfsvoering in samenwerking met de Rijksbrede benchmarkgroep, de RBB-groep. Publieke organisaties (uitvoeringsorganisaties, provincies, waterschappen en gemeenten) leerden op deze dag van elkaars bedrijfsvoering door inzichten en kennis met elkaar te delen. </p><br/><p>Martijn en Otto blikken terug op deze dag aan de hand van de inzichten die drie directeuren: Mari\u00ebl Middendorp (secretaris-algemeen directeur bij het Hoogheemraadschap van Rijnland), Zeger Baelde (directeur Bedrijfsvoering bij RDW) en Connie Eli (directeur Dienstverlening bij de gemeente Amsterdam). Samen met organisatieadviseur Mark Huijben bespreken ze de overhead bij de overheid.\u00a0</p><br/><p>\u00a0</p>",
+            "description": "Publieke dienstverlening kan niet zonder bedrijfsvoering en lijnmanagement. Maar deze overhead moet wel in balans zijn met het primaire proces. Uit de Benchmark Venster voor Bedrijfsvoering blijkt dat de helft van de totale formatie van kerndepartementen uit overheadfuncties bestaat. Bij gemeenten en waterschappen is dat een kwart. En bij uitvoeringsorganisaties ongeveer een vijfde. Maar wat zeggen die cijfers? Hoe gebruik je zo\u2019n benchmark om te verantwoorden, te sturen en te leren? Op 11 september vond in Utrecht de Dag van de Duiding plaats. Deze dag werd georganiseerd door Venster voor Bedrijfsvoering in samenwerking met de Rijksbrede benchmarkgroep. We namen de bedrijfsvoering van uitvoeringsorganisaties, provincies, waterschappen en gemeenten onder de loep. Waarom is de externe inhuur gestegen van 10% naar ruim 15%? Hoe staat het met het datagestuurd werken? Hoer kunnen we de (digitale) weerbaarheid van overheden vergroten? Martijn en Otto blikken terug op deze dag aan de hand van de inzichten van Mari\u00ebl Middendorp (secretaris-algemeen directeur bij het Hoogheemraadschap van Rijnland), Zeger Baelde (directeur Bedrijfsvoering bij RDW) en Connie Eli (directeur Dienstverlening bij de gemeente Amsterdam). Samen met organisatieadviseur Mark Huijben werpen ze een kritische blik op de overhead van de overheid.\u00a0",
+            "html_description": "<p>Publieke dienstverlening kan niet zonder bedrijfsvoering en lijnmanagement. Maar deze overhead moet wel in balans zijn met het primaire proces. Uit de Benchmark Venster voor Bedrijfsvoering blijkt dat de helft van de totale formatie van kerndepartementen uit overheadfuncties bestaat. Bij gemeenten en waterschappen is dat een kwart. En bij uitvoeringsorganisaties ongeveer een vijfde. Maar wat zeggen die cijfers? Hoe gebruik je zo\u2019n benchmark om te verantwoorden, te sturen en te leren?</p><br/><p>Op 11 september vond in Utrecht de Dag van de Duiding plaats. Deze dag werd georganiseerd door Venster voor Bedrijfsvoering in samenwerking met de Rijksbrede benchmarkgroep. We namen de bedrijfsvoering van uitvoeringsorganisaties, provincies, waterschappen en gemeenten onder de loep. Waarom is de externe inhuur gestegen van 10% naar ruim 15%? Hoe staat het met het datagestuurd werken? Hoer kunnen we de (digitale) weerbaarheid van overheden vergroten?</p><br/><p>Martijn en Otto blikken terug op deze dag aan de hand van de inzichten van Mari\u00ebl Middendorp (secretaris-algemeen directeur bij het Hoogheemraadschap van Rijnland), Zeger Baelde (directeur Bedrijfsvoering bij RDW) en Connie Eli (directeur Dienstverlening bij de gemeente Amsterdam). Samen met organisatieadviseur Mark Huijben werpen ze een kritische blik op de overhead van de overheid.\u00a0</p>",
             "duration_ms": 2455608,
             "explicit": false,
             "external_urls": {
@@ -16511,6 +16511,46 @@
         "total": 25,
         "items": [
           {
+            "audio_preview_url": null,
+            "description": "In dit webinar kun je luisteren naar een gesprek van Renata Verloop met Carel Jansen en Haas de Groot. Het gaat over de zin en onzin van B1 teksten. Is B1 wel de 'heilige graal'?",
+            "html_description": "In dit webinar kun je luisteren naar een gesprek van Renata Verloop met Carel Jansen en Haas de Groot. Het gaat over de zin en onzin van B1 teksten. Is B1 wel de &#39;heilige graal&#39;?",
+            "duration_ms": 2972499,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1Q27NYLQJrMEbaoiByPbKi"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1Q27NYLQJrMEbaoiByPbKi",
+            "id": "1Q27NYLQJrMEbaoiByPbKi",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3dad47cb66e6af341d903c68",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3dad47cb66e6af341d903c68",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3dad47cb66e6af341d903c68",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De zin en onzin van B1 (Direct Duidelijk Tour)",
+            "release_date": "2025-09-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1Q27NYLQJrMEbaoiByPbKi"
+          },
+          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2pC6pgpzLVtvsOMyIUeaav/clip_122789_182789.mp3",
             "description": "Wil je weten of jouw dienstverlening en communicatie duidelijk is? Wil je die verbeteren? Daar is een effectieve manier voor: testen, testen en nog eens testen.   In deze podcast hoor je ervaringen uit de praktijk. En krijg je direct toepasbare tips!",
             "html_description": "Wil je weten of jouw dienstverlening en communicatie duidelijk is? Wil je die verbeteren? Daar is een effectieve manier voor: testen, testen en nog eens testen. <br/>In deze podcast hoor je ervaringen uit de praktijk. En krijg je direct toepasbare tips!",
@@ -17469,46 +17509,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:0vjZlZV73QLvNLiIBWNIJ4"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1LdQMH5JumwuHuIdvilrWg/clip_427136_487136.mp3",
-            "description": "De juiste taal en toon helpen je om duidelijk te zijn. Toch is er ook een andere, misschien wel belangrijkere voorwaarde voor duidelijke communicatie. En die is dat je \u00e9cht naar de ander luistert. Want bij alles wat je communiceert, is de ontvanger een mens met eigen vragen, problemen en behoeften.",
-            "html_description": "De juiste taal en toon helpen je om duidelijk te zijn. Toch is er ook een andere, misschien wel belangrijkere voorwaarde voor duidelijke communicatie. En die is dat je \u00e9cht naar de ander luistert. Want bij alles wat je communiceert, is de ontvanger een mens met eigen vragen, problemen en behoeften.",
-            "duration_ms": 919656,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/4MODSQpXaAPZgMorteKpas"
-            },
-            "href": "https://api.spotify.com/v1/episodes/4MODSQpXaAPZgMorteKpas",
-            "id": "4MODSQpXaAPZgMorteKpas",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Voor duidelijke communi\u00adcatie is \u00e9cht luisteren nodig",
-            "release_date": "2023-08-21",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:4MODSQpXaAPZgMorteKpas"
           }
         ]
       }
