@@ -4115,15 +4115,55 @@
       "publisher": "De Publieke Ruimte",
       "type": "show",
       "uri": "spotify:show:5VWtfJI3bOU0fDfO33YgeD",
-      "total_episodes": 59,
+      "total_episodes": 60,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 59,
+        "total": 60,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2IUZBfZkPniDjDmKTlSSee/clip_300505_360505.mp3",
+            "description": "De helft van de totale formatie van kerndepartementen bestaat uit overheadfuncties. Bij gemeenten en waterschappen is dat een kwart. En bij uitvoeringsorganisaties ongeveer een vijfde. Maar wat zeggen die cijfers? Is overhead per definitie overbodig? Of juist randvoorwaardelijk om tot goede dienstverlening te komen?\u00a0 Op 11 september vond in Utrecht de Dag van de Duiding plaats. Deze dag werd georganiseerd door Venster voor Bedrijfsvoering in samenwerking met de Rijksbrede benchmarkgroep, de RBB-groep. Publieke organisaties (uitvoeringsorganisaties, provincies, waterschappen en gemeenten) leerden op deze dag van elkaars bedrijfsvoering door inzichten en kennis met elkaar te delen.  Martijn en Otto blikken terug op deze dag aan de hand van de inzichten die drie directeuren: Mari\u00ebl Middendorp (secretaris-algemeen directeur bij het Hoogheemraadschap van Rijnland), Zeger Baelde (directeur Bedrijfsvoering bij RDW) en Connie Eli (directeur Dienstverlening bij de gemeente Amsterdam). Samen met organisatieadviseur Mark Huijben bespreken ze de overhead bij de overheid.\u00a0 \u00a0",
+            "html_description": "<p>De helft van de totale formatie van kerndepartementen bestaat uit overheadfuncties. Bij gemeenten en waterschappen is dat een kwart. En bij uitvoeringsorganisaties ongeveer een vijfde. Maar wat zeggen die cijfers? Is overhead per definitie overbodig? Of juist randvoorwaardelijk om tot goede dienstverlening te komen?\u00a0</p><br/><p>Op 11 september vond in Utrecht de Dag van de Duiding plaats. Deze dag werd georganiseerd door Venster voor Bedrijfsvoering in samenwerking met de Rijksbrede benchmarkgroep, de RBB-groep. Publieke organisaties (uitvoeringsorganisaties, provincies, waterschappen en gemeenten) leerden op deze dag van elkaars bedrijfsvoering door inzichten en kennis met elkaar te delen. </p><br/><p>Martijn en Otto blikken terug op deze dag aan de hand van de inzichten die drie directeuren: Mari\u00ebl Middendorp (secretaris-algemeen directeur bij het Hoogheemraadschap van Rijnland), Zeger Baelde (directeur Bedrijfsvoering bij RDW) en Connie Eli (directeur Dienstverlening bij de gemeente Amsterdam). Samen met organisatieadviseur Mark Huijben bespreken ze de overhead bij de overheid.\u00a0</p><br/><p>\u00a0</p>",
+            "duration_ms": 2455608,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5pPcLMh9p1fW6QsR73Fm13"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5pPcLMh9p1fW6QsR73Fm13",
+            "id": "5pPcLMh9p1fW6QsR73Fm13",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Overhead bij de Overheid",
+            "release_date": "2025-09-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5pPcLMh9p1fW6QsR73Fm13"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2FSVX4ROJ50ZcAIitBIaLN/clip_611191_671191.mp3",
             "description": "De Staat van de Uitvoering heeft een aantal toekomstimpressies gepubliceerd die een inkijkje geven in hoe de publieke dienstverlening er in 2035 uit zou kunnen zien. In deze aflevering roept stuurgroepvoorzitter Abdeluheb Choho (directeur-generaal RVO) op om daadwerkelijk over te gaan tot breedvoerige vereenvoudiging van beleid om de publieke dienstverlening te verbeteren. Martijn en Otto spreken over proactieve dienstverlening met Hans Ouwehand (voorzitter Raad van Bestuur CAK). Over dienstverlening aan ondernemers rond verduurzaming met Rodrique Engering (voorzitter Raad van Bestuur KvK). Jasper van Dijk (econoom en onderzoeksleider bij het Instituut voor Publieke Economie) reikt idee\u00ebn aan voor de vereenvoudiging van inkomensondersteuning. En Loes Mulder (secretaris-generaal OCW) geeft haar visie op vernieuwing van beleidsvorming. Ook de politiek in Nederland is op zoek naar een betere balans tussen beleid en uitvoering. Daarom vertellen vier kandidaat-Tweede Kamerleden over hun toekomstvisie op de publieke dienstverlening: Inge van Dijk (CDA), Nathalie van Berkel (D66), Rens de Boer (VOLT) en Luc Stultiens (GroenLinks-PvdA).\u00a0",
@@ -6087,32 +6127,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5vVVq1p79QX5E8bZlP8PT7/clip_473609_533609.mp3",
             "description": "Deze week spreken Otto en Martijn met Mich\u00e8le Blom, directeur-generaal van Rijkswaterstaat, over wegen, bruggen en keringen, de alomtegenwoordigheid van Rijkswaterstaat in de vormgeving van Nederland, over bruggenbouwers tussen beleid en uitvoering, het belang van het kennen van beide rollen en over tegeltjeswijsheden als: \"Uitvoeren zonder kennis is levensgevaarlijk.\"   Ook in deze aflevering: Maike Klip vertelt waarom ambtenaren die minder contact hebben met de burger juist meer begripvol moeten zijn dan ambtenaren die wel direct contact hebben met de burger. Programmamanager May-Britt Jansen vertelt over het project OpenStad bij de gemeente Amsterdam. Dit open-source platform kan gebruikt worden voor het vormgeven van participatietrajecten. Hoe zet May-Britt dit in en welk probleem wordt opgelost? Kortom: een nieuwe aflevering bomvol idee\u00ebn, inzichten en oplossingen.",
-            "html_description": "<p>Deze week spreken Otto en Martijn met Mich\u00e8le Blom, directeur-generaal van Rijkswaterstaat, over wegen, bruggen en keringen, de alomtegenwoordigheid van Rijkswaterstaat in de vormgeving van Nederland, over bruggenbouwers tussen beleid en uitvoering, het belang van het kennen van beide rollen en over tegeltjeswijsheden als: &#34;Uitvoeren zonder kennis is levensgevaarlijk.&#34; <br /><br/><br /><br/>Ook in deze aflevering: Maike Klip vertelt waarom ambtenaren die minder contact hebben met de burger juist meer begripvol moeten zijn dan ambtenaren die wel direct contact hebben met de burger. Programmamanager May-Britt Jansen vertelt over het project OpenStad bij de gemeente Amsterdam. Dit open-source platform kan gebruikt worden voor het vormgeven van participatietrajecten. Hoe zet May-Britt dit in en welk probleem wordt opgelost? Kortom: een nieuwe aflevering bomvol idee\u00ebn, inzichten en oplossingen.</p>",
             "duration_ms": 2320431,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/4lzacoa6qGfqf36b3IjSIs"
             },
             "href": "https://api.spotify.com/v1/episodes/4lzacoa6qGfqf36b3IjSIs",
+            "html_description": "<p>Deze week spreken Otto en Martijn met Mich\u00e8le Blom, directeur-generaal van Rijkswaterstaat, over wegen, bruggen en keringen, de alomtegenwoordigheid van Rijkswaterstaat in de vormgeving van Nederland, over bruggenbouwers tussen beleid en uitvoering, het belang van het kennen van beide rollen en over tegeltjeswijsheden als: &#34;Uitvoeren zonder kennis is levensgevaarlijk.&#34; <br /><br/><br /><br/>Ook in deze aflevering: Maike Klip vertelt waarom ambtenaren die minder contact hebben met de burger juist meer begripvol moeten zijn dan ambtenaren die wel direct contact hebben met de burger. Programmamanager May-Britt Jansen vertelt over het project OpenStad bij de gemeente Amsterdam. Dit open-source platform kan gebruikt worden voor het vormgeven van participatietrajecten. Hoe zet May-Britt dit in en welk probleem wordt opgelost? Kortom: een nieuwe aflevering bomvol idee\u00ebn, inzichten en oplossingen.</p>",
             "id": "4lzacoa6qGfqf36b3IjSIs",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
