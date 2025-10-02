@@ -117086,15 +117086,55 @@
       "publisher": "Bureau Scherpte Diepte",
       "type": "show",
       "uri": "spotify:show:2UY9LIrltGlysx6YGUN8Ig",
-      "total_episodes": 9,
+      "total_episodes": 10,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2UY9LIrltGlysx6YGUN8Ig/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 9,
+        "total": 10,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/04KUnPsBrvhyvvyPuxrFVb/clip_513930_573930.mp3",
+            "description": "Hoe geef je klimaatadaptatie \u00e9cht handen en voeten in Nederland \u2013 en durven we daarbij te kiezen waar we verstevigen en waar we radicaal moeten ombouwen? Dat is kern van het laatste rapport van de Wetenschappelijke Klimaatraad. Maarten Bouwhuis praat in deze aflevering van Delta & Duiten met Wieke Pot, lid van de WKR, en met Deltares-directeur Bart van den Hurk. Het WKR-rapport pleit voor lef en lange termijn: grote projecten moeten standaard een klimaatadaptatietoets doorstaan die een eeuw vooruitkijkt, klimaatrisico\u2019s van woningen moeten openbaar worden en overheid, burgers en bedrijven moeten samen de rekening dragen.Bart van den Hurk is naast directeur van Deltares ook co-voorzitter van Werkgroep 2 van het IPCC. Hij werkt aan een nieuw wereldwijd rapport dat in 2028 verschijnt, en gaat over klimaatadaptatie. Hij vindt dat klimaatadaptatie verankerd moet worden in de wet, zoals dat ook met het Deltaprogramma is gebeurd.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>Hoe geef je klimaatadaptatie \u00e9cht handen en voeten in Nederland \u2013 en durven we daarbij te kiezen waar we verstevigen en waar we radicaal moeten ombouwen? Dat is kern van het laatste rapport van de Wetenschappelijke Klimaatraad. Maarten Bouwhuis praat in deze aflevering van Delta &amp; Duiten met Wieke Pot, lid van de WKR, en met Deltares-directeur Bart van den Hurk. Het WKR-rapport pleit voor lef en lange termijn: grote projecten moeten standaard een klimaatadaptatietoets doorstaan die een eeuw vooruitkijkt, klimaatrisico\u2019s van woningen moeten openbaar worden en overheid, burgers en bedrijven moeten samen de rekening dragen.</p><p><br />Bart van den Hurk is naast directeur van Deltares ook co-voorzitter van Werkgroep 2 van het IPCC. Hij werkt aan een nieuw wereldwijd rapport dat in 2028 verschijnt, en gaat over klimaatadaptatie. Hij vindt dat klimaatadaptatie verankerd moet worden in de wet, zoals dat ook met het Deltaprogramma is gebeurd.</p><p>Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.</p><p><br /></p>",
+            "duration_ms": 2525680,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2SPtrHqShqw2vHIyNm24nV"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2SPtrHqShqw2vHIyNm24nV",
+            "id": "2SPtrHqShqw2vHIyNm24nV",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0d77f11529812317e2d70196",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0d77f11529812317e2d70196",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0d77f11529812317e2d70196",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Wieke Pot, lid van de Wetenschappelijke Klimaatraad en Bart van den Hurk, co-voorzitter bij het IPCC.",
+            "release_date": "2025-10-01",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2SPtrHqShqw2vHIyNm24nV"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0RttoSXf5dSBWEAxbV8e05/clip_514792_574792.mp3",
             "description": "De businesscase voor klimaatadaptatie is glashelder: niets doen kost ons veel meer dan nu investeren. Dat zegt Sandra Phlippen, Praktijkhoogleraar duurzaam bankieren en hoofdeconoom ABN Amro (tijdelijk met sabbatical). Ze legt uit waarom klimaat en economie geen tegenstelling zijn, maar juist onlosmakelijk met elkaar verbonden.In deze aflevering van Delta & Duiten gaat\u00a0 Maarten Bouwhuis in gesprek met Sandra Phlippen over de politieke en economische keuzes die nodig zijn om Nederland toekomstbestendig te maken. Van de kosten van overstromingen tot de sociale ongelijkheid in kwetsbare wijken: investeren in klimaatadaptatie betekent investeren in de economie van morgen.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
