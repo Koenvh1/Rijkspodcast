@@ -89355,7 +89355,46 @@
         "previous": null,
         "total": 41,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7KqQiw7oRXZ8T7lPglc1DP/clip_152556_212556.mp3",
+            "description": "In deze aflevering duiken Jeroen en Marijn in Fase 2 van de Novum Innovatiemethode: Begrijpen. De fase waarin je \u00e9cht leert wat het probleem is en voor wie je het oplost.\ud83c\udfaf In deze aflevering:Hoe definieer je je doelgroep en gebruiker?Wanneer moet je interviews doen en wanneer observaties?Het stellen van de juiste vragen zonder je eigen aannames mee te nemenOmgaan met latente problemen (problemen die gebruikers niet bewust ervaren)Pivot, Kill of Persevere: wat als het antwoord 'nee' is?Het verschil tussen geduld hebben en tijd verspillenHoe weet je wanneer je genoeg weet om door te gaan naar fase 3?\ud83d\udca1 Praktische inzichten:\u2713 Vuistregel: minimaal 5 interviews, liever 10\u2713 Vraag naar concrete voorbeelden uit het verleden, niet naar hypothetische situaties\u2713 Verzadiging is je meetpunt: als je steeds dezelfde antwoorden hoort, kun je door\u2713 Begin klein: drie vragen bij de koffieautomaat kan al genoeg zijn\ud83d\udcda Aanbevolen literatuur: The Mom Test (ook in het Nederlands beschikbaar)Vragen of feedback? Mail naar innovatie@svb.nlDe Innovatieambtenaar is een podcast van Novum (SVB) over innovatie in de publieke sector.[00:01:00] Intro en waarom deze fase essentieel is[00:02:00] Wie is je gebruiker? De doelgroep defini\u00ebren[00:03:00] Latente problemen en observatietechnieken[00:04:00] Praktijkvoorbeeld: Paradox kennissysteem[00:06:00] Hoe voorkom je projectie van eigen aannames?[00:09:00] Technieken voor het stellen van goede vragen[00:11:00] Wat als het antwoord 'nee' is? Pivot, Kill, Persevere[00:14:00] Geduld vs. tijdverspilling[00:20:00] Mensen meedoen zonder angst[00:25:00] Welke inzichten komen uit deze fase?[00:27:00] Wanneer weet je dat je genoeg hebt begrepen?[00:29:00] Grootste fouten in de begrijpfase[00:33:00] Tips voor beginners[00:35:00] Samenvatting: twee dingen om te onthouden",
+            "html_description": "<p>In deze aflevering duiken Jeroen en Marijn in Fase 2 van de Novum Innovatiemethode: Begrijpen. De fase waarin je \u00e9cht leert wat het probleem is en voor wie je het oplost.</p><p><br /></p><p>&#x1f3af; In deze aflevering:</p><ul><li>Hoe definieer je je doelgroep en gebruiker?</li><li>Wanneer moet je interviews doen en wanneer observaties?</li><li>Het stellen van de juiste vragen zonder je eigen aannames mee te nemen</li><li>Omgaan met latente problemen (problemen die gebruikers niet bewust ervaren)</li><li>Pivot, Kill of Persevere: wat als het antwoord &#39;nee&#39; is?</li><li>Het verschil tussen geduld hebben en tijd verspillen</li><li>Hoe weet je wanneer je genoeg weet om door te gaan naar fase 3?</li></ul><p><br /></p><p>&#x1f4a1; Praktische inzichten:</p><p>\u2713 Vuistregel: minimaal 5 interviews, liever 10</p><p>\u2713 Vraag naar concrete voorbeelden uit het verleden, niet naar hypothetische situaties</p><p>\u2713 Verzadiging is je meetpunt: als je steeds dezelfde antwoorden hoort, kun je door</p><p>\u2713 Begin klein: drie vragen bij de koffieautomaat kan al genoeg zijn</p><p><br /></p><p>&#x1f4da; Aanbevolen literatuur: The Mom Test (ook in het Nederlands beschikbaar)</p><p><br /></p><p>Vragen of feedback? Mail naar innovatie&#64;svb.nl</p><p><br /></p><p>De Innovatieambtenaar is een podcast van Novum (SVB) over innovatie in de publieke sector.</p><p><br /></p><p>[00:01:00] Intro en waarom deze fase essentieel is</p><p>[00:02:00] Wie is je gebruiker? De doelgroep defini\u00ebren</p><p>[00:03:00] Latente problemen en observatietechnieken</p><p>[00:04:00] Praktijkvoorbeeld: Paradox kennissysteem</p><p>[00:06:00] Hoe voorkom je projectie van eigen aannames?</p><p>[00:09:00] Technieken voor het stellen van goede vragen</p><p>[00:11:00] Wat als het antwoord &#39;nee&#39; is? Pivot, Kill, Persevere</p><p>[00:14:00] Geduld vs. tijdverspilling</p><p>[00:20:00] Mensen meedoen zonder angst</p><p>[00:25:00] Welke inzichten komen uit deze fase?</p><p>[00:27:00] Wanneer weet je dat je genoeg hebt begrepen?</p><p>[00:29:00] Grootste fouten in de begrijpfase</p><p>[00:33:00] Tips voor beginners</p><p>[00:35:00] Samenvatting: twee dingen om te onthouden</p>",
+            "duration_ms": 4386505,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3GTRRwl8hblucly1ItOZV2"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3GTRRwl8hblucly1ItOZV2",
+            "id": "3GTRRwl8hblucly1ItOZV2",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a92fd448b1c15576be233f610",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f92fd448b1c15576be233f610",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d92fd448b1c15576be233f610",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "NIM Fase 2: Begrijpen - Het probleem en de gebruiker \u00e9cht leren kennen",
+            "release_date": "2025-10-03",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3GTRRwl8hblucly1ItOZV2"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6F6PbBblpAmR9je2PeY5Bv/clip_624728_684728.mp3",
             "description": "In deze aflevering van De Innovatieambtenaar behandelen Jeroen en Marijn de eerste fase van de Novum Innovatiemethode (NIM): Opstarten. Waarom is deze fase zo cruciaal voor het succes van innovatieprojecten?Je leert over:Waarom je altijd moet beginnen met het probleem, niet de oplossingHoe je rode vlaggen herkent die wijzen op ongeschikte projectenWat een goede opdrachtgever onderscheidt in de opstartfaseHet belang van multidisciplinaire teamsamenstellingWaarom projectnamen belangrijk zijn (en welke je moet vermijden)De grootste valkuilen in de opstartfase en hoe je ze voorkomtPraktische tips voor het werken met canvassen vs. traditionele vergaderingenMet praktijkvoorbeelden zoals \"eenzaamheid oplossen met robots\" en concrete tips voor ambtenaren die hun eerste innovatieproject willen starten.Volgende aflevering: Fase 2 - Begrijpen.",
