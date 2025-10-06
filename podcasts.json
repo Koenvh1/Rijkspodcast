@@ -130856,7 +130856,46 @@
         "previous": null,
         "total": 14,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0otsdJlHZ0LuQMpTQK23OF/clip_594965_654965.mp3",
+            "description": "Huwelijksdwang, achterlating en vrouwelijke genitale verminking: ieder jaar zijn er in Nederland honderden tot duizenden (voornamelijk) meisjes en vrouwen slachtoffer van. Maar is hier wel iets tegen te doen? Nederland lijkt namelijk maar moeilijk grip te krijgen op het fenomeen.In deze aflevering spreekt host Carlissa Remmerswaal met Annemarie Middelburg van Right to Rise over haar WODC-onderzoek naar dit fenomeen en wat wij kunnen leren van het Verenigd Koninkrijk om gender-gerelateerd geweld te voorkomen. Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060 of bekijk de factsheet.Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
+            "html_description": "<p>Huwelijksdwang, achterlating en vrouwelijke genitale verminking: ieder jaar zijn er in Nederland honderden tot duizenden (voornamelijk) meisjes en vrouwen slachtoffer van. Maar is hier wel iets tegen te doen? Nederland lijkt namelijk maar moeilijk grip te krijgen op het fenomeen.<br />In deze aflevering spreekt host Carlissa Remmerswaal met Annemarie Middelburg van <a href=\"https://www.right-to-rise.com/\" rel=\"nofollow\">Right to Rise</a> over haar WODC-onderzoek naar dit fenomeen en wat wij kunnen leren van het Verenigd Koninkrijk om gender-gerelateerd geweld te voorkomen. <br />Meer weten over dit onderzoek? Lees hier het <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3461/rapport-over-grenzen.pdf?sequence&#61;1&amp;isAllowed&#61;y\" rel=\"nofollow\">\u2060volledige rapport</a>\u2060 of bekijk de <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3461/factsheet-over-grenzen.pdf?sequence&#61;2&amp;isAllowed&#61;y\" rel=\"nofollow\">factsheet</a>.<br />Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">www.wodc.nl</a><br />Opname en montage gedaan in eigen beheer WODC.</p>",
+            "duration_ms": 1262022,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6cvFw9HxNaGGv6cKRmh3iV"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6cvFw9HxNaGGv6cKRmh3iV",
+            "id": "6cvFw9HxNaGGv6cKRmh3iV",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a65fe90b9db4a16be0701e263",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f65fe90b9db4a16be0701e263",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d65fe90b9db4a16be0701e263",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Kunnen we vrouwelijke genitale verminking voorkomen?",
+            "release_date": "2025-10-06",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6cvFw9HxNaGGv6cKRmh3iV"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6O4Cz5wp4dX7UVgjNfqtRS/clip_216497_276497.mp3",
             "description": "Van 9 tot en met 16 september 2025 is het de Week van de Rechtsstaat. Tijdens deze week wordt er aandacht besteed aan de Nederlandse rechtsstaat en hoe bijzonder het eigenlijk is dat wij deze mogen hebben. Verschillende instituten openen (letterlijk) hun deuren en laten zo zien hoe zij een bijdrage aan de rechtsstaat leveren. Ook het WODC doet mee.In deze korte special spreekt host Carlissa Remmerswaal met Ivo Giesen\u2014directeur van het WODC en hoogleraar privaatrecht aan de Universiteit Utrecht\u2014over de rol die het WODC speelt in het in stand houden en verbeteren van de Nederlandse rechtsstaat.Meer weten over de Week van de Rechtsstaat? Ga naar deze \u2060website\u2060.Voor onderzoek over de rechtsstaat en aanverwante thema's, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
