@@ -123623,15 +123623,55 @@
       "publisher": "AMLC Podcast",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 96,
+      "total_episodes": 97,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 96,
+        "total": 97,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6z8neE2DB0rbauDhx2DShw/clip_147269_207269.mp3",
+            "description": "In deze aflevering van de AMLC Podcast duiken we in de wereld van afvalstromen en milieucriminaliteit. Samen met experts van de Inspectie Leefomgeving en Transport (ILT-IOD) bespreken we hoe afval een lucratief verdienmodel kan zijn voor criminelen, welke rol contant geld en internationale handel spelen, en waarom de pakkans relatief laag is.We onderzoeken de link met witwassen, de signalen die opsporingsdiensten gebruiken, en hoe samenwerking tussen toezichthouders, OM, politie en financi\u00eble instellingen cruciaal is. Ook komen voorbeelden van recente zaken en modus operandi aan bod, evenals tips voor professionals in compliance en toezicht die signalen willen herkennen.Enkele bronnen:https://www.amlc.nl/wp-content/uploads/2024/11/Sectordocument-plastic.pdfhttps://www.ilent.nl/actueel/nieuws/2025/05/21/afval-is-een-crimineel-businessmodel",
+            "html_description": "<p>In deze aflevering van de AMLC Podcast duiken we in de wereld van afvalstromen en milieucriminaliteit. Samen met experts van de Inspectie Leefomgeving en Transport (ILT-IOD) bespreken we hoe afval een lucratief verdienmodel kan zijn voor criminelen, welke rol contant geld en internationale handel spelen, en waarom de pakkans relatief laag is.</p><p>We onderzoeken de link met witwassen, de signalen die opsporingsdiensten gebruiken, en hoe samenwerking tussen toezichthouders, OM, politie en financi\u00eble instellingen cruciaal is. Ook komen voorbeelden van recente zaken en modus operandi aan bod, evenals tips voor professionals in compliance en toezicht die signalen willen herkennen.</p><p>Enkele bronnen:</p><p><a href=\"https://www.amlc.nl/wp-content/uploads/2024/11/Sectordocument-plastic.pdf\" rel=\"nofollow\">https://www.amlc.nl/wp-content/uploads/2024/11/Sectordocument-plastic.pdf</a></p><p><br /></p><p><a href=\"https://www.ilent.nl/actueel/nieuws/2025/05/21/afval-is-een-crimineel-businessmodel\" rel=\"nofollow\">https://www.ilent.nl/actueel/nieuws/2025/05/21/afval-is-een-crimineel-businessmodel</a></p>",
+            "duration_ms": 1998056,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3H053tKfjbE8epjFfJWZoc"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3H053tKfjbE8epjFfJWZoc",
+            "id": "3H053tKfjbE8epjFfJWZoc",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "97. Van plastic tot zwart geld - hoe criminelen afvalstromen misbruiken",
+            "release_date": "2025-10-07",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3H053tKfjbE8epjFfJWZoc"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7p6KGXebutXIszUkzptLdt/clip_147554_207554.mp3",
             "description": "In deze aflevering van de AMLC Podcast bespreken we de rol van poortwachters in de strijd tegen witwassen en terrorismefinanciering. We gaan in op de uitdagingen rond geheimhouding, gegevensdeling en de verplichting om ongebruikelijke transacties te melden of zelfs dienstverlening te weigeren. Ook komt het zelfreinigend vermogen van sectoren als de advocatuur en makelaardij aan bod, en hoe samenwerking met opsporingsinstanties steeds belangrijker wordt.Wat je leert in deze aflevering:\u2705 Hoe poortwachters invulling geven aan hun wettelijke taak\u2705 Wanneer geheimhouding doorbroken mag of moet worden\u2705 Hoe gegevensdeling kan bijdragen aan effectievere signalering\u2705 Waarom communicatie over witwassen cruciaal is voor draagvlak",
@@ -125595,28 +125635,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4v3FHU9PENKTZUI2uuCHNY/clip_548397_608397.mp3",
             "description": "Anne Strijker vertelt in deze podcast over de Threat Radar die hij ontwikkelde voor het Europol Financial Intelligence Public Private Partnership (EFIPPP). Hij vertelt over de gebruikte methodologie voor de Threat Radar. Tevens vertelt hij over de resultaten van de Threat Radar: de belangrijkste basisdelicten en de geografische regio's en sectoren die de hoogste risico's met zich brengen op witwassen. Deelnemers aan EFIPPP krijgen beschikking over het rapport. Ook in Nederland participeren de grootste banken aan EFIPPP.",
-            "html_description": "Anne Strijker vertelt in deze podcast over de Threat Radar die hij ontwikkelde voor het Europol Financial Intelligence Public Private Partnership (EFIPPP).<br/>Hij vertelt over de gebruikte methodologie voor de Threat Radar. Tevens vertelt hij over de resultaten van de Threat Radar: de belangrijkste basisdelicten en de geografische regio&#39;s en sectoren die de hoogste risico&#39;s met zich brengen op witwassen.<br/>Deelnemers aan EFIPPP krijgen beschikking over het rapport. Ook in Nederland participeren de grootste banken aan EFIPPP.",
             "duration_ms": 1102251,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2ZEoCXFVYiOUw6VP8Ykx5K"
             },
             "href": "https://api.spotify.com/v1/episodes/2ZEoCXFVYiOUw6VP8Ykx5K",
+            "html_description": "Anne Strijker vertelt in deze podcast over de Threat Radar die hij ontwikkelde voor het Europol Financial Intelligence Public Private Partnership (EFIPPP).<br/>Hij vertelt over de gebruikte methodologie voor de Threat Radar. Tevens vertelt hij over de resultaten van de Threat Radar: de belangrijkste basisdelicten en de geografische regio&#39;s en sectoren die de hoogste risico&#39;s met zich brengen op witwassen.<br/>Deelnemers aan EFIPPP krijgen beschikking over het rapport. Ook in Nederland participeren de grootste banken aan EFIPPP.",
             "id": "2ZEoCXFVYiOUw6VP8Ykx5K",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
