@@ -133630,15 +133630,55 @@
       "publisher": "Interviews met oud-bewindspersonen en oud-topambtenaren",
       "type": "show",
       "uri": "spotify:show:6vM4ioqldTXWWxD6xW5zSg",
-      "total_episodes": 43,
+      "total_episodes": 44,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6vM4ioqldTXWWxD6xW5zSg/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 43,
+        "total": 44,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4oxzJwHxE0hbTQcQ7PEoGx/clip_304820_364820.mp3",
+            "description": "Vanaf een opleiding aan de KMA tot aan Commandant der Strijdkrachten: dat was de weg die Tom Middendorp binnen Defensie aflegde. Het gaat er voor hem om je eigen talenten \u00e9n jezelf te verbinden aan de organisatie: \u201cJe moet er met huid en haar inzitten.\u201d Volgens Middendorp is het de kunst om je kracht te ontwikkelen en een koers te vinden. Onder zijn leiding eindigde een lange periode van bezuinigingen op Defensie. Daarnaast kwamen nieuwe dreigingen vanuit Rusland en klimaatverandering op de radar: \u201cJe moet ook naar de problemen van morgen kijken.\u201d Nadat hij samen met minister Hennis-Plasschaert opstapte wegens een mortierincident in Mali, richt hij zich als \u2018klimaatgeneraal\u2019 op veiligheidsvraagstukken door klimaatverandering. Luister naar Tom Middendorp in gesprek met Paul \u2019t Hart en Erik-Jan van Dorp.",
+            "html_description": "<p>Vanaf een opleiding aan de KMA tot aan Commandant der Strijdkrachten: dat was de weg die Tom Middendorp binnen Defensie aflegde. Het gaat er voor hem om je eigen talenten \u00e9n jezelf te verbinden aan de organisatie: \u201cJe moet er met huid en haar inzitten.\u201d Volgens Middendorp is het de kunst om je kracht te ontwikkelen en een koers te vinden. Onder zijn leiding eindigde een lange periode van bezuinigingen op Defensie. Daarnaast kwamen nieuwe dreigingen vanuit Rusland en klimaatverandering op de radar: \u201cJe moet ook naar de problemen van morgen kijken.\u201d Nadat hij samen met minister Hennis-Plasschaert opstapte wegens een mortierincident in Mali, richt hij zich als \u2018klimaatgeneraal\u2019 op veiligheidsvraagstukken door klimaatverandering. Luister naar Tom Middendorp in gesprek met Paul \u2019t Hart en Erik-Jan van Dorp.</p>",
+            "duration_ms": 5599872,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2nvSZcijexQk1fPooXatyy"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2nvSZcijexQk1fPooXatyy",
+            "id": "2nvSZcijexQk1fPooXatyy",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac3c5930dbf9a301551cfb9c7",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc3c5930dbf9a301551cfb9c7",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc3c5930dbf9a301551cfb9c7",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "\u201cJe moet ook naar de problemen van morgen kijken\u201d",
+            "release_date": "2025-10-10",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2nvSZcijexQk1fPooXatyy"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7G5u86aIuABoJegfE7L4p7/clip_260661_320661.mp3",
             "description": "Beschrijving: Henk van Essen begon zijn loopbaan in uniform op straat en klom op tot de hoogste politiefunctie van Nederland: van mei 2020 tot en met februari 2024 was hij korpschef van de Nationale Politie. Contact met de werkvloer bleef belangrijk: \u201cDan krijg je voeding en feeling, en weet je: d\u00e1\u00e1r gaat het om.\u201d Dienstbaar zijn aan de samenleving is volgens Van Essen de kern van het politiewerk, ook in een tijd waarin de rol van de politie verandert en digitalisering een steeds grotere rol speelt. \u201cDat vind ik onze maatschappelijke opdracht.\u201d Daarbij gaat het om kennen en gekend worden, om benaderbaar en aanspreekbaar te zijn. \u201cHet is het DNA van de politie.\u201d Luister naar Henk van Essen in gesprek met Paul \u2019t Hart en Sandra van Thiel.",
