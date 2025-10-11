@@ -23095,15 +23095,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 24,
+      "total_episodes": 25,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 24,
+        "total": 25,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3sDm3n7MmPi4Lr5HubZZCH/clip_479942_539942.mp3",
+            "description": "In deze nieuwe aflevering van Zorgklank zoeken Pauline Terwijn, Ockje Tellegen en Aiko de Raaf naar het antwoord op een urgente vraag: hoe maak je \u00e9cht werk van transformatie in de zorg?  Pauline deelt haar ervaringen na acht jaar bouwen in de regio\u00a0\u2013 met \u00e9n zonder transformatiegelden. Ockje staat op het omslagpunt van plannen maken naar doen. Wat vraagt dat van haar rol als voorzitter? Wat doe je als er geen geld is, of als je plannen worden afgewezen? En hoe betrek je de inwoners nu, voordat de grote veranderingen zijn doorgevoerd?  We praten over geld, ja, maar vooral over houding, lef en slim samenwerken. Over de noodzaak om de regio te horen, mensen te ontmoeten en beweging van onderaf te faciliteren. Want transformatie komt niet uit een beleidsstuk, maar uit mensen die het samen anders gaan doen.  Een aflevering over kracht \u00e9n kwetsbaarheid, over keuzes maken, kansen pakken, en eerlijk zijn over wat nog schuurt.",
+            "html_description": "<p>In deze nieuwe aflevering van Zorgklank zoeken Pauline Terwijn, Ockje Tellegen en Aiko de Raaf naar het antwoord op een urgente vraag: hoe maak je \u00e9cht werk van transformatie in de zorg?<br /> <br /> Pauline deelt haar ervaringen na acht jaar bouwen in de regio\u00a0\u2013 met \u00e9n zonder transformatiegelden. Ockje staat op het omslagpunt van plannen maken naar doen. Wat vraagt dat van haar rol als voorzitter? Wat doe je als er geen geld is, of als je plannen worden afgewezen? En hoe betrek je de inwoners nu, voordat de grote veranderingen zijn doorgevoerd?<br /> <br /> We praten over geld, ja, maar vooral over houding, lef en slim samenwerken. Over de noodzaak om de regio te horen, mensen te ontmoeten en beweging van onderaf te faciliteren. Want transformatie komt niet uit een beleidsstuk, maar uit mensen die het samen anders gaan doen.<br /> <br /> Een aflevering over kracht \u00e9n kwetsbaarheid, over keuzes maken, kansen pakken, en eerlijk zijn over wat nog schuurt.</p>",
+            "duration_ms": 2411415,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/498dTMkjDFhnOiWc8VFKIY"
+            },
+            "href": "https://api.spotify.com/v1/episodes/498dTMkjDFhnOiWc8VFKIY",
+            "id": "498dTMkjDFhnOiWc8VFKIY",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac936e9b8ad0720e14a9d31f2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fc936e9b8ad0720e14a9d31f2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dc936e9b8ad0720e14a9d31f2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E1: Van denken naar doen, hoe leiders het verschil maken; Ockje Tellegen en Pauline Terwijn",
+            "release_date": "2025-10-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:498dTMkjDFhnOiWc8VFKIY"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7oB8S9WVOJZUlGiVcHafj9/clip_376344_436344.mp3",
             "description": "Welkom bij voorlopig de laatste aflevering van Zorgklank, we zijn er vanaf september weer. \u00a0Vandaag zijn we in Weert, bij Punt Welzijn, waar we in gesprek gaan met mensen die weten hoe het is om niet alleen in de praktijk te werken, maar ook de leiding te nemen in een complexe wereld van mentale gezondheid en welzijn. Linda Creemers, projectleider Mentale Gezondheidsnetwerken en huisartsenorganisatie Meditta en Niels Peulen, manager bij Punt Welzijn, delen hun ervaringen en inzichten. \u00a0 Hoe houd je verbinding als de druk op welzijn en zorg toeneemt? Hoe werk je samen als systemen en financiering niet altijd meewerken? En waar ligt de kracht van de samenleving als het gaat om mentale gezondheid? \u00a0 Samen kijken we naar concrete oplossingen: gezamenlijke trainingen, korte lijnen, direct contact tussen huisarts en welzijnswerk. Maar ook naar de hobbels en hoe je ze toch kunt nemen. \u00a0 Laat je inspireren door hun visie, hun nuchterheid en hun geloof in, dat je vooral moet gaan doen. Want juist als het ingewikkeld wordt, ontstaat de kans om verschil te maken. \u00a0 Luister mee naar hoe Weert investeert in hoop, verbinding en gezamenlijke ambitie. \u00a0",
