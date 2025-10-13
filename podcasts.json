@@ -8880,15 +8880,95 @@
       "publisher": "CIP - Centrum Informatiebeveiliging en Privacybescherming",
       "type": "show",
       "uri": "spotify:show:6Eb7YjZnONrbelDXDEe1iQ",
-      "total_episodes": 120,
+      "total_episodes": 122,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 120,
+        "total": 122,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4xovx3EKhaKADE45CgxuM0/clip_412067_472067.mp3",
+            "description": "Welke uitdagingen kom je tegen als je buiten de Europese Economische Ruimte data wilt delen of laten inzien? En hoe kun je daar als privacy professional mee omgaan?\u00a0\u200bIn deze aflevering spreken we hierover met Marlon Domingus, Functionaris Gegevensbescherming van Erasmus Universiteit Rotterdam. \u00a0",
+            "html_description": "<p>Welke uitdagingen kom je tegen als je buiten de Europese Economische Ruimte data wilt delen of laten inzien? En hoe kun je daar als privacy professional mee omgaan?\u00a0</p><p>\u200bIn deze aflevering spreken we hierover met Marlon Domingus, Functionaris Gegevensbescherming van Erasmus Universiteit Rotterdam. \u00a0</p>",
+            "duration_ms": 836545,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3UCuwPQT1u9NUGUC4zEykH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3UCuwPQT1u9NUGUC4zEykH",
+            "id": "3UCuwPQT1u9NUGUC4zEykH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Privacy, de fundamenten: Internationale doorgifte van persoonsgegevens",
+            "release_date": "2025-10-13",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3UCuwPQT1u9NUGUC4zEykH"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/536vx1buuqJycJWOOXHtRj/clip_266036_326036.mp3",
+            "description": "\u200b\u200bWat is een verwerker en een verwerkingsverantwoordelijke en wanneer ben je dat als organisatie? Zijn er praktische handvatten om vast te stellen wanneer je je kwalificeert als een van deze? En wat is een verwerkersovereenkomst en waar moet je rekening mee houden bij het opstellen daarvan?\u00a0\u200bIn deze aflevering wordt hierop ingegaan met Lars de Bie, Senior Inspecteur Systeemtoezicht bij Autoriteit Persoonsgegevens. \u00a0\u200bDeze serie is mede mogelijk gemaakt door CIO Rijk.\u200b",
+            "html_description": "<p>\u200b\u200bWat is een verwerker en een verwerkingsverantwoordelijke en wanneer ben je dat als organisatie? Zijn er praktische handvatten om vast te stellen wanneer je je kwalificeert als een van deze? En wat is een verwerkersovereenkomst en waar moet je rekening mee houden bij het opstellen daarvan?\u00a0</p><p>\u200bIn deze aflevering wordt hierop ingegaan met Lars de Bie, Senior Inspecteur Systeemtoezicht bij Autoriteit Persoonsgegevens. \u00a0</p><p>\u200bDeze serie is mede mogelijk gemaakt door CIO Rijk.\u200b</p>",
+            "duration_ms": 672313,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4xzCk5IcGbBdW8V6DC93SM"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4xzCk5IcGbBdW8V6DC93SM",
+            "id": "4xzCk5IcGbBdW8V6DC93SM",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Privacy, de fundamenten: Verwerkers en Verwerkingsverantwoordelijken",
+            "release_date": "2025-10-13",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4xzCk5IcGbBdW8V6DC93SM"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0O8LdOevBXGhenTVpwuiln/clip_183468_243468.mp3",
             "description": "\u200bWat is precies een datalek? Wat moet je doen als je een datalek ontdekt? Hoe maak je een goede inschatting van het risico? En wat is de rol van de privacy professional en de Autoriteit Persoonsgegevens? In deze aflevering wordt hierop ingegaan door Barend Bon, Senior Inspecteur Datalekken bij de Autoriteit Persoonsgegevens.Deze serie is mede mogelijk gemaakt door CIO Rijk.",
@@ -10812,32 +10892,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37oDyfwptHyJnM4kbARa4K/clip_317209_377209.mp3",
             "description": "Het bestrijden van ziekten staat soms op gespannen voet met verantwoorde gegevensbescherming. Welk belang krijgt dan de overhand? Die worsteling herkent Chris van Balen, privacy-jurist bij het ministerie van VWS, eerder werkzaam bij de Autoriteit Persoonsgegevens en voormalig advocaat. De druk op de juiste afweging neemt verder toe door grote publieke belangstelling. Hij stelt: \u2018er is teveel krampachtigheid in privacy-land\u2019. Zijn advies: \u2018focus op wat wel mag, niet op wat niet mag!\u2019\u00a0",
-            "html_description": "<p>Het bestrijden van ziekten staat soms op gespannen voet met verantwoorde gegevensbescherming. Welk belang krijgt dan de overhand? Die worsteling herkent Chris van Balen, privacy-jurist bij het ministerie van VWS, eerder werkzaam bij de Autoriteit Persoonsgegevens en voormalig advocaat. De druk op de juiste afweging neemt verder toe door grote publieke belangstelling. Hij stelt: \u2018er is teveel krampachtigheid in privacy-land\u2019. Zijn advies: \u2018focus op wat wel mag, niet op wat niet mag!\u2019\u00a0</p>",
             "duration_ms": 1318922,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/0fpErzxWVv1hIWsO5zJhdH"
             },
             "href": "https://api.spotify.com/v1/episodes/0fpErzxWVv1hIWsO5zJhdH",
+            "html_description": "<p>Het bestrijden van ziekten staat soms op gespannen voet met verantwoorde gegevensbescherming. Welk belang krijgt dan de overhand? Die worsteling herkent Chris van Balen, privacy-jurist bij het ministerie van VWS, eerder werkzaam bij de Autoriteit Persoonsgegevens en voormalig advocaat. De druk op de juiste afweging neemt verder toe door grote publieke belangstelling. Hij stelt: \u2018er is teveel krampachtigheid in privacy-land\u2019. Zijn advies: \u2018focus op wat wel mag, niet op wat niet mag!\u2019\u00a0</p>",
             "id": "0fpErzxWVv1hIWsO5zJhdH",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a25d0bda6057bde5a3b56a798",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a25d0bda6057bde5a3b56a798",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f25d0bda6057bde5a3b56a798",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f25d0bda6057bde5a3b56a798",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d25d0bda6057bde5a3b56a798",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d25d0bda6057bde5a3b56a798",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -10852,32 +10932,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3igMccxIy1ciHB68IgGteD/clip_236659_296659.mp3",
             "description": "In de derde duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de Ethical Hacker wordt de volgende vraag beantwoordt: Help ik ben gehackt?! Hoe nu verder?",
-            "html_description": "<p>In de derde duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de Ethical Hacker wordt de volgende vraag beantwoordt: Help ik ben gehackt?! Hoe nu verder?</p>",
             "duration_ms": 1014282,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/0LPPswJs1lRsm4OZ1pehKV"
             },
             "href": "https://api.spotify.com/v1/episodes/0LPPswJs1lRsm4OZ1pehKV",
+            "html_description": "<p>In de derde duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de Ethical Hacker wordt de volgende vraag beantwoordt: Help ik ben gehackt?! Hoe nu verder?</p>",
             "id": "0LPPswJs1lRsm4OZ1pehKV",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a7a26c1a27b8614fce065fd28",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7a26c1a27b8614fce065fd28",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f7a26c1a27b8614fce065fd28",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f7a26c1a27b8614fce065fd28",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d7a26c1a27b8614fce065fd28",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d7a26c1a27b8614fce065fd28",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
