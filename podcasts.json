@@ -4126,8 +4126,8 @@
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3SrpjIVkQrPcyXPcC0p3kZ/clip_555987_615987.mp3",
-            "description": "Martijn en Otto duiken opnieuw de wereld van AI in. In deze aflevering zijn ze te gast bij WerkSaam Westfriesland, een uitvoerder van de participatiewet in Noord Holland die mensen begeleidt naar de arbeidsmarkt. Sinds enige tijd loopt bij WerkSaam een pilot met een transcriptietool. Coaches hoeven hierdoor geen gespreksverslagen meer te maken, maar alleen een automatisch gegenereerd rapport beoordelen. Met als voordeel: tijdwinst en meer aandacht voor de klant tijdens de gesprekken die ze voeren. Martijn en Otto spreken met de directeur van WerkSaam Anja Witte, projectleider Stefan Hes en integratiecoach Laura Wurth. Daarnaast schuift ook Matthijs van Kampen van de VNG aan. Hij vertelt meer over het programma Uitvoeringskracht en Arbeidsmarktkrapte, waarvan de pilot een onderdeel is.\u00a0",
-            "html_description": "<p>Martijn en Otto duiken opnieuw de wereld van AI in. In deze aflevering zijn ze te gast bij WerkSaam Westfriesland, een uitvoerder van de participatiewet in Noord Holland die mensen begeleidt naar de arbeidsmarkt. Sinds enige tijd loopt bij WerkSaam een pilot met een transcriptietool. Coaches hoeven hierdoor geen gespreksverslagen meer te maken, maar alleen een automatisch gegenereerd rapport beoordelen. Met als voordeel: tijdwinst en meer aandacht voor de klant tijdens de gesprekken die ze voeren. Martijn en Otto spreken met de directeur van WerkSaam Anja Witte, projectleider Stefan Hes en integratiecoach Laura Wurth. Daarnaast schuift ook Matthijs van Kampen van de VNG aan. Hij vertelt meer over het programma Uitvoeringskracht en Arbeidsmarktkrapte, waarvan de pilot een onderdeel is.\u00a0</p>",
+            "description": "\u00c9cht contact maken met de client, burger of ondernemer is een opgave voor publieke dienstverleners. Maar een goed gesprek kost tijd, die meestal op gaat aan administratieve taken. Door slim gebruik te maken van transcriptie op basis van AI-tools, valt hieraan veel te verbeteren. Bij WerkSaam Westfriesland (een uitvoerder van de participatiewet in Noord Holland die mensen begeleidt naar de arbeidsmarkt) voeren ze een VNG-pilot uit met een transcriptietool. Coaches hoeven hierdoor geen gespreksverslagen meer te maken, maar alleen een automatisch gegenereerd rapport te beoordelen. Met als voordeel: tijdwinst en meer menselijke aandacht tijdens de gesprekken met cli\u00ebnten. Maar hoe werkt dat? Welke persoonsgegevens mag je hierbij gebruiken? En hoe reageren de cli\u00ebnten eigenlijk op AI? Martijn en Otto spreken erover met de directeur van WerkSaam Westfriesland Anja Witte, projectleider Stefan Hes en participatiecoach Laura Wurth. Daarnaast schuift Matthijs van Kampen van de VNG aan. Hij vertelt meer over het programma Uitvoeringskracht en Arbeidsmarktkrapte, waarvan deze pilot onderdeel uitmaakt.\u00a0",
+            "html_description": "<p>\u00c9cht contact maken met de client, burger of ondernemer is een opgave voor publieke dienstverleners. Maar een goed gesprek kost tijd, die meestal op gaat aan administratieve taken. Door slim gebruik te maken van transcriptie op basis van AI-tools, valt hieraan veel te verbeteren.</p><br/><p>Bij WerkSaam Westfriesland (een uitvoerder van de participatiewet in Noord Holland die mensen begeleidt naar de arbeidsmarkt) voeren ze een VNG-pilot uit met een transcriptietool. Coaches hoeven hierdoor geen gespreksverslagen meer te maken, maar alleen een automatisch gegenereerd rapport te beoordelen. Met als voordeel: tijdwinst en meer menselijke aandacht tijdens de gesprekken met cli\u00ebnten. Maar hoe werkt dat? Welke persoonsgegevens mag je hierbij gebruiken? En hoe reageren de cli\u00ebnten eigenlijk op AI?</p><br/><p>Martijn en Otto spreken erover met de directeur van WerkSaam Westfriesland Anja Witte, projectleider Stefan Hes en participatiecoach Laura Wurth. Daarnaast schuift Matthijs van Kampen van de VNG aan. Hij vertelt meer over het programma Uitvoeringskracht en Arbeidsmarktkrapte, waarvan deze pilot onderdeel uitmaakt.\u00a0</p>",
             "duration_ms": 1914000,
             "explicit": false,
             "external_urls": {
@@ -4158,7 +4158,7 @@
             "languages": [
               "nl"
             ],
-            "name": "Hoe helpt AI? - Transcriptie bij WerkSaam",
+            "name": "AI als assistent voor de re-integratiecoach",
             "release_date": "2025-10-13",
             "release_date_precision": "day",
             "type": "episode",
@@ -85586,7 +85586,7 @@
             "languages": [
               "nl"
             ],
-            "name": "Podcast over Mantelzorg, Reuring caf\u00e9 2025",
+            "name": "Werken met een arbeidsbijzonderheid binnen de Rijksoverheid",
             "release_date": "2025-09-30",
             "release_date_precision": "day",
             "type": "episode",
