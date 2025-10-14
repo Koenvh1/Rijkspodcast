@@ -16621,15 +16621,55 @@
       "publisher": "Gebruiker Centraal",
       "type": "show",
       "uri": "spotify:show:2DSW9pQ6Mtm3DwomzPY5jX",
-      "total_episodes": 24,
+      "total_episodes": 25,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2DSW9pQ6Mtm3DwomzPY5jX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 24,
+        "total": 25,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Qk97TunrjSzhJG7uMzCKc/clip_617333_677333.mp3",
+            "description": "Gedragsbe\u00efnvloeding kun je op een heel positieve manier inzetten om mensen te motiveren, in beweging te krijgen, of te stimuleren tot bepaalde keuzes of gedrag. Heb jij wel eens technieken als nudging en boosting toegepast in jouw werk? Hoe zet je gedragsinzichten in? Aan welke knoppen kun je draaien? En hoe weet je wanneer je je doel hebt bereikt?",
+            "html_description": "Gedragsbe\u00efnvloeding kun je op een heel positieve manier inzetten om mensen te motiveren, in beweging te krijgen, of te stimuleren tot bepaalde keuzes of gedrag. Heb jij wel eens technieken als nudging en boosting toegepast in jouw werk? Hoe zet je gedragsinzichten in? Aan welke knoppen kun je draaien? En hoe weet je wanneer je je doel hebt bereikt?",
+            "duration_ms": 3392783,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3GEkZEfQ181rEfXNXyfrjQ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3GEkZEfQ181rEfXNXyfrjQ",
+            "id": "3GEkZEfQ181rEfXNXyfrjQ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3dad47cb66e6af341d903c68",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3dad47cb66e6af341d903c68",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3dad47cb66e6af341d903c68",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Zo be\u00efnvloed je gedrag (Direct Duidelijk Tour)",
+            "release_date": "2025-10-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3GEkZEfQ181rEfXNXyfrjQ"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7a9dYCHw34xCZe8U7Uemic/clip_124217_184217.mp3",
             "description": "Ook juridische taal kan direct duidelijk zijn. In deze podcast hoor je Renata Verloop in gesprek met Andr\u00e9 Verburg en Anita van den Bosch-de Gier. Ze bespreken tips over woorden en de structuur van een tekst.",
@@ -53412,15 +53452,55 @@
       "publisher": "Rijksacademie",
       "type": "show",
       "uri": "spotify:show:2oth9ZcdiFc8aotxNVmbLw",
-      "total_episodes": 16,
+      "total_episodes": 17,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2oth9ZcdiFc8aotxNVmbLw/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 16,
+        "total": 17,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1YkSZfgVFqa0v3wre3TJMT/clip_502222_562222.mp3",
+            "description": "Met als gasten: Frank van Sloun & Naomi van der LubbeIn deze podcast nemen we je mee in de opbouw van de opleiding en waarom het zo belangrijk is om innovatiegericht in te kopen. Interesse in de opleiding? Meld je dan hier aan: Innovatiegericht Inkopen (IgI) | Rijksacademie",
+            "html_description": "<p>Met als gasten: Frank van Sloun &amp; Naomi van der Lubbe</p><p><br /></p><p>In deze podcast nemen we je mee in de opbouw van de opleiding en waarom het zo belangrijk is om innovatiegericht in te kopen. Interesse in de opleiding? Meld je dan hier aan: <a href=\"https://www.rijksacademie.nl/opleidingen/innovatiegericht-inkopen-igi/\" rel=\"nofollow\">Innovatiegericht Inkopen (IgI) | Rijksacademie</a></p>",
+            "duration_ms": 1562554,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0LIzsRpMc150P63CbqQaDQ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0LIzsRpMc150P63CbqQaDQ",
+            "id": "0LIzsRpMc150P63CbqQaDQ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aebb87fcb801312cc8085bd50",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1febb87fcb801312cc8085bd50",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68debb87fcb801312cc8085bd50",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Innovatiegericht inkopen - De opleiding",
+            "release_date": "2025-10-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0LIzsRpMc150P63CbqQaDQ"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7Hjo3Le6QlWjHuGeOicdl1/clip_266230_326230.mp3",
             "description": "Met als gasten: Hessel van Oorschot & Duncan WaardenburgOnderdeel van de Masterclass Opdrachtgeven en Inkopen (MOI)",
