@@ -4115,15 +4115,55 @@
       "publisher": "De Publieke Ruimte",
       "type": "show",
       "uri": "spotify:show:5VWtfJI3bOU0fDfO33YgeD",
-      "total_episodes": 60,
+      "total_episodes": 61,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 60,
+        "total": 61,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3SrpjIVkQrPcyXPcC0p3kZ/clip_555987_615987.mp3",
+            "description": "Martijn en Otto duiken opnieuw de wereld van AI in. In deze aflevering zijn ze te gast bij WerkSaam Westfriesland, een uitvoerder van de participatiewet in Noord Holland die mensen begeleidt naar de arbeidsmarkt. Sinds enige tijd loopt bij WerkSaam een pilot met een transcriptietool. Coaches hoeven hierdoor geen gespreksverslagen meer te maken, maar alleen een automatisch gegenereerd rapport beoordelen. Met als voordeel: tijdwinst en meer aandacht voor de klant tijdens de gesprekken die ze voeren. Martijn en Otto spreken met de directeur van WerkSaam Anja Witte, projectleider Stefan Hes en integratiecoach Laura Wurth. Daarnaast schuift ook Matthijs van Kampen van de VNG aan. Hij vertelt meer over het programma Uitvoeringskracht en Arbeidsmarktkrapte, waarvan de pilot een onderdeel is.\u00a0",
+            "html_description": "<p>Martijn en Otto duiken opnieuw de wereld van AI in. In deze aflevering zijn ze te gast bij WerkSaam Westfriesland, een uitvoerder van de participatiewet in Noord Holland die mensen begeleidt naar de arbeidsmarkt. Sinds enige tijd loopt bij WerkSaam een pilot met een transcriptietool. Coaches hoeven hierdoor geen gespreksverslagen meer te maken, maar alleen een automatisch gegenereerd rapport beoordelen. Met als voordeel: tijdwinst en meer aandacht voor de klant tijdens de gesprekken die ze voeren. Martijn en Otto spreken met de directeur van WerkSaam Anja Witte, projectleider Stefan Hes en integratiecoach Laura Wurth. Daarnaast schuift ook Matthijs van Kampen van de VNG aan. Hij vertelt meer over het programma Uitvoeringskracht en Arbeidsmarktkrapte, waarvan de pilot een onderdeel is.\u00a0</p>",
+            "duration_ms": 1914000,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4JG6RmvHRiefT2w6Gf0hyK"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4JG6RmvHRiefT2w6Gf0hyK",
+            "id": "4JG6RmvHRiefT2w6Gf0hyK",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Hoe helpt AI? - Transcriptie bij WerkSaam",
+            "release_date": "2025-10-13",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4JG6RmvHRiefT2w6Gf0hyK"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2IUZBfZkPniDjDmKTlSSee/clip_300505_360505.mp3",
             "description": "Publieke dienstverlening kan niet zonder bedrijfsvoering en lijnmanagement. Maar deze overhead moet wel in balans zijn met het primaire proces. Uit de Benchmark Venster voor Bedrijfsvoering blijkt dat de helft van de totale formatie van kerndepartementen uit overheadfuncties bestaat. Bij gemeenten en waterschappen is dat een kwart. En bij uitvoeringsorganisaties ongeveer een vijfde. Maar wat zeggen die cijfers? Hoe gebruik je zo\u2019n benchmark om te verantwoorden, te sturen en te leren? Op 11 september vond in Utrecht de Dag van de Duiding plaats. Deze dag werd georganiseerd door Venster voor Bedrijfsvoering in samenwerking met de Rijksbrede benchmarkgroep. We namen de bedrijfsvoering van uitvoeringsorganisaties, provincies, waterschappen en gemeenten onder de loep. Waarom is de externe inhuur gestegen van 10% naar ruim 15%? Hoe staat het met het datagestuurd werken? Hoe kunnen we de (digitale) weerbaarheid van overheden vergroten? Martijn en Otto blikken terug op deze dag aan de hand van de inzichten van Mari\u00ebl Middendorp (secretaris-algemeen directeur bij het Hoogheemraadschap van Rijnland), Zeger Baelde (directeur Bedrijfsvoering bij RDW) en Connie Eli (directeur Dienstverlening bij de gemeente Amsterdam). Samen met organisatieadviseur Mark Huijben werpen ze een kritische blik op de overhead van de overheid.\u00a0",
@@ -6087,32 +6127,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4rBHEegmF0r91pVhWdf1NQ/clip_254997_314997.mp3",
             "description": "In deze bonusaflevering blikken we met de voltallige redactie - Otto, Martijn \u00e9n Michel en Patty - terug op het tweede seizoen. We bespreken dit seizoen langs de lijnen van de technische briefing in de Tweede Kamer over het Werkprogramma Publieke Dienstverlening. De vaste Kamercommissie Binnenlandse Zaken werd bijgepraat door door Maarten Schurink, SG van Binnenlandse Zaken, Michelle Blom, DG bij Rijkswaterstaat en Nathalie van Berckel, lid van de Raad van Bestuur van het UWV, Arne van Hout, gemeentesecretaris van Nijmegen en Nathan Ducastel, directeur VNG-Realisatie. En uiteraard kijken we ook vooruit, want waar gaat het programma in het nieuwe jaar naar toe? Wat kunnen we verwachten van het nieuwe kabinet? En wat ziet de programmamanager, Petula Huising, als belangrijkste kansen en uitdagingen voor het programma in het nieuwe jaar?",
-            "html_description": "<p>In deze bonusaflevering blikken we met de voltallige redactie - Otto, Martijn \u00e9n Michel en Patty - terug op het tweede seizoen. We bespreken dit seizoen langs de lijnen van de technische briefing in de Tweede Kamer over het Werkprogramma Publieke Dienstverlening. De vaste Kamercommissie Binnenlandse Zaken werd bijgepraat door door Maarten Schurink, SG van Binnenlandse Zaken, Michelle Blom, DG bij Rijkswaterstaat en Nathalie van Berckel, lid van de Raad van Bestuur van het UWV, Arne van Hout, gemeentesecretaris van Nijmegen en Nathan Ducastel, directeur VNG-Realisatie.</p><br/><p>En uiteraard kijken we ook vooruit, want waar gaat het programma in het nieuwe jaar naar toe? Wat kunnen we verwachten van het nieuwe kabinet? En wat ziet de programmamanager, Petula Huising, als belangrijkste kansen en uitdagingen voor het programma in het nieuwe jaar?</p>",
             "duration_ms": 2526275,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6uqRNujtyw5Hc7IPyscW0K"
             },
             "href": "https://api.spotify.com/v1/episodes/6uqRNujtyw5Hc7IPyscW0K",
+            "html_description": "<p>In deze bonusaflevering blikken we met de voltallige redactie - Otto, Martijn \u00e9n Michel en Patty - terug op het tweede seizoen. We bespreken dit seizoen langs de lijnen van de technische briefing in de Tweede Kamer over het Werkprogramma Publieke Dienstverlening. De vaste Kamercommissie Binnenlandse Zaken werd bijgepraat door door Maarten Schurink, SG van Binnenlandse Zaken, Michelle Blom, DG bij Rijkswaterstaat en Nathalie van Berckel, lid van de Raad van Bestuur van het UWV, Arne van Hout, gemeentesecretaris van Nijmegen en Nathan Ducastel, directeur VNG-Realisatie.</p><br/><p>En uiteraard kijken we ook vooruit, want waar gaat het programma in het nieuwe jaar naar toe? Wat kunnen we verwachten van het nieuwe kabinet? En wat ziet de programmamanager, Petula Huising, als belangrijkste kansen en uitdagingen voor het programma in het nieuwe jaar?</p>",
             "id": "6uqRNujtyw5Hc7IPyscW0K",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -16581,14 +16621,14 @@
       "publisher": "Gebruiker Centraal",
       "type": "show",
       "uri": "spotify:show:2DSW9pQ6Mtm3DwomzPY5jX",
-      "total_episodes": 25,
+      "total_episodes": 24,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2DSW9pQ6Mtm3DwomzPY5jX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 25,
+        "total": 24,
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7a9dYCHw34xCZe8U7Uemic/clip_124217_184217.mp3",
@@ -17549,46 +17589,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:1rvSRLihMZcKzq5BeuN1ZY"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7rSWmDSNGoPraVhgeEAx4C/clip_287826_347826.mp3",
-            "description": "Waar hebben mensen behoefte aan? Hoe gedragen ze zich? En wat is hun achtergrond? We kunnen vanachter een beeldscherm proberen om ons dit voor te stellen, maar zo komen we niet ver. Je maakt betere producten en diensten als je de mensen voor wie je ze maakt, er zelf bij betrekt. Laat daarom ook ervaringsdeskundigen meedenken.",
-            "html_description": "Waar hebben mensen behoefte aan? Hoe gedragen ze zich? En wat is hun achtergrond? We kunnen vanachter een beeldscherm proberen om ons dit voor te stellen, maar zo komen we niet ver. Je maakt betere producten en diensten als je de mensen voor wie je ze maakt, er zelf bij betrekt. Laat daarom ook ervaringsdeskundigen meedenken.",
-            "duration_ms": 610248,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/068WakbSCKDN7Sw5XB4WUf"
-            },
-            "href": "https://api.spotify.com/v1/episodes/068WakbSCKDN7Sw5XB4WUf",
-            "id": "068WakbSCKDN7Sw5XB4WUf",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Laat ervarings\u00addeskundigen mee\u00addenken",
-            "release_date": "2023-09-04",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:068WakbSCKDN7Sw5XB4WUf"
           }
         ]
       }
