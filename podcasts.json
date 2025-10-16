@@ -51345,15 +51345,16 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:1Tn18wGbJHz3LClUvnFApP",
-      "total_episodes": 32,
+      "total_episodes": 33,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Tn18wGbJHz3LClUvnFApP/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 32,
+        "total": 33,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0BGV5pn6t2YJIHJvev3oj6/clip_142758_202758.mp3",
             "description": "Onze gast dr. Robby Roks is associate professor en hoofddocent aan de Erasmus Universiteit Rotterdam. In 2024 heeft hij deel uitgemaakt van het onderzoek genaamd 'Grip of in de greep'' dit gaat over Voortgezet Crimineel Handelen in Detentie (ook wel VCHD). In deze podcast vertel Robby wat VCHD precies is, hoe het gebeurt en gaan we in gesprek over mogelijke oorzaken en oplossingen van dit probleem. Ook gaan we dieper in op de verharding van de georganiseerde criminaliteit en de ondermijnende gevolgen die dit op de samenleving heeft. Robby is wetenschappelijk onderzoeker en kan vanuit zijn rol een mooie verheldering geven over de relatie tussen de wetenschap en de opsporing. Hij licht toe wat het belang is van dergelijk onderzoek en samenwerking. De vragen worden gesteld door Christiaan Los, programmalid van het Landelijk Programma Ondermijning en Marielle van de Stel, recent afgestudeerd criminoloog van studententeam BOOST. Zij zijn onderdeel van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie.",
