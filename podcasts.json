@@ -117430,15 +117430,55 @@
       "publisher": "Bureau Scherpte Diepte",
       "type": "show",
       "uri": "spotify:show:2UY9LIrltGlysx6YGUN8Ig",
-      "total_episodes": 10,
+      "total_episodes": 11,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2UY9LIrltGlysx6YGUN8Ig/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 10,
+        "total": 11,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7pWv7Yea23DxW5gNOgbReA/clip_451905_511905.mp3",
+            "description": "In deze aflevering van Delta & Duiten gaat presentator Maarten Bouwhuis in gesprek met Jaap Slootmaker, directeur-generaal Water en Bodem bij het ministerie van Infrastructuur en Waterstaat en \u00e9\u00e9n van de ambassadeurs van NL AAA Klimaatbestendig. Vanuit zijn positie kijkt Slootmaker verder dan de politieke cyclus: tot aan 2100 en daar voorbij. Hoe zorg je dat Nederland voorbereid is op de stijgende zeespiegel, langere periodes van droogte en intensievere regenval \u2013 terwijl de politieke aandacht vaak niet verder reikt dan het volgende regeerakkoord?Slootmaker vertelt hoe de overheid probeert om keuzes voor de lange termijn niet vooruit te schuiven, maar juist n\u00fa te maken. Grote besluiten zoals de Deltawerken tonen aan dat visie op de verre toekomst cruciaal is, zeker als klimaatadaptatie moet worden betaald uit publieke middelen. Wie betaalt de rekening, en hoe kunnen publieke \u00e9n private partijen bijdragen aan een klimaatbestendig Nederland?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>In deze aflevering van Delta &amp; Duiten gaat presentator Maarten Bouwhuis in gesprek met Jaap Slootmaker, directeur-generaal Water en Bodem bij het ministerie van Infrastructuur en Waterstaat en \u00e9\u00e9n van de ambassadeurs van NL AAA Klimaatbestendig. Vanuit zijn positie kijkt Slootmaker verder dan de politieke cyclus: tot aan 2100 en daar voorbij. Hoe zorg je dat Nederland voorbereid is op de stijgende zeespiegel, langere periodes van droogte en intensievere regenval \u2013 terwijl de politieke aandacht vaak niet verder reikt dan het volgende regeerakkoord?</p><p>Slootmaker vertelt hoe de overheid probeert om keuzes voor de lange termijn niet vooruit te schuiven, maar juist n\u00fa te maken. Grote besluiten zoals de Deltawerken tonen aan dat visie op de verre toekomst cruciaal is, zeker als klimaatadaptatie moet worden betaald uit publieke middelen. Wie betaalt de rekening, en hoe kunnen publieke \u00e9n private partijen bijdragen aan een klimaatbestendig Nederland?</p><p>Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.<br /><br /></p><p><br /></p>",
+            "duration_ms": 2165184,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4vkcE9OHLGghHPtGnmHhUI"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4vkcE9OHLGghHPtGnmHhUI",
+            "id": "4vkcE9OHLGghHPtGnmHhUI",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0d77f11529812317e2d70196",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0d77f11529812317e2d70196",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0d77f11529812317e2d70196",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Jaap Slootmaker, Directeur-generaal bij Ministerie I&W",
+            "release_date": "2025-10-16",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4vkcE9OHLGghHPtGnmHhUI"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/04KUnPsBrvhyvvyPuxrFVb/clip_513930_573930.mp3",
             "description": "Hoe geef je klimaatadaptatie \u00e9cht handen en voeten in Nederland \u2013 en durven we daarbij te kiezen waar we verstevigen en waar we radicaal moeten ombouwen? Dat is kern van het laatste rapport van de Wetenschappelijke Klimaatraad. Maarten Bouwhuis praat in deze aflevering van Delta & Duiten met Wieke Pot, lid van de WKR, en met Deltares-directeur Bart van den Hurk. Het WKR-rapport pleit voor lef en lange termijn: grote projecten moeten standaard een klimaatadaptatietoets doorstaan die een eeuw vooruitkijkt, klimaatrisico\u2019s van woningen moeten openbaar worden en overheid, burgers en bedrijven moeten samen de rekening dragen.Bart van den Hurk is naast directeur van Deltares ook co-voorzitter van Werkgroep 2 van het IPCC. Hij werkt aan een nieuw wereldwijd rapport dat in 2028 verschijnt, en gaat over klimaatadaptatie. Hij vindt dat klimaatadaptatie verankerd moet worden in de wet, zoals dat ook met het Deltaprogramma is gebeurd.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
