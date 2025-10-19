@@ -63208,14 +63208,14 @@
       "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
-      "total_episodes": 107,
+      "total_episodes": 106,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 107,
+        "total": 106,
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5iXydDB6cbrptMktwFOQlR/clip_127685_187685.mp3",
@@ -63336,46 +63336,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:7HFcBj9va0Yyufb13vnECM"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5WcctDT5VOJsGXv9tXWGCy/clip_165128_225128.mp3",
-            "description": "Anne-Marij en Deborah wensen alle luisteraars natuurlijk een hele fijne zomer toe. Daarbij blikken ze ook nog even terug op het afgelopen jaar. En voor de die-hard fans: wat is jouw top 3 van Klapmok met Thee het afgelopen jaar? Na de zomervakantie staan er weer veel interessante onderwerpen en gasten op de planning!",
-            "html_description": "<p>Anne-Marij en Deborah wensen alle luisteraars natuurlijk een hele fijne zomer toe. Daarbij blikken ze ook nog even terug op het afgelopen jaar. En voor de die-hard fans: wat is jouw top 3 van Klapmok met Thee het afgelopen jaar? Na de zomervakantie staan er weer veel interessante onderwerpen en gasten op de planning!</p>",
-            "duration_ms": 477727,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/2nIJR6rjhBUrN2d2Uj7sgo"
-            },
-            "href": "https://api.spotify.com/v1/episodes/2nIJR6rjhBUrN2d2Uj7sgo",
-            "id": "2nIJR6rjhBUrN2d2Uj7sgo",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a233310fb10eefe18ef76ad14",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f233310fb10eefe18ef76ad14",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d233310fb10eefe18ef76ad14",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Tijd voor de zomervakantie!",
-            "release_date": "2025-07-18",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:2nIJR6rjhBUrN2d2Uj7sgo"
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7cXASgUKRaMBrhey2gIxLK/clip_397471_457471.mp3",
@@ -65220,28 +65180,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3W5Ml8hR1POQQvaTsRR6bU/clip_480712_540712.mp3",
             "description": "Anne-Marij en Deborah bezoeken het 5-jarig jubileum van de Inspectie Veiligheid Defensie (IVD). In het leven geroepen na het mortierincident in Mali waarbij in 2016 twee militairen om het leven kwamen en een militair zwaargewond raakte. Ze gaan in gesprek met Inspecteur-Generaal Veiligheid Wim Bargerbos. Hoe blijf je onafhankelijk? Welke ongemakkelijke vragen stelt de toezichthouder in onderzoeken? \u201cVeiligheid is niet altijd het eerste waar je aan denkt, maar je moet jezelf vragen blijven stellen!\u201d Ook bevragen ze:  Secretaris-Generaal Gea van Craaikamp Inspecteur-Generaal Belastingen, Toeslagen en Douane van het Ministerie van Financien, Bart Snels Plaatsvervangend Inspecteur-Generaal Veiligheid, generaal-majoor Nico van der Zee IVD Collega en Klapmok met Thee fan Rob van Dorp ",
+            "html_description": "<p>Anne-Marij en Deborah bezoeken het 5-jarig jubileum van de Inspectie Veiligheid Defensie (IVD). In het leven geroepen na het mortierincident in Mali waarbij in 2016 twee militairen om het leven kwamen en een militair zwaargewond raakte. Ze gaan in gesprek met Inspecteur-Generaal Veiligheid Wim Bargerbos. Hoe blijf je onafhankelijk? Welke ongemakkelijke vragen stelt de toezichthouder in onderzoeken? \u201cVeiligheid is niet altijd het eerste waar je aan denkt, maar je moet jezelf vragen blijven stellen!\u201d</p> <p>Ook bevragen ze:</p> <ul><li>Secretaris-Generaal Gea van Craaikamp</li><li>Inspecteur-Generaal Belastingen, Toeslagen en Douane van het Ministerie van Financien, Bart Snels</li><li>Plaatsvervangend Inspecteur-Generaal Veiligheid, generaal-majoor Nico van der Zee</li><li>IVD Collega en Klapmok met Thee fan Rob van Dorp</li></ul>",
             "duration_ms": 4679680,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2wJYuipTlQgX0v8QPT8o2t"
             },
             "href": "https://api.spotify.com/v1/episodes/2wJYuipTlQgX0v8QPT8o2t",
-            "html_description": "<p>Anne-Marij en Deborah bezoeken het 5-jarig jubileum van de Inspectie Veiligheid Defensie (IVD). In het leven geroepen na het mortierincident in Mali waarbij in 2016 twee militairen om het leven kwamen en een militair zwaargewond raakte. Ze gaan in gesprek met Inspecteur-Generaal Veiligheid Wim Bargerbos. Hoe blijf je onafhankelijk? Welke ongemakkelijke vragen stelt de toezichthouder in onderzoeken? \u201cVeiligheid is niet altijd het eerste waar je aan denkt, maar je moet jezelf vragen blijven stellen!\u201d</p> <p>Ook bevragen ze:</p> <ul><li>Secretaris-Generaal Gea van Craaikamp</li><li>Inspecteur-Generaal Belastingen, Toeslagen en Douane van het Ministerie van Financien, Bart Snels</li><li>Plaatsvervangend Inspecteur-Generaal Veiligheid, generaal-majoor Nico van der Zee</li><li>IVD Collega en Klapmok met Thee fan Rob van Dorp</li></ul>",
             "id": "2wJYuipTlQgX0v8QPT8o2t",
             "images": [
               {
-                "height": 640,
                 "url": "https://i.scdn.co/image/ab6765630000ba8a7fa1f005a102240ebbbc07b7",
+                "height": 640,
                 "width": 640
               },
               {
-                "height": 300,
                 "url": "https://i.scdn.co/image/ab67656300005f1f7fa1f005a102240ebbbc07b7",
+                "height": 300,
                 "width": 300
               },
               {
-                "height": 64,
                 "url": "https://i.scdn.co/image/ab6765630000f68d7fa1f005a102240ebbbc07b7",
+                "height": 64,
                 "width": 64
               }
             ],
