@@ -23215,15 +23215,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 25,
+      "total_episodes": 26,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 25,
+        "total": 26,
         "items": [
+          {
+            "audio_preview_url": null,
+            "description": "In deze aflevering van Zorgklank gaan we in gesprek met twee mensen die vanuit het BovenIJ Ziekenhuis een sleutelrol spelen in de beweging naar betere, meer verbonden zorg in Amsterdam-Noord: Nynke Posthuma, internist en medisch manager, en Edwin van der Meer, voorzitter raad van bestuur. \u00a0 Beiden zijn actief betrokken bij BeterSamen in Noord. Een netwerk waarin ziekenhuis, huisartsen, GGZ en het sociaal domein samen optrekken om de gezondheid van inwoners duurzaam te versterken. De focus verschuift van \u2018alleen behandelen\u2019 naar \u2018beter helpen\u2019 en dat vraagt om nieuwe verbindingen. \u00a0 We spreken over initiatieven zoals het Gezond Noord Loket, over hoe je als ziekenhuis kunt meebewegen naar de voorkant van de zorg, en over hoe samenwerking in de wijk leidt tot betere resultaten. Want als je mensen eerder en breder helpt, komen ze uiteindelijk minder vaak terug \u2013 en houd je meer ruimte over voor wie het echt nodig heeft. \u00a0 Ook delen Nynke en Edwin hoe je soms gewoon kunt beginnen, nog v\u00f3\u00f3rdat alle regelingen en financiering zijn uitgewerkt. Want gezondheid wacht niet. En waar landelijke middelen soms (nog) achterblijven, kun je lokaal al veel bereiken met lef, visie en slimme inzet van bestaande middelen. \u00a0 Kortom: hoe bouw je aan zorg die mensen \u00e9cht vooruithelpt, in een regio waar de gezondheidsverschillen groot zijn, maar de wil om samen te werken nog groter?",
+            "html_description": "<p>In deze aflevering van Zorgklank gaan we in gesprek met twee mensen die vanuit het BovenIJ Ziekenhuis een sleutelrol spelen in de beweging naar betere, meer verbonden zorg in Amsterdam-Noord: Nynke Posthuma, internist en medisch manager, en Edwin van der Meer, voorzitter raad van bestuur.</p> <p>\u00a0</p> <p>Beiden zijn actief betrokken bij BeterSamen in Noord. Een netwerk waarin ziekenhuis, huisartsen, GGZ en het sociaal domein samen optrekken om de gezondheid van inwoners duurzaam te versterken. De focus verschuift van \u2018alleen behandelen\u2019 naar \u2018beter helpen\u2019 en dat vraagt om nieuwe verbindingen.</p> <p>\u00a0</p> <p>We spreken over initiatieven zoals het Gezond Noord Loket, over hoe je als ziekenhuis kunt meebewegen naar de voorkant van de zorg, en over hoe samenwerking in de wijk leidt tot betere resultaten. Want als je mensen eerder en breder helpt, komen ze uiteindelijk minder vaak terug \u2013 en houd je meer ruimte over voor wie het echt nodig heeft.</p> <p>\u00a0</p> <p>Ook delen Nynke en Edwin hoe je soms gewoon kunt beginnen, nog v\u00f3\u00f3rdat alle regelingen en financiering zijn uitgewerkt. Want gezondheid wacht niet. En waar landelijke middelen soms (nog) achterblijven, kun je lokaal al veel bereiken met lef, visie en slimme inzet van bestaande middelen.</p> <p>\u00a0</p> <p>Kortom: hoe bouw je aan zorg die mensen \u00e9cht vooruithelpt, in een regio waar de gezondheidsverschillen groot zijn, maar de wil om samen te werken nog groter?</p>",
+            "duration_ms": 2486909,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1GeuZ9C1oluqfN08WIFf8S"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1GeuZ9C1oluqfN08WIFf8S",
+            "id": "1GeuZ9C1oluqfN08WIFf8S",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a740abbc58d258e4edc77c4e3",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f740abbc58d258e4edc77c4e3",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d740abbc58d258e4edc77c4e3",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E2: BeterSamen in Noord in de praktijk met Edwin van der Meer en Nynke Posthuma",
+            "release_date": "2025-10-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1GeuZ9C1oluqfN08WIFf8S"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3sDm3n7MmPi4Lr5HubZZCH/clip_479942_539942.mp3",
             "description": "In deze nieuwe aflevering van Zorgklank zoeken Pauline Terwijn, Ockje Tellegen en Aiko de Raaf naar het antwoord op een urgente vraag: hoe maak je \u00e9cht werk van transformatie in de zorg?  Pauline deelt haar ervaringen na acht jaar bouwen in de regio\u00a0\u2013 met \u00e9n zonder transformatiegelden. Ockje staat op het omslagpunt van plannen maken naar doen. Wat vraagt dat van haar rol als voorzitter? Wat doe je als er geen geld is, of als je plannen worden afgewezen? En hoe betrek je de inwoners nu, voordat de grote veranderingen zijn doorgevoerd?  We praten over geld, ja, maar vooral over houding, lef en slim samenwerken. Over de noodzaak om de regio te horen, mensen te ontmoeten en beweging van onderaf te faciliteren. Want transformatie komt niet uit een beleidsstuk, maar uit mensen die het samen anders gaan doen.  Een aflevering over kracht \u00e9n kwetsbaarheid, over keuzes maken, kansen pakken, en eerlijk zijn over wat nog schuurt.",
@@ -63781,7 +63821,7 @@
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5aI2s4v1BXT6nF9pldOl7T/clip_538123_598123.mp3",
             "description": "Al eens gehoord van Economische Veiligheid? Misschien niet bewust, maar sla de krant open en de kans is groot dat je er iets over tegenkomt. Lkol Marc Reumer van de Counter-Hybrid Unit en Rianne van de NCTV weten er alles van en nemen Deborah en Anne-Marij mee in de wereld van bedrijfsovernames, militaire en dual-use goederen, investeringen, strategische voorraden en nog veel meer. Belangrijk voor Defensie en belangrijk voor onze maatschappelijke weerbaarheid. In deze aflevering bespreekt de Commandant Landstrijdkrachten, luitenant-generaal Jan Swillens, zijn visie op de landmacht. Dit doet hij samen met twee belangrijke onderofficieren binnen de landmacht: de landmachtadjudant en de adjudant Human Resources. Zij worden hierin geassisteerd door presentator Thomas Weemaes.",
             "html_description": "<p>Al eens gehoord van Economische Veiligheid? Misschien niet bewust, maar sla de krant open en de kans is groot dat je er iets over tegenkomt. Lkol Marc Reumer van de Counter-Hybrid Unit en Rianne van de NCTV weten er alles van en nemen Deborah en Anne-Marij mee in de wereld van bedrijfsovernames, militaire en dual-use goederen, investeringen, strategische voorraden en nog veel meer. Belangrijk voor Defensie en belangrijk voor onze maatschappelijke weerbaarheid.</p> <p>In deze aflevering bespreekt de Commandant Landstrijdkrachten, luitenant-generaal Jan Swillens, zijn visie op de landmacht. Dit doet hij samen met twee belangrijke onderofficieren binnen de landmacht: de landmachtadjudant en de adjudant Human Resources. Zij worden hierin geassisteerd door presentator Thomas Weemaes.</p>",
-            "duration_ms": 3187617,
+            "duration_ms": 3187618,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/7nCAOhAdc5ZJpQfhQ16PQL"
@@ -113484,15 +113524,55 @@
       "publisher": "Raad voor de leefomgeving en infrastructuur",
       "type": "show",
       "uri": "spotify:show:0gIUjS12RKpV8ObV7GgZz5",
-      "total_episodes": 9,
+      "total_episodes": 10,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/0gIUjS12RKpV8ObV7GgZz5/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 9,
+        "total": 10,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0WAp7naiYytxE8P6Kxxi3Z/clip_0_60000.mp3",
+            "description": "Hoewel Bonaire, Sint-Eustatius en Saba integraal onderdeel zijn van Nederland, worden deze eilanden vaak niet meegenomen in het rijksbeleid voor de leefomgeving. Er is bovendien te weinig structurele financiering voor de reguliere taken van de eilanden. Een andere aanpak is volgens de Raad voor de leefomgeving en infrastructuur nodig om te komen tot gelijkwaardigheid in kwaliteit van de leefomgeving voor heel Nederland. Hoe kan een nieuw te vormen kabinet samen met de openbare lichamen invulling geven aan deze aanpak? \u00a0 In de tweede aflevering Leefomgevingskwaliteit: gelijk voor heel Nederland van de Rli-podcastserie Lange lijnen in de leefomgeving gaat junior-raadslid Marnix Kluiters kort voor de verkiezingen in gesprek met raadsvoorzitter Jan Jacob van Dijk, raadslid Jantine Kriens en Liesbeth Spies. Liesbeth Spies was in 2015 voorzitter van de commissie evaluatie uitwerking van de nieuwe staatkundige structuur Caribisch Nederland. Achtergrond Bij de zogeheten staatskundige hervormingen van 10 oktober 2010 is het land Nederlandse Antillen opgeheven. Sinds die datum zijn Bonaire, Sint-Eustatius en Saba (de BES-eilanden) openbare lichamen en maken zij integraal onderdeel uit van het land Nederland. Sint-Maarten en Cura\u00e7ao zijn sinds de hervormingen autonome landen binnen het koninkrijk Nederland. Aruba had al de status van autonoom land binnen het koninkrijk. Bij de bespreking van deze staatskundige verhoudingen zijn enkele kleine onvolkomenheden in de podcast geslopen. De nieuwe verhoudingen zijn het resultaat van een intensief proces tussen de eilandbesturen en de rijksoverheid waarbij onder andere referenda (volksraadplegingen) hebben plaatsgevonden. Verder heeft de Rli alleen een adviestaak voor het land Nederland en niet voor het koninkrijk (daarom richt het Rli-advies zich alleen op de BES-eilanden). Voor wie een beperking heeft of iets wil terugzoeken, is een volledig transcript van deze aflevering te vinden via https://www.rli.nl/podcast. Daar vind je ook alle afleveringen van deze serie overzichtelijk bij elkaar.",
+            "html_description": "<p>Hoewel Bonaire, Sint-Eustatius en Saba integraal onderdeel zijn van Nederland, worden deze eilanden vaak niet meegenomen in het rijksbeleid voor de leefomgeving. Er is bovendien te weinig structurele financiering voor de reguliere taken van de eilanden. Een andere aanpak is volgens de Raad voor de leefomgeving en infrastructuur nodig om te komen tot gelijkwaardigheid in kwaliteit van de leefomgeving voor heel Nederland. Hoe kan een nieuw te vormen kabinet samen met de openbare lichamen invulling geven aan deze aanpak? \u00a0</p> <p>In de tweede aflevering Leefomgevingskwaliteit: gelijk voor heel Nederland van de Rli-podcastserie Lange lijnen in de leefomgeving gaat junior-raadslid Marnix Kluiters kort voor de verkiezingen in gesprek met raadsvoorzitter Jan Jacob van Dijk, raadslid Jantine Kriens en Liesbeth Spies. Liesbeth Spies was in 2015 voorzitter van de commissie evaluatie uitwerking van de nieuwe staatkundige structuur Caribisch Nederland.</p> <p>Achtergrond</p> <p>Bij de zogeheten staatskundige hervormingen van 10 oktober 2010 is het land Nederlandse Antillen opgeheven. Sinds die datum zijn Bonaire, Sint-Eustatius en Saba (de BES-eilanden) openbare lichamen en maken zij integraal onderdeel uit van het land Nederland. Sint-Maarten en Cura\u00e7ao zijn sinds de hervormingen autonome landen binnen het koninkrijk Nederland. Aruba had al de status van autonoom land binnen het koninkrijk. Bij de bespreking van deze staatskundige verhoudingen zijn enkele kleine onvolkomenheden in de podcast geslopen. De nieuwe verhoudingen zijn het resultaat van een intensief proces tussen de eilandbesturen en de rijksoverheid waarbij onder andere referenda (volksraadplegingen) hebben plaatsgevonden. Verder heeft de Rli alleen een adviestaak voor het land Nederland en niet voor het koninkrijk (daarom richt het Rli-advies zich alleen op de BES-eilanden).</p> <p>Voor wie een beperking heeft of iets wil terugzoeken, is een volledig transcript van deze aflevering te vinden via <a href=\"https://www.rli.nl/podcast\" rel=\"nofollow\">https://www.rli.nl/podcast</a>. Daar vind je ook alle afleveringen van deze serie overzichtelijk bij elkaar.</p>",
+            "duration_ms": 3146187,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3oJtpdhRv7K1HvpX6Wm2N2"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3oJtpdhRv7K1HvpX6Wm2N2",
+            "id": "3oJtpdhRv7K1HvpX6Wm2N2",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3b004aca7f00dd6499ce2fdd",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3b004aca7f00dd6499ce2fdd",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3b004aca7f00dd6499ce2fdd",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Leefomgevingskwaliteit: gelijk voor heel Nederland?",
+            "release_date": "2025-10-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3oJtpdhRv7K1HvpX6Wm2N2"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1QwF1p4NJLNAfg0JnqUVCZ/clip_0_60000.mp3",
             "description": "Nederland heeft te maken met verschillende taaie vraagstukken in de leefomgeving die alsmaar blijven bestaan en daardoor een probleem vormen voor de leefbaarheid van het land. Denk aan het woningtekort, de te hoge CO\u2082- uitstoot, of de schadelijke effecten van de landbouw op het milieu.\u00a0Sommige van deze onderwerpen zijn al enkele decennia onderwerp van maatschappelijk en politiek debat en toch lukt het steeds niet om successen te boeken en een uitweg te vinden. Wat moet er anders om vooruit te komen in deze problematische dossiers, hoe kunnen we ook voor de lange termijn zorgdragen voor de collectieve belangen in onze leefomgeving? Wat kunnen overheden, bedrijven en georganiseerde burgers daarvoor (anders) doen en moeten ze misschien iets laten? In de eerste aflevering Wie zorgt voor de leefomgeving? van de Rli-podcastserie gaat junior-raadslid Marnix Kluiters in gesprek met raadsvoorzitter Jan Jacob van Dijk, raadslid en commissievoorzitter Jantine Kriens en Karen van Oudenhoven-van der Zee, directeur van het Sociaal en Cultureel Planbureau (SCP) over het in mei gepubliceerde advies \u2018Falen en opstaan: naar een doeltreffende aanpak van problemen in de leefomgeving\u2019. Voor wie een beperking heeft of iets wil terugzoeken, is een volledig transcript van deze aflevering te vinden via https://www.rli.nl/podcast. Daar vind je ook alle afleveringen van deze serie overzichtelijk bij elkaar.",
