@@ -4115,15 +4115,55 @@
       "publisher": "De Publieke Ruimte",
       "type": "show",
       "uri": "spotify:show:5VWtfJI3bOU0fDfO33YgeD",
-      "total_episodes": 61,
+      "total_episodes": 62,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 61,
+        "total": 62,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Hvk1eZRvrhIW9EeK4f8ZR/clip_216978_276978.mp3",
+            "description": "Op 29 oktober kiest Nederland een nieuwe Tweede Kamer. Hoe denken de verschillende partijen over het verbeteren van de publieke dienstverlening? Hoe kijken ze naar thema's als dienstverlening, digitalisering en vereenvoudiging? Martijn en Otto gaan in gesprek met drie kandidaat-kamerleden: Joost Sneller (D66), Barbara Kathmann (GroenLinks-PvdA) en Stefan Mastenbroek (CDA).\u00a0",
+            "html_description": "<p>Op 29 oktober kiest Nederland een nieuwe Tweede Kamer. Hoe denken de verschillende partijen over het verbeteren van de publieke dienstverlening? Hoe kijken ze naar thema&#39;s als dienstverlening, digitalisering en vereenvoudiging? Martijn en Otto gaan in gesprek met drie kandidaat-kamerleden: Joost Sneller (D66), Barbara Kathmann (GroenLinks-PvdA) en Stefan Mastenbroek (CDA).\u00a0</p>",
+            "duration_ms": 2895792,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/49ZWg9meVgj8Gm5L3fL4qf"
+            },
+            "href": "https://api.spotify.com/v1/episodes/49ZWg9meVgj8Gm5L3fL4qf",
+            "id": "49ZWg9meVgj8Gm5L3fL4qf",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Tweede Kamerverkiezing 2025",
+            "release_date": "2025-10-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:49ZWg9meVgj8Gm5L3fL4qf"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3SrpjIVkQrPcyXPcC0p3kZ/clip_555987_615987.mp3",
             "description": "\u00c9cht contact maken met de client, burger of ondernemer is een opgave voor publieke dienstverleners. Maar een goed gesprek kost tijd, die meestal op gaat aan administratieve taken. Door slim gebruik te maken van transcriptie op basis van AI-tools, valt hieraan veel te verbeteren. Bij WerkSaam Westfriesland (een uitvoerder van de participatiewet in Noord Holland die mensen begeleidt naar de arbeidsmarkt) voeren ze een VNG-pilot uit met een transcriptietool. Coaches hoeven hierdoor geen gespreksverslagen meer te maken, maar alleen een automatisch gegenereerd rapport te beoordelen. Met als voordeel: tijdwinst en meer menselijke aandacht tijdens de gesprekken met cli\u00ebnten. Maar hoe werkt dat? Welke persoonsgegevens mag je hierbij gebruiken? En hoe reageren de cli\u00ebnten eigenlijk op AI? Martijn en Otto spreken erover met de directeur van WerkSaam Westfriesland Anja Witte, projectleider Stefan Hes en participatiecoach Laura Wurth. Daarnaast schuift Matthijs van Kampen van de VNG aan. Hij vertelt meer over het programma Uitvoeringskracht en Arbeidsmarktkrapte, waarvan deze pilot onderdeel uitmaakt.\u00a0",
@@ -6087,32 +6127,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6lF22Af8V29ssMYZiGRxCv/clip_588145_648145.mp3",
             "description": "In een nieuw seizoen van \u2018De Publieke Ruimte\u2019 praten Martijn en Otto met betrokken ambtenaren over thema\u2019s die aan de basis liggen van goede publieke dienstverlening. Het eerste thema dat ze belichten is \u2018ambtelijk vakmanschap\u2019. Ze spreken er over met Ellen Viergever, programmamanager van het project Ambtelijk Vakmanschap en Grenzeloos Samenwerken, Steven Kroesbergen, dealmaker City Deals voor het ministerie van BZK en Maike Klip, zij publiceerde een blog over \u2018de begripvolle ambtenaar\u2019.",
-            "html_description": "<p>In een nieuw seizoen van \u2018De Publieke Ruimte\u2019 praten Martijn en Otto met betrokken ambtenaren over thema\u2019s die aan de basis liggen van goede publieke dienstverlening. Het eerste thema dat ze belichten is \u2018ambtelijk vakmanschap\u2019. Ze spreken er over met Ellen Viergever, programmamanager van het project Ambtelijk Vakmanschap en Grenzeloos Samenwerken, Steven Kroesbergen, dealmaker City Deals voor het ministerie van BZK en Maike Klip, zij publiceerde een blog over <a href=\"https://www.debegripvolleambtenaar.nl/\" rel=\"nofollow\">\u2018de begripvolle ambtenaar\u2019</a>.</p>",
             "duration_ms": 2886739,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6vrCssaEz0YyenXctq8PQu"
             },
             "href": "https://api.spotify.com/v1/episodes/6vrCssaEz0YyenXctq8PQu",
+            "html_description": "<p>In een nieuw seizoen van \u2018De Publieke Ruimte\u2019 praten Martijn en Otto met betrokken ambtenaren over thema\u2019s die aan de basis liggen van goede publieke dienstverlening. Het eerste thema dat ze belichten is \u2018ambtelijk vakmanschap\u2019. Ze spreken er over met Ellen Viergever, programmamanager van het project Ambtelijk Vakmanschap en Grenzeloos Samenwerken, Steven Kroesbergen, dealmaker City Deals voor het ministerie van BZK en Maike Klip, zij publiceerde een blog over <a href=\"https://www.debegripvolleambtenaar.nl/\" rel=\"nofollow\">\u2018de begripvolle ambtenaar\u2019</a>.</p>",
             "id": "6vrCssaEz0YyenXctq8PQu",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -16631,6 +16671,46 @@
         "total": 25,
         "items": [
           {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/25h2VaUF5hRG6mC3q2JdZn/clip_572208_632208.mp3",
+            "description": "Goed luisteren is cruciaal om te weten wat er leeft onder de mensen in onze samenleving. Als je dat weet, snap je namelijk ook waarover en hoe je moet communiceren. Maar kunnen we nog wel \u00e9cht goed luisteren? Waarom is dat best lastig? Goed luisteren is geen trucje dat je zomaar kunt aanleren en toepassen. Luisteren komt vooral aan op een juiste instelling en op (luister)discipline. Meer hierover leer je in deze podcast.",
+            "html_description": "Goed luisteren is cruciaal om te weten wat er leeft onder de mensen in onze samenleving. Als je dat weet, snap je namelijk ook waarover en hoe je moet communiceren. Maar kunnen we nog wel \u00e9cht goed luisteren? Waarom is dat best lastig? Goed luisteren is geen trucje dat je zomaar kunt aanleren en toepassen. Luisteren komt vooral aan op een juiste instelling en op (luister)discipline. Meer hierover leer je in deze podcast.",
+            "duration_ms": 3346991,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0qMAWtgrWQcOYHSlORUaQ0"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0qMAWtgrWQcOYHSlORUaQ0",
+            "id": "0qMAWtgrWQcOYHSlORUaQ0",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a23b778d3f3959ec75b97b5cf",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f23b778d3f3959ec75b97b5cf",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d23b778d3f3959ec75b97b5cf",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De kunst van het luisteren (Direct Duidelijk Tour)",
+            "release_date": "2025-10-21",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0qMAWtgrWQcOYHSlORUaQ0"
+          },
+          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Qk97TunrjSzhJG7uMzCKc/clip_617333_677333.mp3",
             "description": "Gedragsbe\u00efnvloeding kun je op een heel positieve manier inzetten om mensen te motiveren, in beweging te krijgen, of te stimuleren tot bepaalde keuzes of gedrag. Heb jij wel eens technieken als nudging en boosting toegepast in jouw werk? Hoe zet je gedragsinzichten in? Aan welke knoppen kun je draaien? En hoe weet je wanneer je je doel hebt bereikt?",
             "html_description": "Gedragsbe\u00efnvloeding kun je op een heel positieve manier inzetten om mensen te motiveren, in beweging te krijgen, of te stimuleren tot bepaalde keuzes of gedrag. Heb jij wel eens technieken als nudging en boosting toegepast in jouw werk? Hoe zet je gedragsinzichten in? Aan welke knoppen kun je draaien? En hoe weet je wanneer je je doel hebt bereikt?",
@@ -17589,46 +17669,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:74Blf0MxvrbEojXff4BgWX"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/60varUiJtAoUQFUg0PUZU4/clip_327959_387959.mp3",
-            "description": "Wat is begrijpelijk schrijven? Vraag dit aan een communicatie\u00adprofessional en waarschijnlijk krijg je als antwoord: \u2018Dat is schrijven op B1-niveau.\u2019 Dat schrijven op taalniveau B1 nodig is, hoor en lees je overal. Toch is begrijpelijk schrijven meer dan alleen woorden kiezen op B1-niveau.",
-            "html_description": "Wat is begrijpelijk schrijven? Vraag dit aan een communicatie\u00adprofessional en waarschijnlijk krijg je als antwoord: \u2018Dat is schrijven op B1-niveau.\u2019 Dat schrijven op taalniveau B1 nodig is, hoor en lees je overal. Toch is begrijpelijk schrijven meer dan alleen woorden kiezen op B1-niveau.",
-            "duration_ms": 744096,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1rvSRLihMZcKzq5BeuN1ZY"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1rvSRLihMZcKzq5BeuN1ZY",
-            "id": "1rvSRLihMZcKzq5BeuN1ZY",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Begrijpelijk schrijven is meer dan alleen taalniveau B1",
-            "release_date": "2023-09-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1rvSRLihMZcKzq5BeuN1ZY"
           }
         ]
       }
