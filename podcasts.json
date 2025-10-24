@@ -23255,15 +23255,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 26,
+      "total_episodes": 27,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 26,
+        "total": 27,
         "items": [
+          {
+            "audio_preview_url": null,
+            "description": "In deze aflevering van Zorgklank schuift Pieter van der Zwan aan, wethouder in Smallingerland met zorg in zijn portefeuille \u00e9n voorzitter van de IZA-regio FrYsl\u00e2n. Daarmee is hij de eerste wethouder die bij Zorgklank aanschuift. Pieter is gemandateerd namens de 18 Friese gemeenten en kijkt verder dan alleen het zorgdomein. Armoede, laaggeletterdheid, jeugdproblematiek \u2013 het sociaal domein in volle breedte ligt op zijn bord. En dat vraagt om een aanpak waarin gezondheid overal meeweegt. \u00a0Hoe werk je regionaal samen als belangen soms schuren? Hoe houd je koers op het algemene belang als wethouder \u00e9n regiovoorzitter? En hoe cre\u00eber je bewustzijn bij inwoners die zich nauwelijks realiseren dat de zorg zoals we die nu kennen onder druk staat? \u00a0We praten over krimp, vergrijzing, en hoe Friesland via de Friese Preventieaanpak inzet op sterke wijken, verbonden netwerken en oplossingen zoals FitStart. Want hoe houd je Friezen zo lang mogelijk gezond en uit de zorg en hoe transformeer je een systeem dat piept en kraakt? \u00a0Pieter van der Zwan laat zien dat het kan, maar niet zonder scherpe keuzes en echte samenwerking. Hoe kom je los van het oude denken? En wat is er nodig om echt te transformeren? Je hoort het nu, in Zorgklank.",
+            "html_description": "<p>In deze aflevering van Zorgklank schuift Pieter van der Zwan aan, wethouder in Smallingerland met zorg in zijn portefeuille \u00e9n voorzitter van de IZA-regio FrYsl\u00e2n. Daarmee is hij de eerste wethouder die bij Zorgklank aanschuift. Pieter is gemandateerd namens de 18 Friese gemeenten en kijkt verder dan alleen het zorgdomein. Armoede, laaggeletterdheid, jeugdproblematiek \u2013 het sociaal domein in volle breedte ligt op zijn bord. En dat vraagt om een aanpak waarin gezondheid overal meeweegt.</p> <p>\u00a0Hoe werk je regionaal samen als belangen soms schuren? Hoe houd je koers op het algemene belang als wethouder \u00e9n regiovoorzitter? En hoe cre\u00eber je bewustzijn bij inwoners die zich nauwelijks realiseren dat de zorg zoals we die nu kennen onder druk staat?</p> <p>\u00a0We praten over krimp, vergrijzing, en hoe Friesland via de Friese Preventieaanpak inzet op sterke wijken, verbonden netwerken en oplossingen zoals FitStart. Want hoe houd je Friezen zo lang mogelijk gezond en uit de zorg en hoe transformeer je een systeem dat piept en kraakt?</p> <p>\u00a0Pieter van der Zwan laat zien dat het kan, maar niet zonder scherpe keuzes en echte samenwerking. Hoe kom je los van het oude denken? En wat is er nodig om echt te transformeren?</p> <p>Je hoort het nu, in Zorgklank.</p>",
+            "duration_ms": 1764702,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0uS22KLpynje021SXdtT7b"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0uS22KLpynje021SXdtT7b",
+            "id": "0uS22KLpynje021SXdtT7b",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abd0ded91ede82d64fc808e79",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbd0ded91ede82d64fc808e79",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbd0ded91ede82d64fc808e79",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E3: Friese Zorg in Transitie: Pieter van de Zwan over samenwerken voorbij de domeinen.",
+            "release_date": "2025-10-24",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0uS22KLpynje021SXdtT7b"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0vekL80ApJgGBnJssD1P4z/clip_455652_515652.mp3",
             "description": "In deze aflevering van Zorgklank gaan we in gesprek met twee mensen die vanuit het BovenIJ Ziekenhuis een sleutelrol spelen in de beweging naar betere, meer verbonden zorg in Amsterdam-Noord: Nynke Posthuma, internist en medisch manager, en Edwin van der Meer, voorzitter raad van bestuur. \u00a0 Beiden zijn actief betrokken bij BeterSamen in Noord. Een netwerk waarin ziekenhuis, huisartsen, GGZ en het sociaal domein samen optrekken om de gezondheid van inwoners duurzaam te versterken. De focus verschuift van \u2018alleen behandelen\u2019 naar \u2018beter helpen\u2019 en dat vraagt om nieuwe verbindingen. \u00a0 We spreken over initiatieven zoals het Gezond Noord Loket, over hoe je als ziekenhuis kunt meebewegen naar de voorkant van de zorg, en over hoe samenwerking in de wijk leidt tot betere resultaten. Want als je mensen eerder en breder helpt, komen ze uiteindelijk minder vaak terug \u2013 en houd je meer ruimte over voor wie het echt nodig heeft. \u00a0 Ook delen Nynke en Edwin hoe je soms gewoon kunt beginnen, nog v\u00f3\u00f3rdat alle regelingen en financiering zijn uitgewerkt. Want gezondheid wacht niet. En waar landelijke middelen soms (nog) achterblijven, kun je lokaal al veel bereiken met lef, visie en slimme inzet van bestaande middelen. \u00a0 Kortom: hoe bouw je aan zorg die mensen \u00e9cht vooruithelpt, in een regio waar de gezondheidsverschillen groot zijn, maar de wil om samen te werken nog groter?",
