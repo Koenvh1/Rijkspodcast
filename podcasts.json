@@ -99064,15 +99064,55 @@
       "publisher": "Nationaal Comit\u00e9 4 en 5 mei",
       "type": "show",
       "uri": "spotify:show:6Bml9OOY6b4k10R9cr0wIt",
-      "total_episodes": 5,
+      "total_episodes": 6,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6Bml9OOY6b4k10R9cr0wIt/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 5,
+        "total": 6,
         "items": [
+          {
+            "audio_preview_url": null,
+            "description": "Leendert heeft veel meegemaakt onderweg naarGroningen. Hij sliep in een schuur vol Arnhemsevluchtelingen en was bijna zijn fiets kwijt. ToenLeendert eindelijk in Epe was, brak ook nog eenshet hout van zijn fietsband! Het duurde langvoordat hij verder kon fietsen. Leendert moest op-schieten om op tijd in Groningen aan te komen!Gelukkig kreeg hij hulp van Jet, zij wist de kortsteweg. Zal het Jet en Leendert lukken om op tijd debrief af te leveren?",
+            "html_description": "<p>Leendert heeft veel meegemaakt onderweg naar</p><p>Groningen. Hij sliep in een schuur vol Arnhemse</p><p>vluchtelingen en was bijna zijn fiets kwijt. Toen</p><p>Leendert eindelijk in Epe was, brak ook nog eens</p><p>het hout van zijn fietsband! Het duurde lang</p><p>voordat hij verder kon fietsen. Leendert moest op-</p><p>schieten om op tijd in Groningen aan te komen!</p><p>Gelukkig kreeg hij hulp van Jet, zij wist de kortste</p><p>weg. Zal het Jet en Leendert lukken om op tijd de</p><p>brief af te leveren?</p>",
+            "duration_ms": 1029455,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/00Vu0l3H7U8gjUnIF6WEKl"
+            },
+            "href": "https://api.spotify.com/v1/episodes/00Vu0l3H7U8gjUnIF6WEKl",
+            "id": "00Vu0l3H7U8gjUnIF6WEKl",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aeb4d0def78a8f3d540bde39d",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1feb4d0def78a8f3d540bde39d",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68deb4d0def78a8f3d540bde39d",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Aflevering 5: Een envelop met een foto (april 1945)",
+            "release_date": "2025-10-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:00Vu0l3H7U8gjUnIF6WEKl"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4RzduhimUtOXRWUK0PM7tT/clip_393053_453053.mp3",
             "description": "Leendert is onderweg naar Groningen om een belangrijke boodschap van het verzet te bezorgen. Die boodschap zit in een geheime zak van zijn broek. In de vorige aflevering fietste Leendert in bezet gebied. Hij kwam door het uitgebrande Putten. Ineens leek het erop dat Leendert verdwaald was. Het was al donker en bezeerde zich ook nog eens. Hij ziet het niet meer zitten. Zou hij zijn tocht opgeven?",
@@ -131512,15 +131552,16 @@
       "publisher": "WODC",
       "type": "show",
       "uri": "spotify:show:7jtE5bnuZHD46nMJUAmdyG",
-      "total_episodes": 14,
+      "total_episodes": 15,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7jtE5bnuZHD46nMJUAmdyG/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 14,
+        "total": 15,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0otsdJlHZ0LuQMpTQK23OF/clip_594965_654965.mp3",
             "description": "Huwelijksdwang, achterlating en vrouwelijke genitale verminking: ieder jaar zijn er in Nederland honderden tot duizenden (voornamelijk) meisjes en vrouwen slachtoffer van. Maar is hier wel iets tegen te doen? Nederland lijkt namelijk maar moeilijk grip te krijgen op het fenomeen.In deze aflevering spreekt host Carlissa Remmerswaal met Annemarie Middelburg van Right to Rise over haar WODC-onderzoek naar dit fenomeen en wat wij kunnen leren van het Verenigd Koninkrijk om gender-gerelateerd geweld te voorkomen. Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060 of bekijk de factsheet.Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
