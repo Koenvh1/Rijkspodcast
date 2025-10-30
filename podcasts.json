@@ -117710,15 +117710,55 @@
       "publisher": "Bureau Scherpte Diepte",
       "type": "show",
       "uri": "spotify:show:2UY9LIrltGlysx6YGUN8Ig",
-      "total_episodes": 11,
+      "total_episodes": 12,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2UY9LIrltGlysx6YGUN8Ig/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 11,
+        "total": 12,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7AYGd2929rHyw7L9U2gjyy/clip_143238_203238.mp3",
+            "description": "In deze aflevering van Delta & Duiten gaat presentator Maarten Bouwhuis in gesprek met Marike Bonhof, CFO van woningcorporatie Ymere, en Lidwin van Velden, CEO van de Nederlandse Waterschapsbank. Zij onderzoeken hoe woningbouw en financiering kunnen bijdragen aan een klimaatbestendig Nederland. Ze doen dat bijvoorbeeld met een vernieuwend project in Haarlem, waar Ymere en de Waterschapsbank samen met andere partners werken aan waterpositief bouwen: woningen die regenwater opvangen en hergebruiken, en piekbuien beter verwerken.Welke financi\u00eble en praktische keuzes komen bij dit soort projecten kijken? Hoe maak je bouwen met oog voor water haalbaar \u00e9n betaalbaar? En hoe zorg je dat de investeringen van nu toekomstige schade voorkomen? Bonhof en Van Velden bespreken de noodzaak van langetermijndenken, het belang van samenwerking tussen publieke en financi\u00eble partijen en de kansen om duurzaamheid structureel onderdeel te maken van de woningbouwopgave.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>In deze aflevering van Delta &amp; Duiten gaat presentator Maarten Bouwhuis in gesprek met Marike Bonhof, CFO van woningcorporatie Ymere, en Lidwin van Velden, CEO van de Nederlandse Waterschapsbank. Zij onderzoeken hoe woningbouw en financiering kunnen bijdragen aan een klimaatbestendig Nederland. Ze doen dat bijvoorbeeld met een vernieuwend project in Haarlem, waar Ymere en de Waterschapsbank samen met andere partners werken aan waterpositief bouwen: woningen die regenwater opvangen en hergebruiken, en piekbuien beter verwerken.</p><p>Welke financi\u00eble en praktische keuzes komen bij dit soort projecten kijken? Hoe maak je bouwen met oog voor water haalbaar \u00e9n betaalbaar? En hoe zorg je dat de investeringen van nu toekomstige schade voorkomen? Bonhof en Van Velden bespreken de noodzaak van langetermijndenken, het belang van samenwerking tussen publieke en financi\u00eble partijen en de kansen om duurzaamheid structureel onderdeel te maken van de woningbouwopgave.</p><p>Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.<br /><br /></p><p><br /></p>",
+            "duration_ms": 2147040,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3kwwuDJXRpPOBguWjz5WhS"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3kwwuDJXRpPOBguWjz5WhS",
+            "id": "3kwwuDJXRpPOBguWjz5WhS",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0d77f11529812317e2d70196",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0d77f11529812317e2d70196",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0d77f11529812317e2d70196",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Marike Bonhof, CFO Ymere en Lidwin van Velden, CEO Waterschapsbank",
+            "release_date": "2025-10-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3kwwuDJXRpPOBguWjz5WhS"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7pWv7Yea23DxW5gNOgbReA/clip_451905_511905.mp3",
             "description": "In deze aflevering van Delta & Duiten gaat presentator Maarten Bouwhuis in gesprek met Jaap Slootmaker, directeur-generaal Water en Bodem bij het ministerie van Infrastructuur en Waterstaat en \u00e9\u00e9n van de ambassadeurs van NL AAA Klimaatbestendig. Vanuit zijn positie kijkt Slootmaker verder dan de politieke cyclus: tot aan 2100 en daar voorbij. Hoe zorg je dat Nederland voorbereid is op de stijgende zeespiegel, langere periodes van droogte en intensievere regenval \u2013 terwijl de politieke aandacht vaak niet verder reikt dan het volgende regeerakkoord?Slootmaker vertelt hoe de overheid probeert om keuzes voor de lange termijn niet vooruit te schuiven, maar juist n\u00fa te maken. Grote besluiten zoals de Deltawerken tonen aan dat visie op de verre toekomst cruciaal is, zeker als klimaatadaptatie moet worden betaald uit publieke middelen. Wie betaalt de rekening, en hoe kunnen publieke \u00e9n private partijen bijdragen aan een klimaatbestendig Nederland?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
