@@ -71124,15 +71124,55 @@
       "publisher": "Leerhuis Informatiehuishouding",
       "type": "show",
       "uri": "spotify:show:6oJsjZsAiunyNsDK1g9QzK",
-      "total_episodes": 46,
+      "total_episodes": 47,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6oJsjZsAiunyNsDK1g9QzK/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 46,
+        "total": 47,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5paRwJnyAC9WhcQrAN6EGx/clip_291381_351381.mp3",
+            "description": "Overheidsinformatie moet betrouwbaar, duurzaam en toegankelijk zijn \u2013 zeker nu de hoeveelheid digitale dossiers snel toeneemt. Voor het ministerie van Justitie en Veiligheid speelt het Centraal Digitaal Depot Plus (CDD+) daarin een sleutelrol. Justid, de Justiti\u00eble informatiedienst, ondersteunt rijksorganisaties binnen het justiti\u00eble domein bij het toegankelijk houden van overheidsinformatie. Hoe zorg je ervoor dat cruciale data niet verdwijnt in de digitale mist?",
+            "html_description": "<p></p><p>Overheidsinformatie moet betrouwbaar, duurzaam en toegankelijk zijn \u2013 zeker nu de hoeveelheid digitale dossiers snel toeneemt. Voor het ministerie van Justitie en Veiligheid speelt het Centraal Digitaal Depot Plus (CDD&#43;) daarin een sleutelrol. Justid, de Justiti\u00eble informatiedienst, ondersteunt rijksorganisaties binnen het justiti\u00eble domein bij het toegankelijk houden van overheidsinformatie. Hoe zorg je ervoor dat cruciale data niet verdwijnt in de digitale mist?</p>",
+            "duration_ms": 1900649,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0fDpwWhSJxRXYPjxOs8o06"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0fDpwWhSJxRXYPjxOs8o06",
+            "id": "0fDpwWhSJxRXYPjxOs8o06",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3dae8c8233e18e503fc199aa",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3dae8c8233e18e503fc199aa",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3dae8c8233e18e503fc199aa",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering #47 met als gasten Gerben Kleine en Simone Hensen - Justid",
+            "release_date": "2025-10-30",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0fDpwWhSJxRXYPjxOs8o06"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Ue4afVdG8EpjmSdobeLfs/clip_328822_388822.mp3",
             "description": "",
