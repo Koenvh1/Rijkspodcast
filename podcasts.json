@@ -134311,15 +134311,55 @@
       "publisher": "Interviews met oud-bewindspersonen en oud-topambtenaren",
       "type": "show",
       "uri": "spotify:show:6vM4ioqldTXWWxD6xW5zSg",
-      "total_episodes": 44,
+      "total_episodes": 45,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6vM4ioqldTXWWxD6xW5zSg/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 44,
+        "total": 45,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1y8V25RNLTvAenC4qC5xmM/clip_657365_717365.mp3",
+            "description": "Nieuwsgierigheid loopt als een rode draad door de loopbaan van Mich\u00e8le Blom. Vanaf het prille begin bij de Algemene Rekenkamer tot in haar functies als directeur en DG binnen de ministeries van Verkeer en Waterstaat en van Justitie paste ze steeds de les toe die ze al op jonge leeftijd leerde: \u201cJe moet de feiten kennen voordat je iets wil.\u201d Wanneer zich binnen organisaties crisissen afspelen is het bovendien soms nodig een gok te nemen en je nek uit te steken: \u201cAf en toe moet je het lef hebben om dingen gewoon te doen.\u201d Iets wat men in Den Haag momenteel lastig vindt, ziet ze. Maar: \u201cAls je alles in een risicomatrix zet, komen we niet vooruit.\u201d Luister naar Mich\u00e8le Blom in gesprek met Roel Bekker en Paul \u2019t Hart.\u00a0",
+            "html_description": "<p>Nieuwsgierigheid loopt als een rode draad door de loopbaan van Mich\u00e8le Blom. Vanaf het prille begin bij de Algemene Rekenkamer tot in haar functies als directeur en DG binnen de ministeries van Verkeer en Waterstaat en van Justitie paste ze steeds de les toe die ze al op jonge leeftijd leerde: \u201cJe moet de feiten kennen voordat je iets wil.\u201d Wanneer zich binnen organisaties crisissen afspelen is het bovendien soms nodig een gok te nemen en je nek uit te steken: \u201cAf en toe moet je het lef hebben om dingen gewoon te doen.\u201d Iets wat men in Den Haag momenteel lastig vindt, ziet ze. Maar: \u201cAls je alles in een risicomatrix zet, komen we niet vooruit.\u201d Luister naar Mich\u00e8le Blom in gesprek met Roel Bekker en Paul \u2019t Hart.</p><p>\u00a0</p>",
+            "duration_ms": 4961749,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6rSyaqD6jYnLkBlkFMVDF4"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6rSyaqD6jYnLkBlkFMVDF4",
+            "id": "6rSyaqD6jYnLkBlkFMVDF4",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aae12c4ac8c0bd0d27ed6180a",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fae12c4ac8c0bd0d27ed6180a",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dae12c4ac8c0bd0d27ed6180a",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "\u201cJe moet de feiten kennen voordat je iets wil\u201d",
+            "release_date": "2025-10-31",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6rSyaqD6jYnLkBlkFMVDF4"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4oxzJwHxE0hbTQcQ7PEoGx/clip_304820_364820.mp3",
             "description": "Vanaf een opleiding aan de KMA tot aan Commandant der Strijdkrachten: dat was de weg die Tom Middendorp binnen Defensie aflegde. Het gaat er voor hem om je eigen talenten \u00e9n jezelf te verbinden aan de organisatie: \u201cJe moet er met huid en haar inzitten.\u201d Volgens Middendorp is het de kunst om je kracht te ontwikkelen en een koers te vinden. Onder zijn leiding eindigde een lange periode van bezuinigingen op Defensie. Daarnaast kwamen nieuwe dreigingen vanuit Rusland en klimaatverandering op de radar: \u201cJe moet ook naar de problemen van morgen kijken.\u201d Nadat hij samen met minister Hennis-Plasschaert opstapte wegens een mortierincident in Mali, richt hij zich als \u2018klimaatgeneraal\u2019 op veiligheidsvraagstukken door klimaatverandering. Luister naar Tom Middendorp in gesprek met Paul \u2019t Hart en Erik-Jan van Dorp.",
