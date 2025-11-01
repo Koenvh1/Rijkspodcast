@@ -23255,15 +23255,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 27,
+      "total_episodes": 28,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 27,
+        "total": 28,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4oeJBljTT3zVWUAI575BtW/clip_135941_195941.mp3",
+            "description": "In deze aflevering gaat Aiko in gesprek met Jeroen Tas, voormalig topman bij Philips, tech-investeerder en adviseur van start-ups in de zorg. Jeroen woonde jarenlang in de VS, waar hij werkte aan grootschalige innovatietrajecten. \u00a0 Hij vertelt waar zijn passie vandaan komt, hoe je met data en technologie \u00e9cht waarde toevoegt, en waarom zorginnovatie in Nederland vaak stokt, waardoor veel scale-ups uitwijken naar het buitenland. \u00a0 Ze bespreken onder andere Ancora, een digitaal platform dat pati\u00ebnten en zorgteams helpt om samen betere gezondheidsuitkomsten te bereiken. Ook gaan ze in op hoe je nieuwe diensten bouwt, data uit versnipperde systemen koppelt, en wat er nodig is om start-ups te laten groeien. \u00a0 Een scherp gesprek over kansen, blokkades en wat er moet gebeuren om de zorg toekomstbestendig te houden.",
+            "html_description": "<p>In deze aflevering gaat Aiko in gesprek met Jeroen Tas, voormalig topman bij Philips, tech-investeerder en adviseur van start-ups in de zorg. Jeroen woonde jarenlang in de VS, waar hij werkte aan grootschalige innovatietrajecten.</p> <p>\u00a0</p> <p>Hij vertelt waar zijn passie vandaan komt, hoe je met data en technologie \u00e9cht waarde toevoegt, en waarom zorginnovatie in Nederland vaak stokt, waardoor veel scale-ups uitwijken naar het buitenland.</p> <p>\u00a0</p> <p>Ze bespreken onder andere Ancora, een digitaal platform dat pati\u00ebnten en zorgteams helpt om samen betere gezondheidsuitkomsten te bereiken. Ook gaan ze in op hoe je nieuwe diensten bouwt, data uit versnipperde systemen koppelt, en wat er nodig is om start-ups te laten groeien.</p> <p>\u00a0</p> <p>Een scherp gesprek over kansen, blokkades en wat er moet gebeuren om de zorg toekomstbestendig te houden.</p>",
+            "duration_ms": 2654328,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1copP6TWK98o9n8LWx3GsY"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1copP6TWK98o9n8LWx3GsY",
+            "id": "1copP6TWK98o9n8LWx3GsY",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0e795b3866220996c6c64ab4",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0e795b3866220996c6c64ab4",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0e795b3866220996c6c64ab4",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E4: Jeroen Tas over de Toekomst van de Zorg: Data, Tech en Doorbraak",
+            "release_date": "2025-10-31",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1copP6TWK98o9n8LWx3GsY"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0TdBwUahQx9Md44ymwg9Mn/clip_556174_616174.mp3",
             "description": "In deze aflevering van Zorgklank schuift Pieter van der Zwan aan, wethouder in Smallingerland met zorg in zijn portefeuille \u00e9n voorzitter van de IZA-regio FrYsl\u00e2n. Daarmee is hij de eerste wethouder die bij Zorgklank aanschuift. Pieter is gemandateerd namens de 18 Friese gemeenten en kijkt verder dan alleen het zorgdomein. Armoede, laaggeletterdheid, jeugdproblematiek \u2013 het sociaal domein in volle breedte ligt op zijn bord. En dat vraagt om een aanpak waarin gezondheid overal meeweegt. \u00a0Hoe werk je regionaal samen als belangen soms schuren? Hoe houd je koers op het algemene belang als wethouder \u00e9n regiovoorzitter? En hoe cre\u00eber je bewustzijn bij inwoners die zich nauwelijks realiseren dat de zorg zoals we die nu kennen onder druk staat? \u00a0We praten over krimp, vergrijzing, en hoe Friesland via de Friese Preventieaanpak inzet op sterke wijken, verbonden netwerken en oplossingen zoals FitStart. Want hoe houd je Friezen zo lang mogelijk gezond en uit de zorg en hoe transformeer je een systeem dat piept en kraakt? \u00a0Pieter van der Zwan laat zien dat het kan, maar niet zonder scherpe keuzes en echte samenwerking. Hoe kom je los van het oude denken? En wat is er nodig om echt te transformeren? Je hoort het nu, in Zorgklank.",
