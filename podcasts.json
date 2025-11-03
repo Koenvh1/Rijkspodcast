@@ -116648,15 +116648,55 @@
       "publisher": "Mari\u00ebtte Hamer met J\u00f6rgen Raymann (seizoen 2) en Sahil Amar A\u00efssa (seizoen 1)",
       "type": "show",
       "uri": "spotify:show:7FrESPQScQr7vKqAv51SLj",
-      "total_episodes": 22,
+      "total_episodes": 23,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7FrESPQScQr7vKqAv51SLj/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 22,
+        "total": 23,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0MvMFgF8ImWclk3fWNIRRG/clip_126438_186438.mp3",
+            "description": "Liedjesschrijver Joost Hofman en content maker en rapper D\u00e9fano Holwijn spraken zich eind augustus op social media uit over al het geweld tegen vrouwen.Het applaus dat ze kregen, van met name vrouwen, gaf hen bijna een ongemakkelijk gevoel.\u201cHieruit blijkt dat het dus niet normaal is dat mannen zich hierover uitspreken\u201d, aldus D\u00e9fano.\u201cEr zijn mannen die hier al heel lang tegenstrijden. En ik ben in het verleden ook echt een klootzak geweest\u2026\u201d, aldus Joost.Mari\u00ebtte en J\u00f6rgen onderstrepen in een openhartig en persoonlijk gesprek hoe belangrijk het is dat mannen zich uitspreken. Ondanks het ongemak. Ondanks het feit dat je zelf niet perfect bent of bent geweest, want dat geldt voor ons allemaal.Om mannen te motiveren ook elkaar aan te spreken: hun eigen vrienden, collega\u2019s en sportmaatjes is de campagne \u2018Man, zeg er wat van!\u2019 gestart. Mari\u00ebtte vertelt over de campagne en legt de vraag op tafel: \u201cWat is er nodig om ook in de kroeg of in de voetbalkleedkamer op te staan als opmerkingen of grappen te ver gaan?\u201dGeen gemakkelijke vraag zo blijkt\u2026Voor J\u00f6rgen is het aanspreken van vrienden het minst lastig: \u201cAls ik een bepaalde opmerking maak 'Hey guys, zo gaan we niet met elkaar om of dit kan echt niet', zijn er altijd een paar die zeggen 'daar hebben we de pater weer\u201d. Maar er is ook een heel groot gedeelte dat meegaat. Ik blijf het gewoon doen, want als wij bepaald gedrag niet de-normaliseren, dan verandert het niet\u201d. Maar in de kroeg als je de reacties of situatie niet helemaal kunt inschatten\u2026\u00a0Voor meer informatie over de campagne \u2018Man, zeg er wat van!\u2019: www.metelkaartrekkenwedegrens.nl \u00a0Insta: \u2060@mariettehamer\u2060Website: \u2060www.rcgog.nl\u2060E-mail: \u2060contact@rcgog.nl\u2060Geproduceerd door: PnP MediaCover: Jip van den ToornMuziek: Bram KniestZang: Hadewych Minis",
+            "html_description": "<p>Liedjesschrijver Joost Hofman en content maker en rapper D\u00e9fano Holwijn spraken zich eind augustus op social media uit over al het geweld tegen vrouwen.</p><p>Het applaus dat ze kregen, van met name vrouwen, gaf hen bijna een ongemakkelijk gevoel.</p><p>\u201cHieruit blijkt dat het dus niet normaal is dat mannen zich hierover uitspreken\u201d, aldus D\u00e9fano.</p><p>\u201cEr zijn mannen die hier al heel lang tegenstrijden. En ik ben in het verleden ook echt een klootzak geweest\u2026\u201d, aldus Joost.</p><p>Mari\u00ebtte en J\u00f6rgen onderstrepen in een openhartig en persoonlijk gesprek hoe belangrijk het is dat mannen zich uitspreken. Ondanks het ongemak. Ondanks het feit dat je zelf niet perfect bent of bent geweest, want dat geldt voor ons allemaal.</p><p>Om mannen te motiveren ook elkaar aan te spreken: hun eigen vrienden, collega\u2019s en sportmaatjes is de campagne \u2018Man, zeg er wat van!\u2019 gestart. </p><p>Mari\u00ebtte vertelt over de campagne en legt de vraag op tafel: </p><p>\u201cWat is er nodig om ook in de kroeg of in de voetbalkleedkamer op te staan als opmerkingen of grappen te ver gaan?\u201d</p><p>Geen gemakkelijke vraag zo blijkt\u2026</p><p>Voor J\u00f6rgen is het aanspreken van vrienden het minst lastig: \u201cAls ik een bepaalde opmerking maak &#39;Hey guys, zo gaan we niet met elkaar om of dit kan echt niet&#39;, zijn er altijd een paar die zeggen &#39;daar hebben we de pater weer\u201d. Maar er is ook een heel groot gedeelte dat meegaat. Ik blijf het gewoon doen, want als wij bepaald gedrag niet de-normaliseren, dan verandert het niet\u201d. </p><p>Maar in de kroeg als je de reacties of situatie niet helemaal kunt inschatten\u2026</p><p>\u00a0</p><p>Voor meer informatie over de campagne \u2018Man, zeg er wat van!\u2019: www.metelkaartrekkenwedegrens.nl </p><p>\u00a0</p><p>Insta: \u2060&#64;mariettehamer\u2060</p><p>Website: \u2060www.rcgog.nl\u2060</p><p>E-mail: \u2060contact&#64;rcgog.nl\u2060</p><p>Geproduceerd door: PnP Media</p><p>Cover: Jip van den Toorn</p><p>Muziek: Bram Kniest</p><p>Zang: Hadewych Minis</p><p><br /></p>",
+            "duration_ms": 4402602,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3egkuz0PGFqgzXfcLnPZVb"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3egkuz0PGFqgzXfcLnPZVb",
+            "id": "3egkuz0PGFqgzXfcLnPZVb",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ad27f82d33f59666c5c835ced",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fd27f82d33f59666c5c835ced",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dd27f82d33f59666c5c835ced",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Man, zeg er wat van",
+            "release_date": "2025-11-03",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3egkuz0PGFqgzXfcLnPZVb"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Nw1eASb2zMK7CfNTCRyX6/clip_445285_505285.mp3",
             "description": "In deze laatste aflevering voor de zomer, gaan Mari\u00ebtte Hamer en J\u00f6rgen Raymann een laag dieper. Op zoek naar ingesleten patronen tussen mannen en vrouwen, die invloed hebben op ons gedrag en de omgang met elkaar.Want als we seksueel grensoverschrijdend gedrag willen voorkomen en willen werken aan nieuwe omgangsvormen, dan zullen we deze patronen -of karrensporen zoals onze tafelgast en emeritus hoogleraar Christien Brinkgreve ze noemt in haar boek \u2018Beladen huis\u2019- moeten aankijken, bespreken en doorbreken met elkaar. Dit doen we naast Christien met Roos Moggr\u00e9: presentatrice, columnist en schrijver van het boek \u2018Altijd blijven scheren\u2019, waarin zij met succesvolle mannen in gesprek gaat over mentale tegenwind.Patronen in alle vormen en maten komen op tafel: van de verdeling van het werk, het huishouden of de zorg voor kinderen tot de mate waarin je opeist of je aanpast, of misschien zelfs wel een stukje van jezelf laat varen ten behoeve van de ander of de sfeer in huis of op kantoor.Het mooie van een gesprek over patronen, is dat man en vrouw of slachtoffer en dader niet tegenover elkaar komen te staan. Het is een gesprek m\u00e9t elkaar, over hoe WE dit oplossen. Zoals Christien zonder schuldvraag reflecteert op haar eigen huwelijk: \u201cHoe zijn we hierin terecht gekomen, we begonnen zo gelijkwaardig en enthousiast?\u201d Een gesprek ook over verschillen tussen generaties. \u201cIk hoop dat we jongens beter leren praten over wat ze voelen. En dat we het ook beter gaan zien. Dus dat we anders naar mannen gaan kijken en ook anders naar vrouwen\u201d, aldus Roos.Insta: \u2060@mariettehamer \u2060Website: \u2060www.rcgog.nl\u2060E-mail: \u2060contact@rcgog.nl\u2060Geproduceerd door: PnP MediaCover: Jip van den ToornMuziek: Bram KniestZang: Hadewych Minis",
