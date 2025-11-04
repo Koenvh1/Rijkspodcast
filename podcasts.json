@@ -4115,15 +4115,55 @@
       "publisher": "De Publieke Ruimte",
       "type": "show",
       "uri": "spotify:show:5VWtfJI3bOU0fDfO33YgeD",
-      "total_episodes": 62,
+      "total_episodes": 63,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 62,
+        "total": 63,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4YW7p5BVRGpIgC0X9G5wtJ/clip_628185_688185.mp3",
+            "description": "\"Het onderscheid tussen een leider en een volger is innovatie\" aldus Apple-oprichter Steve Jobs. Maar hoeveel van dit soort leiders zijn er eigenlijk bij de Rijksoverheid? Hoeveel ruimte is er om dingen echt anders te doen? En zetten we succesvolle innovaties wel voldoende in de etalage? Martijn en Otto praten erover met Dirk-Jan de Bruijn, voorzitter van de Rijks Innovatie Community, en Marjanke T\u00f6ller, programmadirecteur Innovatie & Dienstverlening bij het UWV. Links uit deze uitzending: https://www.rijksinnovatiecommunity.nl/, https://www.kennisvandeoverheid.nl/organisatiecultuur/innovatie-barometer",
+            "html_description": "<p>&#34;Het onderscheid tussen een leider en een volger is innovatie&#34; aldus Apple-oprichter Steve Jobs. Maar hoeveel van dit soort leiders zijn er eigenlijk bij de Rijksoverheid? Hoeveel ruimte is er om dingen echt anders te doen? En zetten we succesvolle innovaties wel voldoende in de etalage? Martijn en Otto praten erover met Dirk-Jan de Bruijn, voorzitter van de Rijks Innovatie Community, en Marjanke T\u00f6ller, programmadirecteur Innovatie &amp; Dienstverlening bij het UWV. Links uit deze uitzending: <a href=\"https://www.rijksinnovatiecommunity.nl/\" rel=\"nofollow\">https://www.rijksinnovatiecommunity.nl/</a>, <a href=\"https://www.kennisvandeoverheid.nl/organisatiecultuur/innovatie-barometer\" rel=\"nofollow\">https://www.kennisvandeoverheid.nl/organisatiecultuur/innovatie-barometer</a></p>",
+            "duration_ms": 3222840,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/68ouX7p0eGzHLGpRDUzBQw"
+            },
+            "href": "https://api.spotify.com/v1/episodes/68ouX7p0eGzHLGpRDUzBQw",
+            "id": "68ouX7p0eGzHLGpRDUzBQw",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Innovatie bij Rijksoverheid",
+            "release_date": "2025-11-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:68ouX7p0eGzHLGpRDUzBQw"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Hvk1eZRvrhIW9EeK4f8ZR/clip_216978_276978.mp3",
             "description": "Op 29 oktober kiest Nederland een nieuwe Tweede Kamer. Hoe denken de politieke partijen over het verbeteren van de publieke dienstverlening? Hoe kijken ze naar thema's als dienstverlening, digitalisering en vereenvoudiging?  Martijn en Otto gaan in gesprek met drie kandidaat-Kamerleden: Joost Sneller (D66), Barbara Kathmann (GroenLinks-PvdA) en Stefan Mastenbroek (CDA).\u00a0  Een verhelderend verkiezingsdebat over politieke zelfmoordtaken, Nationale vereenvoudigingsdag, rode kaarten trekken en de innovatieve focus van nieuwe bewindspersonen. \u00a0",
@@ -6087,32 +6127,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1SrPp9c4exIRwdJZpHjxTC/clip_269108_329108.mp3",
             "description": "Hoe herken je als medewerker van een publieke dienstverlener hardvochtigheden in uitvoering van de wet? En wat kun je doen om het bespreekbaar te maken en te veranderen? Martijn en Otto praten er over met Martin Hagen, strategisch beleidsadviseur bij DJI en Jean Weijers, manager bij DUO.",
-            "html_description": "<p>Hoe herken je als medewerker van een publieke dienstverlener hardvochtigheden in uitvoering van de wet? En wat kun je doen om het bespreekbaar te maken en te veranderen?<br /><br/>Martijn en Otto praten er over met Martin Hagen, strategisch beleidsadviseur bij DJI en Jean Weijers, manager bij DUO.</p>",
             "duration_ms": 2335764,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/69iBpflDbu06yzlEa2yYuA"
             },
             "href": "https://api.spotify.com/v1/episodes/69iBpflDbu06yzlEa2yYuA",
+            "html_description": "<p>Hoe herken je als medewerker van een publieke dienstverlener hardvochtigheden in uitvoering van de wet? En wat kun je doen om het bespreekbaar te maken en te veranderen?<br /><br/>Martijn en Otto praten er over met Martin Hagen, strategisch beleidsadviseur bij DJI en Jean Weijers, manager bij DUO.</p>",
             "id": "69iBpflDbu06yzlEa2yYuA",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -131722,7 +131762,46 @@
         "previous": null,
         "total": 15,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4EHBFkrlToGXOcIM5ZQvhc/clip_282930_342930.mp3",
+            "description": "De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van \u2060Dossier WODC Live\u2060 en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees \u2060hier\u2060 het volledige rapport. Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060\u2060www.wodc.nl\u2060Dank aan Jeroen Hairwasser voor de uitnodiging. Opnames op locatie verzorgd door NFGD.",
+            "html_description": "<p>De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). <br /></p><p>Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?<br /></p><p>Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van <a href=\"https://www.dossierwodc.nl/\" rel=\"nofollow\">\u2060Dossier WODC Live\u2060</a> en kijk wanneer we bij jouw in de buurt komen.<br /></p><p>Meer weten over dit onderzoek? Lees <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3407/3495-drie-jaar-legaal-online-gokken-volledige-tekst.pdf?sequence&#61;4&amp;isAllowed&#61;y\" rel=\"nofollow\">\u2060hier\u2060</a> het volledige rapport. <br /></p><p>Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">\u2060www.wodc.nl\u2060</a><br /></p><p>Dank aan Jeroen Hairwasser voor de uitnodiging. Opnames op locatie verzorgd door NFGD.</p>",
+            "duration_ms": 2412496,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0RRpR35ePr9XRB42JzSTSM"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0RRpR35ePr9XRB42JzSTSM",
+            "id": "0RRpR35ePr9XRB42JzSTSM",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3687dc0e417dd337568d12c9",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3687dc0e417dd337568d12c9",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3687dc0e417dd337568d12c9",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Dossier WODC Live: Dossier Online Gokken",
+            "release_date": "2025-11-03",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0RRpR35ePr9XRB42JzSTSM"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0otsdJlHZ0LuQMpTQK23OF/clip_594965_654965.mp3",
             "description": "Huwelijksdwang, achterlating en vrouwelijke genitale verminking: ieder jaar zijn er in Nederland honderden tot duizenden (voornamelijk) meisjes en vrouwen slachtoffer van. Maar is hier wel iets tegen te doen? Nederland lijkt namelijk maar moeilijk grip te krijgen op het fenomeen.In deze aflevering spreekt host Carlissa Remmerswaal met Annemarie Middelburg van Right to Rise over haar WODC-onderzoek naar dit fenomeen en wat wij kunnen leren van het Verenigd Koninkrijk om gender-gerelateerd geweld te voorkomen. Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060 of bekijk de factsheet.Voor meer onderzoek naar rechtspraak, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
