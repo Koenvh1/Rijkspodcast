@@ -4158,7 +4158,7 @@
             "languages": [
               "nl"
             ],
-            "name": "Innovatie bij Rijksoverheid",
+            "name": "Innovatie bij de Rijksoverheid",
             "release_date": "2025-11-04",
             "release_date_precision": "day",
             "type": "episode",
@@ -16711,6 +16711,46 @@
         "total": 25,
         "items": [
           {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1P3XSyj1QpEyGx0T30FzEr/clip_459011_519011.mp3",
+            "description": "Dit is de Direct Duidelijk Tour podcast. Eerder maakten we webinars over duidelijke overheidscommunicatie en -dienstverlening. En daar kun je nu naar luisteren. Je hoort gesprekken over verschillende onderwerpen. Met voorbeelden uit de praktijk. En altijd de centrale vraag:\u00a0Hoe zorg je vanuit de overheid voor duidelijke communicatie en betere dienstverlening? Over deze aflevering Met inclusie\u00a0[\u2026]",
+            "html_description": "Dit is de Direct Duidelijk Tour podcast. Eerder maakten we webinars over duidelijke overheidscommunicatie en -dienstverlening. En daar kun je nu naar luisteren. Je hoort gesprekken over verschillende onderwerpen. Met voorbeelden uit de praktijk. En altijd de centrale vraag:\u00a0Hoe zorg je vanuit de overheid voor duidelijke communicatie en betere dienstverlening? Over deze aflevering Met inclusie\u00a0[\u2026]",
+            "duration_ms": 3506181,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1jaG7nmcviCF6wdw9AD7A2"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1jaG7nmcviCF6wdw9AD7A2",
+            "id": "1jaG7nmcviCF6wdw9AD7A2",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3dad47cb66e6af341d903c68",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3dad47cb66e6af341d903c68",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3dad47cb66e6af341d903c68",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Inclusief denken en doen: hoe doe je dat nu \u00e9cht? (Direct Duidelijk Tour)",
+            "release_date": "2025-11-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1jaG7nmcviCF6wdw9AD7A2"
+          },
+          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/69VOVadm4qPoAstzf26ffa/clip_312500_372500.mp3",
             "description": "Overheden weten waar inwoners en ondernemers recht op hebben. Vaak beter dan zij dat zelf weten. Je k\u00fant als overheid diensten verlenen, zonder dat een inwoner of ondernemer daar om vraagt. Proactieve dienstverlening noemen we dat. Mensen krijgen automatisch waar ze recht op hebben. Daar kan ook jij mee aan de slag.",
             "html_description": "Overheden weten waar inwoners en ondernemers recht op hebben. Vaak beter dan zij dat zelf weten. Je k\u00fant als overheid diensten verlenen, zonder dat een inwoner of ondernemer daar om vraagt. Proactieve dienstverlening noemen we dat. Mensen krijgen automatisch waar ze recht op hebben. Daar kan ook jij mee aan de slag.",
@@ -17669,46 +17709,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:07POs4pddIh1DTmmfwu2Rt"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0fs13T3zqVUG2NSuSThCzc/clip_167336_227336.mp3",
-            "description": "Iedereen kent wel het gezegde \u2018een beeld zegt meer dan 1.000 woorden\u2019. Het betekent dat een goede foto of afbeelding je verhaal sterker kan maken. Maar het betekent ook dat je met een verkeerd beeld de plank flink kunt misslaan. Wees je daarom altijd bewust van het belang \u00e9n het effect van beeld in je communicatie.",
-            "html_description": "Iedereen kent wel het gezegde \u2018een beeld zegt meer dan 1.000 woorden\u2019. Het betekent dat een goede foto of afbeelding je verhaal sterker kan maken. Maar het betekent ook dat je met een verkeerd beeld de plank flink kunt misslaan. Wees je daarom altijd bewust van het belang \u00e9n het effect van beeld in je communicatie.",
-            "duration_ms": 949968,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/5hNK66eZm5xs1hUFkWUelg"
-            },
-            "href": "https://api.spotify.com/v1/episodes/5hNK66eZm5xs1hUFkWUelg",
-            "id": "5hNK66eZm5xs1hUFkWUelg",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Gebruik de kracht van beeld",
-            "release_date": "2023-09-25",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:5hNK66eZm5xs1hUFkWUelg"
           }
         ]
       }
@@ -131764,8 +131764,8 @@
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4EHBFkrlToGXOcIM5ZQvhc/clip_282930_342930.mp3",
-            "description": "De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van \u2060Dossier WODC Live\u2060 en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees \u2060hier\u2060 het volledige rapport. Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060\u2060www.wodc.nl\u2060Dank aan Jeroen Hairwasser voor de uitnodiging. Opnames op locatie verzorgd door NFGD.",
-            "html_description": "<p>De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). <br /></p><p>Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?<br /></p><p>Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van <a href=\"https://www.dossierwodc.nl/\" rel=\"nofollow\">\u2060Dossier WODC Live\u2060</a> en kijk wanneer we bij jouw in de buurt komen.<br /></p><p>Meer weten over dit onderzoek? Lees <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3407/3495-drie-jaar-legaal-online-gokken-volledige-tekst.pdf?sequence&#61;4&amp;isAllowed&#61;y\" rel=\"nofollow\">\u2060hier\u2060</a> het volledige rapport. <br /></p><p>Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">\u2060www.wodc.nl\u2060</a><br /></p><p>Dank aan Jeroen Hairwasser voor de uitnodiging. Opnames op locatie verzorgd door NFGD.</p>",
+            "description": "De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van \u2060Dossier WODC Live\u2060 en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees \u2060hier\u2060 het volledige rapport. Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060\u2060www.wodc.nl\u2060Dank aan Jeroen Hairwassers voor de uitnodiging. Opnames op locatie verzorgd door NFGD.",
+            "html_description": "<p>De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). <br /></p><p>Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?<br /></p><p>Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van <a href=\"https://www.dossierwodc.nl/\" rel=\"nofollow\">\u2060Dossier WODC Live\u2060</a> en kijk wanneer we bij jouw in de buurt komen.<br /></p><p>Meer weten over dit onderzoek? Lees <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3407/3495-drie-jaar-legaal-online-gokken-volledige-tekst.pdf?sequence&#61;4&amp;isAllowed&#61;y\" rel=\"nofollow\">\u2060hier\u2060</a> het volledige rapport. <br /></p><p>Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">\u2060www.wodc.nl\u2060</a><br /></p><p>Dank aan Jeroen Hairwassers voor de uitnodiging. Opnames op locatie verzorgd door NFGD.</p>",
             "duration_ms": 2412496,
             "explicit": false,
             "external_urls": {
