@@ -16701,14 +16701,14 @@
       "publisher": "Gebruiker Centraal",
       "type": "show",
       "uri": "spotify:show:2DSW9pQ6Mtm3DwomzPY5jX",
-      "total_episodes": 25,
+      "total_episodes": 50,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2DSW9pQ6Mtm3DwomzPY5jX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 25,
+        "total": 50,
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1P3XSyj1QpEyGx0T30FzEr/clip_459011_519011.mp3",
@@ -17709,6 +17709,1006 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:07POs4pddIh1DTmmfwu2Rt"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0fs13T3zqVUG2NSuSThCzc/clip_167336_227336.mp3",
+            "description": "Iedereen kent wel het gezegde \u2018een beeld zegt meer dan 1.000 woorden\u2019. Het betekent dat een goede foto of afbeelding je verhaal sterker kan maken. Maar het betekent ook dat je met een verkeerd beeld de plank flink kunt misslaan. Wees je daarom altijd bewust van het belang \u00e9n het effect van beeld in je communicatie.",
+            "html_description": "Iedereen kent wel het gezegde \u2018een beeld zegt meer dan 1.000 woorden\u2019. Het betekent dat een goede foto of afbeelding je verhaal sterker kan maken. Maar het betekent ook dat je met een verkeerd beeld de plank flink kunt misslaan. Wees je daarom altijd bewust van het belang \u00e9n het effect van beeld in je communicatie.",
+            "duration_ms": 949968,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5hNK66eZm5xs1hUFkWUelg"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5hNK66eZm5xs1hUFkWUelg",
+            "id": "5hNK66eZm5xs1hUFkWUelg",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gebruik de kracht van beeld",
+            "release_date": "2023-09-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5hNK66eZm5xs1hUFkWUelg"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7mCk81GNb9CtxpmHPXf8AF/clip_385082_445082.mp3",
+            "description": "Direct duidelijk zijn, dat willen we (bijna) allemaal. Toch gebeurt dit lang niet altijd. Neem juridische teksten, zoals algemene voorwaarden, privacyverklaringen, bekendmakingen en vergunningen. Die zijn meestal onbegrijpelijk. De vraag is: waarom? Want ook juridische teksten kunnen direct duidelijk zijn.",
+            "html_description": "Direct duidelijk zijn, dat willen we (bijna) allemaal. Toch gebeurt dit lang niet altijd. Neem juridische teksten, zoals algemene voorwaarden, privacyverklaringen, bekendmakingen en vergunningen. Die zijn meestal onbegrijpelijk. De vraag is: waarom? Want ook juridische teksten kunnen direct duidelijk zijn.",
+            "duration_ms": 647903,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/74Blf0MxvrbEojXff4BgWX"
+            },
+            "href": "https://api.spotify.com/v1/episodes/74Blf0MxvrbEojXff4BgWX",
+            "id": "74Blf0MxvrbEojXff4BgWX",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Ook in juridische teksten kun je direct duidelijk zijn",
+            "release_date": "2023-09-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:74Blf0MxvrbEojXff4BgWX"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/60varUiJtAoUQFUg0PUZU4/clip_327959_387959.mp3",
+            "description": "Wat is begrijpelijk schrijven? Vraag dit aan een communicatie\u00adprofessional en waarschijnlijk krijg je als antwoord: \u2018Dat is schrijven op B1-niveau.\u2019 Dat schrijven op taalniveau B1 nodig is, hoor en lees je overal. Toch is begrijpelijk schrijven meer dan alleen woorden kiezen op B1-niveau.",
+            "html_description": "Wat is begrijpelijk schrijven? Vraag dit aan een communicatie\u00adprofessional en waarschijnlijk krijg je als antwoord: \u2018Dat is schrijven op B1-niveau.\u2019 Dat schrijven op taalniveau B1 nodig is, hoor en lees je overal. Toch is begrijpelijk schrijven meer dan alleen woorden kiezen op B1-niveau.",
+            "duration_ms": 744096,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1rvSRLihMZcKzq5BeuN1ZY"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1rvSRLihMZcKzq5BeuN1ZY",
+            "id": "1rvSRLihMZcKzq5BeuN1ZY",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Begrijpelijk schrijven is meer dan alleen taalniveau B1",
+            "release_date": "2023-09-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1rvSRLihMZcKzq5BeuN1ZY"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7rSWmDSNGoPraVhgeEAx4C/clip_287826_347826.mp3",
+            "description": "Waar hebben mensen behoefte aan? Hoe gedragen ze zich? En wat is hun achtergrond? We kunnen vanachter een beeldscherm proberen om ons dit voor te stellen, maar zo komen we niet ver. Je maakt betere producten en diensten als je de mensen voor wie je ze maakt, er zelf bij betrekt. Laat daarom ook ervaringsdeskundigen meedenken.",
+            "html_description": "Waar hebben mensen behoefte aan? Hoe gedragen ze zich? En wat is hun achtergrond? We kunnen vanachter een beeldscherm proberen om ons dit voor te stellen, maar zo komen we niet ver. Je maakt betere producten en diensten als je de mensen voor wie je ze maakt, er zelf bij betrekt. Laat daarom ook ervaringsdeskundigen meedenken.",
+            "duration_ms": 610248,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/068WakbSCKDN7Sw5XB4WUf"
+            },
+            "href": "https://api.spotify.com/v1/episodes/068WakbSCKDN7Sw5XB4WUf",
+            "id": "068WakbSCKDN7Sw5XB4WUf",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Laat ervarings\u00addeskundigen mee\u00addenken",
+            "release_date": "2023-09-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:068WakbSCKDN7Sw5XB4WUf"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3tLCrgA37zmS8dvjcP4OXo/clip_505672_565672.mp3",
+            "description": "Geen budget, te weinig tijd of \u2018we weten al wat de doelgroep wil\u2019: er is altijd wel een reden te bedenken waarom je iets niet zou onderzoeken of testen. Maar die weegt nooit op tegen de argumenten om het w\u00e9l te doen. Wil je de dienstverlening en communicatie van je organisatie verbeteren? Onderzoek dan wat de klant of inwoner wil, en test alles wat je maakt.",
+            "html_description": "Geen budget, te weinig tijd of \u2018we weten al wat de doelgroep wil\u2019: er is altijd wel een reden te bedenken waarom je iets niet zou onderzoeken of testen. Maar die weegt nooit op tegen de argumenten om het w\u00e9l te doen. Wil je de dienstverlening en communicatie van je organisatie verbeteren? Onderzoek dan wat de klant of inwoner wil, en test alles wat je maakt.",
+            "duration_ms": 765768,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0vjZlZV73QLvNLiIBWNIJ4"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0vjZlZV73QLvNLiIBWNIJ4",
+            "id": "0vjZlZV73QLvNLiIBWNIJ4",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Doe onderzoek en test met gebruikers",
+            "release_date": "2023-08-28",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0vjZlZV73QLvNLiIBWNIJ4"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1LdQMH5JumwuHuIdvilrWg/clip_427136_487136.mp3",
+            "description": "De juiste taal en toon helpen je om duidelijk te zijn. Toch is er ook een andere, misschien wel belangrijkere voorwaarde voor duidelijke communicatie. En die is dat je \u00e9cht naar de ander luistert. Want bij alles wat je communiceert, is de ontvanger een mens met eigen vragen, problemen en behoeften.",
+            "html_description": "De juiste taal en toon helpen je om duidelijk te zijn. Toch is er ook een andere, misschien wel belangrijkere voorwaarde voor duidelijke communicatie. En die is dat je \u00e9cht naar de ander luistert. Want bij alles wat je communiceert, is de ontvanger een mens met eigen vragen, problemen en behoeften.",
+            "duration_ms": 919656,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4MODSQpXaAPZgMorteKpas"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4MODSQpXaAPZgMorteKpas",
+            "id": "4MODSQpXaAPZgMorteKpas",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Voor duidelijke communi\u00adcatie is \u00e9cht luisteren nodig",
+            "release_date": "2023-08-21",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4MODSQpXaAPZgMorteKpas"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1r2dPhKlr6XCLdqTFQIcrV/clip_390462_450462.mp3",
+            "description": "Direct duidelijk communiceren gaat over veel meer dan duidelijke brieven schrijven. Dat blijkt wel uit het grote aantal onderwerpen waarover we het tijdens de Direct Duidelijk Tour hebben gehad. Een inleiding door Renata Verloop, presentator van de eerste 50 afleveringen van de Direct Duidelijk Tour.",
+            "html_description": "Direct duidelijk communiceren gaat over veel meer dan duidelijke brieven schrijven. Dat blijkt wel uit het grote aantal onderwerpen waarover we het tijdens de Direct Duidelijk Tour hebben gehad. Een inleiding door Renata Verloop, presentator van de eerste 50 afleveringen van de Direct Duidelijk Tour.",
+            "duration_ms": 455616,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/64Ud7fudxd46FJTvRazTnl"
+            },
+            "href": "https://api.spotify.com/v1/episodes/64Ud7fudxd46FJTvRazTnl",
+            "id": "64Ud7fudxd46FJTvRazTnl",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "In\u00adleiding: Dit kun je leren van direct duidelijk communi\u00adceren",
+            "release_date": "2023-08-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:64Ud7fudxd46FJTvRazTnl"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/44JOarGFa65Jdspd88fRlK/clip_0_52453.mp3",
+            "description": "1 dag, 20 uur en 20 minuten: zoveel tijd heb je nodig om de eerste 50 afleveringen van de Direct Duidelijk Tour achter elkaar te kijken. We kunnen ons voorstellen dat je die tijd niet hebt. Daarom hebben we een boek geschreven en nu ook een luisterboek uitgebracht: Direct geleerd, duidelijk gedaan.",
+            "html_description": "1 dag, 20 uur en 20 minuten: zoveel tijd heb je nodig om de eerste 50 afleveringen van de Direct Duidelijk Tour achter elkaar te kijken. We kunnen ons voorstellen dat je die tijd niet hebt. Daarom hebben we een boek geschreven en nu ook een luisterboek uitgebracht: Direct geleerd, duidelijk gedaan.",
+            "duration_ms": 52453,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4dmoJqxZwBDgJejW86yeVu"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4dmoJqxZwBDgJejW86yeVu",
+            "id": "4dmoJqxZwBDgJejW86yeVu",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c54172ef3df40a2709aadc6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c54172ef3df40a2709aadc6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c54172ef3df40a2709aadc6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Over de podcast\u00adserie Direct geleerd, duidelijk gedaan",
+            "release_date": "2023-07-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4dmoJqxZwBDgJejW86yeVu"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/11IDhUZV7NP6YymkJQlqiL/clip_294643_354643.mp3",
+            "description": "In deze aflevering gaat Randy Semeleer in gesprek met Derek Featherstone, internationaal en veel gevraagd spreker op het gebied van digitale toegankelijkheid.",
+            "html_description": "In deze aflevering gaat Randy Semeleer in gesprek met Derek Featherstone, internationaal en veel gevraagd spreker op het gebied van digitale toegankelijkheid.",
+            "duration_ms": 3979937,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6qa0LaOxcvRA3G0XtZSncu"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6qa0LaOxcvRA3G0XtZSncu",
+            "id": "6qa0LaOxcvRA3G0XtZSncu",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2df12af25af15017b2729bbc",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2df12af25af15017b2729bbc",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2df12af25af15017b2729bbc",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "A conversation with Derek Featherstone",
+            "release_date": "2022-01-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6qa0LaOxcvRA3G0XtZSncu"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6OswC10Hr3N7AWrGZ15ZEo/clip_431646_491646.mp3",
+            "description": "Hoe implementeren andere organisaties digitale toegankelijkheid in hun organisatie? In 2016 kwam DUO (Dienst Uitvoering Onderwijs) tot het besef dat digitale toegankelijkheid structureel aandacht nodig heeft. Er volgden verschillende projecten maar heel succesvol waren die niet. In 2018 werd er flink ingezet op awareness.",
+            "html_description": "Hoe implementeren andere organisaties digitale toegankelijkheid in hun organisatie? In 2016 kwam DUO (Dienst Uitvoering Onderwijs) tot het besef dat digitale toegankelijkheid structureel aandacht nodig heeft. Er volgden verschillende projecten maar heel succesvol waren die niet. In 2018 werd er flink ingezet op awareness.",
+            "duration_ms": 3184368,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2YE7vy2wT0xgW9EwNLM0qK"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2YE7vy2wT0xgW9EwNLM0qK",
+            "id": "2YE7vy2wT0xgW9EwNLM0qK",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2df12af25af15017b2729bbc",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2df12af25af15017b2729bbc",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2df12af25af15017b2729bbc",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "DUO doet \u2018t",
+            "release_date": "2021-12-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2YE7vy2wT0xgW9EwNLM0qK"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0L5lPbY5GX7BGTnQ1vYN27/clip_620214_680214.mp3",
+            "description": "De overheid produceert enorm veel pdf\u2019s. Zelfs met de beste intenties lijkt het niet zo eenvoudig om deze toegankelijk te maken. Een gesprek over dit onderwerp is daarom op zijn plaats in deze serie. Hoe kan de overheid zorgen voor toegankelijke pdf's? Het achteraf toegankelijk maken van pdf's is geen optie volgens Iacobien Riezebosch van Firm Ground. Maar wat dan wel?\u00a0Zijn er alternatieven te bedenken bijvoorbeeld?",
+            "html_description": "De overheid produceert enorm veel pdf\u2019s. Zelfs met de beste intenties lijkt het niet zo eenvoudig om deze toegankelijk te maken. Een gesprek over dit onderwerp is daarom op zijn plaats in deze serie. Hoe kan de overheid zorgen voor toegankelijke pdf&#39;s? Het achteraf toegankelijk maken van pdf&#39;s is geen optie volgens Iacobien Riezebosch van Firm Ground. Maar wat dan wel?\u00a0Zijn er alternatieven te bedenken bijvoorbeeld?",
+            "duration_ms": 3726191,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6WimnnN432nOl8Qy5oWyPv"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6WimnnN432nOl8Qy5oWyPv",
+            "id": "6WimnnN432nOl8Qy5oWyPv",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2df12af25af15017b2729bbc",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2df12af25af15017b2729bbc",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2df12af25af15017b2729bbc",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De kwestie pdf",
+            "release_date": "2021-12-21",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6WimnnN432nOl8Qy5oWyPv"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0JAM11Ls9b6YvWETjQJyNh/clip_0_60000.mp3",
+            "description": "De ster om naar te reiken: over goede voorbeelden van digitale toegankelijkheid. Welke drempels en enablers zijn er? Randy Semeleer gaat erover in gesprek met Rosemarie Pomp van de Koninklijke Bibliotheek (KB), Ron Beenen van Deque Systems en Sander Janssen van de gemeente Tilburg.",
+            "html_description": "De ster om naar te reiken: over goede voorbeelden van digitale toegankelijkheid. Welke drempels en enablers zijn er? Randy Semeleer gaat erover in gesprek met Rosemarie Pomp van de Koninklijke Bibliotheek (KB), Ron Beenen van Deque Systems en Sander Janssen van de gemeente Tilburg.",
+            "duration_ms": 3760770,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/73uTOiU0jaZhLhvyAKJrOd"
+            },
+            "href": "https://api.spotify.com/v1/episodes/73uTOiU0jaZhLhvyAKJrOd",
+            "id": "73uTOiU0jaZhLhvyAKJrOd",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2df12af25af15017b2729bbc",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2df12af25af15017b2729bbc",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2df12af25af15017b2729bbc",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De ster om naar te reiken",
+            "release_date": "2021-12-14",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:73uTOiU0jaZhLhvyAKJrOd"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ODhN6L9si3lbyKvdbIaD7/clip_535437_595437.mp3",
+            "description": "De feiten op een rij van digitale toegankelijkheid; waar komt het vandaan, waar staan we nu en wat zijn de ontwikkelingen? Randy Semeleer gaat erover in gesprek met Hidde de Vries, Robert Jan Verkade en Janita Top. De gasten delen hun quick wins op het gebied van digitale toegankelijkheid",
+            "html_description": "De feiten op een rij van digitale toegankelijkheid; waar komt het vandaan, waar staan we nu en wat zijn de ontwikkelingen? Randy Semeleer gaat erover in gesprek met Hidde de Vries, Robert Jan Verkade en Janita Top. De gasten delen hun quick wins op het gebied van digitale toegankelijkheid",
+            "duration_ms": 3497520,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2kE2zf8BDZ1tl0E6ytJ5ya"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2kE2zf8BDZ1tl0E6ytJ5ya",
+            "id": "2kE2zf8BDZ1tl0E6ytJ5ya",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2df12af25af15017b2729bbc",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2df12af25af15017b2729bbc",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2df12af25af15017b2729bbc",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "WCAG?\u2026Wat?",
+            "release_date": "2021-12-07",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2kE2zf8BDZ1tl0E6ytJ5ya"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6ms695kzq9MUDWO5FTU7zT/clip_0_60000.mp3",
+            "description": "96% van de overheidswebsites is niet toegankelijk. Wat betekent dit voor de dienstverlening van de overheid? En voor wie is digitale toegankelijkheid belangrijk? Randy Semeleer praat erover met ervaringsdeskundigen Amany Shala, Jarno Geering , Nathaniel Hitzerd en Claartje Sad\u00e9e. Waar lopen zij tegenaan in het gebruik van deze websites?",
+            "html_description": "96% van de overheidswebsites is niet toegankelijk. Wat betekent dit voor de dienstverlening van de overheid? En voor wie is digitale toegankelijkheid belangrijk? Randy Semeleer praat erover met ervaringsdeskundigen Amany Shala, Jarno Geering , Nathaniel Hitzerd en Claartje Sad\u00e9e. Waar lopen zij tegenaan in het gebruik van deze websites?",
+            "duration_ms": 3665016,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1SjXqPUxJZA9zPNbfYWpJS"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1SjXqPUxJZA9zPNbfYWpJS",
+            "id": "1SjXqPUxJZA9zPNbfYWpJS",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2df12af25af15017b2729bbc",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2df12af25af15017b2729bbc",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2df12af25af15017b2729bbc",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Ervarings\u00addeskundigen aan het woord",
+            "release_date": "2021-11-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1SjXqPUxJZA9zPNbfYWpJS"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4K6Txg6GWV0oBnpH8HQI0d/clip_18808_78808.mp3",
+            "description": "Wil jij met digitale toegankelijkheid aan de slag voor jouw organisatie? Of zit je al midden in het proces? Of moet je nog mensen overtuigen om er aandacht aan te geven? Luister dan binnenkort naar de nieuwe podcastserie van Gebruiker Centraal \u00e9n Digitoegankelijk.",
+            "html_description": "Wil jij met digitale toegankelijkheid aan de slag voor jouw organisatie? Of zit je al midden in het proces? Of moet je nog mensen overtuigen om er aandacht aan te geven? Luister dan binnenkort naar de nieuwe podcastserie van Gebruiker Centraal \u00e9n Digitoegankelijk.",
+            "duration_ms": 87118,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/025dFzDIe8QgIxsGRZSH00"
+            },
+            "href": "https://api.spotify.com/v1/episodes/025dFzDIe8QgIxsGRZSH00",
+            "id": "025dFzDIe8QgIxsGRZSH00",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2df12af25af15017b2729bbc",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2df12af25af15017b2729bbc",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2df12af25af15017b2729bbc",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Promo podcast digitale toe\u00adgan\u00adkelijk\u00adheid",
+            "release_date": "2021-10-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:025dFzDIe8QgIxsGRZSH00"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/62mbo1lsmEXJsNvHJScIFJ/clip_200078_260078.mp3",
+            "description": "Het is vrijdag 15 januari 2021, twee maanden na de design sprint. Vandaag zijn Elke Wennekers, Jolande van \u2019t Woudt en Kim Meerhof te gast om t2 maanden later terug te kijken op de design sprint. Wat is er na de sprint gebeurd? Hoe is het gevoel 2 maanden later?",
+            "html_description": "Het is vrijdag 15 januari 2021, twee maanden na de design sprint. Vandaag zijn Elke Wennekers, Jolande van \u2019t Woudt en Kim Meerhof te gast om t2 maanden later terug te kijken op de design sprint. Wat is er na de sprint gebeurd? Hoe is het gevoel 2 maanden later?",
+            "duration_ms": 1645272,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0z70KnicZwubicM1lT9fQG"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0z70KnicZwubicM1lT9fQG",
+            "id": "0z70KnicZwubicM1lT9fQG",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a31896a84d7284e2dbf699820",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f31896a84d7284e2dbf699820",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d31896a84d7284e2dbf699820",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Design sprint dag 5: Terugblik (Elke Wennekers, Jolande van \u2018t Woudt en Kim Meerhof)",
+            "release_date": "2021-03-02",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0z70KnicZwubicM1lT9fQG"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/32lL5hfG7XlYtnLvb81OG6/clip_525830_585830.mp3",
+            "description": "Het is donderdag 19 november 2020, dag 4 van de design sprint. Vandaag is Debora Smits (projectleider bij Havensteder) te gast. Stefan Kollaart spreekt met Debora over de laatste dag van de sprint, waarin het prototype is verfijnd en de laatste interviews zijn afgenomen.",
+            "html_description": "Het is donderdag 19 november 2020, dag 4 van de design sprint. Vandaag is Debora Smits (projectleider bij Havensteder) te gast. Stefan Kollaart spreekt met Debora over de laatste dag van de sprint, waarin het prototype is verfijnd en de laatste interviews zijn afgenomen.",
+            "duration_ms": 1002192,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/50CzRvUNaDCgx9Cx8cjFcP"
+            },
+            "href": "https://api.spotify.com/v1/episodes/50CzRvUNaDCgx9Cx8cjFcP",
+            "id": "50CzRvUNaDCgx9Cx8cjFcP",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a31896a84d7284e2dbf699820",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f31896a84d7284e2dbf699820",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d31896a84d7284e2dbf699820",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Design sprint dag 4: Verfijnen (Debora Smits)",
+            "release_date": "2021-02-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:50CzRvUNaDCgx9Cx8cjFcP"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/53VQ5YIfeYG6NFayVkl1us/clip_324984_384984.mp3",
+            "description": "Het is woensdag 18 november 2020, dag 3 van de design sprint. Vandaag zijn Janneke van Zelst en Esmeralde Marsman te gast. Centraal staat het prototype: het pakket, de app en het onderzoek dat ze vandaag hebben gedaan.",
+            "html_description": "Het is woensdag 18 november 2020, dag 3 van de design sprint. Vandaag zijn Janneke van Zelst en Esmeralde Marsman te gast. Centraal staat het prototype: het pakket, de app en het onderzoek dat ze vandaag hebben gedaan.",
+            "duration_ms": 1176312,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1u7lhOvYOS63gn8gu21vPd"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1u7lhOvYOS63gn8gu21vPd",
+            "id": "1u7lhOvYOS63gn8gu21vPd",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a31896a84d7284e2dbf699820",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f31896a84d7284e2dbf699820",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d31896a84d7284e2dbf699820",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Design sprint dag 3: Proto\u00adtype (Janneke van Zelst en Esmeralde Marsman)",
+            "release_date": "2021-02-16",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1u7lhOvYOS63gn8gu21vPd"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3hdWQ5zfnxjnwWxl0ay6e8/clip_562703_622703.mp3",
+            "description": "Het is dinsdag 17 november 2020, dag 2 van de design sprint. Vandaag zijn Elke Wennekers en Jolande van het 't Woudt te gast. Vandaag is het tijd om idee\u00ebn te bedenken. Hoe kunnen we de probleemstelling oplossen? Welke idee\u00ebn zijn haalbaar?",
+            "html_description": "Het is dinsdag 17 november 2020, dag 2 van de design sprint. Vandaag zijn Elke Wennekers en Jolande van het &#39;t Woudt te gast. Vandaag is het tijd om idee\u00ebn te bedenken. Hoe kunnen we de probleemstelling oplossen? Welke idee\u00ebn zijn haalbaar?",
+            "duration_ms": 1147632,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/104cRHBgO9HovLeV9pTHV6"
+            },
+            "href": "https://api.spotify.com/v1/episodes/104cRHBgO9HovLeV9pTHV6",
+            "id": "104cRHBgO9HovLeV9pTHV6",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a31896a84d7284e2dbf699820",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f31896a84d7284e2dbf699820",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d31896a84d7284e2dbf699820",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Design sprint dag 2: Idee\u00ebn (Elke Wennekers en Jolande van \u2018t Woud)",
+            "release_date": "2021-02-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:104cRHBgO9HovLeV9pTHV6"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3jbNVr9Wc0pawbYTNqXDr3/clip_0_60000.mp3",
+            "description": "Het is maandag 16 november 2020, dag 1 van de Design Sprint Week van Gebruiker Centraal. Vandaag zijn Elke Wennekers en Kim Meerhof te gast. De design sprint is van start. Stefan Kollaart spreekt met deelneemster Kim Meerhof (teamleider Integrale Plannen & Projecten bij Hoogheemraadschap van Schieland en de Krimpenerwaard) en facilitator Elke Wennekers (Design Researcher & Projectleider bij de Gemeente Rotterdam) over de workshops die voorafgaand aan de sprint zijn gevolgd en de verwachtingen van de sprint. Ze ontleden de probleemstelling en bespreken wat een Design Sprint nou eigenlijk concreet is.",
+            "html_description": "Het is maandag 16 november 2020, dag 1 van de Design Sprint Week van Gebruiker Centraal. Vandaag zijn Elke Wennekers en Kim Meerhof te gast. De design sprint is van start. Stefan Kollaart spreekt met deelneemster Kim Meerhof (teamleider Integrale Plannen &amp; Projecten bij Hoogheemraadschap van Schieland en de Krimpenerwaard) en facilitator Elke Wennekers (Design Researcher &amp; Projectleider bij de Gemeente Rotterdam) over de workshops die voorafgaand aan de sprint zijn gevolgd en de verwachtingen van de sprint. Ze ontleden de probleemstelling en bespreken wat een Design Sprint nou eigenlijk concreet is.",
+            "duration_ms": 1540848,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6JEvEOuWBvlMW8unBx9UPn"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6JEvEOuWBvlMW8unBx9UPn",
+            "id": "6JEvEOuWBvlMW8unBx9UPn",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a31896a84d7284e2dbf699820",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f31896a84d7284e2dbf699820",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d31896a84d7284e2dbf699820",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Design sprint dag 1: Van start (Elke Wennekers en Kim Meerhof)",
+            "release_date": "2021-02-02",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6JEvEOuWBvlMW8unBx9UPn"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/27HseV8nGmO77Y4awtQqZx/clip_318455_378455.mp3",
+            "description": "In deze 6e en laatste podcastaflevering over inclusieve dienstverlening bij de overheid praat Wolfgang Ebbers met Anneke Bloemen. Anneke is adviseur Diversiteit en Inclusie bij bureau EMMA. Volgens Anneke denken we dat we het goed voor elkaar hebben in Nederland als het gaat om diversiteit en inclusie, maar eigenlijk houden we onszelf daarmee voor de gek. Hoe kun je ervoor zorgen dat iedereen gehoord wordt, kan meepraten en meebeslissen in onze samenleving over zaken die iedereen aangaan?",
+            "html_description": "In deze 6e en laatste podcastaflevering over inclusieve dienstverlening bij de overheid praat Wolfgang Ebbers met Anneke Bloemen. Anneke is adviseur Diversiteit en Inclusie bij bureau EMMA. Volgens Anneke denken we dat we het goed voor elkaar hebben in Nederland als het gaat om diversiteit en inclusie, maar eigenlijk houden we onszelf daarmee voor de gek. Hoe kun je ervoor zorgen dat iedereen gehoord wordt, kan meepraten en meebeslissen in onze samenleving over zaken die iedereen aangaan?",
+            "duration_ms": 2469408,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2yGqMq0MWa6xWPVWW70gzO"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2yGqMq0MWa6xWPVWW70gzO",
+            "id": "2yGqMq0MWa6xWPVWW70gzO",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8b398d06de17280105579c8f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8b398d06de17280105579c8f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8b398d06de17280105579c8f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Diversiteit en inclusie",
+            "release_date": "2021-01-12",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2yGqMq0MWa6xWPVWW70gzO"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3FGPvjEk3jHgJtKT1AnJa0/clip_0_60000.mp3",
+            "description": "In de vie podcastaflevering over inclusieve dienstverlening bij de overheid praat Wolfgang Ebbers met Raph de Rooij. Hij is expert op het gebied van digitale inclusie en weet alles van digitale toegankelijkheid. Sinds 23 september 2020 moeten alle overheidsorganisaties aan de toegankelijkheidseisen voldoen. Of ze moeten maatregelen daarvoor nemen.",
+            "html_description": "In de vie podcastaflevering over inclusieve dienstverlening bij de overheid praat Wolfgang Ebbers met Raph de Rooij. Hij is expert op het gebied van digitale inclusie en weet alles van digitale toegankelijkheid. Sinds 23 september 2020 moeten alle overheidsorganisaties aan de toegankelijkheidseisen voldoen. Of ze moeten maatregelen daarvoor nemen.",
+            "duration_ms": 2191896,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/79rr5zw11RRZ6gZptwXKD3"
+            },
+            "href": "https://api.spotify.com/v1/episodes/79rr5zw11RRZ6gZptwXKD3",
+            "id": "79rr5zw11RRZ6gZptwXKD3",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8b398d06de17280105579c8f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8b398d06de17280105579c8f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8b398d06de17280105579c8f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Webtoe\u00adgan\u00adkelijk\u00adheid",
+            "release_date": "2021-01-05",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:79rr5zw11RRZ6gZptwXKD3"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/09cASQDusbF8HmfRxH1vYl/clip_125088_185088.mp3",
+            "description": "In de 4e podcastaflevering van Gebruiker Centraal, praat Wolfgang Ebbers met Willem Pieterson, expert op het gebied van data, technologie en organisaties. Hij helpt overheidsorganisaties om innovatiever en meer data gedreven te werken. Om overheidsdienstverlening zo inclusief mogelijk te laten zijn moet iedereen op alle kanalen hetzelfde behandeld worden maar is dat haalbaar en beheersbaar voor de overheid? En moet de overheid op al die verschillende kanalen aanwezig zijn?",
+            "html_description": "In de 4e podcastaflevering van Gebruiker Centraal, praat Wolfgang Ebbers met Willem Pieterson, expert op het gebied van data, technologie en organisaties. Hij helpt overheidsorganisaties om innovatiever en meer data gedreven te werken. Om overheidsdienstverlening zo inclusief mogelijk te laten zijn moet iedereen op alle kanalen hetzelfde behandeld worden maar is dat haalbaar en beheersbaar voor de overheid? En moet de overheid op al die verschillende kanalen aanwezig zijn?",
+            "duration_ms": 2123112,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7xekaqMkBCYzuCUrbNP0gc"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7xekaqMkBCYzuCUrbNP0gc",
+            "id": "7xekaqMkBCYzuCUrbNP0gc",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8b398d06de17280105579c8f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8b398d06de17280105579c8f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8b398d06de17280105579c8f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Multi\u00adchannel management",
+            "release_date": "2020-12-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7xekaqMkBCYzuCUrbNP0gc"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1eVExXQGbPzcbafPFwPQpP/clip_474565_534565.mp3",
+            "description": "In de 3e aflevering van de podcast van Gebruiker Centraal gaat Wolfgang in gesprek met Joris Leker over het ontwerpen van overheidsdienstverlening. Joris is medeoprichter van het onderzoek- en designlab Valsplat. In het bouwteam van de CoronaMelder-app was hij verantwoordelijk voor de adoptatie van de app. Is ontwerpen voor de publieke sector anders dan voor de private sector? Wat kunnen de sectoren van elkaar leren?",
+            "html_description": "In de 3e aflevering van de podcast van Gebruiker Centraal gaat Wolfgang in gesprek met Joris Leker over het ontwerpen van overheidsdienstverlening. Joris is medeoprichter van het onderzoek- en designlab Valsplat. In het bouwteam van de CoronaMelder-app was hij verantwoordelijk voor de adoptatie van de app. Is ontwerpen voor de publieke sector anders dan voor de private sector? Wat kunnen de sectoren van elkaar leren?",
+            "duration_ms": 2822088,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/21GKmgObUproMpMG1OkJuD"
+            },
+            "href": "https://api.spotify.com/v1/episodes/21GKmgObUproMpMG1OkJuD",
+            "id": "21GKmgObUproMpMG1OkJuD",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8b398d06de17280105579c8f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8b398d06de17280105579c8f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8b398d06de17280105579c8f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Ontwerpen van over\u00adheids\u00addiensten",
+            "release_date": "2020-12-22",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:21GKmgObUproMpMG1OkJuD"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7oE7167r7mvdSmNcIbx3pA/clip_486183_546183.mp3",
+            "description": "In deze 2e aflevering van de podcast over inclusieve dienstverlening bij de overheid gaat Wolfgang Ebbers in gesprek met Mariette Lokin over de complexiteit van dienstverlening. Waar komt die complexiteit vandaan maar belangrijker nog, hoe komen we er vanaf? Mariette, strategisch adviseur bij de douane en universitair docent Staats-en Bestuursrecht, ICT en Wetgeving aan de Vrije Universiteit Amsterdam, pleit ervoor dat wetgevers en uitvoerders elkaar opzoeken om complexiteit in de ontwikkeling van dienstverlening te voorkomen.",
+            "html_description": "In deze 2e aflevering van de podcast over inclusieve dienstverlening bij de overheid gaat Wolfgang Ebbers in gesprek met Mariette Lokin over de complexiteit van dienstverlening. Waar komt die complexiteit vandaan maar belangrijker nog, hoe komen we er vanaf? Mariette, strategisch adviseur bij de douane en universitair docent Staats-en Bestuursrecht, ICT en Wetgeving aan de Vrije Universiteit Amsterdam, pleit ervoor dat wetgevers en uitvoerders elkaar opzoeken om complexiteit in de ontwikkeling van dienstverlening te voorkomen.",
+            "duration_ms": 2634720,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6EHYJ2AFoaJ9A8DAkeIBJb"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6EHYJ2AFoaJ9A8DAkeIBJb",
+            "id": "6EHYJ2AFoaJ9A8DAkeIBJb",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8b398d06de17280105579c8f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8b398d06de17280105579c8f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8b398d06de17280105579c8f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Complexiteit",
+            "release_date": "2020-12-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6EHYJ2AFoaJ9A8DAkeIBJb"
           }
         ]
       }
