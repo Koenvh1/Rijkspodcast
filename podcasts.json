@@ -64487,15 +64487,55 @@
       "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
-      "total_episodes": 107,
+      "total_episodes": 108,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 107,
+        "total": 108,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0b7Kixnt8EhoYmmV2SaAqy/clip_356667_416667.mp3",
+            "description": "Deborah en Anne-Marij waren op bezoek op de kazerne in Ermelo, waar de roots van Deborah liggen. Inmiddels zit daar al jaren de Koninklijke Militaire School (KMS). De commandant en adjudant van de KMS - kolonel Pieter Grijpstra en adjudant Ben Laarhuis - vertellen in deze aflevering alles over wat de KMS is en doet, de ontwikkelingen die er gaande zijn, het maatwerk dat wordt geleverd en hoe de groei van de Landmacht wordt geaccommodeerd. Met uiteraard ook aandacht voor de rol van de onderofficier, de ruggengraat van onze organisatie.",
+            "html_description": "<p>Deborah en Anne-Marij waren op bezoek op de kazerne in Ermelo, waar de roots van Deborah liggen. Inmiddels zit daar al jaren de Koninklijke Militaire School (KMS). De commandant en adjudant van de KMS - kolonel Pieter Grijpstra en adjudant Ben Laarhuis - vertellen in deze aflevering alles over wat de KMS is en doet, de ontwikkelingen die er gaande zijn, het maatwerk dat wordt geleverd en hoe de groei van de Landmacht wordt geaccommodeerd. Met uiteraard ook aandacht voor de rol van de onderofficier, de ruggengraat van onze organisatie.</p>",
+            "duration_ms": 4697260,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/77YEk7ycQkgyIEv6Yt1TUJ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/77YEk7ycQkgyIEv6Yt1TUJ",
+            "id": "77YEk7ycQkgyIEv6Yt1TUJ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a62d8dc663944e74d5f2b9d9c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f62d8dc663944e74d5f2b9d9c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d62d8dc663944e74d5f2b9d9c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De KMS: vormer van het fundament van de KL",
+            "release_date": "2025-11-06",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:77YEk7ycQkgyIEv6Yt1TUJ"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3FBk9HVfGs7SfEmN5Xv7Hs/clip_244142_304142.mp3",
             "description": "Maarten Stokhof (senior beleidsmedewerker bij het ministerie van Justitie en Veiligheid) en Rob Lenssen (clusterhoofd bij de Directie Juridische Zaken van Defensie) nemen Deborah en Anne-Marij in deze aflevering helemaal mee in de Oorlogswet, maar ook breder in het staatsnoodrecht. Wat gebeurt of verandert er juridisch in Nederland als we in oorlog zijn? Daarvoor kijken ze natuurlijk ook naar hoe Nederland in vredestijd is georganiseerd en wat de rol is van lokaal bestuur. Verandert er eigenlijk iets als we in een art. 5 situatie komen? En hoe zit het nu precies met militair gezag? Alles wordt duidelijk uitgelegd en hangt soms - zoals het hoort bij een juridisch onderwerp - af van de omstandigheden van het geval.",
@@ -66459,28 +66499,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5pkMw6ba8MjwRSPWHbt9lp/clip_277361_337361.mp3",
             "description": "Anne-Marij en Deborah gaan in gesprek met defensieattach\u00e9 Overste Wouter van den Hazel. Hij zit op \u2018de zonnigste champagnepost\u2019: Mali. Hoe balanceer je de belangen van Defensie en andere partners? Wie bepaalt nou eigenlijk wat er gebeurt in het buitenland? Zijn militairen lomp? Gaat de attach\u00e9 alleen de feestjes en recepties af? En welke waarde brengt dat Defensie?",
-            "html_description": "<p>Anne-Marij en Deborah gaan in gesprek met defensieattach\u00e9 Overste Wouter van den Hazel. Hij zit op \u2018de zonnigste champagnepost\u2019: Mali. Hoe balanceer je de belangen van Defensie en andere partners? Wie bepaalt nou eigenlijk wat er gebeurt in het buitenland? Zijn militairen lomp? Gaat de attach\u00e9 alleen de feestjes en recepties af? En welke waarde brengt dat Defensie?</p>",
             "duration_ms": 3968365,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/7nT139VRIbLCQsg84rvNLs"
             },
             "href": "https://api.spotify.com/v1/episodes/7nT139VRIbLCQsg84rvNLs",
+            "html_description": "<p>Anne-Marij en Deborah gaan in gesprek met defensieattach\u00e9 Overste Wouter van den Hazel. Hij zit op \u2018de zonnigste champagnepost\u2019: Mali. Hoe balanceer je de belangen van Defensie en andere partners? Wie bepaalt nou eigenlijk wat er gebeurt in het buitenland? Zijn militairen lomp? Gaat de attach\u00e9 alleen de feestjes en recepties af? En welke waarde brengt dat Defensie?</p>",
             "id": "7nT139VRIbLCQsg84rvNLs",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a26afc327145e42064e82cf32",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a26afc327145e42064e82cf32",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f26afc327145e42064e82cf32",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f26afc327145e42064e82cf32",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d26afc327145e42064e82cf32",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d26afc327145e42064e82cf32",
                 "width": 64
               }
             ],
