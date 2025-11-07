@@ -24295,15 +24295,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 28,
+      "total_episodes": 29,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 28,
+        "total": 29,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1KpavRALOZyrGMYeVi1LTd/clip_267571_327571.mp3",
+            "description": "In deze aflevering van Zorgklank gaan we in gesprek met Hendrik Jan van den Berg, bestuurder bij Lelie Zorggroep en inmiddels ook een jaar bestuurder bij ConForte \u2013 het samenwerkingsverband van 13 zorg- en thuiszorgorganisaties in Rotterdam. Hij vertelt hoe deze organisaties samen optrekken in een stad met unieke uitdagingen op het gebied van wonen, zorgtoegankelijkheid en sociaal welzijn. \u00a0 Hoe zorg je dat iedere Rotterdammer passende zorg kan krijgen, zonder onnodig te hoeven verhuizen naar een verpleeghuis? Wat betekent het om met hetzelfde team 30% meer cli\u00ebnten te bedienen? En hoe draagt reablement niet alleen bij aan zelfredzaamheid, maar ook aan levensgeluk? \u00a0 We duiken met Hendrik Jan in de praktijk van digitale zorg, trainingen, innovaties \u00e9n hoe ConForte medewerkers helpt achter zorgvragen de echte behoefte te zien. Ook bespreken we de rol van de IZA-tafel Rotterdam, waar samenwerking op stadsniveau zorgt voor collectieve impact, zonder ruimte voor maatwerk te verliezen. \u00a0 Een aflevering over samenwerken, vernieuwen en \u00e9cht iets betekenen \u2013 met aandacht voor mens \u00e9n wijk.",
+            "html_description": "<p>In deze aflevering van Zorgklank gaan we in gesprek met Hendrik Jan van den Berg, bestuurder bij Lelie Zorggroep en inmiddels ook een jaar bestuurder bij ConForte \u2013 het samenwerkingsverband van 13 zorg- en thuiszorgorganisaties in Rotterdam. Hij vertelt hoe deze organisaties samen optrekken in een stad met unieke uitdagingen op het gebied van wonen, zorgtoegankelijkheid en sociaal welzijn.</p> <p>\u00a0</p> <p>Hoe zorg je dat iedere Rotterdammer passende zorg kan krijgen, zonder onnodig te hoeven verhuizen naar een verpleeghuis? Wat betekent het om met hetzelfde team 30% meer cli\u00ebnten te bedienen? En hoe draagt reablement niet alleen bij aan zelfredzaamheid, maar ook aan levensgeluk?</p> <p>\u00a0</p> <p>We duiken met Hendrik Jan in de praktijk van digitale zorg, trainingen, innovaties \u00e9n hoe ConForte medewerkers helpt achter zorgvragen de echte behoefte te zien. Ook bespreken we de rol van de IZA-tafel Rotterdam, waar samenwerking op stadsniveau zorgt voor collectieve impact, zonder ruimte voor maatwerk te verliezen.</p> <p>\u00a0</p> <p>Een aflevering over samenwerken, vernieuwen en \u00e9cht iets betekenen \u2013 met aandacht voor mens \u00e9n wijk.</p>",
+            "duration_ms": 1976894,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6vSCPnokQIBEnZuFW7ygLm"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6vSCPnokQIBEnZuFW7ygLm",
+            "id": "6vSCPnokQIBEnZuFW7ygLm",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a87176fec0f995b2f7002e1f5",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f87176fec0f995b2f7002e1f5",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d87176fec0f995b2f7002e1f5",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E5: Innovatief zorgen voor zelfstandigheid",
+            "release_date": "2025-11-07",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6vSCPnokQIBEnZuFW7ygLm"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4oeJBljTT3zVWUAI575BtW/clip_135941_195941.mp3",
             "description": "In deze aflevering gaat Aiko in gesprek met Jeroen Tas, voormalig topman bij Philips, tech-investeerder en adviseur van start-ups in de zorg. Jeroen woonde jarenlang in de VS, waar hij werkte aan grootschalige innovatietrajecten. \u00a0 Hij vertelt waar zijn passie vandaan komt, hoe je met data en technologie \u00e9cht waarde toevoegt, en waarom zorginnovatie in Nederland vaak stokt, waardoor veel scale-ups uitwijken naar het buitenland. \u00a0 Ze bespreken onder andere Ancora, een digitaal platform dat pati\u00ebnten en zorgteams helpt om samen betere gezondheidsuitkomsten te bereiken. Ook gaan ze in op hoe je nieuwe diensten bouwt, data uit versnipperde systemen koppelt, en wat er nodig is om start-ups te laten groeien. \u00a0 Een scherp gesprek over kansen, blokkades en wat er moet gebeuren om de zorg toekomstbestendig te houden.",
