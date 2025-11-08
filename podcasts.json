@@ -105944,14 +105944,14 @@
       "publisher": "Politie",
       "type": "show",
       "uri": "spotify:show:3ODZ8fIfGxiV5DiXaJmxTi",
-      "total_episodes": 140,
+      "total_episodes": 136,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 140,
+        "total": 136,
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6PVmbYOYsHtW240uZiMi80/clip_622230_682230.mp3",
@@ -106632,166 +106632,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:1t1cJioNGUvnhZZ9yjuPyz"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4IShpc38q2lDpZAXQW3ko7/clip_574316_634316.mp3",
-            "description": "In de derde aflevering duiken Esther en Martine in het laatste gedeelte van het politiedossier. Carla gaat eindelijk praten. Maar komt door haar informatie ook het onderzoek tot een eind? Wordt er forensisch bewijs gevonden, is er al een spoor van het moordwapen en wordt er uiteindelijk een verdachte veroordeeld door de Rechtbank?   Je hoort het in de laatste aflevering van het Politiedossier, het lichaam op de Landtong.  Je hoort het in de laatste aflevering van Politiedossier, het lichaam op de Landtong. Laat weten wat je van deze special vind in de comments en wie weet duiken we dan snel weer in een ander politiedossier.   ",
-            "html_description": "<p>In de derde aflevering duiken Esther en Martine in het laatste gedeelte van het politiedossier. Carla gaat eindelijk praten. Maar komt door haar informatie ook het onderzoek tot een eind? Wordt er forensisch bewijs gevonden, is er al een spoor van het moordwapen en wordt er uiteindelijk een verdachte veroordeeld door de Rechtbank? </p><br/><p><br /></p><br/><p>Je hoort het in de laatste aflevering van het Politiedossier, het lichaam op de Landtong.</p><br/><p><br /></p><br/><p>Je hoort het in de laatste aflevering van Politiedossier, het lichaam op de Landtong. Laat weten wat je van deze special vind in de comments en wie weet duiken we dan snel weer in een ander politiedossier.</p><br/><p><br /></p><br/><p><br /></p><br/><p><br /></p>",
-            "duration_ms": 1543223,
-            "explicit": true,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/21eP2eMlrk6ZrTcfNiy2VE"
-            },
-            "href": "https://api.spotify.com/v1/episodes/21eP2eMlrk6ZrTcfNiy2VE",
-            "id": "21eP2eMlrk6ZrTcfNiy2VE",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a72092e3b11d93bc3f56211f3",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f72092e3b11d93bc3f56211f3",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d72092e3b11d93bc3f56211f3",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl-NL",
-            "languages": [
-              "nl-NL"
-            ],
-            "name": "#3. Achter het behang - Het Politiedossier - Het lichaam op de Landtong - Boeiend Special",
-            "release_date": "2024-10-07",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:21eP2eMlrk6ZrTcfNiy2VE"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/27b7iNVzuoHRLfg4C4Ng9Q/clip_185481_245481.mp3",
-            "description": "In de tweede aflevering duiken Esther en Martine verder in het politiedossier. Het vermoeden van rechercheurs Ron en Raymond blijft dat er in de woning van Carla iets gebeurd zou moeten zijn. Alleen hebben ze nog geen spat bewijs.Er wordt door de forensische opsporing in haar huis gezocht naar sporen en de rechercheurs gaan nogmaals in gesprek met Carla. Zij komt onverwachts toch nog met een aanwijzing\u2026  Volgende week komt het derde deel van Politiedossier online. Laat weten wat je van deze special vind in de comments.",
-            "html_description": "<p>In de tweede aflevering duiken Esther en Martine verder in het politiedossier. Het vermoeden van rechercheurs Ron en Raymond blijft dat er in de woning van Carla iets gebeurd zou moeten zijn. Alleen hebben ze nog geen spat bewijs.<br />Er wordt door de forensische opsporing in haar huis gezocht naar sporen en de rechercheurs gaan nogmaals in gesprek met Carla. Zij komt onverwachts toch nog met een aanwijzing\u2026</p><br/><p><br /></p><br/><p>Volgende week komt het derde deel van Politiedossier online. Laat weten wat je van deze special vind in de comments.</p>",
-            "duration_ms": 1482383,
-            "explicit": true,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/2hPARgX4sDg7bPUpYaR1tm"
-            },
-            "href": "https://api.spotify.com/v1/episodes/2hPARgX4sDg7bPUpYaR1tm",
-            "id": "2hPARgX4sDg7bPUpYaR1tm",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a21571f63ea5344f1c45c5002",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f21571f63ea5344f1c45c5002",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d21571f63ea5344f1c45c5002",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl-NL",
-            "languages": [
-              "nl-NL"
-            ],
-            "name": "#2. Een rondje ruit - Het Politiedossier - Het lichaam op de Landtong - Boeiend Special",
-            "release_date": "2024-09-30",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:2hPARgX4sDg7bPUpYaR1tm"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0beYluLVqWxODdGxoAXNAr/clip_347256_407256.mp3",
-            "description": "In deze eerste aflevering duiken Esther en Martine in het politiedossier. Wanneer begon het politieonderzoek, welke aanwijzingen waren er, maar vooral de belangrijkste vraag: waar is Stuart? In deze special van Boeiend de podcast nemen woordvoerders Esther en Martine je van A tot Z mee in het onderzoek naar de dood van Stuart Markiet.  Volgende week komt het tweede deel van Politiedossier online. Laat weten wat je van deze special vind in de comments.",
-            "html_description": "<p>In deze eerste aflevering duiken Esther en Martine in het politiedossier. Wanneer begon het politieonderzoek, welke aanwijzingen waren er, maar vooral de belangrijkste vraag: waar is Stuart?</p><br/><p>In deze special van Boeiend de podcast nemen woordvoerders Esther en Martine je van A tot Z mee in het onderzoek naar de dood van Stuart Markiet.</p><br/><p><br /></p><br/><p>Volgende week komt het tweede deel van Politiedossier online. Laat weten wat je van deze special vind in de comments.</p>",
-            "duration_ms": 1259183,
-            "explicit": true,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/7fGXwlT6GkfkduHOt54Iyf"
-            },
-            "href": "https://api.spotify.com/v1/episodes/7fGXwlT6GkfkduHOt54Iyf",
-            "id": "7fGXwlT6GkfkduHOt54Iyf",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae7d9cb707f032755b05f0c58",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe7d9cb707f032755b05f0c58",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68de7d9cb707f032755b05f0c58",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl-NL",
-            "languages": [
-              "nl-NL"
-            ],
-            "name": "#1. Waar is Stuart? - Het Politiedossier - Het lichaam op de Landtong - Boeiend Special",
-            "release_date": "2024-09-23",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:7fGXwlT6GkfkduHOt54Iyf"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2aCeAeeh3mgdPbEgr8hRVl/clip_0_46703.mp3",
-            "description": "In deze special van Boeiend de podcast nemen woordvoerders Esther en Martine je van A tot Z mee in het onderzoek naar de dood van Stuart Markiet. Ze spreken met rechercheurs, de forensische opsporing en de Officier van Justitie die bij de zaak betrokken waren. Maar of ze daardoor dichterbij het antwoord komen wat er met Stuart is gebeurd? Je hoort het in de driedelige special: Het politiedossier - het lichaam op de Landtong.   Vanaf 23 september te beluisteren op dit kanaal!",
-            "html_description": "<p>In deze special van Boeiend de podcast nemen woordvoerders Esther en Martine je van A tot Z mee in het onderzoek naar de dood van Stuart Markiet.</p><br/><p>Ze spreken met rechercheurs, de forensische opsporing en de Officier van Justitie die bij de zaak betrokken waren. Maar of ze daardoor dichterbij het antwoord komen wat er met Stuart is gebeurd? Je hoort het in de driedelige special: Het politiedossier - het lichaam op de Landtong. </p><br/><p><br /></p><br/><p>Vanaf 23 september te beluisteren op dit kanaal!</p>",
-            "duration_ms": 46703,
-            "explicit": true,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/2VoEVDaTao6zaA3uXHudgK"
-            },
-            "href": "https://api.spotify.com/v1/episodes/2VoEVDaTao6zaA3uXHudgK",
-            "id": "2VoEVDaTao6zaA3uXHudgK",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ac1a62c3fbbd20166a429b68e",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fc1a62c3fbbd20166a429b68e",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68dc1a62c3fbbd20166a429b68e",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl-NL",
-            "languages": [
-              "nl-NL"
-            ],
-            "name": "Trailer - Het Politiedossier - Het lichaam op de Landtong - Boeiend Special",
-            "release_date": "2024-09-16",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:2VoEVDaTao6zaA3uXHudgK"
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0gw9Tlcjkp6ZJ2nI0bBYve/clip_283416_343416.mp3",
@@ -107956,28 +107796,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/363yLAZc5CgjahwsZ36qJ2/clip_539180_599180.mp3",
             "description": "Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram @politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Robin en Anouk de achtste aflevering van Bureau Rotterdam.   Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z'n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam. Dit is tevens de laatste Bureaupraat, maar wie weet komen we terug...  #bureaupraat #bureaurotterdam #politie",
+            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Robin en Anouk de achtste aflevering van Bureau Rotterdam. </p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam. Dit is tevens de laatste Bureaupraat, maar wie weet komen we terug...</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "duration_ms": 2084330,
             "explicit": true,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/5rMLcsIxVn02r5UfyT2glo"
             },
             "href": "https://api.spotify.com/v1/episodes/5rMLcsIxVn02r5UfyT2glo",
-            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Robin en Anouk de achtste aflevering van Bureau Rotterdam. </p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam. Dit is tevens de laatste Bureaupraat, maar wie weet komen we terug...</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "id": "5rMLcsIxVn02r5UfyT2glo",
             "images": [
               {
-                "height": 640,
                 "url": "https://i.scdn.co/image/ab6765630000ba8ae05342df753129ea320fb4b5",
+                "height": 640,
                 "width": 640
               },
               {
-                "height": 300,
                 "url": "https://i.scdn.co/image/ab67656300005f1fe05342df753129ea320fb4b5",
+                "height": 300,
                 "width": 300
               },
               {
-                "height": 64,
                 "url": "https://i.scdn.co/image/ab6765630000f68de05342df753129ea320fb4b5",
+                "height": 64,
                 "width": 64
               }
             ],
@@ -107996,28 +107836,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/231s9UtDCQjmJoPqlrQ3s8/clip_514317_574317.mp3",
             "description": "Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn \"Bureau\"-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo'n programma?  Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.  Vergeet niet om de podcast te liken en je te abonneren op ons kanaal! Volg Niels en blijf op de hoogte van al het podcast nieuws @niels_politie  #politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam  ",
+            "html_description": "<p>Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn &#34;Bureau&#34;-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo&#39;n programma?<br/>Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.<br/>Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!<br/>Volg Niels en blijf op de hoogte van al het podcast nieuws<br/>&#64;niels_politie<br/>#politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam <br/></p>",
             "duration_ms": 3255205,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3sr7WYCIoRfPq8M0N2c0E7"
             },
             "href": "https://api.spotify.com/v1/episodes/3sr7WYCIoRfPq8M0N2c0E7",
-            "html_description": "<p>Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn &#34;Bureau&#34;-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo&#39;n programma?<br/>Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.<br/>Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!<br/>Volg Niels en blijf op de hoogte van al het podcast nieuws<br/>&#64;niels_politie<br/>#politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam <br/></p>",
             "id": "3sr7WYCIoRfPq8M0N2c0E7",
             "images": [
               {
-                "height": 640,
                 "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
+                "height": 640,
                 "width": 640
               },
               {
-                "height": 300,
                 "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
+                "height": 300,
                 "width": 300
               },
               {
-                "height": 64,
                 "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
+                "height": 64,
                 "width": 64
               }
             ],
@@ -108036,28 +107876,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4PO2zYay3qDwRkMwUrLJDc/clip_482338_542338.mp3",
             "description": "Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram @politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Jacco en Guido de zevende aflevering van Bureau Rotterdam.  Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z'n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.  #bureaupraat #bureaurotterdam #politie",
+            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Jacco en Guido de zevende aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "duration_ms": 1935018,
             "explicit": true,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1xzE33OrQ6FxvofQdsReEZ"
             },
             "href": "https://api.spotify.com/v1/episodes/1xzE33OrQ6FxvofQdsReEZ",
-            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Jacco en Guido de zevende aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "id": "1xzE33OrQ6FxvofQdsReEZ",
             "images": [
               {
-                "height": 640,
                 "url": "https://i.scdn.co/image/ab6765630000ba8a2616597246c37b68dbab0e1e",
+                "height": 640,
                 "width": 640
               },
               {
-                "height": 300,
                 "url": "https://i.scdn.co/image/ab67656300005f1f2616597246c37b68dbab0e1e",
+                "height": 300,
                 "width": 300
               },
               {
-                "height": 64,
                 "url": "https://i.scdn.co/image/ab6765630000f68d2616597246c37b68dbab0e1e",
+                "height": 64,
                 "width": 64
               }
             ],
@@ -108076,28 +107916,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5B1G8cODblvxt7U79lBBDN/clip_208333_268333.mp3",
             "description": "Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram @politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Andrea en Ulubat de zesde aflevering van Bureau Rotterdam.  Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z'n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.  #bureaupraat #bureaurotterdam #politie",
+            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Andrea en Ulubat de zesde aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "duration_ms": 1867178,
             "explicit": true,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2yhjeAfx0nHv5gwHjnjz5K"
             },
             "href": "https://api.spotify.com/v1/episodes/2yhjeAfx0nHv5gwHjnjz5K",
-            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Andrea en Ulubat de zesde aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "id": "2yhjeAfx0nHv5gwHjnjz5K",
             "images": [
               {
-                "height": 640,
                 "url": "https://i.scdn.co/image/ab6765630000ba8a100756b8d82c419a2fb64984",
+                "height": 640,
                 "width": 640
               },
               {
-                "height": 300,
                 "url": "https://i.scdn.co/image/ab67656300005f1f100756b8d82c419a2fb64984",
+                "height": 300,
                 "width": 300
               },
               {
-                "height": 64,
                 "url": "https://i.scdn.co/image/ab6765630000f68d100756b8d82c419a2fb64984",
+                "height": 64,
                 "width": 64
               }
             ],
