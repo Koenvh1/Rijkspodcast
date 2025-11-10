@@ -132712,15 +132712,16 @@
       "publisher": "WODC",
       "type": "show",
       "uri": "spotify:show:7jtE5bnuZHD46nMJUAmdyG",
-      "total_episodes": 15,
+      "total_episodes": 16,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7jtE5bnuZHD46nMJUAmdyG/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 15,
+        "total": 16,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4EHBFkrlToGXOcIM5ZQvhc/clip_282930_342930.mp3",
             "description": "De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van \u2060Dossier WODC Live\u2060 en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees \u2060hier\u2060 het volledige rapport. Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060\u2060www.wodc.nl\u2060Dank aan Jeroen Hairwassers voor de uitnodiging. Opnames op locatie verzorgd door NFGD.",
