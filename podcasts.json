@@ -16711,6 +16711,46 @@
         "total": 50,
         "items": [
           {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/68QWOa9icfxmlF7uJrQI6e/clip_630774_690774.mp3",
+            "description": "Inwoners en ondernemers betrekken en bereiken met spel: waarom zou je het doen, wat levert het op en hoe ga je ermee aan de slag? Heb je weleens van gamification of serious gaming gehoord? Dit betekent dat je spelelementen inzet in een professionele omgeving. Bijvoorbeeld om gedrag te onderzoeken, te sturen of informatie op te halen. Er zijn allerlei vormen van spel. Online en offline. Spellen die je in je organisatie speelt met collega\u2019s, en spellen om (samen) te werken met mensen buiten jouw organisatie. In dit webinar bespreken we waarom spel handig of zelfs nodig is om in te zetten. En praten we met organisaties die spel met succes hebben ingezet.",
+            "html_description": "Inwoners en ondernemers betrekken en bereiken met spel: waarom zou je het doen, wat levert het op en hoe ga je ermee aan de slag? Heb je weleens van gamification of serious gaming gehoord? Dit betekent dat je spelelementen inzet in een professionele omgeving. Bijvoorbeeld om gedrag te onderzoeken, te sturen of informatie op te halen. Er zijn allerlei vormen van spel. Online en offline. Spellen die je in je organisatie speelt met collega\u2019s, en spellen om (samen) te werken met mensen buiten jouw organisatie. In dit webinar bespreken we waarom spel handig of zelfs nodig is om in te zetten. En praten we met organisaties die spel met succes hebben ingezet.",
+            "duration_ms": 3305978,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6FcwyjgCuqLOG0K82dxPoZ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6FcwyjgCuqLOG0K82dxPoZ",
+            "id": "6FcwyjgCuqLOG0K82dxPoZ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3dad47cb66e6af341d903c68",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3dad47cb66e6af341d903c68",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3dad47cb66e6af341d903c68",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Hoe je met spel inwoners en ondernemers bereikt en betrekt (en misschien zelfs een beetje vermaakt) (Direct Duidelijk Tour)",
+            "release_date": "2025-11-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6FcwyjgCuqLOG0K82dxPoZ"
+          },
+          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1P3XSyj1QpEyGx0T30FzEr/clip_459011_519011.mp3",
             "description": "Dit is de Direct Duidelijk Tour podcast. Eerder maakten we webinars over duidelijke overheidscommunicatie en -dienstverlening. En daar kun je nu naar luisteren. Je hoort gesprekken over verschillende onderwerpen. Met voorbeelden uit de praktijk. En altijd de centrale vraag:\u00a0Hoe zorg je vanuit de overheid voor duidelijke communicatie en betere dienstverlening? Over deze aflevering Met inclusie\u00a0[\u2026]",
             "html_description": "Dit is de Direct Duidelijk Tour podcast. Eerder maakten we webinars over duidelijke overheidscommunicatie en -dienstverlening. En daar kun je nu naar luisteren. Je hoort gesprekken over verschillende onderwerpen. Met voorbeelden uit de praktijk. En altijd de centrale vraag:\u00a0Hoe zorg je vanuit de overheid voor duidelijke communicatie en betere dienstverlening? Over deze aflevering Met inclusie\u00a0[\u2026]",
@@ -18669,46 +18709,6 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:21GKmgObUproMpMG1OkJuD"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7oE7167r7mvdSmNcIbx3pA/clip_486183_546183.mp3",
-            "description": "In deze 2e aflevering van de podcast over inclusieve dienstverlening bij de overheid gaat Wolfgang Ebbers in gesprek met Mariette Lokin over de complexiteit van dienstverlening. Waar komt die complexiteit vandaan maar belangrijker nog, hoe komen we er vanaf? Mariette, strategisch adviseur bij de douane en universitair docent Staats-en Bestuursrecht, ICT en Wetgeving aan de Vrije Universiteit Amsterdam, pleit ervoor dat wetgevers en uitvoerders elkaar opzoeken om complexiteit in de ontwikkeling van dienstverlening te voorkomen.",
-            "html_description": "In deze 2e aflevering van de podcast over inclusieve dienstverlening bij de overheid gaat Wolfgang Ebbers in gesprek met Mariette Lokin over de complexiteit van dienstverlening. Waar komt die complexiteit vandaan maar belangrijker nog, hoe komen we er vanaf? Mariette, strategisch adviseur bij de douane en universitair docent Staats-en Bestuursrecht, ICT en Wetgeving aan de Vrije Universiteit Amsterdam, pleit ervoor dat wetgevers en uitvoerders elkaar opzoeken om complexiteit in de ontwikkeling van dienstverlening te voorkomen.",
-            "duration_ms": 2634720,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/6EHYJ2AFoaJ9A8DAkeIBJb"
-            },
-            "href": "https://api.spotify.com/v1/episodes/6EHYJ2AFoaJ9A8DAkeIBJb",
-            "id": "6EHYJ2AFoaJ9A8DAkeIBJb",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8b398d06de17280105579c8f",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8b398d06de17280105579c8f",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8b398d06de17280105579c8f",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": false,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Complexiteit",
-            "release_date": "2020-12-08",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:6EHYJ2AFoaJ9A8DAkeIBJb"
           }
         ]
       }
@@ -83615,7 +83615,7 @@
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6qkTKbZ65rk51CgBJGox39/clip_599086_659086.mp3",
             "description": "Je zoeft er altijd gedachteloos langs in de auto. Maar wist je dat bermen ook ware natuurgebieden zijn? En waarom een berm zo belangrijk is?\u00a0Rosalie Heins, ecoloog bij Rijkswaterstaat, vertelt er alles over aan Botte Jellema.",
             "html_description": "<p>Je zoeft er altijd gedachteloos langs in de auto. Maar wist je dat bermen ook ware natuurgebieden zijn? En waarom een berm zo belangrijk is?\u00a0Rosalie Heins, ecoloog bij Rijkswaterstaat, vertelt er alles over aan Botte Jellema.</p>",
-            "duration_ms": 1363751,
+            "duration_ms": 1363752,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2hzT7zs84CuXbS6ovjJidX"
