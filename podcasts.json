@@ -20940,15 +20940,55 @@
       "publisher": "Het ministerie van Justitie en Veiligheid (JenV)",
       "type": "show",
       "uri": "spotify:show:5t7QVRJDOA6nySnsHrc7sU",
-      "total_episodes": 5,
+      "total_episodes": 6,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5t7QVRJDOA6nySnsHrc7sU/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 5,
+        "total": 6,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2vDAJwAwADvPSe6cBAGFAT/clip_172326_232326.mp3",
+            "description": "In deze aflevering horen we het verhaal van Roy, een 14-jarige jongen die wordt opgepakt op verdenking van terrorisme. Zijn verhaal is fictief, maar gebaseerd op de levensechte verhalen van jongeren in Nederland die online worden geradicaliseerd. Niemand in zijn omgeving had door waar hij mee bezig was. Al die uren die hij online doorbracht, waarbij hij zich meer en meer aan het verdiepen was\u2026 totdat de situatie volledig escaleerde.De Raad voor de Kinderbescherming ziet steeds vaker minderjarigen met zware verdenkingen voorbij komen en maakt zich zorgen over de impact op hun ontwikkeling \u00e9n hun toekomst. Marlou, co\u00f6rdinator Contraterrorisme, Extremisme en Radicalisering bij de Raad, en Dorien Kardol van het Openbaar Ministerie vertellen hoe ze omgaan met deze complexe zaken en hoe een veroordeling je leven lang kan achtervolgen.Kijk voor meer informatie over de Raad voor de Kinderbescherming op www.kinderbescherming.nl",
+            "html_description": "<p>In deze aflevering horen we het verhaal van Roy, een 14-jarige jongen die wordt opgepakt op verdenking van terrorisme. Zijn verhaal is fictief, maar gebaseerd op de levensechte verhalen van jongeren in Nederland die online worden geradicaliseerd. Niemand in zijn omgeving had door waar hij mee bezig was. Al die uren die hij online doorbracht, waarbij hij zich meer en meer aan het verdiepen was\u2026 totdat de situatie volledig escaleerde.</p><p><br /></p><p>De Raad voor de Kinderbescherming ziet steeds vaker minderjarigen met zware verdenkingen voorbij komen en maakt zich zorgen over de impact op hun ontwikkeling \u00e9n hun toekomst. Marlou, co\u00f6rdinator Contraterrorisme, Extremisme en Radicalisering bij de Raad, en Dorien Kardol van het Openbaar Ministerie vertellen hoe ze omgaan met deze complexe zaken en hoe een veroordeling je leven lang kan achtervolgen.</p><p><br /></p><p>Kijk voor meer informatie over de Raad voor de Kinderbescherming op www.kinderbescherming.nl</p>",
+            "duration_ms": 1566768,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2UmdE84DX9N5YmJsGtI6wm"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2UmdE84DX9N5YmJsGtI6wm",
+            "id": "2UmdE84DX9N5YmJsGtI6wm",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1552f2ef0829946b438a0163",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1552f2ef0829946b438a0163",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1552f2ef0829946b438a0163",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#6 Als je online steeds verder radicaliseert",
+            "release_date": "2025-11-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2UmdE84DX9N5YmJsGtI6wm"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3lLqFvCi5Eu8B8a04BSffM/clip_595819_655819.mp3",
             "description": "In deze aflevering gaan we in op het verhaal van Samuel. Hij kwam in de jaren negentig naar Nederland, maar mocht (hier) niet meer blijven. Als uitvoeringsorganisatie komt Dienst Terugkeer en Vertrek dan in beeld. Met haar ketenpartners probeert zij de terugkeer van personen als Samuel zo goed mogelijk te organiseren. En dat gaat de ene keer makkelijker dan de andere keer.Kijk voor meer informatie over de Dienst Terugkeer en Vertrek op https://www.dienstterugkeerenvertrek.nl/\u00a0",
