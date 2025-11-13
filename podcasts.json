@@ -86983,15 +86983,55 @@
       "publisher": "A+O fonds Rijk",
       "type": "show",
       "uri": "spotify:show:16WP5s450ZcpKp1KUy155A",
-      "total_episodes": 12,
+      "total_episodes": 13,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/16WP5s450ZcpKp1KUy155A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 12,
+        "total": 13,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2Qciq9IEAUsJvL9aBZ6hHR/clip_290230_350230.mp3",
+            "description": "VerRIJK je Kennis themapodcast 3: Hormonen by A+O fonds Rijk",
+            "html_description": "VerRIJK je Kennis themapodcast 3: Hormonen by A&#43;O fonds Rijk",
+            "duration_ms": 2442648,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3JOUdKFXnMezSu8ro6POEi"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3JOUdKFXnMezSu8ro6POEi",
+            "id": "3JOUdKFXnMezSu8ro6POEi",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8af6914cd8ccc49d1d44f69a01",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1ff6914cd8ccc49d1d44f69a01",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68df6914cd8ccc49d1d44f69a01",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "VerRIJK je Kennis themapodcast 3: Hormonen",
+            "release_date": "2025-11-13",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3JOUdKFXnMezSu8ro6POEi"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7EEXMapQCeZnMY2hboU7tO/clip_542447_602447.mp3",
             "description": "In deze aflevering van VerRIJK je kennis: Menstruatie & Overgang, een themapodcast van het A+O fonds Rijk, gaat Jolet Moolenaar in gesprek met Tanja Knippers, voorzitter van Stichting Vuurvrouw en Vuurvrouw Werkt. Samen praten ze over de overgang \u2013 een ingrijpende, maar ook betekenisvolle levensfase \u2013 en vooral over hoe je zelf aan het roer kunt blijven in deze periode.  Zie voor meer informatie: https://aofondsrijk.nl/menstruatie-overgang/",
