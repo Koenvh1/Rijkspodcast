@@ -91131,15 +91131,16 @@
       "publisher": "Novum Innovatielab",
       "type": "show",
       "uri": "spotify:show:5GChHPdKAdrMoh0outbofX",
-      "total_episodes": 41,
+      "total_episodes": 42,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5GChHPdKAdrMoh0outbofX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 41,
+        "total": 42,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7KqQiw7oRXZ8T7lPglc1DP/clip_152556_212556.mp3",
             "description": "In deze aflevering duiken Jeroen en Marijn in Fase 2 van de Novum Innovatiemethode: Begrijpen. De fase waarin je \u00e9cht leert wat het probleem is en voor wie je het oplost.\ud83c\udfaf In deze aflevering:Hoe definieer je je doelgroep en gebruiker?Wanneer moet je interviews doen en wanneer observaties?Het stellen van de juiste vragen zonder je eigen aannames mee te nemenOmgaan met latente problemen (problemen die gebruikers niet bewust ervaren)Pivot, Kill of Persevere: wat als het antwoord 'nee' is?Het verschil tussen geduld hebben en tijd verspillenHoe weet je wanneer je genoeg weet om door te gaan naar fase 3?\ud83d\udca1 Praktische inzichten:\u2713 Vuistregel: minimaal 5 interviews, liever 10\u2713 Vraag naar concrete voorbeelden uit het verleden, niet naar hypothetische situaties\u2713 Verzadiging is je meetpunt: als je steeds dezelfde antwoorden hoort, kun je door\u2713 Begin klein: drie vragen bij de koffieautomaat kan al genoeg zijn\ud83d\udcda Aanbevolen literatuur: The Mom Test (ook in het Nederlands beschikbaar)Vragen of feedback? Mail naar innovatie@svb.nlDe Innovatieambtenaar is een podcast van Novum (SVB) over innovatie in de publieke sector.[00:01:00] Intro en waarom deze fase essentieel is[00:02:00] Wie is je gebruiker? De doelgroep defini\u00ebren[00:03:00] Latente problemen en observatietechnieken[00:04:00] Praktijkvoorbeeld: Paradox kennissysteem[00:06:00] Hoe voorkom je projectie van eigen aannames?[00:09:00] Technieken voor het stellen van goede vragen[00:11:00] Wat als het antwoord 'nee' is? Pivot, Kill, Persevere[00:14:00] Geduld vs. tijdverspilling[00:20:00] Mensen meedoen zonder angst[00:25:00] Welke inzichten komen uit deze fase?[00:27:00] Wanneer weet je dat je genoeg hebt begrepen?[00:29:00] Grootste fouten in de begrijpfase[00:33:00] Tips voor beginners[00:35:00] Samenvatting: twee dingen om te onthouden",
