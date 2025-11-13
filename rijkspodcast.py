@@ -142,8 +142,8 @@ def generate_feed():
         if episode["audio_preview_url"]:
             enclosure = ET.SubElement(item, "enclosure")
             enclosure.text = episode["audio_preview_url"]
-            enclosure.set("length", "60")
-            enclosure.set("type", "audio/mp3")
+            enclosure.set("length", "1048576")
+            enclosure.set("type", "audio/mpeg")
         guid = ET.SubElement(item, "guid")
         guid.text = episode["external_urls"]["spotify"]
         guid.set("isPermaLink", "true")
