@@ -158,7 +158,7 @@ def generate_feed():
 
     tree = ET.ElementTree(root)
     ET.indent(tree, space="\t", level=0)
-    tree.write("feed.rss", encoding="utf-8", xml_declaration=True)
+    tree.write("feed.xml", encoding="utf-8", xml_declaration=True)
 
 def update_podcasts():
     podcasts = json.load(open("podcasts.json"))
