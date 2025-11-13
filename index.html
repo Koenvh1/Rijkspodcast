@@ -6,6 +6,8 @@
     <title>Rijkspodcastregister</title>
     <meta name="description" content="De Rijksoverheid produceert een tal van podcasts. Deze website is een overzicht van alle podcasts die de Rijksoverheid heeft geproduceerd.">
 
+    <link rel="alternate" type="application/rss+xml" title="Voeg de Rijkspodcastregister-RSS-feed toe" href="feed.rss">
+
     <meta property="og:url" content="https://rijkspodcast.koenvh.nl">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Rijkspodcastregister">
@@ -56,7 +58,13 @@
     <ul class="list-group pb-3" id="podcasts">
         Podcasts aan het laden...
     </ul>
-    <p class="text-center"><small>Aantal podcasts: <span id="podcast-count">berekenen...</span> | <a href="rijkspodcastregister.opml" download>Download OPML</a></small></p>
+    <p class="text-center">
+        <small>
+            Aantal podcasts: <span id="podcast-count">berekenen...</span> | 
+            <a href="rijkspodcastregister.opml" download>Download OPML</a> | 
+            <a href="feed.rss" download>RSS feed</a>
+        </small>
+    </p>
 </div>
 <div class="podcast-iframe">
     <div id="embed-iframe"></div>
