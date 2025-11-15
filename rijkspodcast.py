@@ -102,19 +102,22 @@ def generate_opml():
     tree.write("rijkspodcastregister.opml", encoding="utf-8", xml_declaration=True)
 
 def generate_feed():
-    root = ET.Element("rss")
-    root.set("version", "2.0")
+    root = ET.Element("feed")
+    root.set("xmlns", "http://www.w3.org/2005/Atom")
     title = ET.SubElement(root, "title")
     title.text = "Rijkspodcastregister"
-    description = ET.SubElement(root, "description")
-    description.text = "Dit zijn de nieuwste afleveringen van podcasts " \
+    summary = ET.SubElement(root, "subtitle")
+    summary.text = "Dit zijn de nieuwste afleveringen van podcasts " \
     "geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid."
     link = ET.SubElement(root, "link")
-    link.text = "https://rijkspodcast.koenvh.nl"
-    ttl = ET.SubElement(root, "ttl")
-    ttl.text = "180"
-    
-    channel = ET.SubElement(root, "channel")
+    link.set("href", "https://rijkspodcast.koenvh.nl")
+    updated = ET.SubElement(root, "updated")
+    updated.text = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    author = ET.SubElement(root, "author")
+    author_name = ET.SubElement(author, "name")
+    author_name.text = "Koen van Hove"
+    feed_id = ET.SubElement(root, "id")
+    feed_id.text = "urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0"
 
     podcasts = json.load(open("podcasts.json"))
     episodes = []
@@ -129,32 +132,28 @@ def generate_feed():
     total = len(episodes)
     for idx, episode in enumerate(episodes):
         print(idx + 1, total)
-        item = ET.SubElement(channel, "item")
+        item = ET.SubElement(root, "entry")
         title = ET.SubElement(item, "title")
         title.text = episode["podcast"] + " - " + episode["name"]
         link = ET.SubElement(item, "link")
-        link.text = episode["external_urls"]["spotify"]
-        description = ET.SubElement(item, "description")
-        description.text = episode["description"]
-        image = ET.SubElement(item, "image")
-        image.text = episode["images"][0]["url"]
+        link.set("href", episode["external_urls"]["spotify"])
+        summary = ET.SubElement(item, "summary")
+        summary.text = episode["description"]
+        # image = ET.SubElement(item, "image")
+        # image.text = episode["images"][0]["url"]
         author = ET.SubElement(item, "author")
-        author.text = episode["publisher"]
+        author_name = ET.SubElement(author, "name")
+        author_name.text = episode["publisher"]
         if episode["audio_preview_url"]:
-            enclosure = ET.SubElement(item, "enclosure")
-            enclosure.text = episode["audio_preview_url"]
-            enclosure.set("length", "1048576")
-            enclosure.set("type", "audio/mpeg")
-        guid = ET.SubElement(item, "guid")
-        guid.text = episode["external_urls"]["spotify"]
-        guid.set("isPermaLink", "true")
-        try:
-            release_date = time.strptime(episode["release_date"], "%Y-%m-%d")
-            release_date = time.strftime("%a, %d %b %Y %H:%M:%S +0000", release_date)
-            pub_date = ET.SubElement(item, "pubDate")
-            pub_date.text = release_date
-        except:
-            pass
+            content = ET.SubElement(item, "content")
+            content.set("src", episode["audio_preview_url"])
+            content.set("type", "audio/mpeg")
+        entry_id = ET.SubElement(item, "id")
+        entry_id.text = episode["uri"]
+        release_date = time.strptime(episode["release_date"], "%Y-%m-%d")
+        release_date = time.strftime("%Y-%m-%dT%H:%M:%SZ", release_date)
+        updated = ET.SubElement(item, "updated")
+        updated.text = release_date
 
     tree = ET.ElementTree(root)
     ET.indent(tree, space="\t", level=0)
