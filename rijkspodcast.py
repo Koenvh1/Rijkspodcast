@@ -138,7 +138,8 @@ def generate_feed():
         link = ET.SubElement(item, "link")
         link.set("href", episode["external_urls"]["spotify"])
         summary = ET.SubElement(item, "summary")
-        summary.text = episode["description"]
+        summary.set("type", "html")
+        summary.text = episode["html_description"]
         # image = ET.SubElement(item, "image")
         # image.text = episode["images"][0]["url"]
         author = ET.SubElement(item, "author")
