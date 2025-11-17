@@ -106064,15 +106064,16 @@
       "publisher": "Politie",
       "type": "show",
       "uri": "spotify:show:3ODZ8fIfGxiV5DiXaJmxTi",
-      "total_episodes": 136,
+      "total_episodes": 137,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 136,
+        "total": 137,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6PVmbYOYsHtW240uZiMi80/clip_622230_682230.mp3",
             "description": "In deze aflevering maken we kennis met de nieuwe politiechef van de eenheid Rotterdam: Tolga Koklu. We praten over zijn loopbaan van straatagent tot politiechef en over de uitdagingen waar de politie in een grootstedelijke eenheid als Rotterdam mee te maken heeft.Tolga vertelt open over leiderschap, balans tussen werk en priv\u00e9, racisme en discriminatie binnen de organisatie, jeugdproblematiek, en zijn visie op de toekomst van de politie. Ook horen we de mens achter de chef: zijn passie voor koken, zijn Limburgse roots en zijn kijk op verbinding in een complexe samenleving.Bemachtig nu nog jouw kaartje voor Boeiend on Stage 2025:https://theateraandeschie.nl/voorstelling/boeiend-on-stage#politie #politiechef #tolgakoklu #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast",
@@ -108036,28 +108037,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5B1G8cODblvxt7U79lBBDN/clip_208333_268333.mp3",
             "description": "Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram @politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Andrea en Ulubat de zesde aflevering van Bureau Rotterdam.  Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z'n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.  #bureaupraat #bureaurotterdam #politie",
-            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Andrea en Ulubat de zesde aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "duration_ms": 1867178,
             "explicit": true,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2yhjeAfx0nHv5gwHjnjz5K"
             },
             "href": "https://api.spotify.com/v1/episodes/2yhjeAfx0nHv5gwHjnjz5K",
+            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Andrea en Ulubat de zesde aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "id": "2yhjeAfx0nHv5gwHjnjz5K",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a100756b8d82c419a2fb64984",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a100756b8d82c419a2fb64984",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f100756b8d82c419a2fb64984",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f100756b8d82c419a2fb64984",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d100756b8d82c419a2fb64984",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d100756b8d82c419a2fb64984",
                 "width": 64
               }
             ],
