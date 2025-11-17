@@ -9000,15 +9000,175 @@
       "publisher": "CIP - Centrum Informatiebeveiliging en Privacybescherming",
       "type": "show",
       "uri": "spotify:show:6Eb7YjZnONrbelDXDEe1iQ",
-      "total_episodes": 122,
+      "total_episodes": 126,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 122,
+        "total": 126,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/689GMYvKClR18KobTiyPJC/clip_363869_423869.mp3",
+            "description": "Annemieke de Wit (Senior Adviseur Informatiebeveiliging bij CIP) vertelt je meer over de campagne rondom de implementatiebegeleiding. Ze legt uit waar je alle informatie over de BIO2 kunt vinden. Ze blikt terug en bespreekt een aantal punten uit aflevering 1 t/m 3. Ze kijkt vooruit naar de toekomst van de BIO2, wat zijn de plannen? \u00a0",
+            "html_description": "<p>Annemieke de Wit (Senior Adviseur Informatiebeveiliging bij CIP) vertelt je meer over de campagne rondom de implementatiebegeleiding. Ze legt uit waar je alle informatie over de BIO2 kunt vinden. Ze blikt terug en bespreekt een aantal punten uit aflevering 1 t/m 3. Ze kijkt vooruit naar de toekomst van de BIO2, wat zijn de plannen? \u00a0</p>",
+            "duration_ms": 976979,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1Hg8j18DdCHwaVJYUxkd9i"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1Hg8j18DdCHwaVJYUxkd9i",
+            "id": "1Hg8j18DdCHwaVJYUxkd9i",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "BIO2 in de praktijk - BIO2 hulp bij implementatie en het ondersteuningsaanbod - aflevering 4",
+            "release_date": "2025-11-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1Hg8j18DdCHwaVJYUxkd9i"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0Fz6Qwvs868JnS2JJQwB4v/clip_302233_362233.mp3",
+            "description": "Kees van der Maarel (RE RO, Co\u00f6rdinerend beleidsmedewerker informatieveiligheid bij BZK) vertelt je over de Baseline Informatiebeveiliging Overheid 2 (BIO2), het ontstaan en het belang van de BIO2 en de rol van de bestuurder. Ook legt hij uit binnen welke samenwerkingsverbanden de BIO2 leeft. Vanuit zijn rol bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) heeft hij een duidelijke visie op de BIO2, zowel op het heden als het verleden. \u00a0",
+            "html_description": "<p>Kees van der Maarel (RE RO, Co\u00f6rdinerend beleidsmedewerker informatieveiligheid bij BZK) vertelt je over de Baseline Informatiebeveiliging Overheid 2 (BIO2), het ontstaan en het belang van de BIO2 en de rol van de bestuurder. Ook legt hij uit binnen welke samenwerkingsverbanden de BIO2 leeft. Vanuit zijn rol bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) heeft hij een duidelijke visie op de BIO2, zowel op het heden als het verleden. \u00a0</p>",
+            "duration_ms": 916558,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6VQaLjFX58i4HbG6tqFdgo"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6VQaLjFX58i4HbG6tqFdgo",
+            "id": "6VQaLjFX58i4HbG6tqFdgo",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "BIO2 in de praktijk - Het verhaal van BIO2 - aflevering 1",
+            "release_date": "2025-11-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6VQaLjFX58i4HbG6tqFdgo"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0LY5W3tU33RNvJvvZATSga/clip_423011_483011.mp3",
+            "description": "In deze aflevering bespreken \u201cde Kezen\u201d met elkaar deel 2 van de BIO2, namelijk de overheidsmaatregelen. Kees van der Maarel (RE RO, Co\u00f6rdinerend beleidsmedewerker informatieveiligheid bij BZK) en Kees Hintzbergen (Adviseur Informatiebeveiliging bij de Informatiebeveiligingsdienst (IBD) en secretaris Werkgroep-BIO bij CIP). Welke maatregelen zijn er zoal? Hoe kun je starten met de implementatie van de BIO2? Wat zijn belangrijke eerste stappen? Hoe kijken zij naar risicomanagement?\u00a0",
+            "html_description": "<p>In deze aflevering bespreken \u201cde Kezen\u201d met elkaar deel 2 van de BIO2, namelijk de overheidsmaatregelen. Kees van der Maarel (RE RO, Co\u00f6rdinerend beleidsmedewerker informatieveiligheid bij BZK) en Kees Hintzbergen (Adviseur Informatiebeveiliging bij de Informatiebeveiligingsdienst (IBD) en secretaris Werkgroep-BIO bij CIP). Welke maatregelen zijn er zoal? Hoe kun je starten met de implementatie van de BIO2? Wat zijn belangrijke eerste stappen? Hoe kijken zij naar risicomanagement?\u00a0</p>",
+            "duration_ms": 1250142,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0ahpetrUZUMl5ijJtvrq0v"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0ahpetrUZUMl5ijJtvrq0v",
+            "id": "0ahpetrUZUMl5ijJtvrq0v",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "BIO2 in de praktijk - BIO-Overheidsmaatregelen (deel 2 van de BIO2) - aflevering 3",
+            "release_date": "2025-11-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0ahpetrUZUMl5ijJtvrq0v"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1hGgw2Iiec9qe92F9yjZqB/clip_522765_582765.mp3",
+            "description": "Erik Becker (Co\u00f6rdinerend beleidsmedewerker informatieveiligheid bij BZK) neemt het stokje over van Kees van de Maarel. Hij gaat in op de BIO2 en vertelt je meer over deel 1 van de BIO2, het BIO2-kader. Wat is het doel van de BIO2? Wat is het verschil met de eerdere versies? Vanuit zijn rol bij BZK is hij dagelijks bezig met het beleid rond informatiebeveiliging vanuit de overheid. \u00a0",
+            "html_description": "<p>Erik Becker (Co\u00f6rdinerend beleidsmedewerker informatieveiligheid bij BZK) neemt het stokje over van Kees van de Maarel. Hij gaat in op de BIO2 en vertelt je meer over deel 1 van de BIO2, het BIO2-kader. Wat is het doel van de BIO2? Wat is het verschil met de eerdere versies? Vanuit zijn rol bij BZK is hij dagelijks bezig met het beleid rond informatiebeveiliging vanuit de overheid. \u00a0</p>",
+            "duration_ms": 1005609,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/03TWvP7bldifCW7UWyTqev"
+            },
+            "href": "https://api.spotify.com/v1/episodes/03TWvP7bldifCW7UWyTqev",
+            "id": "03TWvP7bldifCW7UWyTqev",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "BIO2 in de praktijk - BIO2-kader (deel 1 van de BIO2) - aflevering 2",
+            "release_date": "2025-11-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:03TWvP7bldifCW7UWyTqev"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4xovx3EKhaKADE45CgxuM0/clip_412067_472067.mp3",
             "description": "Welke uitdagingen kom je tegen als je buiten de Europese Economische Ruimte data wilt delen of laten inzien? En hoe kun je daar als privacy professional mee omgaan?\u00a0\u200bIn deze aflevering spreken we hierover met Marlon Domingus, Functionaris Gegevensbescherming van Erasmus Universiteit Rotterdam. \u00a0\u200bDeze serie is mede mogelijk gemaakt door CIO Rijk.\u200b",
@@ -10852,32 +11012,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4zCcdUVBcWW8mTzOMaLif7/clip_323257_383257.mp3",
             "description": "Als Functionaris Gegevensbescherming bij TNO is Remy van den Boom zich bewust van de potenti\u00eble valkuil om alles alleen volgens de regeltjes te willen doen. Hoe neem je collega\u2019s mee in een verantwoorde werkwijze, bijvoorbeeld rondom het voorbereiden en uitvoeren van \u2018mens-gebonden\u2019 onderzoek. Aandacht voor privacy dient ingebed te zijn in de reguliere werkprocessen. Daarvoor zullen echter wel interne weerstanden overwonnen moeten worden. Want aandacht voor privacy komt altijd bovenop het \u2018normale\u2019 werk. Eerder was Remy kwartiermaker AVG bij de IND.\u00a0",
-            "html_description": "<p>Als Functionaris Gegevensbescherming bij TNO is Remy van den Boom zich bewust van de potenti\u00eble valkuil om alles alleen volgens de regeltjes te willen doen. Hoe neem je collega\u2019s mee in een verantwoorde werkwijze, bijvoorbeeld rondom het voorbereiden en uitvoeren van \u2018mens-gebonden\u2019 onderzoek. Aandacht voor privacy dient ingebed te zijn in de reguliere werkprocessen. Daarvoor zullen echter wel interne weerstanden overwonnen moeten worden. Want aandacht voor privacy komt altijd bovenop het \u2018normale\u2019 werk. Eerder was Remy kwartiermaker AVG bij de IND.\u00a0</p>",
             "duration_ms": 1514448,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/4linilAuZoRSZf5UqDXn8L"
             },
             "href": "https://api.spotify.com/v1/episodes/4linilAuZoRSZf5UqDXn8L",
+            "html_description": "<p>Als Functionaris Gegevensbescherming bij TNO is Remy van den Boom zich bewust van de potenti\u00eble valkuil om alles alleen volgens de regeltjes te willen doen. Hoe neem je collega\u2019s mee in een verantwoorde werkwijze, bijvoorbeeld rondom het voorbereiden en uitvoeren van \u2018mens-gebonden\u2019 onderzoek. Aandacht voor privacy dient ingebed te zijn in de reguliere werkprocessen. Daarvoor zullen echter wel interne weerstanden overwonnen moeten worden. Want aandacht voor privacy komt altijd bovenop het \u2018normale\u2019 werk. Eerder was Remy kwartiermaker AVG bij de IND.\u00a0</p>",
             "id": "4linilAuZoRSZf5UqDXn8L",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a28983e2db995b9d76ef3287c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a28983e2db995b9d76ef3287c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f28983e2db995b9d76ef3287c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f28983e2db995b9d76ef3287c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d28983e2db995b9d76ef3287c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d28983e2db995b9d76ef3287c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -10892,32 +11052,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Oi9Wwn9yUY3Fboc2dur3N/clip_408893_468893.mp3",
             "description": "\u2018We should play more hardball\u2019 stelt de langstzittende Nederlandse Europarlementari\u00ebr Sophie in \u2018t Veld. Sinds 2004 vertegenwoordigt zij namens D66 de Nederlandse belangen in Europa. Zij was al betrokken bij de AVG/GDPR toen er nog over werd onderhandeld. Ze is onder meer bezorgd over de afnemende mogelijkheid voor burgers om de overheid te kunnen controleren. Ook vecht zij voor digitale vrijheid. Een verhaal over privacy vanuit een internationale optiek. Sophie is nog steeds bevlogen en vasthoudend.\u00a0",
-            "html_description": "<p>\u2018We should play more hardball\u2019 stelt de langstzittende Nederlandse Europarlementari\u00ebr Sophie in \u2018t Veld. Sinds 2004 vertegenwoordigt zij namens D66 de Nederlandse belangen in Europa. Zij was al betrokken bij de AVG/GDPR toen er nog over werd onderhandeld. Ze is onder meer bezorgd over de afnemende mogelijkheid voor burgers om de overheid te kunnen controleren. Ook vecht zij voor digitale vrijheid. Een verhaal over privacy vanuit een internationale optiek. Sophie is nog steeds bevlogen en vasthoudend.\u00a0</p>",
             "duration_ms": 1863941,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6Kun1dX3iV2epH7Bf1sEYc"
             },
             "href": "https://api.spotify.com/v1/episodes/6Kun1dX3iV2epH7Bf1sEYc",
+            "html_description": "<p>\u2018We should play more hardball\u2019 stelt de langstzittende Nederlandse Europarlementari\u00ebr Sophie in \u2018t Veld. Sinds 2004 vertegenwoordigt zij namens D66 de Nederlandse belangen in Europa. Zij was al betrokken bij de AVG/GDPR toen er nog over werd onderhandeld. Ze is onder meer bezorgd over de afnemende mogelijkheid voor burgers om de overheid te kunnen controleren. Ook vecht zij voor digitale vrijheid. Een verhaal over privacy vanuit een internationale optiek. Sophie is nog steeds bevlogen en vasthoudend.\u00a0</p>",
             "id": "6Kun1dX3iV2epH7Bf1sEYc",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a77e16bf86f2aa4fe8579b5b9",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a77e16bf86f2aa4fe8579b5b9",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f77e16bf86f2aa4fe8579b5b9",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f77e16bf86f2aa4fe8579b5b9",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d77e16bf86f2aa4fe8579b5b9",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d77e16bf86f2aa4fe8579b5b9",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -10932,32 +11092,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5qUozMrMjLNljFAzjQrlTJ/clip_306072_366072.mp3",
             "description": "In de vierde en laatste duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de Ethical Hacker wordt de volgende vraag beantwoordt: Hoe kan ik een hack zien aankomen?",
-            "html_description": "<p>In de vierde en laatste duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de Ethical Hacker wordt de volgende vraag beantwoordt: Hoe kan ik een hack zien aankomen?</p>",
             "duration_ms": 1015118,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6PH8eg0ayfk8jWMg8s9Fax"
             },
             "href": "https://api.spotify.com/v1/episodes/6PH8eg0ayfk8jWMg8s9Fax",
+            "html_description": "<p>In de vierde en laatste duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de Ethical Hacker wordt de volgende vraag beantwoordt: Hoe kan ik een hack zien aankomen?</p>",
             "id": "6PH8eg0ayfk8jWMg8s9Fax",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aedbe33773ea88ed4caadbf46",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8aedbe33773ea88ed4caadbf46",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fedbe33773ea88ed4caadbf46",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fedbe33773ea88ed4caadbf46",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dedbe33773ea88ed4caadbf46",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dedbe33773ea88ed4caadbf46",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -10972,32 +11132,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5q08LX0NtlHoUemm9G57Oi/clip_474184_534184.mp3",
             "description": "In de vierde en laatste duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de CISO wordt de volgende vraag beantwoordt: Hoe kan ik een hack zien aankomen?",
-            "html_description": "<p>In de vierde en laatste duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de CISO wordt de volgende vraag beantwoordt: Hoe kan ik een hack zien aankomen?</p>",
             "duration_ms": 1054772,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6ceol29C3IuWS0t9ihH8Xc"
             },
             "href": "https://api.spotify.com/v1/episodes/6ceol29C3IuWS0t9ihH8Xc",
+            "html_description": "<p>In de vierde en laatste duo publicatie van de podcastserie Hacken in de praktijk!, vanuit het perspectief van de CISO wordt de volgende vraag beantwoordt: Hoe kan ik een hack zien aankomen?</p>",
             "id": "6ceol29C3IuWS0t9ihH8Xc",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a21d0417702a73eddb1db3e79",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a21d0417702a73eddb1db3e79",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f21d0417702a73eddb1db3e79",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f21d0417702a73eddb1db3e79",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d21d0417702a73eddb1db3e79",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d21d0417702a73eddb1db3e79",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -106073,7 +106233,46 @@
         "previous": null,
         "total": 137,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0cQ2R2sIPkLb3QhjIQF4sa/clip_181164_241164.mp3",
+            "description": "\u26a0\ufe0f Let op: deze aflevering bevat onderwerpen die heftig of confronterend kunnen zijn. Luister of kijk alleen verder als je je hier goed bij voelt.In deze indrukwekkende aflevering van Boeiend de podcast duiken we in een zedenzaak die meer dan twintig jaar geleden plaatsvond. Een coldcase die uiteindelijk opnieuw werd geopend, met nieuwe hoop op gerechtigheid.Het slachtoffer vertelt openhartig over wat haar is overkomen. Een moedig en aangrijpend verhaal dat niet makkelijk is om te horen, maar belangrijk is om te delen. Ook zedenrechercheur Milou vertelt hoe team Zeden destijds te werk ging en wat er allemaal komt kijken bij het onderzoeken van dit soort gevoelige zaken.Heb je zelf te maken gehad met seksueel misbruik of voel je je geraakt door dit verhaal?Je kunt altijd aangifte doen bij de politie via 0900-8844.Ook kun je contact opnemen met Slachtofferhulp Nederland via slachtofferhulp.nl of 0900-0101.Vond je dit een interssant en indrukwekkend verhaal? Abonneer je dan op ons kanaal.",
+            "html_description": "<p>\u26a0\ufe0f Let op: deze aflevering bevat onderwerpen die heftig of confronterend kunnen zijn. Luister of kijk alleen verder als je je hier goed bij voelt.</p><p>In deze indrukwekkende aflevering van Boeiend de podcast duiken we in een zedenzaak die meer dan twintig jaar geleden plaatsvond. Een coldcase die uiteindelijk opnieuw werd geopend, met nieuwe hoop op gerechtigheid.</p><p>Het slachtoffer vertelt openhartig over wat haar is overkomen. Een moedig en aangrijpend verhaal dat niet makkelijk is om te horen, maar belangrijk is om te delen. Ook zedenrechercheur Milou vertelt hoe team Zeden destijds te werk ging en wat er allemaal komt kijken bij het onderzoeken van dit soort gevoelige zaken.</p><p><br /></p><p>Heb je zelf te maken gehad met seksueel misbruik of voel je je geraakt door dit verhaal?Je kunt altijd aangifte doen bij de politie via 0900-8844.Ook kun je contact opnemen met Slachtofferhulp Nederland via slachtofferhulp.nl of 0900-0101.</p><p>Vond je dit een interssant en indrukwekkend verhaal? Abonneer je dan op ons kanaal.<br /></p>",
+            "duration_ms": 3373098,
+            "explicit": true,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1aEcdl4b4MFdq6S04Qjs3q"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1aEcdl4b4MFdq6S04Qjs3q",
+            "id": "1aEcdl4b4MFdq6S04Qjs3q",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Een coldcase zedenzaak, het verhaal van een slachtoffer - Boeiend de Podcast",
+            "release_date": "2025-11-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1aEcdl4b4MFdq6S04Qjs3q"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6PVmbYOYsHtW240uZiMi80/clip_622230_682230.mp3",
             "description": "In deze aflevering maken we kennis met de nieuwe politiechef van de eenheid Rotterdam: Tolga Koklu. We praten over zijn loopbaan van straatagent tot politiechef en over de uitdagingen waar de politie in een grootstedelijke eenheid als Rotterdam mee te maken heeft.Tolga vertelt open over leiderschap, balans tussen werk en priv\u00e9, racisme en discriminatie binnen de organisatie, jeugdproblematiek, en zijn visie op de toekomst van de politie. Ook horen we de mens achter de chef: zijn passie voor koken, zijn Limburgse roots en zijn kijk op verbinding in een complexe samenleving.Bemachtig nu nog jouw kaartje voor Boeiend on Stage 2025:https://theateraandeschie.nl/voorstelling/boeiend-on-stage#politie #politiechef #tolgakoklu #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast",
