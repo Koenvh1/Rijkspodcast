@@ -3,11 +3,66 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-11-15T14:41:43Z</updated>
+	<updated>2025-11-17T18:14:40Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - BIO2 in de praktijk - BIO2 hulp bij implementatie en het ondersteuningsaanbod - aflevering 4</title>
+		<link href="https://open.spotify.com/episode/1Hg8j18DdCHwaVJYUxkd9i" />
+		<summary type="html">&lt;p&gt;Annemieke de Wit (Senior Adviseur Informatiebeveiliging bij CIP) vertelt je meer over de campagne rondom de implementatiebegeleiding. Ze legt uit waar je alle informatie over de BIO2 kunt vinden. Ze blikt terug en bespreekt een aantal punten uit aflevering 1 t/m 3. Ze kijkt vooruit naar de toekomst van de BIO2, wat zijn de plannen?  &lt;/p&gt;</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/689GMYvKClR18KobTiyPJC/clip_363869_423869.mp3" type="audio/mpeg" />
+		<id>spotify:episode:1Hg8j18DdCHwaVJYUxkd9i</id>
+		<updated>2025-11-17T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - BIO2 in de praktijk - Het verhaal van BIO2 - aflevering 1</title>
+		<link href="https://open.spotify.com/episode/6VQaLjFX58i4HbG6tqFdgo" />
+		<summary type="html">&lt;p&gt;Kees van der Maarel (RE RO, Coördinerend beleidsmedewerker informatieveiligheid bij BZK) vertelt je over de Baseline Informatiebeveiliging Overheid 2 (BIO2), het ontstaan en het belang van de BIO2 en de rol van de bestuurder. Ook legt hij uit binnen welke samenwerkingsverbanden de BIO2 leeft. Vanuit zijn rol bij het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) heeft hij een duidelijke visie op de BIO2, zowel op het heden als het verleden.  &lt;/p&gt;</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0Fz6Qwvs868JnS2JJQwB4v/clip_302233_362233.mp3" type="audio/mpeg" />
+		<id>spotify:episode:6VQaLjFX58i4HbG6tqFdgo</id>
+		<updated>2025-11-17T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - BIO2 in de praktijk - BIO-Overheidsmaatregelen (deel 2 van de BIO2) - aflevering 3</title>
+		<link href="https://open.spotify.com/episode/0ahpetrUZUMl5ijJtvrq0v" />
+		<summary type="html">&lt;p&gt;In deze aflevering bespreken “de Kezen” met elkaar deel 2 van de BIO2, namelijk de overheidsmaatregelen. Kees van der Maarel (RE RO, Coördinerend beleidsmedewerker informatieveiligheid bij BZK) en Kees Hintzbergen (Adviseur Informatiebeveiliging bij de Informatiebeveiligingsdienst (IBD) en secretaris Werkgroep-BIO bij CIP). Welke maatregelen zijn er zoal? Hoe kun je starten met de implementatie van de BIO2? Wat zijn belangrijke eerste stappen? Hoe kijken zij naar risicomanagement? &lt;/p&gt;</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0LY5W3tU33RNvJvvZATSga/clip_423011_483011.mp3" type="audio/mpeg" />
+		<id>spotify:episode:0ahpetrUZUMl5ijJtvrq0v</id>
+		<updated>2025-11-17T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - BIO2 in de praktijk - BIO2-kader (deel 1 van de BIO2) - aflevering 2</title>
+		<link href="https://open.spotify.com/episode/03TWvP7bldifCW7UWyTqev" />
+		<summary type="html">&lt;p&gt;Erik Becker (Coördinerend beleidsmedewerker informatieveiligheid bij BZK) neemt het stokje over van Kees van de Maarel. Hij gaat in op de BIO2 en vertelt je meer over deel 1 van de BIO2, het BIO2-kader. Wat is het doel van de BIO2? Wat is het verschil met de eerdere versies? Vanuit zijn rol bij BZK is hij dagelijks bezig met het beleid rond informatiebeveiliging vanuit de overheid.  &lt;/p&gt;</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/1hGgw2Iiec9qe92F9yjZqB/clip_522765_582765.mp3" type="audio/mpeg" />
+		<id>spotify:episode:03TWvP7bldifCW7UWyTqev</id>
+		<updated>2025-11-17T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Boeiend De Podcast - Een coldcase zedenzaak, het verhaal van een slachtoffer - Boeiend de Podcast</title>
+		<link href="https://open.spotify.com/episode/1aEcdl4b4MFdq6S04Qjs3q" />
+		<summary type="html">&lt;p&gt;⚠️ Let op: deze aflevering bevat onderwerpen die heftig of confronterend kunnen zijn. Luister of kijk alleen verder als je je hier goed bij voelt.&lt;/p&gt;&lt;p&gt;In deze indrukwekkende aflevering van Boeiend de podcast duiken we in een zedenzaak die meer dan twintig jaar geleden plaatsvond. Een coldcase die uiteindelijk opnieuw werd geopend, met nieuwe hoop op gerechtigheid.&lt;/p&gt;&lt;p&gt;Het slachtoffer vertelt openhartig over wat haar is overkomen. Een moedig en aangrijpend verhaal dat niet makkelijk is om te horen, maar belangrijk is om te delen. Ook zedenrechercheur Milou vertelt hoe team Zeden destijds te werk ging en wat er allemaal komt kijken bij het onderzoeken van dit soort gevoelige zaken.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Heb je zelf te maken gehad met seksueel misbruik of voel je je geraakt door dit verhaal?Je kunt altijd aangifte doen bij de politie via 0900-8844.Ook kun je contact opnemen met Slachtofferhulp Nederland via slachtofferhulp.nl of 0900-0101.&lt;/p&gt;&lt;p&gt;Vond je dit een interssant en indrukwekkend verhaal? Abonneer je dan op ons kanaal.&lt;br /&gt;&lt;/p&gt;</summary>
+		<author>
+			<name>Politie</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0cQ2R2sIPkLb3QhjIQF4sa/clip_181164_241164.mp3" type="audio/mpeg" />
+		<id>spotify:episode:1aEcdl4b4MFdq6S04Qjs3q</id>
+		<updated>2025-11-17T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Innovatie Ambtenaar - NIM fase 3: Experimenteren - Testen of je idee echt werkt</title>
 		<link href="https://open.spotify.com/episode/6r3i3LeDHtp9FXzWfF3Cjf" />
