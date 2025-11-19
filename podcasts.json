@@ -119190,15 +119190,55 @@
       "publisher": "Bureau Scherpte Diepte",
       "type": "show",
       "uri": "spotify:show:2UY9LIrltGlysx6YGUN8Ig",
-      "total_episodes": 12,
+      "total_episodes": 13,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2UY9LIrltGlysx6YGUN8Ig/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 12,
+        "total": 13,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0iafSaDJaluiU2mqxoYxSD/clip_216108_276108.mp3",
+            "description": "Deze aflevering van Delta & Duiten komt live vanaf het Deltacongres in Breda. Maarten Bouwhuis gaat in gesprek met Alex Datema, directeur Food & Agri Nederland bij de Rabobank, en met Tanja Cuppen, dijkgraaf bij Waterschap Rivierenland. Ze hebben het bijvoorbeeld over de uitkomsten van de nieuwe Deltares-stresstest. Die laat zien dat extreme buien in sommige gebieden kunnen leiden tot langdurige wateroverlast. Datema \u2014 zowel boer als bankier \u2014 benadrukt hoe belangrijk het is om het landschap weer centraal te zetten bij landbouw en financiering.\u00a0Tanja Cuppen kijkt door haar eerdere werk voor ABN Amro juist met een bril van risicomanagement naar water en klimaatadaptatie. Zij vindt het belangrijk dat de bewustwording bij mensen groeit, en dat duidelijk is dat het waterschap het niet alleen kan. Maar zouden de waterschappen niet veel steviger\u00a0 de regie naar zich toe moeten trekken? En zou je tegen sommige boeren niet moeten zeggen dat ze hun bedrijf drastisch moeten veranderen om klimaatbestendig te worden?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>Deze aflevering van Delta &amp; Duiten komt live vanaf het Deltacongres in Breda. Maarten Bouwhuis gaat in gesprek met Alex Datema, directeur Food &amp; Agri Nederland bij de Rabobank, en met Tanja Cuppen, dijkgraaf bij Waterschap Rivierenland. Ze hebben het bijvoorbeeld over de uitkomsten van de nieuwe Deltares-stresstest. Die laat zien dat extreme buien in sommige gebieden kunnen leiden tot langdurige wateroverlast. Datema \u2014 zowel boer als bankier \u2014 benadrukt hoe belangrijk het is om het landschap weer centraal te zetten bij landbouw en financiering.\u00a0</p><p>Tanja Cuppen kijkt door haar eerdere werk voor ABN Amro juist met een bril van risicomanagement naar water en klimaatadaptatie. Zij vindt het belangrijk dat de bewustwording bij mensen groeit, en dat duidelijk is dat het waterschap het niet alleen kan. Maar zouden de waterschappen niet veel steviger\u00a0 de regie naar zich toe moeten trekken? En zou je tegen sommige boeren niet moeten zeggen dat ze hun bedrijf drastisch moeten veranderen om klimaatbestendig te worden?</p><p>Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.<br /><br /></p>",
+            "duration_ms": 2704440,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/33QIkKNDS0CH0tHmjTSV4S"
+            },
+            "href": "https://api.spotify.com/v1/episodes/33QIkKNDS0CH0tHmjTSV4S",
+            "id": "33QIkKNDS0CH0tHmjTSV4S",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0d77f11529812317e2d70196",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0d77f11529812317e2d70196",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0d77f11529812317e2d70196",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Dijkgraaf Tanja Cuppen en Rabobank-directeur Alex Datema",
+            "release_date": "2025-11-19",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:33QIkKNDS0CH0tHmjTSV4S"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7AYGd2929rHyw7L9U2gjyy/clip_143238_203238.mp3",
             "description": "In deze aflevering van Delta & Duiten gaat presentator Maarten Bouwhuis in gesprek met Marike Bonhof, CFO van woningcorporatie Ymere, en Lidwin van Velden, CEO van de Nederlandse Waterschapsbank. Zij onderzoeken hoe woningbouw en financiering kunnen bijdragen aan een klimaatbestendig Nederland. Ze doen dat bijvoorbeeld met een vernieuwend project in Haarlem, waar Ymere en de Waterschapsbank samen met andere partners werken aan waterpositief bouwen: woningen die regenwater opvangen en hergebruiken, en piekbuien beter verwerken.Welke financi\u00eble en praktische keuzes komen bij dit soort projecten kijken? Hoe maak je bouwen met oog voor water haalbaar \u00e9n betaalbaar? En hoe zorg je dat de investeringen van nu toekomstige schade voorkomen? Bonhof en Van Velden bespreken de noodzaak van langetermijndenken, het belang van samenwerking tussen publieke en financi\u00eble partijen en de kansen om duurzaamheid structureel onderdeel te maken van de woningbouwopgave.Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
