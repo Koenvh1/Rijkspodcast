@@ -131,7 +131,6 @@ def generate_feed():
 
     total = len(episodes)
     for idx, episode in enumerate(episodes):
-        print(idx + 1, total)
         item = ET.SubElement(root, "entry")
         title = ET.SubElement(item, "title")
         title.text = episode["podcast"] + " - " + episode["name"]
@@ -161,6 +160,7 @@ def generate_feed():
     tree.write("feed.xml", encoding="utf-8", xml_declaration=True)
 
 def update_podcasts():
+    previous_podcasts = json.load(open("podcasts.json"))
     podcasts = json.load(open("podcasts.json"))
     for podcast in podcasts:
         try:
@@ -174,14 +174,17 @@ def update_podcasts():
                 raise e
 
     json.dump(podcasts, open("podcasts.json", "w"), indent=2)
+    return previous_podcasts != podcasts
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:
         add_podcasts()
     else:
         if sys.argv[1] == "update":
-            update_podcasts()
-            generate_feed()
+            updated = update_podcasts()
+            print("Podcasts updated: " + str(updated))
+            if updated:
+                generate_feed()
         elif sys.argv[1] == "opml":
             generate_opml()
         elif sys.argv[1] == "feed":
