@@ -3,11 +3,33 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-11-20T15:23:14Z</updated>
+	<updated>2025-11-20T22:19:33Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>KNMI - De KNMI Podcast - Aflevering 1: Noorderlicht, een verdwenen middenschip en de codes</title>
+		<link href="https://open.spotify.com/episode/6YlcopT3Q5RXtsEUHNBF8M" />
+		<summary type="html">&lt;p&gt;De KNMI Podcast is terug. In deze aflevering praten Rob Sluijter en Rubert Konijn met Eelco Doornbos over ruimteweer en het Noorderlicht. Ook komt Rob Groenland langs over de reden dat de Dom in Utrecht geen middenschip meer heeft. En daaropvolgend vertelt Jorinde de Groot over de weerwaarschuwingen – code geel, oranje of rood - en hoe fijn het is als we een kwartier voor de onweersbui precies kunnen zeggen waar die gaat vallen zodat je daar meteen op kunt handelen.  &lt;br /&gt;&lt;br /&gt;Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar &lt;a href="informatiecentrum&amp;#64;knmi.nl" rel="nofollow"&gt;informatiecentrum&amp;#64;knmi.nl&lt;/a&gt;.  &lt;br /&gt;&lt;br /&gt;Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de &lt;a href="https://apps.apple.com/nl/app/knmi-weer/id1225568094" rel="nofollow"&gt;App Store&lt;/a&gt; of voor Android in de &lt;a href="https://play.google.com/store/apps/details?id&amp;#61;nl.knmi.weer" rel="nofollow"&gt;Play Store&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;En volg ons op Instagram: &lt;a href="https://www.instagram.com/knmi.nl/" rel="nofollow"&gt;https://www.instagram.com/knmi.nl/&lt;/a&gt;.  &lt;/p&gt;</summary>
+		<author>
+			<name>KNMI</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/5c0CIptG2d7uyQZWWSoIwS/clip_548589_608589.mp3" type="audio/mpeg" />
+		<id>spotify:episode:6YlcopT3Q5RXtsEUHNBF8M</id>
+		<updated>2025-11-20T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>De top kijkt om - “Zuiver blijven, met je tenen net buiten het speelveld”</title>
+		<link href="https://open.spotify.com/episode/5mgL4KgSRocgYhaqPoUfyC" />
+		<summary type="html">&lt;p&gt;eter van Uhm was van 2008 tot 2012 Commandant der Strijdkrachten (CDS). Een functie waarin hij altijd kritisch was, maar soms ook zijn principes los moest laten, bijvoorbeeld nadat het kabinet besloot flink te bezuinigen op Defensie. Dan was het een kwestie van “een rechte rug, schouders eronder en er het beste van maken.” In de omgang met de politiek zag hij het als zijn taak om zijn rol zuiver te houden, “met je tenen net buiten het speelveld”. Op die manier kan je als CDS je werk het meest effectief doen, vindt hij. Luister naar Peter van Uhm in gesprek met Paul ’t Hart en Jouke de Vries.&lt;/p&gt;</summary>
+		<author>
+			<name>Interviews met oud-bewindspersonen en oud-topambtenaren</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/2UynJno4wwZ6MZGs81GT2X/clip_438847_498847.mp3" type="audio/mpeg" />
+		<id>spotify:episode:5mgL4KgSRocgYhaqPoUfyC</id>
+		<updated>2025-11-20T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Delta en Duiten - Dijkgraaf Tanja Cuppen en Rabobank-directeur Alex Datema</title>
 		<link href="https://open.spotify.com/episode/33QIkKNDS0CH0tHmjTSV4S" />

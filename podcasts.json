@@ -76189,15 +76189,55 @@
       "publisher": "KNMI",
       "type": "show",
       "uri": "spotify:show:1Pr6Rx1OhOYaqEvogCyRbf",
-      "total_episodes": 10,
+      "total_episodes": 11,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Pr6Rx1OhOYaqEvogCyRbf/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 10,
+        "total": 11,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5c0CIptG2d7uyQZWWSoIwS/clip_548589_608589.mp3",
+            "description": "De KNMI Podcast is terug. In deze aflevering praten Rob Sluijter en Rubert Konijn met Eelco Doornbos over ruimteweer en het Noorderlicht. Ook komt Rob Groenland langs over de reden dat de Dom in Utrecht geen middenschip meer heeft. En daaropvolgend vertelt Jorinde de Groot over de weerwaarschuwingen \u2013 code geel, oranje of rood - en hoe fijn het is als we een kwartier voor de onweersbui precies kunnen zeggen waar die gaat vallen zodat je daar meteen op kunt handelen.\u00a0 Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar informatiecentrum@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App Store\u00a0of voor Android in de Play Store.En volg ons op Instagram: https://www.instagram.com/knmi.nl/.\u00a0\u00a0",
+            "html_description": "<p>De KNMI Podcast is terug. In deze aflevering praten Rob Sluijter en Rubert Konijn met Eelco Doornbos over ruimteweer en het Noorderlicht. Ook komt Rob Groenland langs over de reden dat de Dom in Utrecht geen middenschip meer heeft. En daaropvolgend vertelt Jorinde de Groot over de weerwaarschuwingen \u2013 code geel, oranje of rood - en hoe fijn het is als we een kwartier voor de onweersbui precies kunnen zeggen waar die gaat vallen zodat je daar meteen op kunt handelen.\u00a0 <br /><br />Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar <a href=\"informatiecentrum&#64;knmi.nl\" rel=\"nofollow\">informatiecentrum&#64;knmi.nl</a>.\u00a0 <br /><br />Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de <a href=\"https://apps.apple.com/nl/app/knmi-weer/id1225568094\" rel=\"nofollow\">App Store</a>\u00a0of voor Android in de <a href=\"https://play.google.com/store/apps/details?id&#61;nl.knmi.weer\" rel=\"nofollow\">Play Store</a>.<br /><br />En volg ons op Instagram: <a href=\"https://www.instagram.com/knmi.nl/\" rel=\"nofollow\">https://www.instagram.com/knmi.nl/</a>.\u00a0\u00a0</p>",
+            "duration_ms": 1573128,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6YlcopT3Q5RXtsEUHNBF8M"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6YlcopT3Q5RXtsEUHNBF8M",
+            "id": "6YlcopT3Q5RXtsEUHNBF8M",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a51f84ab9b000be01c0364a45",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f51f84ab9b000be01c0364a45",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d51f84ab9b000be01c0364a45",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De KNMI Podcast - Aflevering 1: Noorderlicht, een verdwenen middenschip en de codes",
+            "release_date": "2025-11-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6YlcopT3Q5RXtsEUHNBF8M"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3MdCQ4fFy45oaU9Y68KORy/clip_407743_467743.mp3",
             "description": "De laatste aflevering in deze serie. Het thema is risicoadvisering. De uitzending komt dit keer vanuit\u00a0het Glazen Huis in de Weerkamer van het KNMI. Veiligheidsmeteoroloog Marcel van Schaik vertelt\u00a0hier alles over. En over zijn functie, waar risicoadvisering een steeds grotere rol gaat spelen. In de\u00a0rubriek Het Instrument komt KNMI vulkanoloog Elske de Zeeuw-van Dalfsen aan het woord over de\u00a0twee Nederlandse actieve vulkanen die zij monitort. Het instrument dat zij hier onder meer voor\u00a0gebruikt is een GNSS-antenne. Rob en Rubert krijgen van dit instrument zelfs kerstgedachten.Hoofddirecteur Maarten van Aalst blikt terug op het symposium van de NVBM waar hij sprak, met\u00a0als thema Klimaat en Conflict. Daarnaast laat hij zijn blik schijnen over het bezoek van UK Met Office\u00a0aan het KNMI. Hier is onder meer gesproken over wat je kan doen om een weerwaarschuwing op de\u00a0juiste manier te laten landen. Dit naar aanleiding van de recente ramp in Valencia.De rubriek Daar zit het Weer in komt dit keer met een heel stevig nummer: Rock you Like a\u00a0Hurricane van de Scorpions. Dit is niet voor niets. KNMI orkaanspecialist Nadia Bloemendaal heeft dit\u00a0nummer aangedragen. Zij vertelt in de uitzending waarom dit is, maar ook over het heftige\u00a0orkaanseizoen dat net afgelopen is.Dit keer bellen Rubert en Rob met senior adviseur gladheidsbestrijding Jan Rients Slippens van\u00a0Rijkswaterstaat. Het is december en het kan weer glad worden. Hoe werken het KNMI en\u00a0Rijkswaterstaat samen om de Nederlandse wegen veilig te houden? Daalt de temperatuur, kijk dan\u00a0op eens op rijkswaterstaatstrooit.nl. Hier kan je onder andere live zien waar de strooiwagens rijden\u00a0en wat de temperatuur van de weg is.De vraag van de luisteraar ten slotte komt van Bart uit Arcen over het sluiten van het automatisch\u00a0weerstation in die plaats. Ook gaan de heren in op de vraag die bij bijna alle luisteraars leeft: krijgen\u00a0we dit jaar een witte Kerst?Deze serie van de Early Warning Podcast is nu klaar. Alle thema\u2019s die centraal staan in het EWC zijn\u00a0behandeld. Wil je dat we terugkomen volgend jaar? En heb je hiervoor nog tips, tops, of wil je wat\u00a0anders kwijt? Mail dan naar ewc@knmi.nl. Dank voor nu voor het luisteren en hopelijk tot hoors!",
@@ -135910,15 +135950,55 @@
       "publisher": "Interviews met oud-bewindspersonen en oud-topambtenaren",
       "type": "show",
       "uri": "spotify:show:6vM4ioqldTXWWxD6xW5zSg",
-      "total_episodes": 45,
+      "total_episodes": 46,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6vM4ioqldTXWWxD6xW5zSg/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 45,
+        "total": 46,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2UynJno4wwZ6MZGs81GT2X/clip_438847_498847.mp3",
+            "description": "eter van Uhm was van 2008 tot 2012 Commandant der Strijdkrachten (CDS). Een functie waarin hij altijd kritisch was, maar soms ook zijn principes los moest laten, bijvoorbeeld nadat het kabinet besloot flink te bezuinigen op Defensie. Dan was het een kwestie van \u201ceen rechte rug, schouders eronder en er het beste van maken.\u201d In de omgang met de politiek zag hij het als zijn taak om zijn rol zuiver te houden, \u201cmet je tenen net buiten het speelveld\u201d. Op die manier kan je als CDS je werk het meest effectief doen, vindt hij. Luister naar Peter van Uhm in gesprek met Paul \u2019t Hart en Jouke de Vries.",
+            "html_description": "<p>eter van Uhm was van 2008 tot 2012 Commandant der Strijdkrachten (CDS). Een functie waarin hij altijd kritisch was, maar soms ook zijn principes los moest laten, bijvoorbeeld nadat het kabinet besloot flink te bezuinigen op Defensie. Dan was het een kwestie van \u201ceen rechte rug, schouders eronder en er het beste van maken.\u201d In de omgang met de politiek zag hij het als zijn taak om zijn rol zuiver te houden, \u201cmet je tenen net buiten het speelveld\u201d. Op die manier kan je als CDS je werk het meest effectief doen, vindt hij. Luister naar Peter van Uhm in gesprek met Paul \u2019t Hart en Jouke de Vries.</p>",
+            "duration_ms": 3456000,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5mgL4KgSRocgYhaqPoUfyC"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5mgL4KgSRocgYhaqPoUfyC",
+            "id": "5mgL4KgSRocgYhaqPoUfyC",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6c32db6bad2be28b69032e83",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6c32db6bad2be28b69032e83",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6c32db6bad2be28b69032e83",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "\u201cZuiver blijven, met je tenen net buiten het speelveld\u201d",
+            "release_date": "2025-11-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5mgL4KgSRocgYhaqPoUfyC"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1y8V25RNLTvAenC4qC5xmM/clip_657365_717365.mp3",
             "description": "Nieuwsgierigheid loopt als een rode draad door de loopbaan van Mich\u00e8le Blom. Vanaf het prille begin bij de Algemene Rekenkamer tot in haar functies als directeur en DG binnen de ministeries van Verkeer en Waterstaat en van Justitie paste ze steeds de les toe die ze al op jonge leeftijd leerde: \u201cJe moet de feiten kennen voordat je iets wil.\u201d Wanneer zich binnen organisaties crisissen afspelen is het bovendien soms nodig een gok te nemen en je nek uit te steken: \u201cAf en toe moet je het lef hebben om dingen gewoon te doen.\u201d Iets wat men in Den Haag momenteel lastig vindt, ziet ze. Maar: \u201cAls je alles in een risicomatrix zet, komen we niet vooruit.\u201d Luister naar Mich\u00e8le Blom in gesprek met Roel Bekker en Paul \u2019t Hart.\u00a0",
