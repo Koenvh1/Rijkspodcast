@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-11-20T22:19:33Z</updated>
+	<updated>2025-11-21T10:22:09Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Klapmok met Thee - #107: Klapmok met Thee meets Veldheren</title>
+		<link href="https://open.spotify.com/episode/31ppJtH0Fot2ILDh4DMIR9" />
+		<summary type="html">&lt;p&gt;Voor Deborah en Anne-Marij kwam een podcastdroom uit: een aflevering maken met de Veldheren! De generaals buiten dienst Peter van Uhm en Mart de Kruif vertellen over het ontstaan van de Veldheren, over leiderschap, parallellen en verschillen tussen de huidige tijd en de tijd van de Koude Oorlog, technologische ontwikkelingen op het slagveld en wat er zo bijzonder is aan de Nederlandse krijgsmacht. De gedrevenheid spat ervan af bij deze twee generaals met een boodschap.&lt;/p&gt;</summary>
+		<author>
+			<name>Koninklijke Landmacht</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/37Y738yzZHkO8v99wctPf1/clip_612820_672820.mp3" type="audio/mpeg" />
+		<id>spotify:episode:31ppJtH0Fot2ILDh4DMIR9</id>
+		<updated>2025-11-21T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>KNMI - De KNMI Podcast - Aflevering 1: Noorderlicht, een verdwenen middenschip en de codes</title>
 		<link href="https://open.spotify.com/episode/6YlcopT3Q5RXtsEUHNBF8M" />

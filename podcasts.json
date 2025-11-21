@@ -64767,15 +64767,55 @@
       "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
-      "total_episodes": 108,
+      "total_episodes": 109,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 108,
+        "total": 109,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37Y738yzZHkO8v99wctPf1/clip_612820_672820.mp3",
+            "description": "Voor Deborah en Anne-Marij kwam een podcastdroom uit: een aflevering maken met de Veldheren! De generaals buiten dienst Peter van Uhm en Mart de Kruif vertellen over het ontstaan van de Veldheren, over leiderschap, parallellen en verschillen tussen de huidige tijd en de tijd van de Koude Oorlog, technologische ontwikkelingen op het slagveld en wat er zo bijzonder is aan de Nederlandse krijgsmacht. De gedrevenheid spat ervan af bij deze twee generaals met een boodschap.",
+            "html_description": "<p>Voor Deborah en Anne-Marij kwam een podcastdroom uit: een aflevering maken met de Veldheren! De generaals buiten dienst Peter van Uhm en Mart de Kruif vertellen over het ontstaan van de Veldheren, over leiderschap, parallellen en verschillen tussen de huidige tijd en de tijd van de Koude Oorlog, technologische ontwikkelingen op het slagveld en wat er zo bijzonder is aan de Nederlandse krijgsmacht. De gedrevenheid spat ervan af bij deze twee generaals met een boodschap.</p>",
+            "duration_ms": 3136600,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/31ppJtH0Fot2ILDh4DMIR9"
+            },
+            "href": "https://api.spotify.com/v1/episodes/31ppJtH0Fot2ILDh4DMIR9",
+            "id": "31ppJtH0Fot2ILDh4DMIR9",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a433a4a5a0bf3bbc6be3fae05",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f433a4a5a0bf3bbc6be3fae05",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d433a4a5a0bf3bbc6be3fae05",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#107: Klapmok met Thee meets Veldheren",
+            "release_date": "2025-11-21",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:31ppJtH0Fot2ILDh4DMIR9"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0b7Kixnt8EhoYmmV2SaAqy/clip_356667_416667.mp3",
             "description": "Deborah en Anne-Marij waren op bezoek op de kazerne in Ermelo, waar de roots van Deborah liggen. Inmiddels zit daar al jaren de Koninklijke Militaire School (KMS). De commandant en adjudant van de KMS - kolonel Pieter Grijpstra en adjudant Ben Laarhuis - vertellen in deze aflevering alles over wat de KMS is en doet, de ontwikkelingen die er gaande zijn, het maatwerk dat wordt geleverd en hoe de groei van de Landmacht wordt geaccommodeerd. Met uiteraard ook aandacht voor de rol van de onderofficier, de ruggengraat van onze organisatie.",
@@ -66739,28 +66779,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ZQoO6SRNCkl4pLkLGKA8W/clip_512300_572300.mp3",
             "description": "Je hebt een reclame gezien, infodagen bezocht, op werkenbijdefensie.nl een mooie functie gevonden, en dan klik je op de knop: solliciteer nu. Wat gebeurt er dan? Anne-Marij en Deborah gaan in gesprek met Merel, hoofd ondersteunings- en informatiecentrum bij het Dienstencentrum Personeelslogistiek. Hoe ziet de keuring eruit? En is die nog hetzelfde als toen Anne-Marij en Deborah de keuring deden?",
-            "html_description": "<p>Je hebt een reclame gezien, infodagen bezocht, op werkenbijdefensie.nl een mooie functie gevonden, en dan klik je op de knop: solliciteer nu. Wat gebeurt er dan?</p> <p>Anne-Marij en Deborah gaan in gesprek met Merel, hoofd ondersteunings- en informatiecentrum bij het Dienstencentrum Personeelslogistiek. Hoe ziet de keuring eruit? En is die nog hetzelfde als toen Anne-Marij en Deborah de keuring deden?</p>",
             "duration_ms": 3908101,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/55FVfpI9UX6C0yEqguT7d0"
             },
             "href": "https://api.spotify.com/v1/episodes/55FVfpI9UX6C0yEqguT7d0",
+            "html_description": "<p>Je hebt een reclame gezien, infodagen bezocht, op werkenbijdefensie.nl een mooie functie gevonden, en dan klik je op de knop: solliciteer nu. Wat gebeurt er dan?</p> <p>Anne-Marij en Deborah gaan in gesprek met Merel, hoofd ondersteunings- en informatiecentrum bij het Dienstencentrum Personeelslogistiek. Hoe ziet de keuring eruit? En is die nog hetzelfde als toen Anne-Marij en Deborah de keuring deden?</p>",
             "id": "55FVfpI9UX6C0yEqguT7d0",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a59528e7eaf86e36c9f31bb6c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a59528e7eaf86e36c9f31bb6c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f59528e7eaf86e36c9f31bb6c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f59528e7eaf86e36c9f31bb6c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d59528e7eaf86e36c9f31bb6c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d59528e7eaf86e36c9f31bb6c",
                 "width": 64
               }
             ],
