@@ -24535,15 +24535,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 29,
+      "total_episodes": 30,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 29,
+        "total": 30,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/09mn873j550nq7bmNgPT1w/clip_253265_313265.mp3",
+            "description": "\u00a0 In deze aflevering van Zorgklank schuiven we aan bij iemand die de zorg op z\u2019n kop zette door simpelweg terug te gaan naar de basis. Jos de Blok, oprichter van Buurtzorg, leidt samen met zijn zoon een organisatie van veertienduizend professionals zonder traditionele managers. Hij begon ooit als wijkverpleegkundige, werkte in vrijwel ieder hoekje van de zorg, en ontwikkelde een scherpe neus voor wat echt telt: menskracht, vakmanschap en gezond verstand in plaats van verspilling en systemen die vooral zichzelf in stand houden. \u00a0 We praten over hoe je een organisatie bouwt op beroepsethiek in plaats van lagen management. Waarom minder versnippering zorgt voor betere zorg \u00e9n minder uren. Hoe Buurtzorg als stichting bewust niet m\u00e9\u00e9r zorg levert dan nodig is, omdat te veel zorg zowel de cli\u00ebnt als de samenleving schaadt. En hoe het denken in regionale systeemspelers ons heeft weggehaald bij het echte vertrekpunt, namelijk de burger. \u00a0 Jos laat zien hoe je sociale problemen in een buurt aanpakt met de mensen die er al zijn, hoe professionals elkaar kunnen versterken, en hoe je jezelf als zorgverlener uiteindelijk overbodig maakt door vanaf het begin een gezamenlijk proces te cre\u00ebren. Een proces waarin kwaliteit van leven centraal staat, ook wanneer genezing niet meer mogelijk is. \u00a0 Tot slot nemen Jos en Aiko je mee in zijn nieuwste project: de buurt als ecosysteem. Een frisse blik op de toekomst van zorg en samenleven.",
+            "html_description": "<p>\u00a0</p> <p>In deze aflevering van Zorgklank schuiven we aan bij iemand die de zorg op z\u2019n kop zette door simpelweg terug te gaan naar de basis. Jos de Blok, oprichter van Buurtzorg, leidt samen met zijn zoon een organisatie van veertienduizend professionals zonder traditionele managers. Hij begon ooit als wijkverpleegkundige, werkte in vrijwel ieder hoekje van de zorg, en ontwikkelde een scherpe neus voor wat echt telt: menskracht, vakmanschap en gezond verstand in plaats van verspilling en systemen die vooral zichzelf in stand houden.</p> <p>\u00a0</p> <p>We praten over hoe je een organisatie bouwt op beroepsethiek in plaats van lagen management. Waarom minder versnippering zorgt voor betere zorg \u00e9n minder uren. Hoe Buurtzorg als stichting bewust niet m\u00e9\u00e9r zorg levert dan nodig is, omdat te veel zorg zowel de cli\u00ebnt als de samenleving schaadt. En hoe het denken in regionale systeemspelers ons heeft weggehaald bij het echte vertrekpunt, namelijk de burger.</p> <p>\u00a0</p> <p>Jos laat zien hoe je sociale problemen in een buurt aanpakt met de mensen die er al zijn, hoe professionals elkaar kunnen versterken, en hoe je jezelf als zorgverlener uiteindelijk overbodig maakt door vanaf het begin een gezamenlijk proces te cre\u00ebren. Een proces waarin kwaliteit van leven centraal staat, ook wanneer genezing niet meer mogelijk is.</p> <p>\u00a0</p> <p>Tot slot nemen Jos en Aiko je mee in zijn nieuwste project: de buurt als ecosysteem. Een frisse blik op de toekomst van zorg en samenleven.</p>",
+            "duration_ms": 2790217,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0REoFLuc9YeHpFTl3Li2p3"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0REoFLuc9YeHpFTl3Li2p3",
+            "id": "0REoFLuc9YeHpFTl3Li2p3",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8add13583210f70bf22d108b",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8add13583210f70bf22d108b",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8add13583210f70bf22d108b",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E6: De Buurt als Ecosysteem; Zorg zonder Managers met Jos De Bok",
+            "release_date": "2025-11-21",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0REoFLuc9YeHpFTl3Li2p3"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1KpavRALOZyrGMYeVi1LTd/clip_267571_327571.mp3",
             "description": "In deze aflevering van Zorgklank gaan we in gesprek met Hendrik Jan van den Berg, bestuurder bij Lelie Zorggroep en inmiddels ook een jaar bestuurder bij\u00a0ConForte\u00a0\u2013 het samenwerkingsverband van 13 zorg- en thuiszorgorganisaties\u00a0in regio Rotterdam, Capelle en Krimpen aan den IJssel.\u00a0Hij vertelt hoe deze organisaties samen optrekken in een stad met unieke uitdagingen op het gebied van wonen, zorgtoegankelijkheid en sociaal welzijn. \u00a0 Hoe zorg je dat iedere Rotterdammer passende zorg kan krijgen, zonder onnodig te hoeven verhuizen naar een verpleeghuis? Wat betekent het om met hetzelfde team 30% meer cli\u00ebnten te bedienen? En hoe draagt reablement niet alleen bij aan zelfredzaamheid, maar ook aan levensgeluk? \u00a0 We duiken met Hendrik Jan in de praktijk van digitale zorg, trainingen, innovaties \u00e9n hoe ConForte medewerkers helpt achter zorgvragen de echte behoefte te zien. Ook bespreken we de rol van de IZA-tafel Rotterdam, waar samenwerking op stadsniveau zorgt voor collectieve impact, zonder ruimte voor maatwerk te verliezen. \u00a0 Een aflevering over samenwerken, vernieuwen en \u00e9cht iets betekenen \u2013 met aandacht voor mens \u00e9n wijk.",
