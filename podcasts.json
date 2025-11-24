@@ -24578,7 +24578,7 @@
             "languages": [
               "nl"
             ],
-            "name": "S2E6: De Buurt als Ecosysteem; Zorg zonder Managers met Jos De Bok",
+            "name": "S2E6: De Buurt als Ecosysteem; Zorg zonder Managers met Jos de Blok",
             "release_date": "2025-11-21",
             "release_date_precision": "day",
             "type": "episode",
@@ -52865,15 +52865,16 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:1Tn18wGbJHz3LClUvnFApP",
-      "total_episodes": 34,
+      "total_episodes": 35,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Tn18wGbJHz3LClUvnFApP/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 34,
+        "total": 35,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5reUnjmMA5XvBvoWynE04O/clip_141509_201509.mp3",
             "description": "Als we denken aan criminaliteit\u2013en zeker aan georganiseerde en zware misdaad\u2013denken we vaak meteen aan mannen en jongens. Maar vrouwen spelen ook een rol in de wereld van criminaliteit. Hun betrokkenheid is minder zichtbaar, vaak complexer en roept vragen op waar we nog lang geen eenduidig antwoord op hebben.In deze aflevering spreektAnne-Marie Slotboom, wetenschapper en hoogleraar aan de Vrije Universiteit van Amsterdam, over vrouwen in de criminaliteit. Hoe raken vrouwen betrokken bij criminele activiteiten? Welke rollen nemen zij aan? En welke factoren\u2013zoals armoede, relaties, trauma of maatschappelijke ongelijkheid\u2013be\u00efnvloeden hun keuzes? Worden vrouwen echt minder zwaar gestraft voor hetzelfde delict, simpelweg omdat ze vrouw zijn?Anne-Marie laat zien hoe het beeld van de vrouwelijke dader vaak afwijkt van de werkelijkheid en waarom het belangrijk is verder te kijken dan stereotypes. Ze bespreekt ook hoe beleid, preventie en hulpverlening beter kunnen aansluiten bij de unieke situaties van vrouwen die met criminaliteit te maken krijgen.Aan tafel zitten ook twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie:Alain Meijer enSalma Aouidi, werkstudent bij Team BOOSTen bestuurskunde-student aan Avans Hogeschool. Samengaan ze in gesprek met Anne-Marie, stellen vragen en ontdekken de nuances van vrouwen in de criminaliteit. Luister mee en laat je prikkelen: want hoewel we nog lang niet alles weten, zetten deze verhalen je aan het denken over een kant van criminaliteit die vaak verborgen blijft. Volg ons op: LinkedInYouTubeSpotifyRelevante afleveringen:\ufe0f#28-Ilse van de Groep en Laura van Duin over Puberteit en Criminaliteit\ufe0f#10-Maryam El Rahmouni over Preventie met Gezag\ufe0f#7-Reinier de Groen over Jonge Aanwas en Wijkprojecten",
