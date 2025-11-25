@@ -21140,15 +21140,55 @@
       "publisher": "Het ministerie van Justitie en Veiligheid (JenV)",
       "type": "show",
       "uri": "spotify:show:5t7QVRJDOA6nySnsHrc7sU",
-      "total_episodes": 6,
+      "total_episodes": 7,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5t7QVRJDOA6nySnsHrc7sU/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 6,
+        "total": 7,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3ke9HPtrIs39OzmKuIhQzH/clip_324888_384888.mp3",
+            "description": "In deze aflevering horen we over Richard. Op een dag kreeg hij een telefoontje van zijn energieaanbieder: hij zou opeens een schuld van 40.000 euro hebben. Het zette zijn leven volledig op z\u2019n kop en dwong hem om met stapels nota\u2019s en brieven in zijn hand aan te kloppen bij het Juridisch Loket.\u00a0Het Juridisch Loket helpt wekelijks duizenden mensen met juridische vragen, vari\u00ebrend van werk en wonen tot familierecht en schulden. Richard kwam bij juridisch adviseur Stelu van Hell, die hem hielp orde te scheppen in de chaos en stap voor stap het conflict met de energieleverancier op te lossen. Dankzij deze begeleiding werd de torenhoge rekening flink teruggedrongen en kreeg Richard zijn vertrouwen terug.Bestuurder Willemijn van Helden vertelt over de groeiende rol van de organisatie en dat je er niet vanuit kan gaan dat iedereen zelfredzaam is. En Stelu laat zien hoe belangrijk het is om \u00e9cht te luisteren en maatwerk te bieden.Wil je meer weten over het Juridisch Loket? Kijk dan op www.juridischloket.nl\u00a0",
+            "html_description": "<p>In deze aflevering horen we over Richard. Op een dag kreeg hij een telefoontje van zijn energieaanbieder: hij zou opeens een schuld van 40.000 euro hebben. Het zette zijn leven volledig op z\u2019n kop en dwong hem om met stapels nota\u2019s en brieven in zijn hand aan te kloppen bij het Juridisch Loket.\u00a0</p><p><br /></p><p>Het Juridisch Loket helpt wekelijks duizenden mensen met juridische vragen, vari\u00ebrend van werk en wonen tot familierecht en schulden. Richard kwam bij juridisch adviseur Stelu van Hell, die hem hielp orde te scheppen in de chaos en stap voor stap het conflict met de energieleverancier op te lossen. Dankzij deze begeleiding werd de torenhoge rekening flink teruggedrongen en kreeg Richard zijn vertrouwen terug.</p><p><br /></p><p>Bestuurder Willemijn van Helden vertelt over de groeiende rol van de organisatie en dat je er niet vanuit kan gaan dat iedereen zelfredzaam is. En Stelu laat zien hoe belangrijk het is om \u00e9cht te luisteren en maatwerk te bieden.</p><p><br />Wil je meer weten over het Juridisch Loket? Kijk dan op www.juridischloket.nl\u00a0</p>",
+            "duration_ms": 1353885,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2OTkSHwPOMljAhRQfghHX3"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2OTkSHwPOMljAhRQfghHX3",
+            "id": "2OTkSHwPOMljAhRQfghHX3",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1552f2ef0829946b438a0163",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1552f2ef0829946b438a0163",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1552f2ef0829946b438a0163",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#7 Als je verstrikt raakt in een oerwoud van regels en wetten",
+            "release_date": "2025-11-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2OTkSHwPOMljAhRQfghHX3"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2vDAJwAwADvPSe6cBAGFAT/clip_172326_232326.mp3",
             "description": "In deze aflevering horen we het verhaal van Roy, een 14-jarige jongen die wordt opgepakt op verdenking van terrorisme. Zijn verhaal is fictief, maar gebaseerd op de levensechte verhalen van jongeren in Nederland die online worden geradicaliseerd. Niemand in zijn omgeving had door waar hij mee bezig was. Al die uren die hij online doorbracht, waarbij hij zich meer en meer aan het verdiepen was\u2026 totdat de situatie volledig escaleerde.De Raad voor de Kinderbescherming ziet steeds vaker minderjarigen met zware verdenkingen voorbij komen en maakt zich zorgen over de impact op hun ontwikkeling \u00e9n hun toekomst. Marlou, co\u00f6rdinator Contraterrorisme, Extremisme en Radicalisering bij de Raad, en Dorien Kardol van het Openbaar Ministerie vertellen hoe ze omgaan met deze complexe zaken en hoe een veroordeling je leven lang kan achtervolgen.Kijk voor meer informatie over de Raad voor de Kinderbescherming op www.kinderbescherming.nl",
