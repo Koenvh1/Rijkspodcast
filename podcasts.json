@@ -52914,7 +52914,46 @@
         "previous": null,
         "total": 35,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0TXCIqCD3eAvdLDdfJmVsn/clip_288394_348394.mp3",
+            "description": "Criminelen verdienen veel geld met hun illegale activiteiten, en dit vermogen afpakken is minstens zo belangrijk als het opsporen van de dader zelf. Het afpakken van crimineel vermogen raakt criminelen waar het echt pijn doet: in de portemonnee.\u00a0In deze aflevering van de podcast #ONDERMIJNING spreken we met Roy Nanhkoesingh, die zich als officier bij het parket van Rotterdam bezighoudt met financi\u00eble opsporing. Wat betekent het precies om crimineel vermogen af te pakken? Hoe gaat dat proces in de praktijk, van onderzoek tot beslag en ontneming? En waarom is deze aanpak zo belangrijk in de strijd tegen ondermijning?\u00a0Daarnaast bespreken we hoe criminelen steeds slimmere constructies bedenken om hun geld te verbergen en hoe het Openbaar Ministerie daarop inspeelt. Ook hoor je wat er met het afgepakte geld gebeurt en hoe dit soms zelfs een nieuwe maatschappelijke bestemming krijgt. Ook gaan we dieper in op een interessant voorbeeld van een financieel onderzoek!\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie: Alain Meijer en Mari\u00eblle van der Stel. Samen gaan zij in gesprek met Roy Nanhkoesingh over de praktijk, uitdagingen \u00e9n impact van het afpakken van crimineel vermogen.\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f #24 Jeroen Poelert & Robin de Jager over crimineel ondergronds bankieren\u00a0\ud83c\udf99\ufe0f \u2060\u2060\u2060\u2060#17 Henk Jan Starrenburg (OvJ) over een ondermijningszaak\u00a0\u00a0",
+            "html_description": "<p>Criminelen verdienen veel geld met hun illegale activiteiten, en dit vermogen afpakken is minstens zo belangrijk als het opsporen van de dader zelf. Het afpakken van crimineel vermogen raakt criminelen waar het echt pijn doet: in de portemonnee.\u00a0</p><p>In deze aflevering van de podcast #ONDERMIJNING spreken we met Roy Nanhkoesingh, die zich als officier bij het parket van Rotterdam bezighoudt met financi\u00eble opsporing. Wat betekent het precies om crimineel vermogen af te pakken? Hoe gaat dat proces in de praktijk, van onderzoek tot beslag en ontneming? En waarom is deze aanpak zo belangrijk in de strijd tegen ondermijning?\u00a0</p><p>Daarnaast bespreken we hoe criminelen steeds slimmere constructies bedenken om hun geld te verbergen en hoe het Openbaar Ministerie daarop inspeelt. Ook hoor je wat er met het afgepakte geld gebeurt en hoe dit soms zelfs een nieuwe maatschappelijke bestemming krijgt. Ook gaan we dieper in op een interessant voorbeeld van een financieel onderzoek!\u00a0</p><p>Aan tafel zitten twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie: Alain Meijer en Mari\u00eblle van der Stel. Samen gaan zij in gesprek met Roy Nanhkoesingh over de praktijk, uitdagingen \u00e9n impact van het afpakken van crimineel vermogen.\u00a0</p><p>Volg ons op:\u00a0</p><p>&#x1f4f1; <a href=\"https://www.linkedin.com/company/landelijk-programma-ondermijning/\" rel=\"nofollow\">\u2060\u2060LinkedIn\u2060\u2060</a>\u00a0</p><p>&#x1f4f1; <a href=\"https://www.youtube.com/&#64;PolitieONDERMIJNING\" rel=\"nofollow\">\u2060\u2060YouTube\u2060\u2060</a>\u00a0</p><p>Relevante afleveringen:\u00a0</p><p>&#x1f399;\ufe0f <a href=\"https://youtu.be/HXTnCESWW88\" rel=\"nofollow\">#24 Jeroen Poelert &amp; Robin de Jager over crimineel ondergronds bankieren</a>\u00a0</p><p>&#x1f399;\ufe0f <a href=\"https://www.youtube.com/watch?v&#61;7FvVRdGVreQ\" rel=\"nofollow\">\u2060\u2060\u2060\u2060#17 Henk Jan Starrenburg (OvJ) over een ondermijningszaak\u00a0</a>\u00a0</p>",
+            "duration_ms": 3242858,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3hVGpZ84RL2rtRb3A9v2yk"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3hVGpZ84RL2rtRb3A9v2yk",
+            "id": "3hVGpZ84RL2rtRb3A9v2yk",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a368445a38c020ff02877b5d5",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f368445a38c020ff02877b5d5",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d368445a38c020ff02877b5d5",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#34 Roy Nanhkoesingh over Afpakken Crimineel Vermogen",
+            "release_date": "2025-11-26",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3hVGpZ84RL2rtRb3A9v2yk"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5reUnjmMA5XvBvoWynE04O/clip_141509_201509.mp3",
             "description": "Als we denken aan criminaliteit\u2013en zeker aan georganiseerde en zware misdaad\u2013denken we vaak meteen aan mannen en jongens. Maar vrouwen spelen ook een rol in de wereld van criminaliteit. Hun betrokkenheid is minder zichtbaar, vaak complexer en roept vragen op waar we nog lang geen eenduidig antwoord op hebben.In deze aflevering spreektAnne-Marie Slotboom, wetenschapper en hoogleraar aan de Vrije Universiteit van Amsterdam, over vrouwen in de criminaliteit. Hoe raken vrouwen betrokken bij criminele activiteiten? Welke rollen nemen zij aan? En welke factoren\u2013zoals armoede, relaties, trauma of maatschappelijke ongelijkheid\u2013be\u00efnvloeden hun keuzes? Worden vrouwen echt minder zwaar gestraft voor hetzelfde delict, simpelweg omdat ze vrouw zijn?Anne-Marie laat zien hoe het beeld van de vrouwelijke dader vaak afwijkt van de werkelijkheid en waarom het belangrijk is verder te kijken dan stereotypes. Ze bespreekt ook hoe beleid, preventie en hulpverlening beter kunnen aansluiten bij de unieke situaties van vrouwen die met criminaliteit te maken krijgen.Aan tafel zitten ook twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie:Alain Meijer enSalma Aouidi, werkstudent bij Team BOOSTen bestuurskunde-student aan Avans Hogeschool. Samengaan ze in gesprek met Anne-Marie, stellen vragen en ontdekken de nuances van vrouwen in de criminaliteit. Luister mee en laat je prikkelen: want hoewel we nog lang niet alles weten, zetten deze verhalen je aan het denken over een kant van criminaliteit die vaak verborgen blijft. Volg ons op: LinkedInYouTubeSpotifyRelevante afleveringen:\ufe0f#28-Ilse van de Groep en Laura van Duin over Puberteit en Criminaliteit\ufe0f#10-Maryam El Rahmouni over Preventie met Gezag\ufe0f#7-Reinier de Groen over Jonge Aanwas en Wijkprojecten",
