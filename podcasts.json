@@ -89226,15 +89226,55 @@
       "publisher": "WRR",
       "type": "show",
       "uri": "spotify:show:7KpZSJ4rugXG6vX9rfEDiQ",
-      "total_episodes": 34,
+      "total_episodes": 35,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7KpZSJ4rugXG6vX9rfEDiQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 34,
+        "total": 35,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/57cK1nv0xcv2xTzGkddzul/clip_369534_429534.mp3",
+            "description": "\u201cEr gaan grote veranderingen plaatsvinden in waar op de wereld veel mensen wonen en waar veel mensen kunnen werken. De Nederlandse regering zal daarop moeten anticiperen.\u201d Dat zegt raadslid Casper de Vries in deze nieuwe aflevering van de podcastserie Vogelvlucht.  De hoogleraar monetaire economie licht samen met senior onderzoeker Gijsbert Werner toe waarom de WRR ervoor pleit om handelsakkoorden, migratieafspraken en ontwikkelingssamenwerking te richten op landen waar de bevolking fors groeit. \u201cAls je nu niet handelt, loop je over tien jaar tegen enorme problemen aan.\u201d",
+            "html_description": "\u201cEr gaan grote veranderingen plaatsvinden in waar op de wereld veel mensen wonen en waar veel mensen kunnen werken. De Nederlandse regering zal daarop moeten anticiperen.\u201d Dat zegt raadslid Casper de Vries in deze nieuwe aflevering van de podcastserie Vogelvlucht.  De hoogleraar monetaire economie licht samen met senior onderzoeker Gijsbert Werner toe waarom de WRR ervoor pleit om handelsakkoorden, migratieafspraken en ontwikkelingssamenwerking te richten op landen waar de bevolking fors groeit. \u201cAls je nu niet handelt, loop je over tien jaar tegen enorme problemen aan.\u201d",
+            "duration_ms": 1423829,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5EoTzhWCLO3n5k3QtXsmpA"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5EoTzhWCLO3n5k3QtXsmpA",
+            "id": "5EoTzhWCLO3n5k3QtXsmpA",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a692a5918c52e9ecc624e6644",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f692a5918c52e9ecc624e6644",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d692a5918c52e9ecc624e6644",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "# 35 Met de mondiale demografie mee",
+            "release_date": "2025-11-27",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5EoTzhWCLO3n5k3QtXsmpA"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Yh8kF7LUk5ag3XeZhSvLa/clip_244048_304048.mp3",
             "description": "De WRR organiseerde samen met de Wetenschappelijke Klimaatraad (WKR) en het Sociaal Cultureel Planbureau (SCP) op 30 juni 2025 het symposium \u2018Klimaatadaptatie: ook een sociaal vraagstuk\u2019. Aanleiding was het in kort tijdsbestek verschijnen van hun rapporten over dit onderwerp. Beluister in deze aflevering van Vogelvlucht de presentaties van de drie inleiders: Suzanne Hulscher (WRR), Marjolijn Haasnoot (WKR) en Yvonne de Kluizenaar (SCP), ingeleid door dagvoorzitter Marijke Roskam.",
