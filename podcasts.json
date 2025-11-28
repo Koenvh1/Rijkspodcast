@@ -24575,15 +24575,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 30,
+      "total_episodes": 31,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 30,
+        "total": 31,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37Wu450HYr3JsvQrHvmAR5/clip_509225_569225.mp3",
+            "description": "Twee regio\u2019s, twee totaal verschillende realiteiten, \u00e9\u00e9n gezamenlijke uitdaging: gezondheid die verder gaat dan het ziekenhuis. Marc Seelen (Positief Gezond Almere) en Marjolein de Jong (Vitale Gelderse Vallei) \u00a0kijken terug op een periode waarin IZA soms afremde en soms juist versnelde. De ene regio kreeg transformatiegelden, de andere niet. Toch staan ze voor dezelfde opgave: hoe houd je de energie hoog, ook als het schuurt, stagneert of simpelweg niet lukt? \u00a0 In Almere, een jonge stad met weinig sociale samenhang, en in de Gelderse Vallei, een regio met een eeuwenoud moreel kompas, staan professionals voor dezelfde feiten. Personeelstekorten zijn geen toekomstscenario maar dagelijkse realiteit. Niet alles is ziekenhuiszorg, maar alles raakt de gezondheid van de stad of regio. \u00a0 IZA bracht alle partijen aan tafel. Het doorbrak eilandjeslogica en dwarsverbanden ontstonden. Maar het bracht ook druk. Wat doet het met een regio die geen middelen krijgt, en hoe beweeg je verder wanneer je ze w\u00e9l krijgt? En hoe zorg je dat sociaal domein, gemeenten en ziekenhuizen elkaar niet kwijtraken maar elkaar juist versterken? \u00a0 Marc en Marjolein vertellen hoe ze vanuit twee verschillende werelden dezelfde beweging maken: van zuilen naar samenwerken, van losse initiatieven naar integraal denken, van problemen naar kansen. Want geld helpt, maar energie, vertrouwen en gezamenlijke richting bepalen uiteindelijk de koers.",
+            "html_description": "<p>Twee regio\u2019s, twee totaal verschillende realiteiten, \u00e9\u00e9n gezamenlijke uitdaging: gezondheid die verder gaat dan het ziekenhuis. Marc Seelen (Positief Gezond Almere) en Marjolein de Jong (Vitale Gelderse Vallei) \u00a0kijken terug op een periode waarin IZA soms afremde en soms juist versnelde. De ene regio kreeg transformatiegelden, de andere niet. Toch staan ze voor dezelfde opgave: hoe houd je de energie hoog, ook als het schuurt, stagneert of simpelweg niet lukt?</p> <p>\u00a0</p> <p>In Almere, een jonge stad met weinig sociale samenhang, en in de Gelderse Vallei, een regio met een eeuwenoud moreel kompas, staan professionals voor dezelfde feiten. Personeelstekorten zijn geen toekomstscenario maar dagelijkse realiteit. Niet alles is ziekenhuiszorg, maar alles raakt de gezondheid van de stad of regio.</p> <p>\u00a0</p> <p>IZA bracht alle partijen aan tafel. Het doorbrak eilandjeslogica en dwarsverbanden ontstonden. Maar het bracht ook druk. Wat doet het met een regio die geen middelen krijgt, en hoe beweeg je verder wanneer je ze w\u00e9l krijgt? En hoe zorg je dat sociaal domein, gemeenten en ziekenhuizen elkaar niet kwijtraken maar elkaar juist versterken?</p> <p>\u00a0</p> <p>Marc en Marjolein vertellen hoe ze vanuit twee verschillende werelden dezelfde beweging maken: van zuilen naar samenwerken, van losse initiatieven naar integraal denken, van problemen naar kansen. Want geld helpt, maar energie, vertrouwen en gezamenlijke richting bepalen uiteindelijk de koers.</p>",
+            "duration_ms": 2617652,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3f4mr57hQo3qPJSZFlyk6W"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3f4mr57hQo3qPJSZFlyk6W",
+            "id": "3f4mr57hQo3qPJSZFlyk6W",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aabef60d7980e2c2b5236ada0",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fabef60d7980e2c2b5236ada0",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dabef60d7980e2c2b5236ada0",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E7: Zorg zonder grenzen met Positief Gezond Almere & Vitale Gelderse Vallei",
+            "release_date": "2025-11-28",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3f4mr57hQo3qPJSZFlyk6W"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/09mn873j550nq7bmNgPT1w/clip_253265_313265.mp3",
             "description": "\u00a0 In deze aflevering van Zorgklank schuiven we aan bij iemand die de zorg op z\u2019n kop zette door simpelweg terug te gaan naar de basis. Jos de Blok, oprichter van Buurtzorg, leidt samen met zijn zoon een organisatie van veertienduizend professionals zonder traditionele managers. Hij begon ooit als wijkverpleegkundige, werkte in vrijwel ieder hoekje van de zorg, en ontwikkelde een scherpe neus voor wat echt telt: menskracht, vakmanschap en gezond verstand in plaats van verspilling en systemen die vooral zichzelf in stand houden. \u00a0 We praten over hoe je een organisatie bouwt op beroepsethiek in plaats van lagen management. Waarom minder versnippering zorgt voor betere zorg \u00e9n minder uren. Hoe Buurtzorg als stichting bewust niet m\u00e9\u00e9r zorg levert dan nodig is, omdat te veel zorg zowel de cli\u00ebnt als de samenleving schaadt. En hoe het denken in regionale systeemspelers ons heeft weggehaald bij het echte vertrekpunt, namelijk de burger. \u00a0 Jos laat zien hoe je sociale problemen in een buurt aanpakt met de mensen die er al zijn, hoe professionals elkaar kunnen versterken, en hoe je jezelf als zorgverlener uiteindelijk overbodig maakt door vanaf het begin een gezamenlijk proces te cre\u00ebren. Een proces waarin kwaliteit van leven centraal staat, ook wanneer genezing niet meer mogelijk is. \u00a0 Tot slot nemen Jos en Aiko je mee in zijn nieuwste project: de buurt als ecosysteem. Een frisse blik op de toekomst van zorg en samenleven.",
