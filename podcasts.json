@@ -133512,15 +133512,16 @@
       "publisher": "WODC",
       "type": "show",
       "uri": "spotify:show:7jtE5bnuZHD46nMJUAmdyG",
-      "total_episodes": 16,
+      "total_episodes": 17,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7jtE5bnuZHD46nMJUAmdyG/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 16,
+        "total": 17,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1aJhOvxO3RD5Q3bgtnTPx4/clip_274101_334101.mp3",
             "description": "Vandaag wordt in het kader van 50 jaar slachtofferenqu\u00eate een conferentie georganiseerd. Daar wordt teruggeblikt op hoe deze methodiek al decennia lang ons van waardevolle inzichten voorziet. Ook het WODC doet mee aan deze conferentie en heeft een actieve rol (gehad) bij onderzoek naar slachtoffers van misdrijven.In deze korte special spreekt host Rik Beerthuizen met Pien van de Ven\u2014gepromoveerd victimoloog en begeleider van extern onderzoek bij het WODC\u2014over het Nederlandse slachtofferbeleid binnen het strafrecht, en wat het WODC aan onderzoek daarnaar laat doen.Meer weten over onderzoek naar slachtoffers en slachtofferbeleid? Ga dan naar deze \u2060website. Voor ander onderzoek over de rechtsstaat en aanverwante thema's, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
