@@ -133521,7 +133521,46 @@
         "previous": null,
         "total": 17,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/754rczbrk1gMULgrfgDMmM/clip_487722_547722.mp3",
+            "description": "In Nederland is sekswerk legaal, maar het heeft nog geen vanzelfsprekende positie op de arbeidsmarkt of in de samenleving. Het is daarom soms lastig voor sekswerkers om ander werk te vinden. Om die reden biedt de overheid hierbij extra ondersteuning. Maar is die hulp wel passend?In deze aflevering spreekt host Carlissa Remmerswaal met Roos de Wildt van het Verwey-Jonker Instituut over haar WODC-onderzoek naar werkverandering onder sekswerkers. Hoe ervaren sekswerkers dit proces? En wat kunnen wij doen om hen daarin te ondersteunen? Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060.Voor meer onderzoek naar sekswerk, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
+            "html_description": "<p>In Nederland is sekswerk legaal, maar het heeft nog geen vanzelfsprekende positie op de arbeidsmarkt of in de samenleving. Het is daarom soms lastig voor sekswerkers om ander werk te vinden. Om die reden biedt de overheid hierbij extra ondersteuning. Maar is die hulp wel passend?<br />In deze aflevering spreekt host Carlissa Remmerswaal met Roos de Wildt van het <a href=\"https://www.verwey-jonker.nl/\" rel=\"nofollow\">Verwey-Jonker Instituut</a> over haar WODC-onderzoek naar werkverandering onder sekswerkers. Hoe ervaren sekswerkers dit proces? En wat kunnen wij doen om hen daarin te ondersteunen? <br />Meer weten over dit onderzoek? Lees hier het <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3487/rapport-werkverandering-onder-sekswerkers.pdf?sequence&#61;9&amp;isAllowed&#61;y\" rel=\"nofollow\">\u2060volledige rapport</a>\u2060.<br />Voor meer onderzoek naar sekswerk, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">www.wodc.nl</a><br />Opname en montage gedaan in eigen beheer WODC.</p>",
+            "duration_ms": 1154472,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0Rl1LgxkG0YpI65yMFKmam"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0Rl1LgxkG0YpI65yMFKmam",
+            "id": "0Rl1LgxkG0YpI65yMFKmam",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a65fe90b9db4a16be0701e263",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f65fe90b9db4a16be0701e263",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d65fe90b9db4a16be0701e263",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Werkverandering onder sekswerkers: gaat dat wel zo makkelijk?",
+            "release_date": "2025-12-01",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0Rl1LgxkG0YpI65yMFKmam"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1aJhOvxO3RD5Q3bgtnTPx4/clip_274101_334101.mp3",
             "description": "Vandaag wordt in het kader van 50 jaar slachtofferenqu\u00eate een conferentie georganiseerd. Daar wordt teruggeblikt op hoe deze methodiek al decennia lang ons van waardevolle inzichten voorziet. Ook het WODC doet mee aan deze conferentie en heeft een actieve rol (gehad) bij onderzoek naar slachtoffers van misdrijven.In deze korte special spreekt host Rik Beerthuizen met Pien van de Ven\u2014gepromoveerd victimoloog en begeleider van extern onderzoek bij het WODC\u2014over het Nederlandse slachtofferbeleid binnen het strafrecht, en wat het WODC aan onderzoek daarnaar laat doen.Meer weten over onderzoek naar slachtoffers en slachtofferbeleid? Ga dan naar deze \u2060website. Voor ander onderzoek over de rechtsstaat en aanverwante thema's, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",

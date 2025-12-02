@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-01T22:20:07Z</updated>
+	<updated>2025-12-02T06:34:41Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Dossier WODC - Werkverandering onder sekswerkers: gaat dat wel zo makkelijk?</title>
+		<link href="https://open.spotify.com/episode/0Rl1LgxkG0YpI65yMFKmam" />
+		<summary type="html">&lt;p&gt;In Nederland is sekswerk legaal, maar het heeft nog geen vanzelfsprekende positie op de arbeidsmarkt of in de samenleving. Het is daarom soms lastig voor sekswerkers om ander werk te vinden. Om die reden biedt de overheid hierbij extra ondersteuning. Maar is die hulp wel passend?&lt;br /&gt;In deze aflevering spreekt host Carlissa Remmerswaal met Roos de Wildt van het &lt;a href="https://www.verwey-jonker.nl/" rel="nofollow"&gt;Verwey-Jonker Instituut&lt;/a&gt; over haar WODC-onderzoek naar werkverandering onder sekswerkers. Hoe ervaren sekswerkers dit proces? En wat kunnen wij doen om hen daarin te ondersteunen? &lt;br /&gt;Meer weten over dit onderzoek? Lees hier het &lt;a href="https://repository.wodc.nl/bitstream/handle/20.500.12832/3487/rapport-werkverandering-onder-sekswerkers.pdf?sequence&amp;#61;9&amp;amp;isAllowed&amp;#61;y" rel="nofollow"&gt;⁠volledige rapport&lt;/a&gt;⁠.&lt;br /&gt;Voor meer onderzoek naar sekswerk, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠&lt;a href="https://www.wodc.nl/" rel="nofollow"&gt;www.wodc.nl&lt;/a&gt;&lt;br /&gt;Opname en montage gedaan in eigen beheer WODC.&lt;/p&gt;</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/754rczbrk1gMULgrfgDMmM/clip_487722_547722.mp3" type="audio/mpeg" />
+		<id>spotify:episode:0Rl1LgxkG0YpI65yMFKmam</id>
+		<updated>2025-12-01T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Zorgklank - handvatten voor professionals in de zorg - S2E7: Zorg zonder grenzen met Positief Gezond Almere &amp; Vitale Gelderse Vallei</title>
 		<link href="https://open.spotify.com/episode/3f4mr57hQo3qPJSZFlyk6W" />
