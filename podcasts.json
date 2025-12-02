@@ -106584,15 +106584,55 @@
       "publisher": "Politie",
       "type": "show",
       "uri": "spotify:show:3ODZ8fIfGxiV5DiXaJmxTi",
-      "total_episodes": 137,
+      "total_episodes": 138,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 137,
+        "total": 138,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3qifDqShVk8FOZ7qc6oWCK/clip_608214_668214.mp3",
+            "description": "In deze aflevering van Boeiend de Podcast vertelt collega Dennis openhartig over de keerzijde van politiewerk. Na een heftig schietincident tijdens het Zomercarnaval in Rotterdam kreeg hij te maken met PTSS en alsof dat nog niet erg genoeg was, werd ook nog eens kanker bij hem gediagnosticeerd. Hij deelt zijn ervaringen, de impact op zijn leven en hoe hij met hulp en steun stap voor stap werkt aan herstel.",
+            "html_description": "<p>In deze aflevering van Boeiend de Podcast vertelt collega Dennis openhartig over de keerzijde van politiewerk. Na een heftig schietincident tijdens het Zomercarnaval in Rotterdam kreeg hij te maken met PTSS en alsof dat nog niet erg genoeg was, werd ook nog eens kanker bij hem gediagnosticeerd. Hij deelt zijn ervaringen, de impact op zijn leven en hoe hij met hulp en steun stap voor stap werkt aan herstel.</p>",
+            "duration_ms": 3361450,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6bW4SQB6DymIo3Y35Frlwk"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6bW4SQB6DymIo3Y35Frlwk",
+            "id": "6bW4SQB6DymIo3Y35Frlwk",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "De keerzijde van politiewerk: een agent aan het woord na heftig schietincident - Boeiend de Podcast",
+            "release_date": "2025-12-02",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6bW4SQB6DymIo3Y35Frlwk"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0cQ2R2sIPkLb3QhjIQF4sa/clip_181164_241164.mp3",
             "description": "\u26a0\ufe0f Let op: deze aflevering bevat onderwerpen die heftig of confronterend kunnen zijn. Luister of kijk alleen verder als je je hier goed bij voelt.In deze indrukwekkende aflevering van Boeiend de podcast duiken we in een zedenzaak die meer dan twintig jaar geleden plaatsvond. Een coldcase die uiteindelijk opnieuw werd geopend, met nieuwe hoop op gerechtigheid.Het slachtoffer vertelt openhartig over wat haar is overkomen. Een moedig en aangrijpend verhaal dat niet makkelijk is om te horen, maar belangrijk is om te delen. Ook zedenrechercheur Milou vertelt hoe team Zeden destijds te werk ging en wat er allemaal komt kijken bij het onderzoeken van dit soort gevoelige zaken.Heb je zelf te maken gehad met seksueel misbruik of voel je je geraakt door dit verhaal?Je kunt altijd aangifte doen bij de politie via 0900-8844.Ook kun je contact opnemen met Slachtofferhulp Nederland via slachtofferhulp.nl of 0900-0101.Vond je dit een interssant en indrukwekkend verhaal? Abonneer je dan op ons kanaal.",
@@ -108556,28 +108596,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4PO2zYay3qDwRkMwUrLJDc/clip_482338_542338.mp3",
             "description": "Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram @politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Jacco en Guido de zevende aflevering van Bureau Rotterdam.  Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z'n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.  #bureaupraat #bureaurotterdam #politie",
-            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Jacco en Guido de zevende aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "duration_ms": 1935018,
             "explicit": true,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1xzE33OrQ6FxvofQdsReEZ"
             },
             "href": "https://api.spotify.com/v1/episodes/1xzE33OrQ6FxvofQdsReEZ",
+            "html_description": "<p>Een speciale rubriek van Boeiend de Podcast is nu Bureaupraat. Niels praat de aflevering na met de koppels uit de serie Bureau Rotterdam. Elke dinsdag live op Instagram &#64;politie_bureaurottterdam om 22.00 en daarna hier te vinden als podcast.\u00a0 In deze aflevering bespreken het koppel Jacco en Guido de zevende aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>Ewout is bij ons in de Eenheid. De afgelopen maanden zat hij samen met z&#39;n cameraman op de achterbank van onze Rotterdamse collega\u2019s. Hoe ervaarde de koppels uit het programma Bureau Rotterdam de opnames? In de (live)show Bureaupraat praten we direct na over de aflevering van Bureau Rotterdam.</p><br/><p><br /></p><br/><p>#bureaupraat #bureaurotterdam #politie</p>",
             "id": "1xzE33OrQ6FxvofQdsReEZ",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a2616597246c37b68dbab0e1e",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2616597246c37b68dbab0e1e",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f2616597246c37b68dbab0e1e",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f2616597246c37b68dbab0e1e",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d2616597246c37b68dbab0e1e",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d2616597246c37b68dbab0e1e",
                 "width": 64
               }
             ],
