@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-03T10:26:12Z</updated>
+	<updated>2025-12-03T22:21:41Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>AMLC podcast - 99. Het Strohman-Kartell ontmaskerd - Adrian Bartocha</title>
+		<link href="https://open.spotify.com/episode/3ETJhWLRKBVOBZGFSRabW4" />
+		<summary type="html">&lt;p&gt;Das Strohman-Kartell: hoe kwetsbare mensen het schild vormen van grensoverschrijdende fraude&lt;/p&gt;&lt;p&gt;In deze aflevering duiken we diep in:&lt;/p&gt;&lt;p&gt;„Das Strohmann-Kartell.  Dienstleister für die Mafia“,&lt;/p&gt;&lt;p&gt;de documentaire van de Duitse onderzoeksjournalisten Adrian Bartocha en Jan Wiese, werkzaam bij Rundfunk Berlin-Brandenburg. Hun onderzoek laat overtuigend zien hoe kwetsbare, vaak verslaafde mannen uit Oost-Europa worden ingezet als katvangers voor tientallen bedrijven tegelijk — en daarmee het zicht op complexe fraude- en witwasnetwerken volledig blokkeren.&lt;/p&gt;&lt;p&gt;We bespreken onder meer:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;hoe stroman-handelaren werken en waarom er een “voorraad” stroman-directeuren bestaat&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;de rol van notarissen, tussenpersonen en schijnbedrijven in Duitsland&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;hoe btw-carrousels, sociale zekerheidsfraude en grensoverschrijdende witwasconstructies samenkomen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;de rol van het Europees Openbaar Ministerie bij onderzoeken die landsgrensoverschrijdend moeten opereren&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;hoe een Instagram-influencer onbedoeld hielp het netwerk bloot te leggen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;de maatschappelijke schade van deze industriële vorm van economische criminaliteit&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Deze aflevering is essentieel voor iedereen die zich bezighoudt met witwasbestrijding, financiële integriteit, toezicht of ketenonderzoek.&lt;/p&gt;&lt;p&gt;Link naar de documentaire: &lt;/p&gt;&lt;p&gt;https://www.youtube.com/watch?v&amp;#61;kdH2-O6FbQw&lt;/p&gt;&lt;p&gt;en op:&lt;/p&gt;&lt;p&gt;https://www.ardmediathek.de/video/story/das-strohmann-kartell-dienstleister-fuer-die-mafia/rbb/Y3JpZDovL3JiYl9kMDcyMzVlYS1hYjQyLTRkNmMtYTYwOC0yMDNhMGJkZDIwNzdfcHVibGljYXRpb24&lt;/p&gt;</summary>
+		<author>
+			<name>AMLC Podcast</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0ojfSHfR92ppC2eja2fwjb/clip_143513_203513.mp3" type="audio/mpeg" />
+		<id>spotify:episode:3ETJhWLRKBVOBZGFSRabW4</id>
+		<updated>2025-12-03T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Boeiend De Podcast - De keerzijde van politiewerk: een agent aan het woord na heftig schietincident - Boeiend de Podcast</title>
 		<link href="https://open.spotify.com/episode/6bW4SQB6DymIo3Y35Frlwk" />
@@ -4838,6 +4849,17 @@
 		<updated>2024-11-11T00:00:00Z</updated>
 	</entry>
 	<entry>
+		<title>Slim Inkopen, Slim Afvoeren - Trailer Slim Inkopen, Slim Afvoeren</title>
+		<link href="https://open.spotify.com/episode/1P1VadQ5y8je8W9I8w5HVy" />
+		<summary type="html">&lt;p&gt;Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary>
+		<author>
+			<name>VANG BH</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6js8ikJmNW8X0674zSUQVS/clip_8829_68829.mp3" type="audio/mpeg" />
+		<id>spotify:episode:1P1VadQ5y8je8W9I8w5HVy</id>
+		<updated>2024-11-11T00:00:00Z</updated>
+	</entry>
+	<entry>
 		<title>Slim Inkopen, Slim Afvoeren - #1 Green Business Club</title>
 		<link href="https://open.spotify.com/episode/2kcgczq27hl3GeY5YHvw9T" />
 		<summary type="html">&lt;p&gt;In deze eerste aflevering gaat Dide Vonk in gesprek met Nina van den Berg, projectmanager bij de Green Business Club. Nina deelt inspirerende voorbeelden van afvalbewustzijn en scheidingsinitiatieven op de Zuidas, waar ze zich al jaren inzet voor een groenere werkomgeving.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Daarnaast vertelt Wilbrand Kuijt, facilitair manager bij advocatenkantoor Baker &amp;amp; McKenzie, over zijn ervaring met het verduurzamen van een kantoorpand. Hoe motiveer je mensen, wat werkt er wel en niet, en wat zijn de belangrijkste lessen die hij leerde?&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary>
@@ -4868,17 +4890,6 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/5jSqdT5jEb2den5O2MGall/clip_312603_372603.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5vKZA54ize3Fk113irdhm9</id>
-		<updated>2024-11-11T00:00:00Z</updated>
-	</entry>
-	<entry>
-		<title>Slim Inkopen, Slim Afvoeren - Trailer Slim Inkopen, Slim Afvoeren</title>
-		<link href="https://open.spotify.com/episode/1P1VadQ5y8je8W9I8w5HVy" />
-		<summary type="html">&lt;p&gt;Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen. &lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary>
-		<author>
-			<name>VANG BH</name>
-		</author>
-		<content src="https://podz-content.spotifycdn.com/audio/clips/6js8ikJmNW8X0674zSUQVS/clip_8829_68829.mp3" type="audio/mpeg" />
-		<id>spotify:episode:1P1VadQ5y8je8W9I8w5HVy</id>
 		<updated>2024-11-11T00:00:00Z</updated>
 	</entry>
 	<entry>
