@@ -119550,15 +119550,55 @@
       "publisher": "Bureau Scherpte Diepte",
       "type": "show",
       "uri": "spotify:show:2UY9LIrltGlysx6YGUN8Ig",
-      "total_episodes": 13,
+      "total_episodes": 14,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2UY9LIrltGlysx6YGUN8Ig/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 13,
+        "total": 14,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2Gxanj027yJx4khT0g47V5/clip_344664_404664.mp3",
+            "description": "In de seizoensafsluiting van Delta & Duiten zoomt Maarten Bouwhuis in op de vraag hoe Zuid-Holland zich kan wapenen tegen een snel veranderend klimaat. Gedeputeerde Arne Weverling en econome Barbara Baarsma bespreken de kwetsbaarheid van de provincie: van het laagste punt van Nederland tot de kwetsbare glastuinbouw en het havengebied. Wat betekent een extreme regenbui voor een provincie die al onder druk staat door bodemdaling, verzilting en ruimtegebrek? En welke bestuurlijke keuzes liggen er op tafel als je tegelijk waterveiligheid, woningbouw en economische groei wilt borgen?Barbara Baarsma wijst erop dat klimaatadaptatie \u00e9n economische structuren niet los van elkaar staan. Er moet volgens haar breed gekeken worden en er is een flinke herinrichting van onze economie nodig om zaken echt aan te kunnen pakken. Klimaatadaptatie is volgens haar ook heel belangrijk voor het ondernemingsklimaat. Bedrijven willen zich pas vestigen als ze weten dat er genoeg water is, en dat het waterveilig is.\u00a0Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
+            "html_description": "<p>In de seizoensafsluiting van Delta &amp; Duiten zoomt Maarten Bouwhuis in op de vraag hoe Zuid-Holland zich kan wapenen tegen een snel veranderend klimaat. Gedeputeerde Arne Weverling en econome Barbara Baarsma bespreken de kwetsbaarheid van de provincie: van het laagste punt van Nederland tot de kwetsbare glastuinbouw en het havengebied. Wat betekent een extreme regenbui voor een provincie die al onder druk staat door bodemdaling, verzilting en ruimtegebrek? En welke bestuurlijke keuzes liggen er op tafel als je tegelijk waterveiligheid, woningbouw en economische groei wilt borgen?</p><p>Barbara Baarsma wijst erop dat klimaatadaptatie \u00e9n economische structuren niet los van elkaar staan. Er moet volgens haar breed gekeken worden en er is een flinke herinrichting van onze economie nodig om zaken echt aan te kunnen pakken. Klimaatadaptatie is volgens haar ook heel belangrijk voor het ondernemingsklimaat. Bedrijven willen zich pas vestigen als ze weten dat er genoeg water is, en dat het waterveilig is.\u00a0</p><p>Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.<br /><br /></p><p><br /></p>",
+            "duration_ms": 2139720,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1RSQQFhquDtpTrq3ElVgEk"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1RSQQFhquDtpTrq3ElVgEk",
+            "id": "1RSQQFhquDtpTrq3ElVgEk",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0d77f11529812317e2d70196",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0d77f11529812317e2d70196",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0d77f11529812317e2d70196",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Gedeputeerde Arne Weverling en econome Barbara Baarsma.",
+            "release_date": "2025-12-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1RSQQFhquDtpTrq3ElVgEk"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0iafSaDJaluiU2mqxoYxSD/clip_216108_276108.mp3",
             "description": "Deze aflevering van Delta & Duiten komt live vanaf het Deltacongres in Breda. Maarten Bouwhuis gaat in gesprek met Alex Datema, directeur Food & Agri Nederland bij de Rabobank, en met Tanja Cuppen, dijkgraaf bij Waterschap Rivierenland. Ze hebben het bijvoorbeeld over de uitkomsten van de nieuwe Deltares-stresstest. Die laat zien dat extreme buien in sommige gebieden kunnen leiden tot langdurige wateroverlast. Datema \u2014 zowel boer als bankier \u2014 benadrukt hoe belangrijk het is om het landschap weer centraal te zetten bij landbouw en financiering.\u00a0Tanja Cuppen kijkt door haar eerdere werk voor ABN Amro juist met een bril van risicomanagement naar water en klimaatadaptatie. Zij vindt het belangrijk dat de bewustwording bij mensen groeit, en dat duidelijk is dat het waterschap het niet alleen kan. Maar zouden de waterschappen niet veel steviger\u00a0 de regie naar zich toe moeten trekken? En zou je tegen sommige boeren niet moeten zeggen dat ze hun bedrijf drastisch moeten veranderen om klimaatbestendig te worden?Delta & Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financi\u00eble experts, over klimaatadaptatie en over de fysieke en de financi\u00eble gevolgen hiervan.",
@@ -126248,15 +126288,16 @@
       "publisher": "AMLC Podcast",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 99,
+      "total_episodes": 100,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 99,
+        "total": 100,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0ojfSHfR92ppC2eja2fwjb/clip_143513_203513.mp3",
             "description": "Das Strohman-Kartell: hoe kwetsbare mensen het schild vormen van grensoverschrijdende fraudeIn deze aflevering duiken we diep in:\u201eDas Strohmann-Kartell. \u00a0Dienstleister f\u00fcr die Mafia\u201c,de documentaire van de Duitse onderzoeksjournalisten Adrian Bartocha en Jan Wiese, werkzaam bij Rundfunk Berlin-Brandenburg. Hun onderzoek laat overtuigend zien hoe kwetsbare, vaak verslaafde mannen uit Oost-Europa worden ingezet als katvangers voor tientallen bedrijven tegelijk \u2014 en daarmee het zicht op complexe fraude- en witwasnetwerken volledig blokkeren.We bespreken onder meer:hoe stroman-handelaren werken en waarom er een \u201cvoorraad\u201d stroman-directeuren bestaatde rol van notarissen, tussenpersonen en schijnbedrijven in Duitslandhoe btw-carrousels, sociale zekerheidsfraude en grensoverschrijdende witwasconstructies samenkomende rol van het Europees Openbaar Ministerie bij onderzoeken die landsgrensoverschrijdend moeten opererenhoe een Instagram-influencer onbedoeld hielp het netwerk bloot te leggende maatschappelijke schade van deze industri\u00eble vorm van economische criminaliteitDeze aflevering is essentieel voor iedereen die zich bezighoudt met witwasbestrijding, financi\u00eble integriteit, toezicht of ketenonderzoek.Link naar de documentaire: https://www.youtube.com/watch?v=kdH2-O6FbQwen op:https://www.ardmediathek.de/video/story/das-strohmann-kartell-dienstleister-fuer-die-mafia/rbb/Y3JpZDovL3JiYl9kMDcyMzVlYS1hYjQyLTRkNmMtYTYwOC0yMDNhMGJkZDIwNzdfcHVibGljYXRpb24",
@@ -128220,28 +128261,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7eyr1EQyuoN3TQehBIwmJe/clip_445381_505381.mp3",
             "description": "Dit is deel twee van een tweeluik over bureau toezicht Wwft en de Wwft verplichtingen van overige handelaren. Want als bijvoorbeeld een klant van je jacuzzi shop ineens meerdere jacuzzi\u2019s wil laten plaatsen en daarvoor wil betalen in meerdere cash betalingen: wat doe je dan? Annemarije Schoonbeek van bureau toezicht Wwft licht het uitgebreid toe in deze AMLC podcast",
-            "html_description": "Dit is deel twee van een tweeluik over bureau toezicht Wwft en de Wwft verplichtingen van overige handelaren.<br/>Want als bijvoorbeeld een klant van je jacuzzi shop ineens meerdere jacuzzi\u2019s wil laten plaatsen en daarvoor wil betalen in meerdere cash betalingen: wat doe je dan? Annemarije Schoonbeek van bureau toezicht Wwft licht het uitgebreid toe in deze AMLC podcast",
             "duration_ms": 1665172,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6F952Hm2AZhapcjVM1S3HI"
             },
             "href": "https://api.spotify.com/v1/episodes/6F952Hm2AZhapcjVM1S3HI",
+            "html_description": "Dit is deel twee van een tweeluik over bureau toezicht Wwft en de Wwft verplichtingen van overige handelaren.<br/>Want als bijvoorbeeld een klant van je jacuzzi shop ineens meerdere jacuzzi\u2019s wil laten plaatsen en daarvoor wil betalen in meerdere cash betalingen: wat doe je dan? Annemarije Schoonbeek van bureau toezicht Wwft licht het uitgebreid toe in deze AMLC podcast",
             "id": "6F952Hm2AZhapcjVM1S3HI",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
