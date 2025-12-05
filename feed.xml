@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-05T10:23:49Z</updated>
+	<updated>2025-12-05T15:23:32Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -17,6 +17,16 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/2lMi4xa8OwFygjlZWEC4yV/clip_368476_428476.mp3" type="audio/mpeg" />
 		<id>spotify:episode:1SHEhpP6BtuaPscr74GWcQ</id>
+		<updated>2025-12-05T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>De Innovatie Ambtenaar - Experimenteren Deep Dive: Van Aanname naar Bewezen Oplossing</title>
+		<link href="https://open.spotify.com/episode/5hWd5fB298bwfAVF3uPKDE" />
+		<summary type="html">&lt;p&gt;Na onze vorige aflevering over experimenteren kregen we zoveel vragen dat we besloten: hier moet een verdiepingsslag op komen! In deze special nemen Jeroen en Marijn je mee in de concrete stappen van de Build-Measure-Learn-Loop. Met speciale gast Raisa (die jullie kennen van de aflevering over het innovatieprogramma) leggen ze aan de hand van een praktijkvoorbeeld (de parkeergarage-case) precies uit hoe je experimenten opzet, uitvoert en analyseert.&lt;/p&gt;&lt;p&gt;In deze aflevering leer je:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hoe je de Build-Measure-Learn-Loop toepast in de praktijk&lt;/li&gt;&lt;li&gt;Het verschil tussen Design Thinking en Lean Startup experimenten&lt;/li&gt;&lt;li&gt;Hoe je aannames identificeert en test&lt;/li&gt;&lt;li&gt;Wanneer je klaar bent met experimenteren&lt;/li&gt;&lt;li&gt;Hoe je voorkomt dat je experiment in de la verdwijnt&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De drie fases van experimenteren:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Build: Identificeer je grootste risico en ontwerp een experiment&lt;/li&gt;&lt;li&gt;Measure: Voer het experiment uit en verzamel data&lt;/li&gt;&lt;li&gt;Learn: Analyseer de resultaten en pas je aannames aan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Van kleine, afgebakende experimenten tot een Minimal Viable Product (MVP) - deze aflevering geeft je alle handvatten om morgen zelf aan de slag te gaan.&lt;/p&gt;&lt;p&gt;Praktisch voorbeeld:Een eigenaar van een parkeergarage wil een app bouwen. Maar na gebruikersonderzoek blijkt dat mensen liever op straat parkeren dan de garage in te rijden. Waarom? En hoe test je verschillende oplossingen zonder direct te investeren in grote technologie?&lt;/p&gt;&lt;p&gt;Volgende aflevering: Overdragen - de fase die volgens jullie LinkedIn-poll het moeilijkst is! Stuur je vragen in via &lt;a href="innovatie&amp;#64;svb.nl" rel="nofollow"&gt;innovatie&amp;#64;svb.nl&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;#x1f4da; Meer leren over experimenteren:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fase Experimenteren: &lt;a href="https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/fase-3-experimenteren" rel="nofollow"&gt;https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/fase-3-experimenteren&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Aanname Map Canvas: &lt;a href="https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/aanname-map-canvas" rel="nofollow"&gt;https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/aanname-map-canvas&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Experiment Canvas: &lt;a href="https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/experiment-canvas" rel="nofollow"&gt;https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/experiment-canvas&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;#DeInnovatieAmbtenaar #Experimenteren #Innovation #PublicSector #LeanStartup #BuildMeasureLearn&lt;/p&gt;</summary>
+		<author>
+			<name>Novum Innovatielab</name>
+		</author>
+		<id>spotify:episode:5hWd5fB298bwfAVF3uPKDE</id>
 		<updated>2025-12-05T00:00:00Z</updated>
 	</entry>
 	<entry>
