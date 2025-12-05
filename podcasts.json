@@ -64927,15 +64927,55 @@
       "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
-      "total_episodes": 109,
+      "total_episodes": 110,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 109,
+        "total": 110,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2lMi4xa8OwFygjlZWEC4yV/clip_368476_428476.mp3",
+            "description": "Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het \u2018hoe\u2019. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het cre\u00ebren van zelfvertrouwen.",
+            "html_description": "<p>Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het \u2018hoe\u2019. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het cre\u00ebren van zelfvertrouwen.</p>",
+            "duration_ms": 3568326,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1SHEhpP6BtuaPscr74GWcQ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1SHEhpP6BtuaPscr74GWcQ",
+            "id": "1SHEhpP6BtuaPscr74GWcQ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7fe5cc1a2e0c50cebd7f538c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f7fe5cc1a2e0c50cebd7f538c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d7fe5cc1a2e0c50cebd7f538c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#108: De wil om te winnen",
+            "release_date": "2025-12-05",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1SHEhpP6BtuaPscr74GWcQ"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37Y738yzZHkO8v99wctPf1/clip_612820_672820.mp3",
             "description": "Voor Deborah en Anne-Marij kwam een podcastdroom uit: een aflevering maken met de Veldheren! De generaals buiten dienst Peter van Uhm en Mart de Kruif vertellen over het ontstaan van de Veldheren, over leiderschap, parallellen en verschillen tussen de huidige tijd en de tijd van de Koude Oorlog, technologische ontwikkelingen op het slagveld en wat er zo bijzonder is aan de Nederlandse krijgsmacht. De gedrevenheid spat ervan af bij deze twee generaals met een boodschap.",
@@ -66899,28 +66939,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/764TYQkXMSWTJ1GWUWr6P6/clip_315480_375480.mp3",
             "description": "Hoe kan een groep militairen middenin het bos, terwijl er niemand in de buurt is, toch worden gevonden? Wat is frequentiehoppen? En hoe kan een \u2018drone file\u2019 een realistisch risico zijn? Anne-Marij en Deborah vragen het aan Wiebe de Vos, frequentiemanager van Defensie. \u201cZonder Wiebe is er geen optreden van Defensie.\u201d",
-            "html_description": "<p>Hoe kan een groep militairen middenin het bos, terwijl er niemand in de buurt is, toch worden gevonden? Wat is frequentiehoppen? En hoe kan een \u2018drone file\u2019 een realistisch risico zijn? Anne-Marij en Deborah vragen het aan Wiebe de Vos, frequentiemanager van Defensie. \u201cZonder Wiebe is er geen optreden van Defensie.\u201d</p>",
             "duration_ms": 2616502,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1O1aVyRp13wDf1pYsMZ5Qa"
             },
             "href": "https://api.spotify.com/v1/episodes/1O1aVyRp13wDf1pYsMZ5Qa",
+            "html_description": "<p>Hoe kan een groep militairen middenin het bos, terwijl er niemand in de buurt is, toch worden gevonden? Wat is frequentiehoppen? En hoe kan een \u2018drone file\u2019 een realistisch risico zijn? Anne-Marij en Deborah vragen het aan Wiebe de Vos, frequentiemanager van Defensie. \u201cZonder Wiebe is er geen optreden van Defensie.\u201d</p>",
             "id": "1O1aVyRp13wDf1pYsMZ5Qa",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a1e5ceb07ac800c8bff358f8a",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1e5ceb07ac800c8bff358f8a",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f1e5ceb07ac800c8bff358f8a",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f1e5ceb07ac800c8bff358f8a",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d1e5ceb07ac800c8bff358f8a",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d1e5ceb07ac800c8bff358f8a",
                 "width": 64
               }
             ],
@@ -69531,17 +69571,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a2e93255daf54bbd5b54811e9",
+          "url": "https://i.scdn.co/image/ab6765630000ba8af520f6c125a8522646559043",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f2e93255daf54bbd5b54811e9",
+          "url": "https://i.scdn.co/image/ab67656300005f1ff520f6c125a8522646559043",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d2e93255daf54bbd5b54811e9",
+          "url": "https://i.scdn.co/image/ab6765630000f68df520f6c125a8522646559043",
           "width": 64
         }
       ],
@@ -69576,17 +69616,17 @@
             "id": "3kryA9RiHFJe4H8wY121Q9",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae276d9a043fdc7e5699c28d3",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ad801deef93c9c6a30ca4efe3",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe276d9a043fdc7e5699c28d3",
+                "url": "https://i.scdn.co/image/ab67656300005f1fd801deef93c9c6a30ca4efe3",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68de276d9a043fdc7e5699c28d3",
+                "url": "https://i.scdn.co/image/ab6765630000f68dd801deef93c9c6a30ca4efe3",
                 "height": 64,
                 "width": 64
               }
@@ -69616,17 +69656,17 @@
             "id": "3ptMJYaGrLckG4Y1IQP0KE",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a99bba379adb67c9691cc68d6",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a561da6aaa8220cbcd4f9d61c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f99bba379adb67c9691cc68d6",
+                "url": "https://i.scdn.co/image/ab67656300005f1f561da6aaa8220cbcd4f9d61c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d99bba379adb67c9691cc68d6",
+                "url": "https://i.scdn.co/image/ab6765630000f68d561da6aaa8220cbcd4f9d61c",
                 "height": 64,
                 "width": 64
               }
@@ -69656,17 +69696,17 @@
             "id": "3Cmf6XU7nts83TH500ITnP",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a0760000901fce0a9f41ab419",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7721432ca8e9f4263b58e77d",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f0760000901fce0a9f41ab419",
+                "url": "https://i.scdn.co/image/ab67656300005f1f7721432ca8e9f4263b58e77d",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d0760000901fce0a9f41ab419",
+                "url": "https://i.scdn.co/image/ab6765630000f68d7721432ca8e9f4263b58e77d",
                 "height": 64,
                 "width": 64
               }
@@ -69696,17 +69736,17 @@
             "id": "15QvD8lkE1hhwktblT8cXR",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a4ed8e114beae3988bfa7f3d8",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a9782bc481f3211c2226adb71",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f4ed8e114beae3988bfa7f3d8",
+                "url": "https://i.scdn.co/image/ab67656300005f1f9782bc481f3211c2226adb71",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d4ed8e114beae3988bfa7f3d8",
+                "url": "https://i.scdn.co/image/ab6765630000f68d9782bc481f3211c2226adb71",
                 "height": 64,
                 "width": 64
               }
@@ -69736,17 +69776,17 @@
             "id": "3bCv8MityLNr1vXcwHCmDi",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a33fbf5c52852a0988367d390",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae19e34f09504167812cb4c23",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f33fbf5c52852a0988367d390",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe19e34f09504167812cb4c23",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d33fbf5c52852a0988367d390",
+                "url": "https://i.scdn.co/image/ab6765630000f68de19e34f09504167812cb4c23",
                 "height": 64,
                 "width": 64
               }
@@ -69776,17 +69816,17 @@
             "id": "76mTVhxSl4vp8JQ9S5KAPG",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8c7aab3696eaba51e676313f",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a88bd3fb32303df031b10ad46",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8c7aab3696eaba51e676313f",
+                "url": "https://i.scdn.co/image/ab67656300005f1f88bd3fb32303df031b10ad46",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8c7aab3696eaba51e676313f",
+                "url": "https://i.scdn.co/image/ab6765630000f68d88bd3fb32303df031b10ad46",
                 "height": 64,
                 "width": 64
               }
@@ -69816,17 +69856,17 @@
             "id": "4fqtuXghpv00wv13mqmSF0",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a6ff6af7d72029ad3d9df8928",
+                "url": "https://i.scdn.co/image/ab6765630000ba8add8bb69e6d92ea98515f081d",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f6ff6af7d72029ad3d9df8928",
+                "url": "https://i.scdn.co/image/ab67656300005f1fdd8bb69e6d92ea98515f081d",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d6ff6af7d72029ad3d9df8928",
+                "url": "https://i.scdn.co/image/ab6765630000f68ddd8bb69e6d92ea98515f081d",
                 "height": 64,
                 "width": 64
               }
@@ -69856,17 +69896,17 @@
             "id": "2A6IHhuH4mSFiGoLWP0gKK",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aa50a8f67fff8a0153719c693",
+                "url": "https://i.scdn.co/image/ab6765630000ba8af2fd55f469e4b4b974e88495",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fa50a8f67fff8a0153719c693",
+                "url": "https://i.scdn.co/image/ab67656300005f1ff2fd55f469e4b4b974e88495",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68da50a8f67fff8a0153719c693",
+                "url": "https://i.scdn.co/image/ab6765630000f68df2fd55f469e4b4b974e88495",
                 "height": 64,
                 "width": 64
               }
@@ -69896,17 +69936,17 @@
             "id": "1D11MsqgAiAjslKjC6bM64",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a9434de477333f09f41ffcfa5",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0abfe242c3fa8649946cb555",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f9434de477333f09f41ffcfa5",
+                "url": "https://i.scdn.co/image/ab67656300005f1f0abfe242c3fa8649946cb555",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d9434de477333f09f41ffcfa5",
+                "url": "https://i.scdn.co/image/ab6765630000f68d0abfe242c3fa8649946cb555",
                 "height": 64,
                 "width": 64
               }
@@ -69936,17 +69976,17 @@
             "id": "5OYwNtVkCpQ8zZYJNV5jzW",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ab7a9d3217d3497290f33033b",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a79a706c85b41bb5d8ca79a90",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fb7a9d3217d3497290f33033b",
+                "url": "https://i.scdn.co/image/ab67656300005f1f79a706c85b41bb5d8ca79a90",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68db7a9d3217d3497290f33033b",
+                "url": "https://i.scdn.co/image/ab6765630000f68d79a706c85b41bb5d8ca79a90",
                 "height": 64,
                 "width": 64
               }
@@ -69976,17 +70016,17 @@
             "id": "0nMRaDjmT0ardTkyKbCjfr",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a3ceb19ecc26bb20a9426f520",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a4c037f687f2ad71eec198961",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f3ceb19ecc26bb20a9426f520",
+                "url": "https://i.scdn.co/image/ab67656300005f1f4c037f687f2ad71eec198961",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d3ceb19ecc26bb20a9426f520",
+                "url": "https://i.scdn.co/image/ab6765630000f68d4c037f687f2ad71eec198961",
                 "height": 64,
                 "width": 64
               }
@@ -70016,17 +70056,17 @@
             "id": "0TF021VX1IduqRZm8AazHA",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a84cd62ddfcaedb372bc606e3",
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa1eed32a8085caeae9fa99b7",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f84cd62ddfcaedb372bc606e3",
+                "url": "https://i.scdn.co/image/ab67656300005f1fa1eed32a8085caeae9fa99b7",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d84cd62ddfcaedb372bc606e3",
+                "url": "https://i.scdn.co/image/ab6765630000f68da1eed32a8085caeae9fa99b7",
                 "height": 64,
                 "width": 64
               }
@@ -70056,17 +70096,17 @@
             "id": "5agu2tGGtm6xaImBgsEkxn",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ad31f35b87ad6f2d905e57207",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a643404b68431a2a88d47ac3c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fd31f35b87ad6f2d905e57207",
+                "url": "https://i.scdn.co/image/ab67656300005f1f643404b68431a2a88d47ac3c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dd31f35b87ad6f2d905e57207",
+                "url": "https://i.scdn.co/image/ab6765630000f68d643404b68431a2a88d47ac3c",
                 "height": 64,
                 "width": 64
               }
@@ -78012,17 +78052,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a56afdc52a658bb765351b822",
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae4484bb3920b7a331f812b3c",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f56afdc52a658bb765351b822",
+          "url": "https://i.scdn.co/image/ab67656300005f1fe4484bb3920b7a331f812b3c",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d56afdc52a658bb765351b822",
+          "url": "https://i.scdn.co/image/ab6765630000f68de4484bb3920b7a331f812b3c",
           "width": 64
         }
       ],
@@ -78057,17 +78097,17 @@
             "id": "381mZVXuxNYbH1aHOK2htY",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae4484bb3920b7a331f812b3c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe4484bb3920b7a331f812b3c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000f68de4484bb3920b7a331f812b3c",
                 "height": 64,
                 "width": 64
               }
@@ -78097,17 +78137,17 @@
             "id": "27gkpLgPHN4KhA2H65gZz7",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae4484bb3920b7a331f812b3c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe4484bb3920b7a331f812b3c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000f68de4484bb3920b7a331f812b3c",
                 "height": 64,
                 "width": 64
               }
@@ -78137,17 +78177,17 @@
             "id": "37RFM1AN6P4lDCbmwFYaOp",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae4484bb3920b7a331f812b3c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe4484bb3920b7a331f812b3c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000f68de4484bb3920b7a331f812b3c",
                 "height": 64,
                 "width": 64
               }
@@ -78177,17 +78217,17 @@
             "id": "3mbfRG57S3xseWVJV7lF0P",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae4484bb3920b7a331f812b3c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe4484bb3920b7a331f812b3c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000f68de4484bb3920b7a331f812b3c",
                 "height": 64,
                 "width": 64
               }
@@ -78217,17 +78257,17 @@
             "id": "13VRMQQuESMPibt15Ijfvk",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae4484bb3920b7a331f812b3c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe4484bb3920b7a331f812b3c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000f68de4484bb3920b7a331f812b3c",
                 "height": 64,
                 "width": 64
               }
@@ -78257,17 +78297,17 @@
             "id": "4knFVxzcmm0JBtXH3504Yt",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae4484bb3920b7a331f812b3c",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab67656300005f1fe4484bb3920b7a331f812b3c",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d56afdc52a658bb765351b822",
+                "url": "https://i.scdn.co/image/ab6765630000f68de4484bb3920b7a331f812b3c",
                 "height": 64,
                 "width": 64
               }
