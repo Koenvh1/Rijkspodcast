@@ -24575,15 +24575,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 31,
+      "total_episodes": 32,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 31,
+        "total": 32,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/65EO1VH56qMPE8vPXnzPnd/clip_507883_567883.mp3",
+            "description": "In deze aflevering spreken we met Florien van der Windt, directeur publieke gezondheid. We praten over de beweging van zorg naar gezondheid. Wat vraagt dat van regio\u2019s, van samenwerking en van de manier waarop we investeren in preventie? \u00a0 Florien vertelt hoe thema\u2019s zoals Kansrijke Start, mentale gezondheid, valpreventie en bevolkingsonderzoeken samenkomen in \u00e9\u00e9n vraag: hoe zorgen we dat mensen gezond blijven, en dat de zorg daardoor lucht krijgt? Niet door zorg te vermijden, maar door gezondheid weer als waarde te zien. \u00a0 We gaan in op cultuurverschillen tussen domeinen, het investeringsmodel voor preventie en wat er nodig is om goede interventies landelijk uit te rollen. Ook bespreken we veel voorbeelden waaronder Leeuwarden Oost, waar medische en sociale aanpak samenkomt om gezondheidsachterstanden echt te verkleinen. \u00a0 Een gesprek over verbinding, bewustzijn en doen.\u00a0 \u00a0",
+            "html_description": "<p>In deze aflevering spreken we met Florien van der Windt, directeur publieke gezondheid. We praten over de beweging van zorg naar gezondheid. Wat vraagt dat van regio\u2019s, van samenwerking en van de manier waarop we investeren in preventie?</p> <p>\u00a0</p> <p>Florien vertelt hoe thema\u2019s zoals Kansrijke Start, mentale gezondheid, valpreventie en bevolkingsonderzoeken samenkomen in \u00e9\u00e9n vraag: hoe zorgen we dat mensen gezond blijven, en dat de zorg daardoor lucht krijgt? Niet door zorg te vermijden, maar door gezondheid weer als waarde te zien.</p> <p>\u00a0</p> <p>We gaan in op cultuurverschillen tussen domeinen, het investeringsmodel voor preventie en wat er nodig is om goede interventies landelijk uit te rollen. Ook bespreken we veel voorbeelden waaronder Leeuwarden Oost, waar medische en sociale aanpak samenkomt om gezondheidsachterstanden echt te verkleinen.</p> <p>\u00a0</p> <p>Een gesprek over verbinding, bewustzijn en doen.\u00a0</p> <p>\u00a0</p>",
+            "duration_ms": 2086295,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3KI2kKSTuWuMbiqzpue60c"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3KI2kKSTuWuMbiqzpue60c",
+            "id": "3KI2kKSTuWuMbiqzpue60c",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8afaee257fa40c4b1c2e38b43f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1ffaee257fa40c4b1c2e38b43f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dfaee257fa40c4b1c2e38b43f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E8: Florien van der Windt directeur bij VWS \u00a0over de stap van Zorg naar Gezondheid",
+            "release_date": "2025-12-05",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3KI2kKSTuWuMbiqzpue60c"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37Wu450HYr3JsvQrHvmAR5/clip_509225_569225.mp3",
             "description": "Twee regio\u2019s, twee totaal verschillende realiteiten, \u00e9\u00e9n gezamenlijke uitdaging: gezondheid die verder gaat dan het ziekenhuis. Marc Seelen (Positief Gezond Almere) en Marjolein de Jong (Vitale Gelderse Vallei) \u00a0kijken terug op een periode waarin IZA soms afremde en soms juist versnelde. De ene regio kreeg transformatiegelden, de andere niet. Toch staan ze voor dezelfde opgave: hoe houd je de energie hoog, ook als het schuurt, stagneert of simpelweg niet lukt? \u00a0 In Almere, een jonge stad met weinig sociale samenhang, en in de Gelderse Vallei, een regio met een eeuwenoud moreel kompas, staan professionals voor dezelfde feiten. Personeelstekorten zijn geen toekomstscenario maar dagelijkse realiteit. Niet alles is ziekenhuiszorg, maar alles raakt de gezondheid van de stad of regio. \u00a0 IZA bracht alle partijen aan tafel. Het doorbrak eilandjeslogica en dwarsverbanden ontstonden. Maar het bracht ook druk. Wat doet het met een regio die geen middelen krijgt, en hoe beweeg je verder wanneer je ze w\u00e9l krijgt? En hoe zorg je dat sociaal domein, gemeenten en ziekenhuizen elkaar niet kwijtraken maar elkaar juist versterken? \u00a0 Marc en Marjolein vertellen hoe ze vanuit twee verschillende werelden dezelfde beweging maken: van zuilen naar samenwerken, van losse initiatieven naar integraal denken, van problemen naar kansen. Want geld helpt, maar energie, vertrouwen en gezamenlijke richting bepalen uiteindelijk de koers.",
@@ -91741,7 +91781,7 @@
         "total": 43,
         "items": [
           {
-            "audio_preview_url": null,
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37xaksQGi5VH3khWxXubK8/clip_252981_312981.mp3",
             "description": "Na onze vorige aflevering over experimenteren kregen we zoveel vragen dat we besloten: hier moet een verdiepingsslag op komen! In deze special nemen Jeroen en Marijn je mee in de concrete stappen van de Build-Measure-Learn-Loop. Met speciale gast Raisa (die jullie kennen van de aflevering over het innovatieprogramma) leggen ze aan de hand van een praktijkvoorbeeld (de parkeergarage-case) precies uit hoe je experimenten opzet, uitvoert en analyseert.In deze aflevering leer je:Hoe je de Build-Measure-Learn-Loop toepast in de praktijkHet verschil tussen Design Thinking en Lean Startup experimentenHoe je aannames identificeert en testWanneer je klaar bent met experimenterenHoe je voorkomt dat je experiment in de la verdwijntDe drie fases van experimenteren:Build: Identificeer je grootste risico en ontwerp een experimentMeasure: Voer het experiment uit en verzamel dataLearn: Analyseer de resultaten en pas je aannames aanVan kleine, afgebakende experimenten tot een Minimal Viable Product (MVP) - deze aflevering geeft je alle handvatten om morgen zelf aan de slag te gaan.Praktisch voorbeeld:Een eigenaar van een parkeergarage wil een app bouwen. Maar na gebruikersonderzoek blijkt dat mensen liever op straat parkeren dan de garage in te rijden. Waarom? En hoe test je verschillende oplossingen zonder direct te investeren in grote technologie?Volgende aflevering: Overdragen - de fase die volgens jullie LinkedIn-poll het moeilijkst is! Stuur je vragen in via innovatie@svb.nl\ud83d\udcda Meer leren over experimenteren:Fase Experimenteren: https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/fase-3-experimenterenAanname Map Canvas: https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/aanname-map-canvasExperiment Canvas: https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/experiment-canvas#DeInnovatieAmbtenaar #Experimenteren #Innovation #PublicSector #LeanStartup #BuildMeasureLearn",
             "html_description": "<p>Na onze vorige aflevering over experimenteren kregen we zoveel vragen dat we besloten: hier moet een verdiepingsslag op komen! In deze special nemen Jeroen en Marijn je mee in de concrete stappen van de Build-Measure-Learn-Loop. Met speciale gast Raisa (die jullie kennen van de aflevering over het innovatieprogramma) leggen ze aan de hand van een praktijkvoorbeeld (de parkeergarage-case) precies uit hoe je experimenten opzet, uitvoert en analyseert.</p><p>In deze aflevering leer je:</p><ul><li>Hoe je de Build-Measure-Learn-Loop toepast in de praktijk</li><li>Het verschil tussen Design Thinking en Lean Startup experimenten</li><li>Hoe je aannames identificeert en test</li><li>Wanneer je klaar bent met experimenteren</li><li>Hoe je voorkomt dat je experiment in de la verdwijnt</li></ul><p>De drie fases van experimenteren:</p><ul><li>Build: Identificeer je grootste risico en ontwerp een experiment</li><li>Measure: Voer het experiment uit en verzamel data</li><li>Learn: Analyseer de resultaten en pas je aannames aan</li></ul><p>Van kleine, afgebakende experimenten tot een Minimal Viable Product (MVP) - deze aflevering geeft je alle handvatten om morgen zelf aan de slag te gaan.</p><p>Praktisch voorbeeld:Een eigenaar van een parkeergarage wil een app bouwen. Maar na gebruikersonderzoek blijkt dat mensen liever op straat parkeren dan de garage in te rijden. Waarom? En hoe test je verschillende oplossingen zonder direct te investeren in grote technologie?</p><p>Volgende aflevering: Overdragen - de fase die volgens jullie LinkedIn-poll het moeilijkst is! Stuur je vragen in via <a href=\"innovatie&#64;svb.nl\" rel=\"nofollow\">innovatie&#64;svb.nl</a></p><p>&#x1f4da; Meer leren over experimenteren:</p><ul><li>Fase Experimenteren: <a href=\"https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/fase-3-experimenteren\" rel=\"nofollow\">https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/fase-3-experimenteren</a></li><li>Aanname Map Canvas: <a href=\"https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/aanname-map-canvas\" rel=\"nofollow\">https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/aanname-map-canvas</a></li><li>Experiment Canvas: <a href=\"https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/experiment-canvas\" rel=\"nofollow\">https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/experiment-canvas</a></li></ul><p>#DeInnovatieAmbtenaar #Experimenteren #Innovation #PublicSector #LeanStartup #BuildMeasureLearn</p>",
             "duration_ms": 3062108,
