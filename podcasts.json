@@ -9080,15 +9080,95 @@
       "publisher": "CIP - Centrum Informatiebeveiliging en Privacybescherming",
       "type": "show",
       "uri": "spotify:show:6Eb7YjZnONrbelDXDEe1iQ",
-      "total_episodes": 126,
+      "total_episodes": 128,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 126,
+        "total": 128,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0sbpw3dUmSLCzxMp47bK5Q/clip_347548_407548.mp3",
+            "description": "Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0",
+            "html_description": "<p>Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0</p>",
+            "duration_ms": 777430,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4PHtUG5xULCnCkDAzWAkmN"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4PHtUG5xULCnCkDAzWAkmN",
+            "id": "4PHtUG5xULCnCkDAzWAkmN",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 8 \u2013 Rectificatie en verwijderingsverzoeken",
+            "release_date": "2025-12-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4PHtUG5xULCnCkDAzWAkmN"
+          },
+          {
+            "audio_preview_url": null,
+            "description": "Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0",
+            "html_description": "<p>Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0</p>",
+            "duration_ms": 695275,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0d6Efn0a3Bgho8Xn7oRnSD"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0d6Efn0a3Bgho8Xn7oRnSD",
+            "id": "0d6Efn0a3Bgho8Xn7oRnSD",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 7 \u2013 Inzagerechten",
+            "release_date": "2025-12-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0d6Efn0a3Bgho8Xn7oRnSD"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/689GMYvKClR18KobTiyPJC/clip_363869_423869.mp3",
             "description": "Annemieke de Wit (Senior Adviseur Informatiebeveiliging bij CIP) vertelt je meer over de campagne rondom de implementatiebegeleiding. Ze legt uit waar je alle informatie over de BIO2 kunt vinden. Ze blikt terug en bespreekt een aantal punten uit aflevering 1 t/m 3. Ze kijkt vooruit naar de toekomst van de BIO2, wat zijn de plannen? \u00a0",
@@ -11012,32 +11092,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2q5p6USj87yWL55KgfAyeJ/clip_374815_434815.mp3",
             "description": "Na enkele jaren als Functionaris Gegevensbescherming te hebben gewerkt bij de gemeente Den Haag verhuisde Irith Kist in 2018 in dezelfde functie naar het Antoni van Leeuwenhoek ziekenhuis en het Nederlands Kanker Instituut.\u00a0Zij stelt zichzelf vragen als: \u2018Wat is de bedoeling achter de AVG?\u2019 En \u2018hoe kunnen we de vertaalslag zo goed mogelijk maken naar de praktijk?\u2019 En in haar dagelijkse praktijk komt dat vaak neer op het moeten beantwoorden van de \u2018wat is het belang v\u00e1n de pati\u00ebnt en het belang v\u00f3\u00f3r de pati\u00ebnt?\u2019 Maar dan wel genuanceerd. Daaraan werkt Irith en daarover spreekt ze geregeld op internationale congressen. Het verhaal van een zeer verantwoordelijke professional, die op weg is naar een PhD.",
-            "html_description": "<p>Na enkele jaren als Functionaris Gegevensbescherming te hebben gewerkt bij de gemeente Den Haag verhuisde Irith Kist in 2018 in dezelfde functie naar het Antoni van Leeuwenhoek ziekenhuis en het Nederlands Kanker Instituut.\u00a0</p><p>Zij stelt zichzelf vragen als: \u2018Wat is de bedoeling achter de AVG?\u2019 En \u2018hoe kunnen we de vertaalslag zo goed mogelijk maken naar de praktijk?\u2019 En in haar dagelijkse praktijk komt dat vaak neer op het moeten beantwoorden van de \u2018wat is het belang v\u00e1n de pati\u00ebnt en het belang v\u00f3\u00f3r de pati\u00ebnt?\u2019 Maar dan wel genuanceerd. Daaraan werkt Irith en daarover spreekt ze geregeld op internationale congressen. Het verhaal van een zeer verantwoordelijke professional, die op weg is naar een PhD.</p>",
             "duration_ms": 1434096,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/24lLJ2w9kb1AX3S3DGrPta"
             },
             "href": "https://api.spotify.com/v1/episodes/24lLJ2w9kb1AX3S3DGrPta",
+            "html_description": "<p>Na enkele jaren als Functionaris Gegevensbescherming te hebben gewerkt bij de gemeente Den Haag verhuisde Irith Kist in 2018 in dezelfde functie naar het Antoni van Leeuwenhoek ziekenhuis en het Nederlands Kanker Instituut.\u00a0</p><p>Zij stelt zichzelf vragen als: \u2018Wat is de bedoeling achter de AVG?\u2019 En \u2018hoe kunnen we de vertaalslag zo goed mogelijk maken naar de praktijk?\u2019 En in haar dagelijkse praktijk komt dat vaak neer op het moeten beantwoorden van de \u2018wat is het belang v\u00e1n de pati\u00ebnt en het belang v\u00f3\u00f3r de pati\u00ebnt?\u2019 Maar dan wel genuanceerd. Daaraan werkt Irith en daarover spreekt ze geregeld op internationale congressen. Het verhaal van een zeer verantwoordelijke professional, die op weg is naar een PhD.</p>",
             "id": "24lLJ2w9kb1AX3S3DGrPta",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8320379f1be5f4ceb8b35838",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8320379f1be5f4ceb8b35838",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8320379f1be5f4ceb8b35838",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f8320379f1be5f4ceb8b35838",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8320379f1be5f4ceb8b35838",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d8320379f1be5f4ceb8b35838",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -11052,32 +11132,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2NE2FQsizqnjwuUh8uEc4i/clip_653433_713433.mp3",
             "description": "Financi\u00eble instellingen - waaronder het Bureau Krediet Registratie - functioneren zeker niet foutloos, zo weet Deepak Thakoerdien als geen ander. Samen met zijn collega\u2019s bij het door hem opgerichte bureau Dynamiet Nederland bestrijdt hij al jaren fouten in systemen, die burgers veel onrecht berokkenen. Onterecht verleende risico-codes, traag uitgevoerde herstelacties e.d. resulteren - nog steeds - te vaak en onnodig in forse financi\u00eble beperkingen voor betrokkenen. Zelfs na 1.300 gewonnen rechtszaken. Uit bewogenheid met die betrokkenen brak hij zelf zijn rechtenstudie af. Toch ziet hij zichzelf niet als vijand van de sector, maar wil juist met hen samenwerken. En ziet hij licht aan het einde van de tunnel.",
-            "html_description": "<p>Financi\u00eble instellingen - waaronder het Bureau Krediet Registratie - functioneren zeker niet foutloos, zo weet Deepak Thakoerdien als geen ander. Samen met zijn collega\u2019s bij het door hem opgerichte bureau Dynamiet Nederland bestrijdt hij al jaren fouten in systemen, die burgers veel onrecht berokkenen. Onterecht verleende risico-codes, traag uitgevoerde herstelacties e.d. resulteren - nog steeds - te vaak en onnodig in forse financi\u00eble beperkingen voor betrokkenen. Zelfs na 1.300 gewonnen rechtszaken. Uit bewogenheid met die betrokkenen brak hij zelf zijn rechtenstudie af. Toch ziet hij zichzelf niet als vijand van de sector, maar wil juist met hen samenwerken. En ziet hij licht aan het einde van de tunnel.</p>",
             "duration_ms": 1521946,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1kYJ6M3Qp4CSFshVI1WHvA"
             },
             "href": "https://api.spotify.com/v1/episodes/1kYJ6M3Qp4CSFshVI1WHvA",
+            "html_description": "<p>Financi\u00eble instellingen - waaronder het Bureau Krediet Registratie - functioneren zeker niet foutloos, zo weet Deepak Thakoerdien als geen ander. Samen met zijn collega\u2019s bij het door hem opgerichte bureau Dynamiet Nederland bestrijdt hij al jaren fouten in systemen, die burgers veel onrecht berokkenen. Onterecht verleende risico-codes, traag uitgevoerde herstelacties e.d. resulteren - nog steeds - te vaak en onnodig in forse financi\u00eble beperkingen voor betrokkenen. Zelfs na 1.300 gewonnen rechtszaken. Uit bewogenheid met die betrokkenen brak hij zelf zijn rechtenstudie af. Toch ziet hij zichzelf niet als vijand van de sector, maar wil juist met hen samenwerken. En ziet hij licht aan het einde van de tunnel.</p>",
             "id": "1kYJ6M3Qp4CSFshVI1WHvA",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ab844aa8df52d0d27ef58dbd2",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab844aa8df52d0d27ef58dbd2",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fb844aa8df52d0d27ef58dbd2",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb844aa8df52d0d27ef58dbd2",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68db844aa8df52d0d27ef58dbd2",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db844aa8df52d0d27ef58dbd2",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -60336,8 +60416,8 @@
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5LAdYbWoOQByowwBReOSe4/clip_574895_634895.mp3",
-            "description": "Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?Presentatie: Yasmine AbiadhGast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC Afkicken",
-            "html_description": "<p>Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?</p><p>Presentatie: Yasmine Abiadh</p><p>Gast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)</p><p>Redactie: NCSC &amp; BKB Het Campagnebureau</p><p>Montage en geluid: FC Afkicken</p>",
+            "description": "Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?Presentatie: Yasmine Abiadh Gast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC Afkicken",
+            "html_description": "<p>Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?</p><p>Presentatie: Yasmine Abiadh </p><p>Gast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)</p><p>Redactie: NCSC &amp; BKB Het Campagnebureau</p><p>Montage en geluid: FC Afkicken</p>",
             "duration_ms": 679439,
             "explicit": false,
             "external_urls": {
@@ -60347,17 +60427,17 @@
             "id": "6AisXYKpH3QWiPDeCb41By",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a770e878235081d7adbc59aad",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab67656300005f1f770e878235081d7adbc59aad",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000f68d770e878235081d7adbc59aad",
                 "height": 64,
                 "width": 64
               }
@@ -60387,17 +60467,17 @@
             "id": "3cmvZaXcxyM6GLpZKfijyG",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000ba8adae27c0cf24c855ee565500e",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab67656300005f1fdae27c0cf24c855ee565500e",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000f68ddae27c0cf24c855ee565500e",
                 "height": 64,
                 "width": 64
               }
@@ -60427,17 +60507,17 @@
             "id": "2fEfYmohRm1X9e64tJTSuo",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000ba8ac6cdf43faa917af89a5b495f",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab67656300005f1fc6cdf43faa917af89a5b495f",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000f68dc6cdf43faa917af89a5b495f",
                 "height": 64,
                 "width": 64
               }
@@ -60456,8 +60536,8 @@
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0gQl1fWCISvNP889wgNZts/clip_573167_633167.mp3",
-            "description": "Yasmine spreekt NCSC\u2019ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC.\u00a0Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario\u2019s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?\u00a0Presentatie: Yasmine AbiadhGasten: Sara (NCSC) en Olivier (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC AfkickenLogo: Aron Vellekoop Le\u00f3n",
-            "html_description": "<p>Yasmine spreekt NCSC\u2019ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC.</p><p>\u00a0</p><p>Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario\u2019s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?</p><p>\u00a0</p><p>Presentatie: Yasmine Abiadh</p><p>Gasten: Sara (NCSC) en Olivier (NCSC)</p><p>Redactie: NCSC &amp; BKB Het Campagnebureau</p><p>Montage en geluid: FC Afkicken</p><p>Logo: Aron Vellekoop Le\u00f3n</p>",
+            "description": "Yasmine spreekt NCSC\u2019ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC. \u00a0Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario\u2019s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?\u00a0Presentatie: Yasmine AbiadhGasten: Sara (NCSC) en Olivier (NCSC)Redactie: NCSC & BKB Het CampagnebureauMontage en geluid: FC AfkickenLogo: Aron Vellekoop Le\u00f3n",
+            "html_description": "<p>Yasmine spreekt NCSC\u2019ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC. </p><p>\u00a0</p><p>Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario\u2019s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?</p><p>\u00a0</p><p>Presentatie: Yasmine Abiadh</p><p>Gasten: Sara (NCSC) en Olivier (NCSC)</p><p>Redactie: NCSC &amp; BKB Het Campagnebureau</p><p>Montage en geluid: FC Afkicken</p><p>Logo: Aron Vellekoop Le\u00f3n</p>",
             "duration_ms": 1063799,
             "explicit": false,
             "external_urls": {
@@ -60467,17 +60547,17 @@
             "id": "3LJkJ2KGl1Lws3AEtom8hB",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8b753f885f1c009d8536aad5",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab67656300005f1f8b753f885f1c009d8536aad5",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000f68d8b753f885f1c009d8536aad5",
                 "height": 64,
                 "width": 64
               }
@@ -60507,17 +60587,17 @@
             "id": "0Lp8LQY3uFpqgeMIDMiw2N",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a74fc594ac8bfed0b2f3952ac",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab67656300005f1f74fc594ac8bfed0b2f3952ac",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d8b13e23ba9f90ae64642aa7b",
+                "url": "https://i.scdn.co/image/ab6765630000f68d74fc594ac8bfed0b2f3952ac",
                 "height": 64,
                 "width": 64
               }

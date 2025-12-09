@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-09T06:35:08Z</updated>
+	<updated>2025-12-09T15:27:32Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -17,6 +17,27 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/3o205JC1PZVa4obIZ7OJWJ/clip_519598_579598.mp3" type="audio/mpeg" />
 		<id>spotify:episode:6V6xmufp3FJsGE52V2oeDw</id>
+		<updated>2025-12-09T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Aflevering 8 – Rectificatie en verwijderingsverzoeken</title>
+		<link href="https://open.spotify.com/episode/4PHtUG5xULCnCkDAzWAkmN" />
+		<summary type="html">&lt;p&gt;Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? ​​In deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken. &lt;/p&gt;</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0sbpw3dUmSLCzxMp47bK5Q/clip_347548_407548.mp3" type="audio/mpeg" />
+		<id>spotify:episode:4PHtUG5xULCnCkDAzWAkmN</id>
+		<updated>2025-12-09T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Aflevering 7 – Inzagerechten</title>
+		<link href="https://open.spotify.com/episode/0d6Efn0a3Bgho8Xn7oRnSD" />
+		<summary type="html">&lt;p&gt;Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? ​​In deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken. &lt;/p&gt;</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<id>spotify:episode:0d6Efn0a3Bgho8Xn7oRnSD</id>
 		<updated>2025-12-09T00:00:00Z</updated>
 	</entry>
 	<entry>
@@ -1144,7 +1165,7 @@
 	<entry>
 		<title>Enter - #5 - Hoe is het gegaan?</title>
 		<link href="https://open.spotify.com/episode/6AisXYKpH3QWiPDeCb41By" />
-		<summary type="html">&lt;p&gt;Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?&lt;/p&gt;&lt;p&gt;Presentatie: Yasmine Abiadh&lt;/p&gt;&lt;p&gt;Gast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)&lt;/p&gt;&lt;p&gt;Redactie: NCSC &amp;amp; BKB Het Campagnebureau&lt;/p&gt;&lt;p&gt;Montage en geluid: FC Afkicken&lt;/p&gt;</summary>
+		<summary type="html">&lt;p&gt;Met directeur Matthijs Amelsfort (NCSC) en plaatsvervangend directeur Corine Schipper (NCSC) blikken we aan het einde van de NAVO-top terug. Alle regeringsleiders zijn op dat moment langzaam Nederland weer aan het verlaten. De grootste veiligheidsoperatie ooit voor Nederland zit er dus zo goed als op. Zijn ze tevreden over het verloop? Wat waren de grootste uitdagingen? Wat is hun indruk van de cyberweerbaarheid van Nederland? En welke lessen nemen ze mee voor de toekomst?&lt;/p&gt;&lt;p&gt;Presentatie: Yasmine Abiadh &lt;/p&gt;&lt;p&gt;Gast: Matthijs Amelsfort (NCSC) en Corine Schipper (NCSC)&lt;/p&gt;&lt;p&gt;Redactie: NCSC &amp;amp; BKB Het Campagnebureau&lt;/p&gt;&lt;p&gt;Montage en geluid: FC Afkicken&lt;/p&gt;</summary>
 		<author>
 			<name>NCSC</name>
 		</author>
@@ -1188,7 +1209,7 @@
 	<entry>
 		<title>Enter - #2 - Hoe bereid je je voor?</title>
 		<link href="https://open.spotify.com/episode/3LJkJ2KGl1Lws3AEtom8hB" />
-		<summary type="html">&lt;p&gt;Yasmine spreekt NCSC’ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario’s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Presentatie: Yasmine Abiadh&lt;/p&gt;&lt;p&gt;Gasten: Sara (NCSC) en Olivier (NCSC)&lt;/p&gt;&lt;p&gt;Redactie: NCSC &amp;amp; BKB Het Campagnebureau&lt;/p&gt;&lt;p&gt;Montage en geluid: FC Afkicken&lt;/p&gt;&lt;p&gt;Logo: Aron Vellekoop León&lt;/p&gt;</summary>
+		<summary type="html">&lt;p&gt;Yasmine spreekt NCSC’ers Sara en Olivier over hun rol in de voorbereidingen op de NAVO-top. Sara is adviseur crisisbeheersing en was lid van de expertgroep Cyber. Samen met de NCTV, de AIVD, de politie en de Koninklijke Marechaussee zette ze een sterke organisatie op voor tijdens de NAVO-top. Ze vertelt hoe samenwerkingsverbanden zijn versterkt en informatiestromen zijn verbeterd, maar ook over de werkwijze tijdens de top zelf en de inzet van reservisten binnen het NCSC. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Olivier is dreigingsanalist en bracht digitale dreigingen rondom de top in kaart. Ook stelde hij met verschillende experts scenario’s op waarmee organisaties zich nog beter voor kunnen bereiden op de NAVO-top. Hoe doe je dat en hoe worden ze gebruikt?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Presentatie: Yasmine Abiadh&lt;/p&gt;&lt;p&gt;Gasten: Sara (NCSC) en Olivier (NCSC)&lt;/p&gt;&lt;p&gt;Redactie: NCSC &amp;amp; BKB Het Campagnebureau&lt;/p&gt;&lt;p&gt;Montage en geluid: FC Afkicken&lt;/p&gt;&lt;p&gt;Logo: Aron Vellekoop León&lt;/p&gt;</summary>
 		<author>
 			<name>NCSC</name>
 		</author>
