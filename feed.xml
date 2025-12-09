@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-09T15:27:32Z</updated>
+	<updated>2025-12-09T22:21:37Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -37,6 +37,7 @@
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4NqVTvwQ4b52go9OOSOSu9/clip_227345_287345.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0d6Efn0a3Bgho8Xn7oRnSD</id>
 		<updated>2025-12-09T00:00:00Z</updated>
 	</entry>
