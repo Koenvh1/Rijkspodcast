@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-09T22:21:37Z</updated>
+	<updated>2025-12-10T06:35:18Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Enter - #3 Mkb onder digitaal vuur: In de huid van een hacker</title>
+		<link href="https://open.spotify.com/episode/75H3g9MIuswtbphYkdr0UF" />
+		<summary type="html">&lt;p&gt;In de derde aflevering van Enter over cybersecurity voor het mkb kruipen we in de huid van de aanvaller. We spreken met Chester van den Bogaard, ethisch hacker die meer dan 50 kwetsbaarheden heeft gemeld bij het NCSC. Chester laat zien hoe verrassend eenvoudig het is om een slecht beveiligd mkb-netwerk binnen te dringen. Met tools die gewoon online beschikbaar zijn, krijg je binnen minuten toegang. Het gaat vaak niet om complexe hacks, maar om typische zwakke plekken: verouderde systemen, zwakke wachtwoorden, eenmedewerker die op een verkeerd linkje klikt. Chester deelt ook de quick wins: wat kun je vandaag nog implementeren om jezelf te beschermen? Je hoort het in aflevering 3 van Enter - mkb onder digitaal vuur.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Over deze serie&lt;/p&gt;&lt;p&gt;Cybercriminelen richten hun pijlen steeds vaker op het Nederlandse mkb. Niet omdat kleine bedrijven zo interessant zijn, maar omdat ze vaak minder goed beveiligd zijn dan grote organisaties. Een simpel wachtwoord, verouderde software of één medewerker die op een verkeerde link klikt – het is genoeg om binnen te komen.&lt;/p&gt;&lt;p&gt;In deze serie van Enter van het NCSC duiken we in de cybersecurity van het mkb. We ontkrachten mythes, horen het verhaal van een ondernemer die getroffen werd door ransomware, kruipen in de huid van een ethisch hacker, spreken met een onderhandelaar die met cybercriminelen praat en krijgen concrete handvatten om weerbaar te worden.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Presentatie: Yasmine Abiadh&lt;/p&gt;&lt;p&gt;Gast: Chester van den Bogaard (Ethisch hacker)&lt;/p&gt;&lt;p&gt;Redactie: NCSC &amp;amp; DPI&lt;/p&gt;&lt;p&gt;Montage en geluid: Practical Media&lt;/p&gt;</summary>
+		<author>
+			<name>NCSC</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/45ioBE12shz95maqfBMbL1/clip_129317_189317.mp3" type="audio/mpeg" />
+		<id>spotify:episode:75H3g9MIuswtbphYkdr0UF</id>
+		<updated>2025-12-10T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Publieke Ruimte - Beter beleid door gedragsdeskundigheid</title>
 		<link href="https://open.spotify.com/episode/6V6xmufp3FJsGE52V2oeDw" />
@@ -15248,7 +15259,7 @@
 		<author>
 			<name>SSR Communicatie</name>
 		</author>
-		<content src="https://podz-content.spotifycdn.com/audio/clips/7zacDSkmZY9Q7ttqao7cs8/clip_0_60000.mp3" type="audio/mpeg" />
+		<content src="https://podz-content.spotifycdn.com/audio/clips/7zacDSkmZY9Q7ttqao7cs8/clip_500970_560970.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5x8S78WOz1KnDBt62mLSrW</id>
 		<updated>2022-10-20T00:00:00Z</updated>
 	</entry>
@@ -15908,7 +15919,7 @@
 		<author>
 			<name>SSR Communicatie</name>
 		</author>
-		<content src="https://podz-content.spotifycdn.com/audio/clips/1YV54PG1BxZsgZvtlpJqm4/clip_0_60000.mp3" type="audio/mpeg" />
+		<content src="https://podz-content.spotifycdn.com/audio/clips/1YV54PG1BxZsgZvtlpJqm4/clip_206031_266031.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0Ym5EeGET0SOMiUcEg7Jv2</id>
 		<updated>2022-08-30T00:00:00Z</updated>
 	</entry>

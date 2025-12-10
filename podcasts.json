@@ -60333,7 +60333,46 @@
         "total": 44,
         "items": [
           null,
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/45ioBE12shz95maqfBMbL1/clip_129317_189317.mp3",
+            "description": "In de derde aflevering van Enter over cybersecurity voor het mkb kruipen we in de huid van de aanvaller. We spreken met Chester van den Bogaard, ethisch hacker die meer dan 50 kwetsbaarheden heeft gemeld bij het NCSC. Chester laat zien hoe verrassend eenvoudig het is om een slecht beveiligd mkb-netwerk binnen te dringen. Met tools die gewoon online beschikbaar zijn, krijg je binnen minuten toegang. Het gaat vaak niet om complexe hacks, maar om typische zwakke plekken: verouderde systemen, zwakke wachtwoorden, eenmedewerker die op een verkeerd linkje klikt. Chester deelt ook de quick wins: wat kun je vandaag nog implementeren om jezelf te beschermen? Je hoort het in aflevering 3 van Enter - mkb onder digitaal vuur.Over deze serieCybercriminelen richten hun pijlen steeds vaker op het Nederlandse mkb. Niet omdat kleine bedrijven zo interessant zijn, maar omdat ze vaak minder goed beveiligd zijn dan grote organisaties. Een simpel wachtwoord, verouderde software of \u00e9\u00e9n medewerker die op een verkeerde link klikt \u2013 het is genoeg om binnen te komen.In deze serie van Enter van het NCSC duiken we in de cybersecurity van het mkb. We ontkrachten mythes, horen het verhaal van een ondernemer die getroffen werd door ransomware, kruipen in de huid van een ethisch hacker, spreken met een onderhandelaar die met cybercriminelen praat en krijgen concrete handvatten om weerbaar te worden.Presentatie: Yasmine AbiadhGast: Chester van den Bogaard (Ethisch hacker)Redactie: NCSC & DPIMontage en geluid: Practical Media",
+            "html_description": "<p>In de derde aflevering van Enter over cybersecurity voor het mkb kruipen we in de huid van de aanvaller. We spreken met Chester van den Bogaard, ethisch hacker die meer dan 50 kwetsbaarheden heeft gemeld bij het NCSC. Chester laat zien hoe verrassend eenvoudig het is om een slecht beveiligd mkb-netwerk binnen te dringen. Met tools die gewoon online beschikbaar zijn, krijg je binnen minuten toegang. Het gaat vaak niet om complexe hacks, maar om typische zwakke plekken: verouderde systemen, zwakke wachtwoorden, eenmedewerker die op een verkeerd linkje klikt. Chester deelt ook de quick wins: wat kun je vandaag nog implementeren om jezelf te beschermen? Je hoort het in aflevering 3 van Enter - mkb onder digitaal vuur.</p><p><br /></p><p>Over deze serie</p><p>Cybercriminelen richten hun pijlen steeds vaker op het Nederlandse mkb. Niet omdat kleine bedrijven zo interessant zijn, maar omdat ze vaak minder goed beveiligd zijn dan grote organisaties. Een simpel wachtwoord, verouderde software of \u00e9\u00e9n medewerker die op een verkeerde link klikt \u2013 het is genoeg om binnen te komen.</p><p>In deze serie van Enter van het NCSC duiken we in de cybersecurity van het mkb. We ontkrachten mythes, horen het verhaal van een ondernemer die getroffen werd door ransomware, kruipen in de huid van een ethisch hacker, spreken met een onderhandelaar die met cybercriminelen praat en krijgen concrete handvatten om weerbaar te worden.</p><p><br /></p><p>Presentatie: Yasmine Abiadh</p><p>Gast: Chester van den Bogaard (Ethisch hacker)</p><p>Redactie: NCSC &amp; DPI</p><p>Montage en geluid: Practical Media</p>",
+            "duration_ms": 1305843,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/75H3g9MIuswtbphYkdr0UF"
+            },
+            "href": "https://api.spotify.com/v1/episodes/75H3g9MIuswtbphYkdr0UF",
+            "id": "75H3g9MIuswtbphYkdr0UF",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae0f56d89997ea97e93dc6287",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe0f56d89997ea97e93dc6287",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de0f56d89997ea97e93dc6287",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#3 Mkb onder digitaal vuur: In de huid van een hacker",
+            "release_date": "2025-12-10",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:75H3g9MIuswtbphYkdr0UF"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Z47sZ7qydNKm82EArsbVx/clip_440959_500959.mp3",
             "description": "In de tweede aflevering van Enter over cybersecurity voor het mkb hoor je het persoonlijke verhaal van Jack Ros, financieel directeur bij de Tom van Kuyk Groep, een Volvo-dealer met 110 medewerkers in Noord-Holland. Ongeveer drie jaar geleden kwam Jack op een normale vrijdagochtend binnen en zag zwarte schermen met een losgeldeis. Een ransomware-aanval. Alle systemen geblokkeerd. Een aflopende teller op het darkweb. Jack neemt ons mee door die eerste surre\u00eble momenten, het besluit om niet te betalen en het weekend waarin ze met zijn allen doorwerkten om het bedrijf te redden. Vijf dagen waren ze offline. Hoe hebbenze dat overleefd? En wat had hij vooraf anders gedaan? Je hoort het in aflevering 2 van Enter - mkb onder digitaal vuur.Over deze serieCybercriminelen richten hun pijlen steeds vaker op het Nederlandse mkb. Niet omdat kleine bedrijven zo interessant zijn, maar omdat ze vaak minder goed beveiligd zijn dan grote organisaties. Een simpel wachtwoord, verouderde software of \u00e9\u00e9n medewerker die op een verkeerde link klikt \u2013 het is genoeg om binnen te komen.In deze serie van Enter van het NCSC duiken we in de cybersecurity van het mkb. We ontkrachten mythes, horen het verhaal van een ondernemer die getroffen werd door ransomware, kruipen in de huid van een ethisch hacker,spreken met een onderhandelaar die met cybercriminelen praat en krijgen concrete handvatten om weerbaar te worden.Presentatie: Yasmine AbiadhGast: Jack Ros (financieel directeur bij de Tom van Kuyk Groep)Redactie: NCSC & DPIMontage en geluid: Practical Media",
@@ -124500,7 +124539,7 @@
             "uri": "spotify:episode:1bVJTFPQ5UUM3YbVcx2Fff"
           },
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7zacDSkmZY9Q7ttqao7cs8/clip_0_60000.mp3",
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7zacDSkmZY9Q7ttqao7cs8/clip_500970_560970.mp3",
             "description": "\u2018De verkeerde inzet van digitale technologie is een gevaar voor de rechtstaat\u2019. Dat stelt voormalig Tweede Kamerlid Kees Verhoeven. Tegenwoordig is Verhoeven adviseur cybersecurity en digitale zaken. In deze aflevering van SSR Meestervertellers praat hij met Daan Langkamp over hoe goed bedoelde interventies t\u00f3ch verkeerd kunnen uitpakken en waarom de afweging om digitale technologie in te zetten voor de veiligheid van de burger altijd met de grootste zorg genomen moet worden.",
             "html_description": "<p>\u2018De verkeerde inzet van digitale technologie is een gevaar voor de rechtstaat\u2019. Dat stelt voormalig Tweede Kamerlid Kees Verhoeven. Tegenwoordig is Verhoeven adviseur cybersecurity en digitale zaken. In deze aflevering van SSR Meestervertellers praat hij met Daan Langkamp over hoe goed bedoelde interventies t\u00f3ch verkeerd kunnen uitpakken en waarom de afweging om digitale technologie in te zetten voor de veiligheid van de burger altijd met de grootste zorg genomen moet worden.</p>",
             "duration_ms": 1186742,
@@ -124580,7 +124619,7 @@
             "uri": "spotify:episode:4LlrxtkyF4DjRCust47xoA"
           },
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1YV54PG1BxZsgZvtlpJqm4/clip_0_60000.mp3",
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1YV54PG1BxZsgZvtlpJqm4/clip_206031_266031.mp3",
             "description": "Aleid Wolfsen is voorzitter van de autoriteit persoonsgegevens, Diederik Greive hoofdofficier van justitie. Ze houden lichaam en geest in conditie door filosofische gesprekken te voeren tijdens lange wandelingen over de hei. Op verzoek van SSR Meestervertellers deden ze dat voor \u00e9\u00e9n keer achter onze podcast microfoon.  Dus doe je wandelschoenen aan en je oortjes in en laat je meevoeren in deze wandeling langs Emanuel Kant, het parlement der dingen en het bewaken en wegen van grondrechten.",
             "html_description": "<p>Aleid Wolfsen is voorzitter van de autoriteit persoonsgegevens, Diederik Greive hoofdofficier van justitie. Ze houden lichaam en geest in conditie door filosofische gesprekken te voeren tijdens lange wandelingen over de hei. Op verzoek van SSR Meestervertellers deden ze dat voor \u00e9\u00e9n keer achter onze podcast microfoon. <br /><br/>Dus doe je wandelschoenen aan en je oortjes in en laat je meevoeren in deze wandeling langs Emanuel Kant, het parlement der dingen en het bewaken en wegen van grondrechten. </p>",
             "duration_ms": 2282658,
