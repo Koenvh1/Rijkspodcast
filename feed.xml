@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-10T06:35:18Z</updated>
+	<updated>2025-12-10T10:26:44Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -17,6 +17,17 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/45ioBE12shz95maqfBMbL1/clip_129317_189317.mp3" type="audio/mpeg" />
 		<id>spotify:episode:75H3g9MIuswtbphYkdr0UF</id>
+		<updated>2025-12-10T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>AMLC podcast - 100. Jubileum aflevering met vele experts</title>
+		<link href="https://open.spotify.com/episode/6mC2Om6ygD3gUU9JbdJ0as" />
+		<summary type="html">&lt;p&gt;“Tien jaar witwasbestrijding door de ogen van experts”&lt;/p&gt;&lt;p&gt;Deze 100e aflevering moest een bijzondere aflevering worden. Dus blikken we met een reeks sleutelfiguren uit de witwasbestrijding terug op tien jaar ontwikkelingen én kijken we vooruit naar de komende vijf jaar. Wat is er wezenlijk veranderd? Waar staan we nu? En wat moet er anders om witwassen effectiever aan te pakken?&lt;/p&gt;&lt;p&gt;Onder meer aan het woord:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Het hoofd van de FIU-Nederland&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Het afdelingshoofd Strategische Intelligence van de FIOD&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een teamleider van het AMLC&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;De CCO van een internationale bank&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Onderzoekers en adviseurs uit toezicht, zorg en beleid&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Een officier van justitie&lt;/p&gt;&lt;p&gt;Thema’s in deze aflevering&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;De professionalisering van poortwachters&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;De opkomst van crypto en digitale geldstromen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Voortdurende innovatie door criminelen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;De noodzaak van internationale gegevensdeling&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Van reactief naar preventief witwassen bestrijden&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Misbruik van rechtspersonen en zorgfraude&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;De groei van publiek-private samenwerking&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Knelpunten rondom privacy, bevoegdheden en capaciteit&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wat écht impact heeft in het afpakproces&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Waarom deze aflevering relevant isDeze bloemlezing laat haarscherp zien waar we staan in de witwasbestrijding: verder dan ooit, maar de uitdagingen worden groter. De inzichten van de gasten zijn direct toepasbaar voor iedereen die werkt in toezicht, opsporing, compliance of beleid.&lt;/p&gt;</summary>
+		<author>
+			<name>AMLC Podcast</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4N4WcAlDeWetNEz4hOrkX3/clip_567395_627395.mp3" type="audio/mpeg" />
+		<id>spotify:episode:6mC2Om6ygD3gUU9JbdJ0as</id>
 		<updated>2025-12-10T00:00:00Z</updated>
 	</entry>
 	<entry>
