@@ -53145,15 +53145,16 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:1Tn18wGbJHz3LClUvnFApP",
-      "total_episodes": 35,
+      "total_episodes": 36,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Tn18wGbJHz3LClUvnFApP/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 35,
+        "total": 36,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0TXCIqCD3eAvdLDdfJmVsn/clip_288394_348394.mp3",
             "description": "Criminelen verdienen veel geld met hun illegale activiteiten, en dit vermogen afpakken is minstens zo belangrijk als het opsporen van de dader zelf. Het afpakken van crimineel vermogen raakt criminelen waar het echt pijn doet: in de portemonnee.\u00a0In deze aflevering van de podcast #ONDERMIJNING spreken we met Roy Nanhkoesingh, die zich als officier bij het parket van Rotterdam bezighoudt met financi\u00eble opsporing. Wat betekent het precies om crimineel vermogen af te pakken? Hoe gaat dat proces in de praktijk, van onderzoek tot beslag en ontneming? En waarom is deze aanpak zo belangrijk in de strijd tegen ondermijning?\u00a0Daarnaast bespreken we hoe criminelen steeds slimmere constructies bedenken om hun geld te verbergen en hoe het Openbaar Ministerie daarop inspeelt. Ook hoor je wat er met het afgepakte geld gebeurt en hoe dit soms zelfs een nieuwe maatschappelijke bestemming krijgt. Ook gaan we dieper in op een interessant voorbeeld van een financieel onderzoek!\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie: Alain Meijer en Mari\u00eblle van der Stel. Samen gaan zij in gesprek met Roy Nanhkoesingh over de praktijk, uitdagingen \u00e9n impact van het afpakken van crimineel vermogen.\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f #24 Jeroen Poelert & Robin de Jager over crimineel ondergronds bankieren\u00a0\ud83c\udf99\ufe0f \u2060\u2060\u2060\u2060#17 Henk Jan Starrenburg (OvJ) over een ondermijningszaak\u00a0\u00a0",
@@ -76830,15 +76831,55 @@
       "publisher": "KNMI",
       "type": "show",
       "uri": "spotify:show:1Pr6Rx1OhOYaqEvogCyRbf",
-      "total_episodes": 11,
+      "total_episodes": 12,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Pr6Rx1OhOYaqEvogCyRbf/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 11,
+        "total": 12,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6cFRkXSj6F2WVkR065IlA0/clip_574607_634607.mp3",
+            "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met weerman Peter Kuipers Munneke over de kans op een witte kerst en veldwerk op Antarctica. Ook komt Robin Baks van de Koninklijke Nederlandse Klim- en Bergsport Vereniging (NKBV) langs, over wintersporten in een veranderend klimaat.\u00a0 Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast? Mail dan naar informatiecentrum@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store\u00a0of voor Android in de Play store.En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
+            "html_description": "<p>In deze aflevering praten Rob Sluijter en Rubert Konijn met weerman Peter Kuipers Munneke over de kans op een witte kerst en veldwerk op Antarctica. Ook komt Robin Baks van de Koninklijke Nederlandse Klim- en Bergsport Vereniging (NKBV) langs, over wintersporten in een veranderend klimaat.\u00a0 <br /><br />Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast? Mail dan naar <a href=\"informatiecentrum&#64;knmi.nl\" rel=\"nofollow\">informatiecentrum&#64;knmi.nl</a>.\u00a0 <br /><br />Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de <a href=\"https://apps.apple.com/nl/app/knmi-weer/id1225568094\" rel=\"nofollow\">App store</a>\u00a0of voor Android in de <a href=\"https://play.google.com/store/apps/details?id&#61;nl.knmi.weer\" rel=\"nofollow\">Play store</a>.<br /><br />En volg ons op Instagram: <a href=\"https://www.instagram.com/knmi.nl/\" rel=\"nofollow\">https://www.instagram.com/knmi.nl/</a>.</p>",
+            "duration_ms": 1665696,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6QxxN39gDgyBp6i6uj4fb3"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6QxxN39gDgyBp6i6uj4fb3",
+            "id": "6QxxN39gDgyBp6i6uj4fb3",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a51f84ab9b000be01c0364a45",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f51f84ab9b000be01c0364a45",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d51f84ab9b000be01c0364a45",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De KNMI Podcast - Aflevering 2: Lawinekunde, een mooi sneeuwdek en een witte kerst",
+            "release_date": "2025-12-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6QxxN39gDgyBp6i6uj4fb3"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5c0CIptG2d7uyQZWWSoIwS/clip_548589_608589.mp3",
             "description": "De KNMI Podcast is terug. In deze aflevering praten Rob Sluijter en Rubert Konijn met Eelco Doornbos over ruimteweer en het Noorderlicht. Ook komt Rob Groenland langs over de reden dat de Dom in Utrecht geen middenschip meer heeft. En daaropvolgend vertelt Jorinde de Groot over de weerwaarschuwingen \u2013 code geel, oranje of rood - en hoe fijn het is als we een kwartier voor de onweersbui precies kunnen zeggen waar die gaat vallen zodat je daar meteen op kunt handelen.\u00a0 Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar informatiecentrum@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App Store\u00a0of voor Android in de Play Store.En volg ons op Instagram: https://www.instagram.com/knmi.nl/.\u00a0\u00a0",

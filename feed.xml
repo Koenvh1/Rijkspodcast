@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-11T10:26:30Z</updated>
+	<updated>2025-12-11T22:21:38Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -17,6 +17,17 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/68cxq8Sv774lZWKjyki6BH/clip_164551_224551.mp3" type="audio/mpeg" />
 		<id>spotify:episode:6ezPlUy5C0hILBgTKXrqUL</id>
+		<updated>2025-12-11T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>KNMI - De KNMI Podcast - Aflevering 2: Lawinekunde, een mooi sneeuwdek en een witte kerst</title>
+		<link href="https://open.spotify.com/episode/6QxxN39gDgyBp6i6uj4fb3" />
+		<summary type="html">&lt;p&gt;In deze aflevering praten Rob Sluijter en Rubert Konijn met weerman Peter Kuipers Munneke over de kans op een witte kerst en veldwerk op Antarctica. Ook komt Robin Baks van de Koninklijke Nederlandse Klim- en Bergsport Vereniging (NKBV) langs, over wintersporten in een veranderend klimaat.  &lt;br /&gt;&lt;br /&gt;Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast? Mail dan naar &lt;a href="informatiecentrum&amp;#64;knmi.nl" rel="nofollow"&gt;informatiecentrum&amp;#64;knmi.nl&lt;/a&gt;.  &lt;br /&gt;&lt;br /&gt;Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de &lt;a href="https://apps.apple.com/nl/app/knmi-weer/id1225568094" rel="nofollow"&gt;App store&lt;/a&gt; of voor Android in de &lt;a href="https://play.google.com/store/apps/details?id&amp;#61;nl.knmi.weer" rel="nofollow"&gt;Play store&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;En volg ons op Instagram: &lt;a href="https://www.instagram.com/knmi.nl/" rel="nofollow"&gt;https://www.instagram.com/knmi.nl/&lt;/a&gt;.&lt;/p&gt;</summary>
+		<author>
+			<name>KNMI</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6cFRkXSj6F2WVkR065IlA0/clip_574607_634607.mp3" type="audio/mpeg" />
+		<id>spotify:episode:6QxxN39gDgyBp6i6uj4fb3</id>
 		<updated>2025-12-11T00:00:00Z</updated>
 	</entry>
 	<entry>
