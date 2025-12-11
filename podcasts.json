@@ -60323,15 +60323,16 @@
       "publisher": "NCSC",
       "type": "show",
       "uri": "spotify:show:2fZzw0BKgXHIjBzQ7jBIQy",
-      "total_episodes": 44,
+      "total_episodes": 45,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2fZzw0BKgXHIjBzQ7jBIQy/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 44,
+        "total": 45,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/68cxq8Sv774lZWKjyki6BH/clip_164551_224551.mp3",
             "description": "In de vierde aflevering van Enter over cybersecurity voor het mkb bespreken we wat je doet als het t\u00f3ch misgaat. We spreken met Pim Takkenberg, algemeen directeur bij Northwave en voormalig politieman bij High Tech Crime. Pim voert professioneel onderhandelingen met cybercriminelen. Hij deelt zijn ervaringen: hoe verloopt zo'n eerste contact op het darkweb? Hoe betrouwbaar zijn criminelen in het nakomen van hun afspraken? En het grote dilemma: betaal je losgeld of niet? Pim legt uit wanneer betalen de juiste keuze kan zijn, maar ook waarom voorbereiding zo cruciaal is. Want de beste onderhandeling is die je nooit hoeft te voeren. Je hoort het in aflevering 4 van Enter - mkb onder digitaal vuur.Over deze serieCybercriminelen richten hun pijlen steeds vaker op het Nederlandse mkb. Niet omdat kleine bedrijven zo interessant zijn, maar omdat ze vaak minder goed beveiligd zijn dan grote organisaties. Een simpel wachtwoord, verouderde software of \u00e9\u00e9n medewerker die op een verkeerde link klikt \u2013 het is genoeg om binnen te komen.In deze serie van Enter van het NCSC duiken we in de cybersecurity van het mkb. We ontkrachten mythes, horen het verhaal van een ondernemer die getroffen werd door ransomware, kruipen in de huid van een ethisch hacker, spreken met een onderhandelaar die met cybercriminelen praat en krijgen concrete handvatten om weerbaar te worden.Presentatie: Yasmine AbiadhGast: Pim Takkenberg (algemeen directeur bij Northwave Cyber Security)Redactie: NCSC & DPIMontage en geluid: Practical Media",
