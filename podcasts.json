@@ -24735,15 +24735,55 @@
       "publisher": "Ministerie van VWS",
       "type": "show",
       "uri": "spotify:show:5bNq5yI44RE9xPBFRXJt0A",
-      "total_episodes": 32,
+      "total_episodes": 33,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5bNq5yI44RE9xPBFRXJt0A/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 32,
+        "total": 33,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1lm7CynHD30rrnnSoLkCFD/clip_334007_394007.mp3",
+            "description": "In deze aflevering gaan Lea Bouwmeester en Jeroen van den Oever (bekend uit de podcast  Nieuwe Bazen in de zorg) in gesprek over potentie, mogelijkheden en de kracht van samenwerking. De goede voorbeelden stromen binnen. Voorbeelden die laten zien dat het anders kan, als we andere prikkels durven te kiezen en samenwerking in de keten ook echt gaan belonen. \u00a0 Want systemen zijn vaak leidend, terwijl zorgvragen ook vaak levensvragen zijn. Hoe ga je daarmee om? Veel professionals, maar ook inwoners, voelen dat het vastloopt, dat de druk toeneemt, maar weten de andere paden niet te vinden. \u00a0 We spreken over regionale samenwerking, zoals binnen het IZA, en over het benutten van potentieel dat nu nog onbenut blijft. Er komen meer ouderen, maar ook fittere, actievere en betrokken ouderen. Tel daar een nieuwe generatie bij op en je krijgt een mix aan kwaliteiten waar we veel meer mee kunnen doen. \u00a0 Van betekenis zijn is voor mensen essentieel. Maar hoe organiseer je dat binnen instellingen? En wat kunnen we leren van wijken en dorpen waar gemeenschappen al voor elkaar zorgen? De beweging is er, maar hoe stem je verwachtingen op elkaar af? \u00a0 We hebben het over zorggroei en de vraag hoe je het stelsel zo inricht dat die groei niet eindeloos doorgaat. Over digitale oplossingen zoals Thuisarts, over regionale samenwerking en over het belang van aansluiten bij verschillende doelgroepen. \u00a0 En misschien wel de belangrijkste vraag: waar kunnen we vandaag mee stoppen, om ruimte te maken voor iets beters? Want mensen maken het systeem. Door te luisteren, echt te luisteren, en stap voor stap te veranderen. \u00a0",
+            "html_description": "<p>In deze aflevering gaan Lea Bouwmeester en Jeroen van den Oever (bekend uit de podcast <a href=\"https://open.spotify.com/show/6UBsMJLLA9OYTn98MTZYOB?si&#61;ce6b011c240942ee\" rel=\"nofollow\"> Nieuwe Bazen in de zorg</a>) in gesprek over potentie, mogelijkheden en de kracht van samenwerking. De goede voorbeelden stromen binnen. Voorbeelden die laten zien dat het anders kan, als we andere prikkels durven te kiezen en samenwerking in de keten ook echt gaan belonen.</p> <p>\u00a0</p> <p>Want systemen zijn vaak leidend, terwijl zorgvragen ook vaak levensvragen zijn. Hoe ga je daarmee om? Veel professionals, maar ook inwoners, voelen dat het vastloopt, dat de druk toeneemt, maar weten de andere paden niet te vinden.</p> <p>\u00a0</p> <p>We spreken over regionale samenwerking, zoals binnen het IZA, en over het benutten van potentieel dat nu nog onbenut blijft. Er komen meer ouderen, maar ook fittere, actievere en betrokken ouderen. Tel daar een nieuwe generatie bij op en je krijgt een mix aan kwaliteiten waar we veel meer mee kunnen doen.</p> <p>\u00a0</p> <p>Van betekenis zijn is voor mensen essentieel. Maar hoe organiseer je dat binnen instellingen? En wat kunnen we leren van wijken en dorpen waar gemeenschappen al voor elkaar zorgen? De beweging is er, maar hoe stem je verwachtingen op elkaar af?</p> <p>\u00a0</p> <p>We hebben het over zorggroei en de vraag hoe je het stelsel zo inricht dat die groei niet eindeloos doorgaat. Over digitale oplossingen zoals Thuisarts, over regionale samenwerking en over het belang van aansluiten bij verschillende doelgroepen.</p> <p>\u00a0</p> <p>En misschien wel de belangrijkste vraag: waar kunnen we vandaag mee stoppen, om ruimte te maken voor iets beters? Want mensen maken het systeem. Door te luisteren, echt te luisteren, en stap voor stap te veranderen.</p> <p>\u00a0</p>",
+            "duration_ms": 2669975,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4M3gYvnyJnDzUNt2erhwLp"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4M3gYvnyJnDzUNt2erhwLp",
+            "id": "4M3gYvnyJnDzUNt2erhwLp",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aafd2961287420495f666f452",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fafd2961287420495f666f452",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dafd2961287420495f666f452",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "S2E9: Waarom doen we niet waarvan we weten dat we het moeten doen met Lea Bouwmeester en Jeroen van den Oever",
+            "release_date": "2025-12-12",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4M3gYvnyJnDzUNt2erhwLp"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/65EO1VH56qMPE8vPXnzPnd/clip_507883_567883.mp3",
             "description": "In deze aflevering spreken we met Florien van der Windt, directeur publieke gezondheid. We praten over de beweging van zorg naar gezondheid. Wat vraagt dat van regio\u2019s, van samenwerking en van de manier waarop we investeren in preventie? \u00a0 Florien vertelt hoe thema\u2019s zoals Kansrijke Start, mentale gezondheid, valpreventie en bevolkingsonderzoeken samenkomen in \u00e9\u00e9n vraag: hoe zorgen we dat mensen gezond blijven, en dat de zorg daardoor lucht krijgt? Niet door zorg te vermijden, maar door gezondheid weer als waarde te zien. \u00a0 We gaan in op cultuurverschillen tussen domeinen, het investeringsmodel voor preventie en wat er nodig is om goede interventies landelijk uit te rollen. Ook bespreken we veel voorbeelden waaronder Leeuwarden Oost, waar medische en sociale aanpak samenkomt om gezondheidsachterstanden echt te verkleinen. \u00a0 Een gesprek over verbinding, bewustzijn en doen.\u00a0 \u00a0",
