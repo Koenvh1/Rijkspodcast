@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-15T10:27:56Z</updated>
+	<updated>2025-12-15T15:26:20Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Leren verbeteren podcasts - #19 De school als matrixorganisatie</title>
+		<link href="https://open.spotify.com/episode/1D4wYQs34UdDR0V82Ggu2k" />
+		<summary type="html">Veel scholen zijn georganiseerd als een matrixorganisatie, waarin meerdere lijnen van verantwoordelijkheid en samenwerking door elkaar lopen. Wat betekent dat in de praktijk? En hoe organiseer je een school zo dat alle lijnen samenkomen in goed onderwijs?</summary>
+		<author>
+			<name>Leren verbeteren</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/2O1UkmqhqIQRNu1IovRKnA/clip_476195_536195.mp3" type="audio/mpeg" />
+		<id>spotify:episode:1D4wYQs34UdDR0V82Ggu2k</id>
+		<updated>2025-12-15T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Zorgklank - handvatten voor professionals in de zorg - S2E9: Waarom doen we niet waarvan we weten dat we het moeten doen met Lea Bouwmeester en Jeroen van den Oever</title>
 		<link href="https://open.spotify.com/episode/4M3gYvnyJnDzUNt2erhwLp" />
@@ -154,7 +165,7 @@
 	<entry>
 		<title>Klapmok met Thee - #108: De wil om te winnen</title>
 		<link href="https://open.spotify.com/episode/1SHEhpP6BtuaPscr74GWcQ" />
-		<summary type="html">&lt;p&gt;Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het ‘hoe’. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het creëren van zelfvertrouwen.&lt;/p&gt;</summary>
+		<summary type="html">&lt;p&gt;Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het ‘hoe’. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het creëren van zelfvertrouwen&lt;/p&gt;</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>

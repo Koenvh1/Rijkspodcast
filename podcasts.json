@@ -62402,15 +62402,55 @@
       "publisher": "Leren verbeteren",
       "type": "show",
       "uri": "spotify:show:0Axq8hFmwpUPgWDzyEITpp",
-      "total_episodes": 18,
+      "total_episodes": 19,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/0Axq8hFmwpUPgWDzyEITpp/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 18,
+        "total": 19,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2O1UkmqhqIQRNu1IovRKnA/clip_476195_536195.mp3",
+            "description": "Veel scholen zijn georganiseerd als een matrixorganisatie, waarin meerdere lijnen van verantwoordelijkheid en samenwerking door elkaar lopen. Wat betekent dat in de praktijk? En hoe organiseer je een school zo dat alle lijnen samenkomen in goed onderwijs?",
+            "html_description": "Veel scholen zijn georganiseerd als een matrixorganisatie, waarin meerdere lijnen van verantwoordelijkheid en samenwerking door elkaar lopen. Wat betekent dat in de praktijk? En hoe organiseer je een school zo dat alle lijnen samenkomen in goed onderwijs?",
+            "duration_ms": 2551317,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1D4wYQs34UdDR0V82Ggu2k"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1D4wYQs34UdDR0V82Ggu2k",
+            "id": "1D4wYQs34UdDR0V82Ggu2k",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae1dc2d42d2d8b5638077551b",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe1dc2d42d2d8b5638077551b",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de1dc2d42d2d8b5638077551b",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#19 De school als matrixorganisatie",
+            "release_date": "2025-12-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1D4wYQs34UdDR0V82Ggu2k"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7uJ6D1wR3iDWT9AH7Roy08/clip_653622_713622.mp3",
             "description": "Wanneer je \u00e9cht goed onderwijs wilt geven, moet je weten voor wie je het doet. In deze podcast verkennen we de fundamentele vraag: hoe krijg je leerlingen \u00e9cht in beeld?",
@@ -65379,8 +65419,8 @@
         "items": [
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2lMi4xa8OwFygjlZWEC4yV/clip_368476_428476.mp3",
-            "description": "Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het \u2018hoe\u2019. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het cre\u00ebren van zelfvertrouwen.",
-            "html_description": "<p>Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het \u2018hoe\u2019. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het cre\u00ebren van zelfvertrouwen.</p>",
+            "description": "Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het \u2018hoe\u2019. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het cre\u00ebren van zelfvertrouwen",
+            "html_description": "<p>Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het \u2018hoe\u2019. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het cre\u00ebren van zelfvertrouwen</p>",
             "duration_ms": 3568326,
             "explicit": false,
             "external_urls": {
