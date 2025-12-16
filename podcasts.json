@@ -21260,15 +21260,55 @@
       "publisher": "Het ministerie van Justitie en Veiligheid (JenV)",
       "type": "show",
       "uri": "spotify:show:5t7QVRJDOA6nySnsHrc7sU",
-      "total_episodes": 8,
+      "total_episodes": 9,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5t7QVRJDOA6nySnsHrc7sU/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 8,
+        "total": 9,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0wsOXnQmVI03gcfDVfSUhc/clip_156583_216583.mp3",
+            "description": "In deze aflevering horen we het verhaal van Wim. Jarenlang worstelde hij met verslaving, psychische problemen en criminaliteit. Hij pleegde delicten en hij raakte steeds meer verstrikt. Uiteindelijk kreeg hij een TBS-maatregel met voorwaarden: een ingrijpend moment, maar ook een keerpunt.Wim is een van de zeshonderd mensen in Nederland die onder de levensloopaanpak vallen. In deze aanpak werken zorg en justitie intensief samen om mensen met complexe problemen beter te begeleiden \u00e9n de samenleving veiliger te maken. De spil in dat netwerk zijn de zorg- en veiligheidshuizen: plekken waar gemeente, politie, Openbaar Ministerie, GGZ, reclassering en andere partijen samenwerken.Procesregisseur Nelleke van Rij en begeleider Marcel Stuifzand vertellen hoe die samenwerking in de praktijk werkt, tegen welke dilemma\u2019s ze aanlopen en waarom langdurige begeleiding belangrijk is. En Wim zelf deelt hoe hij, stap voor stap, weer grip op zijn leven krijgt.Wil je meer weten over zorg- en veiligheidshuizen? Kijk dan op www.zorgenveiligheidshuizen.nl. Meer informatie over de levensloopaanpak vind je op www.levensloopaanpak.nl.",
+            "html_description": "<p>In deze aflevering horen we het verhaal van Wim. Jarenlang worstelde hij met verslaving, psychische problemen en criminaliteit. Hij pleegde delicten en hij raakte steeds meer verstrikt. Uiteindelijk kreeg hij een TBS-maatregel met voorwaarden: een ingrijpend moment, maar ook een keerpunt.</p><p><br /></p><p>Wim is een van de zeshonderd mensen in Nederland die onder de levensloopaanpak vallen. In deze aanpak werken zorg en justitie intensief samen om mensen met complexe problemen beter te begeleiden \u00e9n de samenleving veiliger te maken. De spil in dat netwerk zijn de zorg- en veiligheidshuizen: plekken waar gemeente, politie, Openbaar Ministerie, GGZ, reclassering en andere partijen samenwerken.</p><p><br /></p><p>Procesregisseur Nelleke van Rij en begeleider Marcel Stuifzand vertellen hoe die samenwerking in de praktijk werkt, tegen welke dilemma\u2019s ze aanlopen en waarom langdurige begeleiding belangrijk is. En Wim zelf deelt hoe hij, stap voor stap, weer grip op zijn leven krijgt.</p><p><br /></p><p>Wil je meer weten over zorg- en veiligheidshuizen? Kijk dan op www.zorgenveiligheidshuizen.nl. Meer informatie over de levensloopaanpak vind je op www.levensloopaanpak.nl.</p>",
+            "duration_ms": 1189631,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/62eo5K6d3tolWP3BGqVdYN"
+            },
+            "href": "https://api.spotify.com/v1/episodes/62eo5K6d3tolWP3BGqVdYN",
+            "id": "62eo5K6d3tolWP3BGqVdYN",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a39bc23af046277bfc2259256",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f39bc23af046277bfc2259256",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d39bc23af046277bfc2259256",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#9 Als langdurige begeleiding cruciaal blijkt",
+            "release_date": "2025-12-16",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:62eo5K6d3tolWP3BGqVdYN"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6NErxwpuMan3SylC8tLnia/clip_162823_222823.mp3",
             "description": "In deze aflevering horen we Kevin. Nadat hij door de rechter een reclasseringstoezicht opgelegd kreeg, moest hij zich melden bij Reclassering Nederland. Voor hem voelde dat aanvankelijk als een straf bovenop de straf, maar gaandeweg veranderde dat beeld.Reclassering Nederland bestaat al 200 jaar en begeleidt jaarlijks zo\u2019n 45.000 mensen. Ze houden toezicht en grijpen in waar mogelijk, maar zijn er vooral ook om mensen te helpen om hun leven zo in te richten dat ze niet opnieuw de fout in gaan.Jessica Westerik, directeur bij Reclassering Nederland, legt uit waarom dit werk niet alleen belangrijk is voor cli\u00ebnten, maar ook voor de hele samenleving. Iris van Laar, de toezichthouder van Kevin, vertelt hoe zij vanuit vertrouwen en duidelijke afspraken mensen begeleidt. En Kevin deelt hoe zijn leven stap voor stap weer op de rails kwam en waarom hij de reclassering uiteindelijk zelfs als steunpilaar ging zien.Wil je meer weten over Reclassering Nederland? Kijk dan op www.reclassering.nl",
@@ -72820,17 +72860,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a1f1e04c895e63976c9ec4de3",
+          "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f1f1e04c895e63976c9ec4de3",
+          "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d1f1e04c895e63976c9ec4de3",
+          "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
           "width": 64
         }
       ],
@@ -72853,6 +72893,46 @@
         "total": 5,
         "items": [
           {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6js8ikJmNW8X0674zSUQVS/clip_8829_68829.mp3",
+            "description": "Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.",
+            "html_description": "<p>Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0</p><p><br /></p><p>Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.</p><p><br /></p>",
+            "duration_ms": 112031,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1P1VadQ5y8je8W9I8w5HVy"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1P1VadQ5y8je8W9I8w5HVy",
+            "id": "1P1VadQ5y8je8W9I8w5HVy",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a5db83ba0a3c604b4d60a71b7",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f5db83ba0a3c604b4d60a71b7",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d5db83ba0a3c604b4d60a71b7",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Trailer Slim Inkopen, Slim Afvoeren",
+            "release_date": "2024-11-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1P1VadQ5y8je8W9I8w5HVy"
+          },
+          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2peTlUQGgavBQWmLSH8tzP/clip_317977_377977.mp3",
             "description": "In deze eerste aflevering gaat Dide Vonk in gesprek met Nina van den Berg, projectmanager bij de Green Business Club. Nina deelt inspirerende voorbeelden van afvalbewustzijn en scheidingsinitiatieven op de Zuidas, waar ze zich al jaren inzet voor een groenere werkomgeving.Daarnaast vertelt Wilbrand Kuijt, facilitair manager bij advocatenkantoor Baker & McKenzie, over zijn ervaring met het verduurzamen van een kantoorpand. Hoe motiveer je mensen, wat werkt er wel en niet, en wat zijn de belangrijkste lessen die hij leerde?Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
             "html_description": "<p>In deze eerste aflevering gaat Dide Vonk in gesprek met Nina van den Berg, projectmanager bij de Green Business Club. Nina deelt inspirerende voorbeelden van afvalbewustzijn en scheidingsinitiatieven op de Zuidas, waar ze zich al jaren inzet voor een groenere werkomgeving.</p><p><br /></p><p>Daarnaast vertelt Wilbrand Kuijt, facilitair manager bij advocatenkantoor Baker &amp; McKenzie, over zijn ervaring met het verduurzamen van een kantoorpand. Hoe motiveer je mensen, wat werkt er wel en niet, en wat zijn de belangrijkste lessen die hij leerde?</p><p><br /></p><p>Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.</p><p><br /></p>",
@@ -72865,17 +72945,17 @@
             "id": "2kcgczq27hl3GeY5YHvw9T",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ab5e7fb692247f092bf1c88a0",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a22216c72145273f70af22f97",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fb5e7fb692247f092bf1c88a0",
+                "url": "https://i.scdn.co/image/ab67656300005f1f22216c72145273f70af22f97",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68db5e7fb692247f092bf1c88a0",
+                "url": "https://i.scdn.co/image/ab6765630000f68d22216c72145273f70af22f97",
                 "height": 64,
                 "width": 64
               }
@@ -72905,17 +72985,17 @@
             "id": "3awRRHEqnGn1zhlveKPNLz",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
                 "height": 64,
                 "width": 64
               }
@@ -72945,17 +73025,17 @@
             "id": "5vKZA54ize3Fk113irdhm9",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
                 "height": 64,
                 "width": 64
               }
@@ -72973,46 +73053,6 @@
             "uri": "spotify:episode:5vKZA54ize3Fk113irdhm9"
           },
           {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6js8ikJmNW8X0674zSUQVS/clip_8829_68829.mp3",
-            "description": "Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.",
-            "html_description": "<p>Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0</p><p><br /></p><p>Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.</p><p><br /></p>",
-            "duration_ms": 112031,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1P1VadQ5y8je8W9I8w5HVy"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1P1VadQ5y8je8W9I8w5HVy",
-            "id": "1P1VadQ5y8je8W9I8w5HVy",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ad67fee8976f3e66310bef753",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1fd67fee8976f3e66310bef753",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68dd67fee8976f3e66310bef753",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Trailer Slim Inkopen, Slim Afvoeren",
-            "release_date": "2024-11-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1P1VadQ5y8je8W9I8w5HVy"
-          },
-          {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3HNhkbPF7fLQVXmvrVnuAJ/clip_124421_184421.mp3",
             "description": "Dide Vonk duikt in de verduurzaming van de cultuursector. Ze spreekt met Denise Derksen van het ministerie van OCenW en Johanna Minnaard van VANG Buitenshuis over hun gezamenlijke missie om afval te verminderen en circulariteit te bevorderen binnen musea, theaters, festivals en andere culturele instellingen.Ook schuift Ryanne de Boer van de NAPK (brancheorganisatie voor podiumkunsten) aan, om te vertellen over het hergebruik van decorstukken en het werken met tweedehands materialen. Van inspirerende voorbeelden uit de festivalwereld tot duurzame producties in het theater; deze aflevering toont de kracht van samenwerking en kennisdeling binnen de cultuursector.Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
             "html_description": "<p>Dide Vonk duikt in de verduurzaming van de cultuursector. Ze spreekt met Denise Derksen van het ministerie van OCenW en Johanna Minnaard van VANG Buitenshuis over hun gezamenlijke missie om afval te verminderen en circulariteit te bevorderen binnen musea, theaters, festivals en andere culturele instellingen.</p><p><br /></p><p>Ook schuift Ryanne de Boer van de NAPK (brancheorganisatie voor podiumkunsten) aan, om te vertellen over het hergebruik van decorstukken en het werken met tweedehands materialen. Van inspirerende voorbeelden uit de festivalwereld tot duurzame producties in het theater; deze aflevering toont de kracht van samenwerking en kennisdeling binnen de cultuursector.</p><p><br /></p><p>Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.</p><p><br /></p>",
@@ -73025,17 +73065,17 @@
             "id": "5gcrntMvFhULXJpoiVTxFI",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
                 "height": 640,
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
                 "height": 300,
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d1f1e04c895e63976c9ec4de3",
+                "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
                 "height": 64,
                 "width": 64
               }
