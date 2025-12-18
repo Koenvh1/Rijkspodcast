@@ -73364,15 +73364,95 @@
       "publisher": "Leerhuis Informatiehuishouding",
       "type": "show",
       "uri": "spotify:show:6oJsjZsAiunyNsDK1g9QzK",
-      "total_episodes": 48,
+      "total_episodes": 50,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6oJsjZsAiunyNsDK1g9QzK/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 48,
+        "total": 50,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Fu4tr9DLRZKxxFEygUO7n/clip_557612_617612.mp3",
+            "description": "Een speciale live kerstaflevering waarin informatiehuishouding, privacy en informatiebeveiliging samenkomen. Aan tafel delen professionals hun ervaringen, dilemma\u2019s en inzichten over samenwerken, risico\u2019s en duurzame omgang met overheidsinformatie..",
+            "html_description": "<p></p><p>Een speciale live kerstaflevering waarin informatiehuishouding, privacy en informatiebeveiliging samenkomen. Aan tafel delen professionals hun ervaringen, dilemma\u2019s en inzichten over samenwerken, risico\u2019s en duurzame omgang met overheidsinformatie..</p>",
+            "duration_ms": 2663653,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/00pWSAwUKw7XzAhIEX8Ynr"
+            },
+            "href": "https://api.spotify.com/v1/episodes/00pWSAwUKw7XzAhIEX8Ynr",
+            "id": "00pWSAwUKw7XzAhIEX8Ynr",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a9e69902e3a6981d7d3be87e8",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f9e69902e3a6981d7d3be87e8",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d9e69902e3a6981d7d3be87e8",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering #49 met als gasten Rutger Bos, (AZ)  Marjan Dik (NA) en Roeland Reijers (OCW) - Live special",
+            "release_date": "2025-12-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:00pWSAwUKw7XzAhIEX8Ynr"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5kroP3CPAf1sXvNki36trR/clip_0_49110.mp3",
+            "description": "Deze podcastreeks gaat over \u00e9\u00e9n actueel onderwerp namelijk 'de veranderende rol van de informatieprofessional'. We gaan in op actualiteiten en hoe die effect hebben op het werk van de informatieprofessional. Sebo Boerma (onderwijskundige bij het Leerhuis) begeleidt de gesprekken als terugkerende host.",
+            "html_description": "<p></p><p>Deze podcastreeks gaat over \u00e9\u00e9n actueel onderwerp namelijk &#39;de veranderende rol van de informatieprofessional&#39;. We gaan in op actualiteiten en hoe die effect hebben op het werk van de informatieprofessional. Sebo Boerma (onderwijskundige bij het Leerhuis) begeleidt de gesprekken als terugkerende host.</p>",
+            "duration_ms": 49110,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/38NlkMbHnViVDewj5PNJmR"
+            },
+            "href": "https://api.spotify.com/v1/episodes/38NlkMbHnViVDewj5PNJmR",
+            "id": "38NlkMbHnViVDewj5PNJmR",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a6332d971aa4e2a17ce52c456",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f6332d971aa4e2a17ce52c456",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d6332d971aa4e2a17ce52c456",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Trailer - De veranderende rol van een informatieprofessional",
+            "release_date": "2025-12-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:38NlkMbHnViVDewj5PNJmR"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7axYgpu4HdJt00KZ9bnu1l/clip_162341_222341.mp3",
             "description": "In deze aflevering spreken we met Sanne Bink (EZ/LVVN/KGG) over zijn unieke en warme aanpak om een groot netwerk rondom informatiehuishouding en openbaarmaking te bouwen. Van de Week van de Transparantie tot 150 betrokken professionals: een inspirerend gesprek over liefdevol organiseren, community-building en stap-voor-stap veranderen binnen de overheid.",
@@ -92331,15 +92411,16 @@
       "publisher": "Novum Innovatielab",
       "type": "show",
       "uri": "spotify:show:5GChHPdKAdrMoh0outbofX",
-      "total_episodes": 43,
+      "total_episodes": 44,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5GChHPdKAdrMoh0outbofX/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 43,
+        "total": 44,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/37xaksQGi5VH3khWxXubK8/clip_252981_312981.mp3",
             "description": "Na onze vorige aflevering over experimenteren kregen we zoveel vragen dat we besloten: hier moet een verdiepingsslag op komen! In deze special nemen Jeroen en Marijn je mee in de concrete stappen van de Build-Measure-Learn-Loop. Met speciale gast Raisa (die jullie kennen van de aflevering over het innovatieprogramma) leggen ze aan de hand van een praktijkvoorbeeld (de parkeergarage-case) precies uit hoe je experimenten opzet, uitvoert en analyseert.In deze aflevering leer je:Hoe je de Build-Measure-Learn-Loop toepast in de praktijkHet verschil tussen Design Thinking en Lean Startup experimentenHoe je aannames identificeert en testWanneer je klaar bent met experimenterenHoe je voorkomt dat je experiment in de la verdwijntDe drie fases van experimenteren:Build: Identificeer je grootste risico en ontwerp een experimentMeasure: Voer het experiment uit en verzamel dataLearn: Analyseer de resultaten en pas je aannames aanVan kleine, afgebakende experimenten tot een Minimal Viable Product (MVP) - deze aflevering geeft je alle handvatten om morgen zelf aan de slag te gaan.Praktisch voorbeeld:Een eigenaar van een parkeergarage wil een app bouwen. Maar na gebruikersonderzoek blijkt dat mensen liever op straat parkeren dan de garage in te rijden. Waarom? En hoe test je verschillende oplossingen zonder direct te investeren in grote technologie?Volgende aflevering: Overdragen - de fase die volgens jullie LinkedIn-poll het moeilijkst is! Stuur je vragen in via innovatie@svb.nl\ud83d\udcda Meer leren over experimenteren:Fase Experimenteren: https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/fase-3-experimenterenAanname Map Canvas: https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/aanname-map-canvasExperiment Canvas: https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/canvassen/experiment-canvas#DeInnovatieAmbtenaar #Experimenteren #Innovation #PublicSector #LeanStartup #BuildMeasureLearn",
