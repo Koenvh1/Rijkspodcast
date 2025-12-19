@@ -87423,15 +87423,55 @@
       "publisher": "Centrale Raad van Beroep",
       "type": "show",
       "uri": "spotify:show:6u9thD91g0yi3wVgzT9Wse",
-      "total_episodes": 14,
+      "total_episodes": 15,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6u9thD91g0yi3wVgzT9Wse/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 14,
+        "total": 15,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2V5HUbeYrhSG1kWmBQwCPH/clip_468611_528611.mp3",
+            "description": "Het kan lang duren voordat een rechtszaak wordt behandeld. In deze podcast vertelt raadsheer en projectleider Erica Marechal over de hoofdlijnen van het project \u2018Cascade\u2019. Een project dat zorgt voor snellere doorlooptijden, waarbij zaken op maat worden behandeld en partijen zich beter gehoord voelen; een win-win voor de rechtzoekenden \u00e9n betrokken professionals.  Wil je meer weten? Lees dan hier het evaluatierapport. ",
+            "html_description": "<p>Het kan lang duren voordat een rechtszaak wordt behandeld. In deze podcast vertelt raadsheer en projectleider Erica Marechal over de hoofdlijnen van het project \u2018Cascade\u2019. Een project dat zorgt voor snellere doorlooptijden, waarbij zaken op maat worden behandeld en partijen zich beter gehoord voelen; een win-win voor de rechtzoekenden \u00e9n betrokken professionals. <br/></p><p>Wil je meer weten? Lees dan <a href=\"https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Raad-voor-de-rechtspraak/Nieuws/Paginas/Project-Cascade-zorgt-voor-snellere-rechtspraak-bij-Centrale-Raad-van-Beroep.aspx\" rel=\"nofollow\">hier </a>het evaluatierapport.<br/></p><p><br /></p>",
+            "duration_ms": 1153672,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6VKaUlsIcrs2dRqeXnJFiU"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6VKaUlsIcrs2dRqeXnJFiU",
+            "id": "6VKaUlsIcrs2dRqeXnJFiU",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8775a5641ec76ffa494a802a",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8775a5641ec76ffa494a802a",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8775a5641ec76ffa494a802a",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Waarom project 'Cascade' van de Centrale Raad van Beroep zorgt voor snellere doorlooptijden bij rechtszaken",
+            "release_date": "2025-12-19",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6VKaUlsIcrs2dRqeXnJFiU"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1dS6uJEYoh4mJ80c9cnpag/clip_506732_566732.mp3",
             "description": "Hij had zijn extra inkomsten van zijn studiefinanciering en bijbaantjes opgegeven bij het UWV. Dat moet namelijk als je een uitkering ontvangt. Maar de uitkeringsinstantie zag zijn melding over het hoofd, waardoor drie jaar later een rekening van 14.000 euro op de mat van 'Pascal' viel. Na jaren kwam een verlossend antwoord door een uitspraak van de CRvB.  Persraadsheer Robert van der Velde en communicatieadviseur Romee Boots lichten deze zaak uitgebreid toe.   Heb je vragen over deze podcast? Neem dan contact op met communicatie.crvb@rechtspraak.nl. Vergeet ons niet te volgen in je favoriete podcast-app en op LinkedIn of op rechtspraak.nl.",

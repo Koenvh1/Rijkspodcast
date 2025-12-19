@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-19T15:24:51Z</updated>
+	<updated>2025-12-19T22:22:08Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -17,6 +17,17 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/5e6HrLsWIMCHAyod34Aj8J/clip_531499_591499.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2ZR3LrxvIBY2AtwG1I16c2</id>
+		<updated>2025-12-19T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Uitspraak Centraal - Waarom project 'Cascade' van de Centrale Raad van Beroep zorgt voor snellere doorlooptijden bij rechtszaken</title>
+		<link href="https://open.spotify.com/episode/6VKaUlsIcrs2dRqeXnJFiU" />
+		<summary type="html">&lt;p&gt;Het kan lang duren voordat een rechtszaak wordt behandeld. In deze podcast vertelt raadsheer en projectleider Erica Marechal over de hoofdlijnen van het project ‘Cascade’. Een project dat zorgt voor snellere doorlooptijden, waarbij zaken op maat worden behandeld en partijen zich beter gehoord voelen; een win-win voor de rechtzoekenden én betrokken professionals. &lt;br/&gt;&lt;/p&gt;&lt;p&gt;Wil je meer weten? Lees dan &lt;a href="https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Raad-voor-de-rechtspraak/Nieuws/Paginas/Project-Cascade-zorgt-voor-snellere-rechtspraak-bij-Centrale-Raad-van-Beroep.aspx" rel="nofollow"&gt;hier &lt;/a&gt;het evaluatierapport.&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary>
+		<author>
+			<name>Centrale Raad van Beroep</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/2V5HUbeYrhSG1kWmBQwCPH/clip_468611_528611.mp3" type="audio/mpeg" />
+		<id>spotify:episode:6VKaUlsIcrs2dRqeXnJFiU</id>
 		<updated>2025-12-19T00:00:00Z</updated>
 	</entry>
 	<entry>
