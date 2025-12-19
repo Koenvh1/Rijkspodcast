@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2025-12-18T10:27:31Z</updated>
+	<updated>2025-12-19T06:34:06Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Klapmok met Thee - #109: Reservisten en Samenleving</title>
+		<link href="https://open.spotify.com/episode/2ZR3LrxvIBY2AtwG1I16c2" />
+		<summary type="html">&lt;p&gt;Defensie is aan het opschalen en daar horen ook de nodige mensen bij. De Afdeling Reservisten en Samenleving geeft hier invulling aan. Onze gasten kolonel Ruben Koopman en kapitein-ter-zee Ocke Molenaar nemen Anne-Marij en Deborah mee in de uitdagingen en kansen waar ze tegenaan lopen. Zo is de binnendienst druk bezig met het rechttrekken van de arbeidsvoorwaarden voor de reservist en is de buitendienst druk bezig met de samenwerking met verschillende bedrijven. Welke uitdagingen nog meer spelen en welke stappen zijn gemaakt hoor je in de nieuwe aflevering van Klapmok met thee.&lt;/p&gt;</summary>
+		<author>
+			<name>Koninklijke Landmacht</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/5e6HrLsWIMCHAyod34Aj8J/clip_531499_591499.mp3" type="audio/mpeg" />
+		<id>spotify:episode:2ZR3LrxvIBY2AtwG1I16c2</id>
+		<updated>2025-12-19T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De veranderende rol van een informatieprofessional - Aflevering #49 met als gasten Rutger Bos, (AZ)  Marjan Dik (NA) en Roeland Reijers (OCW) - Live special</title>
 		<link href="https://open.spotify.com/episode/00pWSAwUKw7XzAhIEX8Ynr" />

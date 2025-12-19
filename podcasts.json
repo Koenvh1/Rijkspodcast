@@ -65487,15 +65487,55 @@
       "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
-      "total_episodes": 110,
+      "total_episodes": 111,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 110,
+        "total": 111,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5e6HrLsWIMCHAyod34Aj8J/clip_531499_591499.mp3",
+            "description": "Defensie is aan het opschalen en daar horen ook de nodige mensen bij. De Afdeling Reservisten en Samenleving geeft hier invulling aan. Onze gasten kolonel Ruben Koopman en kapitein-ter-zee Ocke Molenaar nemen Anne-Marij en Deborah mee in de uitdagingen en kansen waar ze tegenaan lopen. Zo is de binnendienst druk bezig met het rechttrekken van de arbeidsvoorwaarden voor de reservist en is de buitendienst druk bezig met de samenwerking met verschillende bedrijven. Welke uitdagingen nog meer spelen en welke stappen zijn gemaakt hoor je in de nieuwe aflevering van Klapmok met thee.",
+            "html_description": "<p>Defensie is aan het opschalen en daar horen ook de nodige mensen bij. De Afdeling Reservisten en Samenleving geeft hier invulling aan. Onze gasten kolonel Ruben Koopman en kapitein-ter-zee Ocke Molenaar nemen Anne-Marij en Deborah mee in de uitdagingen en kansen waar ze tegenaan lopen. Zo is de binnendienst druk bezig met het rechttrekken van de arbeidsvoorwaarden voor de reservist en is de buitendienst druk bezig met de samenwerking met verschillende bedrijven. Welke uitdagingen nog meer spelen en welke stappen zijn gemaakt hoor je in de nieuwe aflevering van Klapmok met thee.</p>",
+            "duration_ms": 3259898,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2ZR3LrxvIBY2AtwG1I16c2"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2ZR3LrxvIBY2AtwG1I16c2",
+            "id": "2ZR3LrxvIBY2AtwG1I16c2",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8af322c7b7d0e83f95c71b1cb6",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1ff322c7b7d0e83f95c71b1cb6",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68df322c7b7d0e83f95c71b1cb6",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#109: Reservisten en Samenleving",
+            "release_date": "2025-12-19",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2ZR3LrxvIBY2AtwG1I16c2"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2lMi4xa8OwFygjlZWEC4yV/clip_368476_428476.mp3",
             "description": "Het is weer tijd voor een drieluik! Dit keer de componenten van militair vermogen. En Deborah en Anne-Marij beginnen met de morele component (de mentale component is zo 2024.. dit is dus de nieuwe naam!). Aangezien alleen het beschrijven ervan in de praktijk nog niks oplevert, duiken ze in deze aflevering ook in het \u2018hoe\u2019. De morele component wordt immers pas zichtbaar in de context van het werk. In deze aflevering zitten maar liefst 4 gasten, die allemaal verbonden zijn aan het Human Performance Team van 11LMB: majoor Annemarie Beukers, Arno Heg, Elnt Peter Bakker en Lino Ottenhof. Een aflevering over de wil om te winnen, leiderschap, mindset en het cre\u00ebren van zelfvertrouwen",
@@ -67459,28 +67499,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4felgqHntfacrUcBfK9dZW/clip_322775_382775.mp3",
             "description": "De bescherming van ons grondgebied en dat van onze bondgenoten; Deze eerste hoofdtaak van de Nederlandse Krijgsmacht wordt steeds relevanter. Reden genoeg om onze warfighting capaciteiten te trainen. Maar wat betekent dat voor de logistiek? Anne-Marij en Deborah gaan in gesprek met Brigadegeneraal Nicole de Wolf, Studiemandaathouder Landsupport Enabling, ook wel de mega-logistiekeling. Waarom is logistiek cruciaal in een credible fighting force? En kunnen we daar niet gewoon de boeken uit de Koude Oorlog voor afstoffen? \u201cEn welke samenwerkingen - met partners, andere departementen en de private sector - zijn daarbij onmisbaar? \u201cMet logistiek kun je de oorlog niet winnen, maar zonder logistiek, kun je het wel verliezen.\u201d",
-            "html_description": "<p>De bescherming van ons grondgebied en dat van onze bondgenoten; Deze eerste hoofdtaak van de Nederlandse Krijgsmacht wordt steeds relevanter. Reden genoeg om onze warfighting capaciteiten te trainen. Maar wat betekent dat voor de logistiek? Anne-Marij en Deborah gaan in gesprek met Brigadegeneraal Nicole de Wolf, Studiemandaathouder Landsupport Enabling, ook wel de mega-logistiekeling. Waarom is logistiek cruciaal in een credible fighting force? En kunnen we daar niet gewoon de boeken uit de Koude Oorlog voor afstoffen? \u201cEn welke samenwerkingen - met partners, andere departementen en de private sector - zijn daarbij onmisbaar? \u201cMet logistiek kun je de oorlog niet winnen, maar zonder logistiek, kun je het wel verliezen.\u201d</p>",
             "duration_ms": 3407830,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1njbxH2SOIconSpUGPSKRs"
             },
             "href": "https://api.spotify.com/v1/episodes/1njbxH2SOIconSpUGPSKRs",
+            "html_description": "<p>De bescherming van ons grondgebied en dat van onze bondgenoten; Deze eerste hoofdtaak van de Nederlandse Krijgsmacht wordt steeds relevanter. Reden genoeg om onze warfighting capaciteiten te trainen. Maar wat betekent dat voor de logistiek? Anne-Marij en Deborah gaan in gesprek met Brigadegeneraal Nicole de Wolf, Studiemandaathouder Landsupport Enabling, ook wel de mega-logistiekeling. Waarom is logistiek cruciaal in een credible fighting force? En kunnen we daar niet gewoon de boeken uit de Koude Oorlog voor afstoffen? \u201cEn welke samenwerkingen - met partners, andere departementen en de private sector - zijn daarbij onmisbaar? \u201cMet logistiek kun je de oorlog niet winnen, maar zonder logistiek, kun je het wel verliezen.\u201d</p>",
             "id": "1njbxH2SOIconSpUGPSKRs",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a4b91916de61309c515bcb996",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a4b91916de61309c515bcb996",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f4b91916de61309c515bcb996",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f4b91916de61309c515bcb996",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d4b91916de61309c515bcb996",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d4b91916de61309c515bcb996",
                 "width": 64
               }
             ],
