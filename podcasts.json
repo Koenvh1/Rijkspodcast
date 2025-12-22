@@ -127168,15 +127168,16 @@
       "publisher": "AMLC Podcast",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 100,
+      "total_episodes": 101,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 100,
+        "total": 101,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4N4WcAlDeWetNEz4hOrkX3/clip_567395_627395.mp3",
             "description": "\u201cTien jaar witwasbestrijding door de ogen van experts\u201dDeze 100e aflevering moest een bijzondere aflevering worden. Dus blikken we met een reeks sleutelfiguren uit de witwasbestrijding terug op tien jaar ontwikkelingen \u00e9n kijken we vooruit naar de komende vijf jaar. Wat is er wezenlijk veranderd? Waar staan we nu? En wat moet er anders om witwassen effectiever aan te pakken?Onder meer aan het woord:Het hoofd van de FIU-NederlandHet afdelingshoofd Strategische Intelligence van de FIODEen teamleider van het AMLCDe CCO van een internationale bankOnderzoekers en adviseurs uit toezicht, zorg en beleidEen officier van justitieThema\u2019s in deze afleveringDe professionalisering van poortwachtersDe opkomst van crypto en digitale geldstromenVoortdurende innovatie door criminelenDe noodzaak van internationale gegevensdelingVan reactief naar preventief witwassen bestrijdenMisbruik van rechtspersonen en zorgfraudeDe groei van publiek-private samenwerkingKnelpunten rondom privacy, bevoegdheden en capaciteitWat \u00e9cht impact heeft in het afpakprocesWaarom deze aflevering relevant isDeze bloemlezing laat haarscherp zien waar we staan in de witwasbestrijding: verder dan ooit, maar de uitdagingen worden groter. De inzichten van de gasten zijn direct toepasbaar voor iedereen die werkt in toezicht, opsporing, compliance of beleid.",
@@ -129140,28 +129141,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2NYVlkEFKgi70ahFIcJSu0/clip_462469_522469.mp3",
             "description": "Onderhandelaars sloten onlangs een #deal over het EU AML #rulebook, de Europese anti-witwas wetgeving die in de komende periode zal worden ge\u00efmplementeerd. #Poortwachters zullen op veel punten hun maatregelen in het kader van de #witwasbestrijding moeten gaan aanpassen. Zaak dus om daar nu vast kennis van te nemen. En wat betekent dit voor rechercheurs? dr. Melissa van den Broek, KPMG, voorheen o.a. AFM en ING, selecteerde de belangrijkste 10 wijzigingen en licht ze toe in onze AMLC #podcast. Waarvoor onze dank! De offici\u00eble tekst is nog niet gepubliceerd. Neem er dus snel vast kennis van, zelfs v\u00f3\u00f3rdat het heet van de naald is, door de AMLC podcast te beluisteren! Erik Reissenweber tracht als host de podcasts kort en behapbaar te houden, maar deze materie rechtvaardigt een wat langere aflevering.",
-            "html_description": "<p>Onderhandelaars sloten onlangs een #deal over het EU AML #rulebook, de Europese anti-witwas wetgeving die in de komende periode zal worden ge\u00efmplementeerd.</p><br/><p>#Poortwachters zullen op veel punten hun maatregelen in het kader van de #witwasbestrijding moeten gaan aanpassen. Zaak dus om daar nu vast kennis van te nemen. En wat betekent dit voor rechercheurs?</p><br/><p><a href=\"https://www.linkedin.com/company/28835951/admin/feed/posts/#\" rel=\"nofollow\">dr. Melissa van den Broek</a>, KPMG, voorheen o.a. AFM en ING, selecteerde de belangrijkste 10 wijzigingen en licht ze toe in onze AMLC #podcast. Waarvoor onze dank!</p><br/><p>De offici\u00eble tekst is nog niet gepubliceerd. Neem er dus snel vast kennis van, zelfs v\u00f3\u00f3rdat het heet van de naald is, door de AMLC podcast te beluisteren!</p><br/><p><a href=\"https://www.linkedin.com/company/28835951/admin/feed/posts/#\" rel=\"nofollow\">Erik Reissenweber</a> tracht als host de podcasts kort en behapbaar te houden, maar deze materie rechtvaardigt een wat langere aflevering.</p>",
             "duration_ms": 3160700,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/5EbyAftG7bUPN6dK9xKT7o"
             },
             "href": "https://api.spotify.com/v1/episodes/5EbyAftG7bUPN6dK9xKT7o",
+            "html_description": "<p>Onderhandelaars sloten onlangs een #deal over het EU AML #rulebook, de Europese anti-witwas wetgeving die in de komende periode zal worden ge\u00efmplementeerd.</p><br/><p>#Poortwachters zullen op veel punten hun maatregelen in het kader van de #witwasbestrijding moeten gaan aanpassen. Zaak dus om daar nu vast kennis van te nemen. En wat betekent dit voor rechercheurs?</p><br/><p><a href=\"https://www.linkedin.com/company/28835951/admin/feed/posts/#\" rel=\"nofollow\">dr. Melissa van den Broek</a>, KPMG, voorheen o.a. AFM en ING, selecteerde de belangrijkste 10 wijzigingen en licht ze toe in onze AMLC #podcast. Waarvoor onze dank!</p><br/><p>De offici\u00eble tekst is nog niet gepubliceerd. Neem er dus snel vast kennis van, zelfs v\u00f3\u00f3rdat het heet van de naald is, door de AMLC podcast te beluisteren!</p><br/><p><a href=\"https://www.linkedin.com/company/28835951/admin/feed/posts/#\" rel=\"nofollow\">Erik Reissenweber</a> tracht als host de podcasts kort en behapbaar te houden, maar deze materie rechtvaardigt een wat langere aflevering.</p>",
             "id": "5EbyAftG7bUPN6dK9xKT7o",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
