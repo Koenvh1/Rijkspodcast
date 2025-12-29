@@ -127168,15 +127168,16 @@
       "publisher": "AMLC Podcast",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 101,
+      "total_episodes": 102,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 101,
+        "total": 102,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/05f6tJtVE6EgVx5NUxZBxV/clip_194307_254307.mp3",
             "description": "In deze aflevering spreekt Erik Reissenweber met Willeke Slingerland, lector Weerbare Democratie, over de vaak onzichtbare rol van netwerken bij corruptie. Waar traditionele corruptie draait om omkoping, laat netwerkcorruptie zien hoe loyaliteit, wederkerigheid en gesloten kringetjes kunnen leiden tot ernstige integriteitsrisico\u2019s \u2014 vaak zonder dat iemand expliciet \u2018fout\u2019 wil zijn.We bespreken onder meer:Hoe netwerkcorruptie werkt en waarom het moeilijk te herkennen isWaarom netwerken soms kritische tegenspraak onderdrukkenVoorbeelden uit binnenlands bestuur \u00e9n internationale casussen zoals FIFA en UberDe link met witwassen: hoe criminele geldstromen de bovenwereld binnenkomenWaarom bestaande anti-corruptiewetgeving tekortschietHet belang van influence peddling en de Europese richtlijnWat een poortwachter, toezichthouder of opsporingsprofessional n\u00fa al kan doenZelfreflectie: hoe organiseer je je eigen tegenmacht?Deze aflevering is onderdeel van een tweeluik. In deel 2 zoomen we in op concrete casussen uit gemeenten en lokale netwerken.Links naar bronnen, zoals besproken in de podcast:Agreement reached on the first EU-wide criminal law rules against corruption | News | European Parliament: https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption Council and European Parliament reach deal on new EU law to step up fight against corruption - Consilium: https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/De kamervragen van van Nispen (3 maart 2025):https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html",
@@ -129140,28 +129141,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4GIv7SgFy1vNqjzvHdwJuP/clip_619059_679059.mp3",
             "description": "Noortje Boere en Susy Honer van het AMLC vertellen over hun onderzoek naar PEP's (politically exposed persons). Vanwege het verhoogde risico op witwassen van vermogen verkregen vanuit corruptie hebben deze personen een aparte status in de Wwft en dienen poortwachters verscherpt onderzoek te doen bij het bieden van financiele diensten aan PEP's. Noortje en Susy lichten bevindingen uit hun onderzoek toe en delen ze informatie uit hun analyse van verdacht gemelde transacties in deze podcast. Daarbij wordt ook de EU lijst van functionarissen besproken die onder de definitie van PEP's vallen: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202300724",
-            "html_description": "Noortje Boere en Susy Honer van het AMLC vertellen over hun onderzoek naar PEP&#39;s (politically exposed persons).<br/>Vanwege het verhoogde risico op witwassen van vermogen verkregen vanuit corruptie hebben deze personen een aparte status in de Wwft en dienen poortwachters verscherpt onderzoek te doen bij het bieden van financiele diensten aan PEP&#39;s.<br/>Noortje en Susy lichten bevindingen uit hun onderzoek toe en delen ze informatie uit hun analyse van verdacht gemelde transacties in deze podcast. Daarbij wordt ook de EU lijst van functionarissen besproken die onder de definitie van PEP&#39;s vallen:<br/>https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri&#61;OJ:C_202300724",
             "duration_ms": 1627184,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/7nJtVcVvJsxWOB9j07onbF"
             },
             "href": "https://api.spotify.com/v1/episodes/7nJtVcVvJsxWOB9j07onbF",
+            "html_description": "Noortje Boere en Susy Honer van het AMLC vertellen over hun onderzoek naar PEP&#39;s (politically exposed persons).<br/>Vanwege het verhoogde risico op witwassen van vermogen verkregen vanuit corruptie hebben deze personen een aparte status in de Wwft en dienen poortwachters verscherpt onderzoek te doen bij het bieden van financiele diensten aan PEP&#39;s.<br/>Noortje en Susy lichten bevindingen uit hun onderzoek toe en delen ze informatie uit hun analyse van verdacht gemelde transacties in deze podcast. Daarbij wordt ook de EU lijst van functionarissen besproken die onder de definitie van PEP&#39;s vallen:<br/>https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri&#61;OJ:C_202300724",
             "id": "7nJtVcVvJsxWOB9j07onbF",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
