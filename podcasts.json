@@ -53225,15 +53225,16 @@
       "publisher": "Politie Nederland",
       "type": "show",
       "uri": "spotify:show:1Tn18wGbJHz3LClUvnFApP",
-      "total_episodes": 36,
+      "total_episodes": 37,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Tn18wGbJHz3LClUvnFApP/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 36,
+        "total": 37,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1AOQxsoIARW4FvmPvBpoUf/clip_456228_516228.mp3",
             "description": "Lokale bestuurders krijgen steeds vaker te maken met intimidatie en bedreiging. Waar dit voorheen incidenteel leek, laat onderzoek zien dat het een structureel probleem is geworden dat niet alleen de persoon zelf raakt, maar ook invloed kan hebben op besluitvorming en daarmee op het functioneren van de lokale democratie. Toch was lange tijd onduidelijk welke impact dit precies heeft en wat bestuurders nodig hebben om hiermee om te gaan.\u00a0In haar proefschrift \u2018Bedreigde wethouders. Een onderzoek naar de aard en invloed van bedreigingen tegen lokale politici\u2019 onderzocht Diana Marijnissen hoe burgemeesters, wethouders en ambtenaren worden bedreigd, wat dit met hen doet en hoe zij hiermee omgaan. Welke vormen van intimidatie komen het meest voor? Welke impact heeft dit op hun werk en priv\u00e9leven? En welke maatregelen zijn nodig om bestuurders beter te beschermen? Allemaal vragen die in deze podcast beantwoord worden. Daarnaast vertelt Diana over de rol van ondermijning, sociale media en deelt zij inzichten en aanbevelingen voor de praktijk.\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING: Christiaan Los en BOOST-studente Mijke. Samen gaan zij met Diana in gesprek over de impact van intimidatie en bedreiging op lokale bestuurders en wat er nodig is om hen beter weerbaar te maken.\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f#29 Hanneke Ekelmans over Stevig staan in deze Tijd\u00a0\ud83c\udf99\ufe0f#22 Paul Vugts over het Marengo-proces en Bedreiging door de Georganiseerde Misdaad\u00a0",
