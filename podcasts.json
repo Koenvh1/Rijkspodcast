@@ -134593,15 +134593,16 @@
       "publisher": "WODC",
       "type": "show",
       "uri": "spotify:show:7jtE5bnuZHD46nMJUAmdyG",
-      "total_episodes": 17,
+      "total_episodes": 18,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7jtE5bnuZHD46nMJUAmdyG/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 17,
+        "total": 18,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/754rczbrk1gMULgrfgDMmM/clip_487722_547722.mp3",
             "description": "In Nederland is sekswerk legaal, maar het heeft nog geen vanzelfsprekende positie op de arbeidsmarkt of in de samenleving. Het is daarom soms lastig voor sekswerkers om ander werk te vinden. Om die reden biedt de overheid hierbij extra ondersteuning. Maar is die hulp wel passend?In deze aflevering spreekt host Carlissa Remmerswaal met Roos de Wildt van het Verwey-Jonker Instituut over haar WODC-onderzoek naar werkverandering onder sekswerkers. Hoe ervaren sekswerkers dit proces? En wat kunnen wij doen om hen daarin te ondersteunen? Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060.Voor meer onderzoek naar sekswerk, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
