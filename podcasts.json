@@ -21260,15 +21260,55 @@
       "publisher": "Het ministerie van Justitie en Veiligheid (JenV)",
       "type": "show",
       "uri": "spotify:show:5t7QVRJDOA6nySnsHrc7sU",
-      "total_episodes": 9,
+      "total_episodes": 10,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5t7QVRJDOA6nySnsHrc7sU/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 9,
+        "total": 10,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0wSIRT9RB7tJeqAgGWzsF9/clip_155143_215143.mp3",
+            "description": "In deze aflevering horen we hoe het Nederlands Forensisch Instituut (NFI) samen met de politie een taalmodel bouwde om doodsbedreigingen op te sporen in de Encrochat zaak. Uit de chatdienst werden in 2021 25 miljoen berichten onderschept en handmatig had de politie die berichten nooit allemaal op tijd kunnen analyseren. Dankzij slimme samenwerking en de technologische expertise van het NFI kon de politie al deze berichten makkelijk verwerken en zijn er levensbedreigende situaties voorkomen.\u00a0Data scientist Julia van het NFI en operationeel specialist Henk van de politie vertellen hoe de twee organisaties samenwerkten om dat model te bouwen. Daarnaast vertelt Mattijs Koeberg, innovatieadviseur bij het NFI, over het belang van kennisontwikkeling en de rol van innovatie binnen een rijkskennisinstelling. Hij benadrukt dat er dankzij technologische ontwikkelingen steeds meer mogelijk is in de wereld van opsporing en veiligheid!\u00a0Wil je meer weten over het NFI? Kijk dan op www.forensischinstituut.nl.",
+            "html_description": "<p>In deze aflevering horen we hoe het Nederlands Forensisch Instituut (NFI) samen met de politie een taalmodel bouwde om doodsbedreigingen op te sporen in de Encrochat zaak. Uit de chatdienst werden in 2021 25 miljoen berichten onderschept en handmatig had de politie die berichten nooit allemaal op tijd kunnen analyseren. Dankzij slimme samenwerking en de technologische expertise van het NFI kon de politie al deze berichten makkelijk verwerken en zijn er levensbedreigende situaties voorkomen.\u00a0</p><p>Data scientist Julia van het NFI en operationeel specialist Henk van de politie vertellen hoe de twee organisaties samenwerkten om dat model te bouwen. Daarnaast vertelt Mattijs Koeberg, innovatieadviseur bij het NFI, over het belang van kennisontwikkeling en de rol van innovatie binnen een rijkskennisinstelling. Hij benadrukt dat er dankzij technologische ontwikkelingen steeds meer mogelijk is in de wereld van opsporing en veiligheid!\u00a0</p><p>Wil je meer weten over het NFI? Kijk dan op www.forensischinstituut.nl.</p>",
+            "duration_ms": 1544760,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4S0Ihe2l8g69eLCUiPLG9O"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4S0Ihe2l8g69eLCUiPLG9O",
+            "id": "4S0Ihe2l8g69eLCUiPLG9O",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a39bc23af046277bfc2259256",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f39bc23af046277bfc2259256",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d39bc23af046277bfc2259256",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#10 Als innovatie levens redt",
+            "release_date": "2026-01-06",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4S0Ihe2l8g69eLCUiPLG9O"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0wsOXnQmVI03gcfDVfSUhc/clip_156583_216583.mp3",
             "description": "In deze aflevering horen we het verhaal van Wim. Jarenlang worstelde hij met verslaving, psychische problemen en criminaliteit. Hij pleegde delicten en hij raakte steeds meer verstrikt. Uiteindelijk kreeg hij een TBS-maatregel met voorwaarden: een ingrijpend moment, maar ook een keerpunt.Wim is een van de zeshonderd mensen in Nederland die onder de levensloopaanpak vallen. In deze aanpak werken zorg en justitie intensief samen om mensen met complexe problemen beter te begeleiden \u00e9n de samenleving veiliger te maken. De spil in dat netwerk zijn de zorg- en veiligheidshuizen: plekken waar gemeente, politie, Openbaar Ministerie, GGZ, reclassering en andere partijen samenwerken.Procesregisseur Nelleke van Rij en begeleider Marcel Stuifzand vertellen hoe die samenwerking in de praktijk werkt, tegen welke dilemma\u2019s ze aanlopen en waarom langdurige begeleiding belangrijk is. En Wim zelf deelt hoe hij, stap voor stap, weer grip op zijn leven krijgt.Wil je meer weten over zorg- en veiligheidshuizen? Kijk dan op www.zorgenveiligheidshuizen.nl. Meer informatie over de levensloopaanpak vind je op www.levensloopaanpak.nl.",
@@ -134602,7 +134642,46 @@
         "previous": null,
         "total": 18,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0ciqFGgTJgFCCz7WCo0A0m/clip_512205_572205.mp3",
+            "description": "Een aantal onderzoekers van het WODC is ook hoogleraar aan een universiteit. Door zowel bij het WODC als bij een universiteit te werken, wordt kruisbestuiving tussen wetenschap en beleidsonderzoek mogelijk. Maar wie zijn deze hoogleraren? En wat voor onderzoek doen zij?In deze aflevering spreekt host Carlissa Remmerswaal met WODC-onderzoekers Andr\u00e9 van der Laan (hoogleraar aan de Universiteit Leiden) en Arjen Leerkes (hoogleraar aan de Erasmus Universiteit Rotterdam) over hun leerstoelen en onderzoeksthema's.Voor onderzoek naar thema's binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
+            "html_description": "<p>Een aantal onderzoekers van het WODC is ook hoogleraar aan een universiteit. Door zowel bij het WODC als bij een universiteit te werken, wordt kruisbestuiving tussen wetenschap en beleidsonderzoek mogelijk. Maar wie zijn deze hoogleraren? En wat voor onderzoek doen zij?<br />In deze aflevering spreekt host Carlissa Remmerswaal met WODC-onderzoekers Andr\u00e9 van der Laan (hoogleraar aan de Universiteit Leiden) en Arjen Leerkes (hoogleraar aan de Erasmus Universiteit Rotterdam) over hun leerstoelen en onderzoeksthema&#39;s.<br />Voor onderzoek naar thema&#39;s binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">www.wodc.nl</a><br />Opname en montage gedaan in eigen beheer WODC.</p>",
+            "duration_ms": 1192991,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2OBi2EPViN2s5cjkIjuifd"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2OBi2EPViN2s5cjkIjuifd",
+            "id": "2OBi2EPViN2s5cjkIjuifd",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a65fe90b9db4a16be0701e263",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f65fe90b9db4a16be0701e263",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d65fe90b9db4a16be0701e263",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De hoogleraren van het WODC",
+            "release_date": "2026-01-05",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2OBi2EPViN2s5cjkIjuifd"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/754rczbrk1gMULgrfgDMmM/clip_487722_547722.mp3",
             "description": "In Nederland is sekswerk legaal, maar het heeft nog geen vanzelfsprekende positie op de arbeidsmarkt of in de samenleving. Het is daarom soms lastig voor sekswerkers om ander werk te vinden. Om die reden biedt de overheid hierbij extra ondersteuning. Maar is die hulp wel passend?In deze aflevering spreekt host Carlissa Remmerswaal met Roos de Wildt van het Verwey-Jonker Instituut over haar WODC-onderzoek naar werkverandering onder sekswerkers. Hoe ervaren sekswerkers dit proces? En wat kunnen wij doen om hen daarin te ondersteunen? Meer weten over dit onderzoek? Lees hier het \u2060volledige rapport\u2060.Voor meer onderzoek naar sekswerk, en andere onderwerpen binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",

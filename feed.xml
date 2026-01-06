@@ -3,11 +3,33 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-01-05T22:22:49Z</updated>
+	<updated>2026-01-06T06:36:44Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Uitvoering - #10 Als innovatie levens redt</title>
+		<link href="https://open.spotify.com/episode/4S0Ihe2l8g69eLCUiPLG9O" />
+		<summary type="html">&lt;p&gt;In deze aflevering horen we hoe het Nederlands Forensisch Instituut (NFI) samen met de politie een taalmodel bouwde om doodsbedreigingen op te sporen in de Encrochat zaak. Uit de chatdienst werden in 2021 25 miljoen berichten onderschept en handmatig had de politie die berichten nooit allemaal op tijd kunnen analyseren. Dankzij slimme samenwerking en de technologische expertise van het NFI kon de politie al deze berichten makkelijk verwerken en zijn er levensbedreigende situaties voorkomen. &lt;/p&gt;&lt;p&gt;Data scientist Julia van het NFI en operationeel specialist Henk van de politie vertellen hoe de twee organisaties samenwerkten om dat model te bouwen. Daarnaast vertelt Mattijs Koeberg, innovatieadviseur bij het NFI, over het belang van kennisontwikkeling en de rol van innovatie binnen een rijkskennisinstelling. Hij benadrukt dat er dankzij technologische ontwikkelingen steeds meer mogelijk is in de wereld van opsporing en veiligheid! &lt;/p&gt;&lt;p&gt;Wil je meer weten over het NFI? Kijk dan op www.forensischinstituut.nl.&lt;/p&gt;</summary>
+		<author>
+			<name>Het ministerie van Justitie en Veiligheid (JenV)</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0wSIRT9RB7tJeqAgGWzsF9/clip_155143_215143.mp3" type="audio/mpeg" />
+		<id>spotify:episode:4S0Ihe2l8g69eLCUiPLG9O</id>
+		<updated>2026-01-06T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Dossier WODC - De hoogleraren van het WODC</title>
+		<link href="https://open.spotify.com/episode/2OBi2EPViN2s5cjkIjuifd" />
+		<summary type="html">&lt;p&gt;Een aantal onderzoekers van het WODC is ook hoogleraar aan een universiteit. Door zowel bij het WODC als bij een universiteit te werken, wordt kruisbestuiving tussen wetenschap en beleidsonderzoek mogelijk. Maar wie zijn deze hoogleraren? En wat voor onderzoek doen zij?&lt;br /&gt;In deze aflevering spreekt host Carlissa Remmerswaal met WODC-onderzoekers André van der Laan (hoogleraar aan de Universiteit Leiden) en Arjen Leerkes (hoogleraar aan de Erasmus Universiteit Rotterdam) over hun leerstoelen en onderzoeksthema&amp;#39;s.&lt;br /&gt;Voor onderzoek naar thema&amp;#39;s binnen de rechtsstaat, ga naar ⁠&lt;a href="https://www.wodc.nl/" rel="nofollow"&gt;www.wodc.nl&lt;/a&gt;&lt;br /&gt;Opname en montage gedaan in eigen beheer WODC.&lt;/p&gt;</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0ciqFGgTJgFCCz7WCo0A0m/clip_512205_572205.mp3" type="audio/mpeg" />
+		<id>spotify:episode:2OBi2EPViN2s5cjkIjuifd</id>
+		<updated>2026-01-05T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>AMLC podcast - 101. Netwerkcorruptie en witwasbestrijding - Willeke Slingerland</title>
 		<link href="https://open.spotify.com/episode/1AIpiAVvagTAygX8Kd7z8w" />
