@@ -127288,15 +127288,55 @@
       "publisher": "AMLC Podcast",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 101,
+      "total_episodes": 102,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 101,
+        "total": 102,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3JB4DiEPiqBNkKuRm7Emb0/clip_361746_421746.mp3",
+            "description": "Bestuurlijke weerbaarheid en witwaspreventie: waar netwerken risico\u2019s wordenIn deze tweede aflevering van de AMLC-podcast tweeluik over netwerkcorruptie staat bestuurlijke weerbaarheid centraal. Te gast zijn Marije van Hal (gemeente Eindhoven) en Nicolien Badura (gemeente Rotterdam), beiden gespecialiseerd in integriteit en weerbaarheid binnen het lokaal bestuur.We bespreken hoe gemeenten kwetsbaar kunnen worden voor netwerkcorruptie: een subtiele vorm van be\u00efnvloeding waarbij priv\u00e9-, informele en professionele netwerken door elkaar gaan lopen. Juist omdat netwerken onmisbaar zijn in het bestuurlijk en ambtelijk werk, schuilt het risico vaak niet in bewuste corruptie, maar in onbedoelde belangenverstrengeling.Aan bod komt:Wat bestuurlijke weerbaarheid precies inhoudtHoe druk, tijdgebrek en maatschappelijke polarisatie kwetsbaarheid vergrotenWaarom netwerkcorruptie een re\u00ebel witwasrisico vormtHoe vergunningen, subsidies en besluitvorming onbedoeld witwassen kunnen faciliterenHet belang van cultuur, tegenspraak en psychologische veiligheid binnen organisatiesConcrete maatregelen zoals weerbaarheidsscans, advies bij nevenfuncties en het vier-ogen-principeDe aflevering laat zien dat effectieve witwasbestrijding niet alleen begint bij detectie en opsporing, maar juist aan de voorkant, in integere besluitvorming en weerbare organisaties.Onderzoek dat verband legt tussen langdurige macht, bestuurlijke verantwoordelijkheid en (de kans op) corrupt gedrag of verminderde responsiviteit tegenover kritiek of publieke controle.Dit blijkt uit een heel aantal onderzoeken. Het beste wordt het samengevat in het boek\u00a0The Moral Organization\u00a0van Naomi Ellemers en Dick de Gilder. Een toegankelijk boek (met uiteraard goede bronvermelding) .Tevens aangetroffen in:1. Marko Kla\u0161nja (2015)Corruption and the Incumbency Disadvantage: Theory andEvidence (Journal of Politics) samenvatting enreferentiepagina:https://www.jstor.org/stable/26288984(JSTOR)2. Tsur (2022)Political tenure, term limits and corruption (EconomicsLetters /PII-model):https://www.sciencedirect.com/science/article/abs/pii/S0176268021001348(ScienceDirect)",
+            "html_description": "<p>Bestuurlijke weerbaarheid en witwaspreventie: waar netwerken risico\u2019s worden</p><p>In deze tweede aflevering van de AMLC-podcast tweeluik over netwerkcorruptie staat bestuurlijke weerbaarheid centraal. Te gast zijn Marije van Hal (gemeente Eindhoven) en Nicolien Badura (gemeente Rotterdam), beiden gespecialiseerd in integriteit en weerbaarheid binnen het lokaal bestuur.</p><p>We bespreken hoe gemeenten kwetsbaar kunnen worden voor netwerkcorruptie: een subtiele vorm van be\u00efnvloeding waarbij priv\u00e9-, informele en professionele netwerken door elkaar gaan lopen. Juist omdat netwerken onmisbaar zijn in het bestuurlijk en ambtelijk werk, schuilt het risico vaak niet in bewuste corruptie, maar in onbedoelde belangenverstrengeling.</p><p>Aan bod komt:</p><ul><li><p>Wat bestuurlijke weerbaarheid precies inhoudt</p></li><li><p>Hoe druk, tijdgebrek en maatschappelijke polarisatie kwetsbaarheid vergroten</p></li><li><p>Waarom netwerkcorruptie een re\u00ebel witwasrisico vormt</p></li><li><p>Hoe vergunningen, subsidies en besluitvorming onbedoeld witwassen kunnen faciliteren</p></li><li><p>Het belang van cultuur, tegenspraak en psychologische veiligheid binnen organisaties</p></li><li><p>Concrete maatregelen zoals weerbaarheidsscans, advies bij nevenfuncties en het vier-ogen-principe</p></li></ul><p>De aflevering laat zien dat effectieve witwasbestrijding niet alleen begint bij detectie en opsporing, maar juist aan de voorkant, in integere besluitvorming en weerbare organisaties.</p><p><br /></p><p>Onderzoek dat verband legt tussen langdurige macht, bestuurlijke verantwoordelijkheid en (de kans op) corrupt gedrag of verminderde responsiviteit tegenover kritiek of publieke controle.Dit blijkt uit een heel aantal onderzoeken. Het beste wordt het samengevat in het boek\u00a0<a href=\"https://link.springer.com/book/10.1007/978-3-030-84175-1\" rel=\"nofollow\">The Moral Organization</a>\u00a0van Naomi Ellemers en Dick de Gilder. Een toegankelijk boek (met uiteraard goede bronvermelding) .Tevens aangetroffen in:</p><p>1. Marko Kla\u0161nja (2015)</p><p>Corruption and the Incumbency Disadvantage: Theory andEvidence (Journal of Politics) samenvatting enreferentiepagina:<br /><a href=\"https://www.jstor.org/stable/26288984\" rel=\"nofollow\">https://www.jstor.org/stable/26288984</a>(<a href=\"https://www.jstor.org/stable/26288984?utm_source&#61;chatgpt.com\" rel=\"nofollow\">JSTOR</a>)</p><p>2. Tsur (2022)Political tenure, term limits and corruption (EconomicsLetters /PII-model):<br /><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0176268021001348\" rel=\"nofollow\">https://www.sciencedirect.com/science/article/abs/pii/S0176268021001348</a>(<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0176268021001348?utm_source&#61;chatgpt.com\" rel=\"nofollow\">ScienceDirect</a>)</p>",
+            "duration_ms": 2467677,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0l5RcOMuuIc7lG1VQNAPON"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0l5RcOMuuIc7lG1VQNAPON",
+            "id": "0l5RcOMuuIc7lG1VQNAPON",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "102. De rol van lokale overheid in witwaspreventie - van Hal en Baruda",
+            "release_date": "2026-01-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0l5RcOMuuIc7lG1VQNAPON"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/05f6tJtVE6EgVx5NUxZBxV/clip_194307_254307.mp3",
             "description": "In deze aflevering spreekt Erik Reissenweber met Willeke Slingerland, lector Weerbare Democratie, over de vaak onzichtbare rol van netwerken bij corruptie. Waar traditionele corruptie draait om omkoping, laat netwerkcorruptie zien hoe loyaliteit, wederkerigheid en gesloten kringetjes kunnen leiden tot ernstige integriteitsrisico\u2019s \u2014 vaak zonder dat iemand expliciet \u2018fout\u2019 wil zijn.We bespreken onder meer:Hoe netwerkcorruptie werkt en waarom het moeilijk te herkennen isWaarom netwerken soms kritische tegenspraak onderdrukkenVoorbeelden uit binnenlands bestuur \u00e9n internationale casussen zoals FIFA en UberDe link met witwassen: hoe criminele geldstromen de bovenwereld binnenkomenWaarom bestaande anti-corruptiewetgeving tekortschietHet belang van influence peddling en de Europese richtlijnWat een poortwachter, toezichthouder of opsporingsprofessional n\u00fa al kan doenZelfreflectie: hoe organiseer je je eigen tegenmacht?Deze aflevering is onderdeel van een tweeluik. In deel 2 zoomen we in op concrete casussen uit gemeenten en lokale netwerken.Links naar bronnen, zoals besproken in de podcast:Agreement reached on the first EU-wide criminal law rules against corruption | News | European Parliament: https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption Council and European Parliament reach deal on new EU law to step up fight against corruption - Consilium: https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/De kamervragen van van Nispen (3 maart 2025):https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html",
@@ -129260,28 +129300,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4GIv7SgFy1vNqjzvHdwJuP/clip_619059_679059.mp3",
             "description": "Noortje Boere en Susy Honer van het AMLC vertellen over hun onderzoek naar PEP's (politically exposed persons). Vanwege het verhoogde risico op witwassen van vermogen verkregen vanuit corruptie hebben deze personen een aparte status in de Wwft en dienen poortwachters verscherpt onderzoek te doen bij het bieden van financiele diensten aan PEP's. Noortje en Susy lichten bevindingen uit hun onderzoek toe en delen ze informatie uit hun analyse van verdacht gemelde transacties in deze podcast. Daarbij wordt ook de EU lijst van functionarissen besproken die onder de definitie van PEP's vallen: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202300724",
-            "html_description": "Noortje Boere en Susy Honer van het AMLC vertellen over hun onderzoek naar PEP&#39;s (politically exposed persons).<br/>Vanwege het verhoogde risico op witwassen van vermogen verkregen vanuit corruptie hebben deze personen een aparte status in de Wwft en dienen poortwachters verscherpt onderzoek te doen bij het bieden van financiele diensten aan PEP&#39;s.<br/>Noortje en Susy lichten bevindingen uit hun onderzoek toe en delen ze informatie uit hun analyse van verdacht gemelde transacties in deze podcast. Daarbij wordt ook de EU lijst van functionarissen besproken die onder de definitie van PEP&#39;s vallen:<br/>https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri&#61;OJ:C_202300724",
             "duration_ms": 1627184,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/7nJtVcVvJsxWOB9j07onbF"
             },
             "href": "https://api.spotify.com/v1/episodes/7nJtVcVvJsxWOB9j07onbF",
+            "html_description": "Noortje Boere en Susy Honer van het AMLC vertellen over hun onderzoek naar PEP&#39;s (politically exposed persons).<br/>Vanwege het verhoogde risico op witwassen van vermogen verkregen vanuit corruptie hebben deze personen een aparte status in de Wwft en dienen poortwachters verscherpt onderzoek te doen bij het bieden van financiele diensten aan PEP&#39;s.<br/>Noortje en Susy lichten bevindingen uit hun onderzoek toe en delen ze informatie uit hun analyse van verdacht gemelde transacties in deze podcast. Daarbij wordt ook de EU lijst van functionarissen besproken die onder de definitie van PEP&#39;s vallen:<br/>https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri&#61;OJ:C_202300724",
             "id": "7nJtVcVvJsxWOB9j07onbF",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
