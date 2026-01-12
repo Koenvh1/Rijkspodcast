@@ -127328,15 +127328,16 @@
       "publisher": "AMLC Podcast",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 102,
+      "total_episodes": 103,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 102,
+        "total": 103,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3JB4DiEPiqBNkKuRm7Emb0/clip_361746_421746.mp3",
             "description": "Bestuurlijke weerbaarheid en witwaspreventie: waar netwerken risico\u2019s wordenIn deze tweede aflevering van de AMLC-podcast tweeluik over netwerkcorruptie staat bestuurlijke weerbaarheid centraal. Te gast zijn Marije van Hal (gemeente Eindhoven) en Nicolien Badura (gemeente Rotterdam), beiden gespecialiseerd in integriteit en weerbaarheid binnen het lokaal bestuur.We bespreken hoe gemeenten kwetsbaar kunnen worden voor netwerkcorruptie: een subtiele vorm van be\u00efnvloeding waarbij priv\u00e9-, informele en professionele netwerken door elkaar gaan lopen. Juist omdat netwerken onmisbaar zijn in het bestuurlijk en ambtelijk werk, schuilt het risico vaak niet in bewuste corruptie, maar in onbedoelde belangenverstrengeling.Aan bod komt:Wat bestuurlijke weerbaarheid precies inhoudtHoe druk, tijdgebrek en maatschappelijke polarisatie kwetsbaarheid vergrotenWaarom netwerkcorruptie een re\u00ebel witwasrisico vormtHoe vergunningen, subsidies en besluitvorming onbedoeld witwassen kunnen faciliterenHet belang van cultuur, tegenspraak en psychologische veiligheid binnen organisatiesConcrete maatregelen zoals weerbaarheidsscans, advies bij nevenfuncties en het vier-ogen-principeDe aflevering laat zien dat effectieve witwasbestrijding niet alleen begint bij detectie en opsporing, maar juist aan de voorkant, in integere besluitvorming en weerbare organisaties.Onderzoek dat verband legt tussen langdurige macht, bestuurlijke verantwoordelijkheid en (de kans op) corrupt gedrag of verminderde responsiviteit tegenover kritiek of publieke controle.Dit blijkt uit een heel aantal onderzoeken. Het beste wordt het samengevat in het boek\u00a0The Moral Organization\u00a0van Naomi Ellemers en Dick de Gilder. Een toegankelijk boek (met uiteraard goede bronvermelding) .Tevens aangetroffen in:1. Marko Kla\u0161nja (2015)Corruption and the Incumbency Disadvantage: Theory andEvidence (Journal of Politics) samenvatting enreferentiepagina:https://www.jstor.org/stable/26288984(JSTOR)2. Tsur (2022)Political tenure, term limits and corruption (EconomicsLetters /PII-model):https://www.sciencedirect.com/science/article/abs/pii/S0176268021001348(ScienceDirect)",
@@ -129300,28 +129301,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/31TsmgK2XBwUVwiEDptSSw/clip_562984_622984.mp3",
             "description": "\"Betalen met een cryptobetaalkaart is nog anoniemer dan cash\" Niels van der Meulen legt uit wat het Regionaal Informatie en Expertise Centrum (RIEC) Amsterdam Amstelland leerde van wat de politie aantrof bij een ondergronds bankier. Een betaalkaart die rechtstreeks gekoppeld bleek te zijn aan een crypto wallet. Zonder limiet. Direct betalen, overal waar Mastercard en VISA betalingen worden geaccepteerd. In deze podcast gaan we in op de witwas risico's die dat met zich mee brengt. Voor contact met Politie Amsterdam-Amstelland, afdeling FinEC kunt u contact opnemen met finec.ad@politie.nl. Dit e-mailadres is all\u00e9\u00e9n bestemd voor vragen en/of opmerkingen die betrekking hebben op cryptobetaalkaarten. Ongerelateerde en niet-zakelijke e-mails worden niet in behandeling genomen. Aan het eind van de podcast wordt een keer acquirer verward met issuer, hopelijk veroorzaakt dat na de uitleg die erover is gegeven geen verwarring.",
-            "html_description": "<p>&#34;Betalen met een cryptobetaalkaart is nog anoniemer dan cash&#34;</p><br/><p>Niels van der Meulen legt uit wat het Regionaal Informatie en Expertise Centrum (RIEC) Amsterdam Amstelland leerde van wat de politie aantrof bij een ondergronds bankier. Een betaalkaart die rechtstreeks gekoppeld bleek te zijn aan een crypto wallet. Zonder limiet. Direct betalen, overal waar Mastercard en VISA betalingen worden geaccepteerd.</p><br/><p>In deze podcast gaan we in op de witwas risico&#39;s die dat met zich mee brengt.</p><br/><p>Voor contact met Politie Amsterdam-Amstelland, afdeling FinEC kunt u contact opnemen met finec.ad&#64;politie.nl.</p><br/><p>Dit e-mailadres is all\u00e9\u00e9n bestemd voor vragen en/of opmerkingen die betrekking hebben op cryptobetaalkaarten. Ongerelateerde en niet-zakelijke e-mails worden niet in behandeling genomen.</p><br/><p>Aan het eind van de podcast wordt een keer acquirer verward met issuer, hopelijk veroorzaakt dat na de uitleg die erover is gegeven geen verwarring.</p>",
             "duration_ms": 1215100,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/0xVeeSug7q5GSS9vLqapV5"
             },
             "href": "https://api.spotify.com/v1/episodes/0xVeeSug7q5GSS9vLqapV5",
+            "html_description": "<p>&#34;Betalen met een cryptobetaalkaart is nog anoniemer dan cash&#34;</p><br/><p>Niels van der Meulen legt uit wat het Regionaal Informatie en Expertise Centrum (RIEC) Amsterdam Amstelland leerde van wat de politie aantrof bij een ondergronds bankier. Een betaalkaart die rechtstreeks gekoppeld bleek te zijn aan een crypto wallet. Zonder limiet. Direct betalen, overal waar Mastercard en VISA betalingen worden geaccepteerd.</p><br/><p>In deze podcast gaan we in op de witwas risico&#39;s die dat met zich mee brengt.</p><br/><p>Voor contact met Politie Amsterdam-Amstelland, afdeling FinEC kunt u contact opnemen met finec.ad&#64;politie.nl.</p><br/><p>Dit e-mailadres is all\u00e9\u00e9n bestemd voor vragen en/of opmerkingen die betrekking hebben op cryptobetaalkaarten. Ongerelateerde en niet-zakelijke e-mails worden niet in behandeling genomen.</p><br/><p>Aan het eind van de podcast wordt een keer acquirer verward met issuer, hopelijk veroorzaakt dat na de uitleg die erover is gegeven geen verwarring.</p>",
             "id": "0xVeeSug7q5GSS9vLqapV5",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
