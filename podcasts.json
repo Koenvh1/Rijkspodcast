@@ -22660,7 +22660,7 @@
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6HpgqvhQOBe4TyU1blCXfY/clip_343995_403995.mp3",
             "description": "Fietsendiefstal is een groter probleem dan de meeste mensen denken. In deze podcast laten we horen dat er een schrikbarend aantal fietsen wordt gejat. Vooral de E-bike is mateloos populair bij de (georganiseerde) criminaliteit. Hoe kun je dit probleem tegengaan, zonder dat justitie daar teveel mee wordt belast? Een initiatief in Barendrecht valt op.",
             "html_description": "Fietsendiefstal is een groter probleem dan de meeste mensen denken. In deze podcast laten we horen dat er een schrikbarend aantal fietsen wordt gejat. Vooral de E-bike is mateloos populair bij de (georganiseerde) criminaliteit. <br /><br />Hoe kun je dit probleem tegengaan, zonder dat justitie daar teveel mee wordt belast? Een initiatief in Barendrecht valt op.",
-            "duration_ms": 870551,
+            "duration_ms": 870552,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/0RqeEOcDtQXMy8y1r3EUtB"
@@ -50371,15 +50371,55 @@
       "publisher": "Forum Fiscaal Dienstverleners",
       "type": "show",
       "uri": "spotify:show:294RcdFuoh0j2J3iqmCus9",
-      "total_episodes": 6,
+      "total_episodes": 7,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/294RcdFuoh0j2J3iqmCus9/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 6,
+        "total": 7,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4zKXAGPVjcgzzj4G8Lk2Bb/clip_149002_209002.mp3",
+            "description": "Wat betekent de Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft) voor u als fiscaal dienstverlener? In deze aflevering van onze podcastserie Fiscaal Wijzer is Lenie van der Plas van Bureau Financieel Toezicht (BFT), te gast bij Elianne Blom. BFT houdt onafhankelijk toezicht op de naleving van de (Wwft) door financi\u00eble en juridische dienstverleners. Elianne en Lenie bespreken de risico\u2019s en verplichtingen die voortvloeien uit de Wwft. U hoort wat er van u wordt verwacht in uw dagelijkse werkzaamheden ten aanzien van deze wet. Ook geeft Lenie u concrete praktijkvoorbeelden en praktische tips die u helpen fouten te voorkomen. U kunt deze podcast ook op Spotify beluisteren. [Meer informatie] De internetsites waarnaar in de podcast verwezen wordt, staan hieronder voor u op een rij:   BTF   FIU-Nederland   Belastingdienst  ",
+            "html_description": "<p>Wat betekent de Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft) voor u als fiscaal dienstverlener? In deze aflevering van onze podcastserie Fiscaal Wijzer is Lenie van der Plas van Bureau Financieel Toezicht (BFT), te gast bij Elianne Blom.</p> <p>BFT houdt onafhankelijk toezicht op de naleving van de (Wwft) door financi\u00eble en juridische dienstverleners. Elianne en Lenie bespreken de risico\u2019s en verplichtingen die voortvloeien uit de Wwft. U hoort wat er van u wordt verwacht in uw dagelijkse werkzaamheden ten aanzien van deze wet. Ook geeft Lenie u concrete praktijkvoorbeelden en praktische tips die u helpen fouten te voorkomen.</p> <p>U kunt deze podcast ook op Spotify beluisteren.</p> <p>[Meer informatie]</p> <p>De internetsites waarnaar in de podcast verwezen wordt, staan hieronder voor u op een rij:</p> <ul><li> <p><a href=\"v\" rel=\"nofollow\">BTF</a></p> </li><li> <p><a href=\"https://www.fiu-nederland.nl/\" rel=\"nofollow\">FIU-Nederland</a></p> </li><li> <p><a href=\"https://www.belastingdienst.nl/wps/wcm/connect/nl/home/home\" rel=\"nofollow\">Belastingdienst</a></p> </li></ul>",
+            "duration_ms": 1502250,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2FrDXUQjmLFCDOkgJicyFh"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2FrDXUQjmLFCDOkgJicyFh",
+            "id": "2FrDXUQjmLFCDOkgJicyFh",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a357ba9591ef7a06f2cc2691f",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f357ba9591ef7a06f2cc2691f",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d357ba9591ef7a06f2cc2691f",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Podcast Wwft",
+            "release_date": "2026-01-13",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2FrDXUQjmLFCDOkgJicyFh"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6OjYWTif3sukSLEepQ2fUn/clip_234642_294642.mp3",
             "description": "In deze aflevering spreekt Elianne Blom met btw-specialist Abdelhak Ali Ousalah. In de voorjaarsnota 2025 is bekend gemaakt dat de voorgenomen btw-verhoging van 9% naar 21% op cultuur, sport en media niet doorgaat. De verhoging op logies gaat wel door. In deze aflevering geeft Abdelhak een korte update over de stand van zaken. Ook legt hij uit wat de wijzigingen voor u als fiscaal dienstverlener betekenen. Deze hebben namelijk niet alleen invloed op de verhuur van een vakantiewoningen of hotelkamers, maar ook op het kortdurend huisvesten van personeel tegen vergoeding. Link naar Wet op de omzetbelasting 1968 Link naar Besluit onroerende zaken omzetbelasting Heeft u nog vragen of suggesties? Neem dan contact op met  Forum Fiscaal Dienstverleners.",
@@ -124661,7 +124701,7 @@
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1hnmbpgAmqpwc453TDcfmR/clip_156776_216776.mp3",
             "description": "Social media zijn niet meer weg te denken uit onze samenleving. Bij iedereen gebruikt ze. Maar hoe werkt dat voor rechters?  Moeten rechters alleen blijven spreken via hun uitspraken? Of kunnen ze social media als een nuttig platform gebruiken? Rechters Joyce Lie en Jos Vink - beter bekend als Judge Joyce en rechter Jos - zijn ervaringsdeskundigen. Zij zijn al jaren actief op verschillende social media en vertellen in deze podcast over de kansen die dat biedt, maar ook over de gevaren ervan.   Meer weten? Meld je aan voor de cursus Rechtspraak en sociale media (https://ssr.nl/cursus/apzzsocm/).",
             "html_description": "<p>Social media zijn niet meer weg te denken uit onze samenleving. Bij iedereen gebruikt ze. Maar hoe werkt dat voor rechters? </p><br/><p>Moeten rechters alleen blijven spreken via hun uitspraken? Of kunnen ze social media als een nuttig platform gebruiken?<br /><br/>Rechters Joyce Lie en Jos Vink - beter bekend als Judge Joyce en rechter Jos - zijn ervaringsdeskundigen. Zij zijn al jaren actief op verschillende social media en vertellen in deze podcast over de kansen die dat biedt, maar ook over de gevaren ervan.  </p><br/><p>Meer weten? Meld je aan voor <a href=\"https://ssr.nl/cursus/apzzsocm/\" rel=\"nofollow\">de cursus Rechtspraak en sociale media</a>.</p>",
-            "duration_ms": 999023,
+            "duration_ms": 999024,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3QDtMsbHV2Ho3hBO2f9AkK"
