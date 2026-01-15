@@ -9080,15 +9080,135 @@
       "publisher": "CIP - Centrum Informatiebeveiliging en Privacybescherming",
       "type": "show",
       "uri": "spotify:show:6Eb7YjZnONrbelDXDEe1iQ",
-      "total_episodes": 128,
+      "total_episodes": 131,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 128,
+        "total": 131,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4awCiXLriNOhA1SjlUxiGE/clip_498761_558761.mp3",
+            "description": "Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de derde aflevering van de podcastserie \u2018Privacy & de cloud in de praktijk\u2019 hebben we het met Bas de Natris (Co\u00f6rdinerend Adviseur Cloud Security, Directie CIO Rijk) en Jacques Eding (Co\u00f6rdinator Privacy team CIO Rijk) onder andere over nationale en internationale regelgeving, toezicht en de verantwoordelijkheden van de CISO, CPO, CTO etc. binnen een overheidsorganisatie.De podcastserie is mede mogelijk gemaakt door CIO Rijk.\u00a0",
+            "html_description": "<p>Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de derde aflevering van de podcastserie \u2018Privacy &amp; de cloud in de praktijk\u2019 hebben we het met Bas de Natris (Co\u00f6rdinerend Adviseur Cloud Security, Directie CIO Rijk) en Jacques Eding (Co\u00f6rdinator Privacy team CIO Rijk) onder andere over nationale en internationale regelgeving, toezicht en de verantwoordelijkheden van de CISO, CPO, CTO etc. binnen een overheidsorganisatie.</p><p>De podcastserie is mede mogelijk gemaakt door CIO Rijk.\u00a0</p>",
+            "duration_ms": 1703575,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5X1d1yRlh4Vk62Ih7M4w9f"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5X1d1yRlh4Vk62Ih7M4w9f",
+            "id": "5X1d1yRlh4Vk62Ih7M4w9f",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Privacy & de cloud in de praktijk: wetgeving",
+            "release_date": "2026-01-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5X1d1yRlh4Vk62Ih7M4w9f"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6f5a4tNH6PdISOGHRQ9Q5o/clip_287927_347927.mp3",
+            "description": "Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de tweede aflevering van de podcastserie \u2018Privacy & de cloud in de praktijk\u2019 hebben we het met Ferjan Ormeling (Strategisch Beleidsadviseur Cloud, CIO Rijk) onder andere over cloudbeleid, geopolitiek en samenwerken binnen de Nederlandse overheid.\u200bDe podcastserie is mede mogelijk gemaakt door CIO Rijk.\u00a0",
+            "html_description": "<p>Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de tweede aflevering van de podcastserie \u2018Privacy &amp; de cloud in de praktijk\u2019 hebben we het met Ferjan Ormeling (Strategisch Beleidsadviseur Cloud, CIO Rijk) onder andere over cloudbeleid, geopolitiek en samenwerken binnen de Nederlandse overheid.</p><p>\u200bDe podcastserie is mede mogelijk gemaakt door CIO Rijk.\u00a0</p>",
+            "duration_ms": 1482344,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7jJNwzMXkWDLLV7NmwAuv3"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7jJNwzMXkWDLLV7NmwAuv3",
+            "id": "7jJNwzMXkWDLLV7NmwAuv3",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Privacy & de cloud in de praktijk: beleid",
+            "release_date": "2026-01-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7jJNwzMXkWDLLV7NmwAuv3"
+          },
+          {
+            "audio_preview_url": null,
+            "description": "Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de eerste aflevering van de podcastserie \u2018Privacy & de cloud in de praktijk\u2019 hebben we het met Bas de Natris (Co\u00f6rdinerend Adviseur Cloud Security, Directie CIO Rijk) onder andere over risicoanalyses, ketenverantwoordelijkheid en de noodzaak van twee exitplannen.De podcastserie is mede mogelijk gemaakt door CIO Rijk.\u00a0",
+            "html_description": "<p>Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de eerste aflevering van de podcastserie \u2018Privacy &amp; de cloud in de praktijk\u2019 hebben we het met Bas de Natris (Co\u00f6rdinerend Adviseur Cloud Security, Directie CIO Rijk) onder andere over risicoanalyses, ketenverantwoordelijkheid en de noodzaak van twee exitplannen.</p><p>De podcastserie is mede mogelijk gemaakt door CIO Rijk.\u00a0</p>",
+            "duration_ms": 1881730,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/69Nwz49LjyBpfigaMIJZeU"
+            },
+            "href": "https://api.spotify.com/v1/episodes/69Nwz49LjyBpfigaMIJZeU",
+            "id": "69Nwz49LjyBpfigaMIJZeU",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Privacy & de cloud in de praktijk: veiligheid",
+            "release_date": "2026-01-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:69Nwz49LjyBpfigaMIJZeU"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0sbpw3dUmSLCzxMp47bK5Q/clip_347548_407548.mp3",
             "description": "Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0",
@@ -10972,32 +11092,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7BEN3p97puSW1xZFRnq2IC/clip_0_60000.mp3",
             "description": "Jacques Eding is Chief Security Officer bij de Nederlandse Zorgautoriteit, en heeft ook een achtergrond in privacy. Hij zegt, in gesprek met Walter van Wijk (CIP) en Robin Rotman (host), dat privacy af moet van het imago van \u2018neen-zeggers'. Hij stelt: \u2018Begin bij een nieuwe project of werkproces met een uitleg erover aan de buitenwereld. Als het wordt geaccepteerd, doe je aan privacy-by-design in de praktijk. Verder is het effectief om privacy te bekijken vanuit de kant van informatieveiligheid. En nog effici\u00ebnt en kostenbewust ook\u2019.\u00a0Daarnaast staat de ethische kant van het verwerken van gegevens bij Jacques hoog op de agenda.Luister ook de andere afleveringen van de CIP podcastserie \u2018Captains of Privacy\u2019. Dit is aflevering twee van de in totaal vier in deze tweede serie.",
-            "html_description": "<p>Jacques Eding is Chief Security Officer bij de Nederlandse Zorgautoriteit, en heeft ook een achtergrond in privacy. Hij zegt, in gesprek met Walter van Wijk (CIP) en Robin Rotman (host), dat privacy af moet van het imago van \u2018neen-zeggers&#39;. <br />Hij stelt: \u2018Begin bij een nieuwe project of werkproces met een uitleg erover aan de buitenwereld. Als het wordt geaccepteerd, doe je aan privacy-by-design in de praktijk. Verder is het effectief om privacy te bekijken vanuit de kant van informatieveiligheid. En nog effici\u00ebnt en kostenbewust ook\u2019.\u00a0<br />Daarnaast staat de ethische kant van het verwerken van gegevens bij Jacques hoog op de agenda.</p><p>Luister ook de andere afleveringen van de CIP podcastserie \u2018Captains of Privacy\u2019. Dit is aflevering twee van de in totaal vier in deze tweede serie.</p>",
             "duration_ms": 1569332,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/5Z1ieMwwh5LprHIHVDq3Lu"
             },
             "href": "https://api.spotify.com/v1/episodes/5Z1ieMwwh5LprHIHVDq3Lu",
+            "html_description": "<p>Jacques Eding is Chief Security Officer bij de Nederlandse Zorgautoriteit, en heeft ook een achtergrond in privacy. Hij zegt, in gesprek met Walter van Wijk (CIP) en Robin Rotman (host), dat privacy af moet van het imago van \u2018neen-zeggers&#39;. <br />Hij stelt: \u2018Begin bij een nieuwe project of werkproces met een uitleg erover aan de buitenwereld. Als het wordt geaccepteerd, doe je aan privacy-by-design in de praktijk. Verder is het effectief om privacy te bekijken vanuit de kant van informatieveiligheid. En nog effici\u00ebnt en kostenbewust ook\u2019.\u00a0<br />Daarnaast staat de ethische kant van het verwerken van gegevens bij Jacques hoog op de agenda.</p><p>Luister ook de andere afleveringen van de CIP podcastserie \u2018Captains of Privacy\u2019. Dit is aflevering twee van de in totaal vier in deze tweede serie.</p>",
             "id": "5Z1ieMwwh5LprHIHVDq3Lu",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -11012,32 +11132,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1EtuVzqmTehoZdrua9J5zV/clip_149002_209002.mp3",
             "description": "In de eerste aflevering van Captains of Privacy deel II zijn Walter van Wijk (CIP) en Robin Rotman (host) in gesprek met Marie-Jos\u00e9 Bonthuis.\u00a0Marie-Jos\u00e9 is ondernemer, FG-coach en -trainer en schrijver van onder meer het boek \u2018Senior Privacy Professional\u2019. Marie-Jos\u00e9 maakt zich zorgen over de macht van de grote tech-giganten en pleit voor veel bredere toepassing van \u2018privacy by design\u2019. Ze werkt aan manieren om privacy meer te vervlechten met de bedrijfsvoering, m\u00e9t ondersteuning van managers en bestuurders. Volgens Marie-Jos\u00e9 is het privacy-vak een creatief vak, maar ook een vakgebied dat meer volwassen moet worden.",
-            "html_description": "<p>In de eerste aflevering van Captains of Privacy deel II zijn Walter van Wijk (CIP) en Robin Rotman (host) in gesprek met Marie-Jos\u00e9 Bonthuis.\u00a0</p><p>Marie-Jos\u00e9 is ondernemer, FG-coach en -trainer en schrijver van onder meer het boek \u2018Senior Privacy Professional\u2019. Marie-Jos\u00e9 maakt zich zorgen over de macht van de grote tech-giganten en pleit voor veel bredere toepassing van \u2018privacy by design\u2019. Ze werkt aan manieren om privacy meer te vervlechten met de bedrijfsvoering, m\u00e9t ondersteuning van managers en bestuurders. Volgens Marie-Jos\u00e9 is het privacy-vak een creatief vak, maar ook een vakgebied dat meer volwassen moet worden.</p>",
             "duration_ms": 1417508,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1cvLmaqRvw7oZxbXdo3pYI"
             },
             "href": "https://api.spotify.com/v1/episodes/1cvLmaqRvw7oZxbXdo3pYI",
+            "html_description": "<p>In de eerste aflevering van Captains of Privacy deel II zijn Walter van Wijk (CIP) en Robin Rotman (host) in gesprek met Marie-Jos\u00e9 Bonthuis.\u00a0</p><p>Marie-Jos\u00e9 is ondernemer, FG-coach en -trainer en schrijver van onder meer het boek \u2018Senior Privacy Professional\u2019. Marie-Jos\u00e9 maakt zich zorgen over de macht van de grote tech-giganten en pleit voor veel bredere toepassing van \u2018privacy by design\u2019. Ze werkt aan manieren om privacy meer te vervlechten met de bedrijfsvoering, m\u00e9t ondersteuning van managers en bestuurders. Volgens Marie-Jos\u00e9 is het privacy-vak een creatief vak, maar ook een vakgebied dat meer volwassen moet worden.</p>",
             "id": "1cvLmaqRvw7oZxbXdo3pYI",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8aa40e0f04059b4f4e65080978",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa40e0f04059b4f4e65080978",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fa40e0f04059b4f4e65080978",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fa40e0f04059b4f4e65080978",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68da40e0f04059b4f4e65080978",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68da40e0f04059b4f4e65080978",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -11052,32 +11172,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0LAHzoHOpZikr3fd5AnuCj/clip_0_60000.mp3",
             "description": "Op 15 maart 2023 spraken Gerrit-Jan Zwenne en Taetske van der Reijt in een CIP webinar over de Verzamelwet. Deze podcast is de geluidsregistratie van dit webinar.Gerrit-Jan, advocaat en hoogleraar aan de universiteit van Leiden, en Taetske, wetgevingsjurist bij het Ministerie van Justitie & Veiligheid spraken over de diverse onderdelen van deze nieuwe wet. Wat betekent het voor privacybescherming, welke impact zien zij, wanneer wordt hij (waarschijnlijk) van kracht, wat is de internationale context, e.d.\u00a0",
-            "html_description": "<p>Op 15 maart 2023 spraken Gerrit-Jan Zwenne en Taetske van der Reijt in een CIP webinar over de Verzamelwet. Deze podcast is de geluidsregistratie van dit webinar.</p><p>Gerrit-Jan, advocaat en hoogleraar aan de universiteit van Leiden, en Taetske, wetgevingsjurist bij het Ministerie van Justitie &amp; Veiligheid spraken over de diverse onderdelen van deze nieuwe wet. Wat betekent het voor privacybescherming, welke impact zien zij, wanneer wordt hij (waarschijnlijk) van kracht, wat is de internationale context, e.d.\u00a0</p>",
             "duration_ms": 3126204,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3DGWz7Ob0q2jrZAIvgCVzS"
             },
             "href": "https://api.spotify.com/v1/episodes/3DGWz7Ob0q2jrZAIvgCVzS",
+            "html_description": "<p>Op 15 maart 2023 spraken Gerrit-Jan Zwenne en Taetske van der Reijt in een CIP webinar over de Verzamelwet. Deze podcast is de geluidsregistratie van dit webinar.</p><p>Gerrit-Jan, advocaat en hoogleraar aan de universiteit van Leiden, en Taetske, wetgevingsjurist bij het Ministerie van Justitie &amp; Veiligheid spraken over de diverse onderdelen van deze nieuwe wet. Wat betekent het voor privacybescherming, welke impact zien zij, wanneer wordt hij (waarschijnlijk) van kracht, wat is de internationale context, e.d.\u00a0</p>",
             "id": "3DGWz7Ob0q2jrZAIvgCVzS",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abaa0653e4e7ea1fa9da234af",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abaa0653e4e7ea1fa9da234af",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbaa0653e4e7ea1fa9da234af",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbaa0653e4e7ea1fa9da234af",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbaa0653e4e7ea1fa9da234af",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbaa0653e4e7ea1fa9da234af",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -127499,8 +127619,8 @@
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/05f6tJtVE6EgVx5NUxZBxV/clip_194307_254307.mp3",
-            "description": "In deze aflevering spreekt Erik Reissenweber met Willeke Slingerland, lector Weerbare Democratie, over de vaak onzichtbare rol van netwerken bij corruptie. Waar traditionele corruptie draait om omkoping, laat netwerkcorruptie zien hoe loyaliteit, wederkerigheid en gesloten kringetjes kunnen leiden tot ernstige integriteitsrisico\u2019s \u2014 vaak zonder dat iemand expliciet \u2018fout\u2019 wil zijn.We bespreken onder meer:Hoe netwerkcorruptie werkt en waarom het moeilijk te herkennen isWaarom netwerken soms kritische tegenspraak onderdrukkenVoorbeelden uit binnenlands bestuur \u00e9n internationale casussen zoals FIFA en UberDe link met witwassen: hoe criminele geldstromen de bovenwereld binnenkomenWaarom bestaande anti-corruptiewetgeving tekortschietHet belang van influence peddling en de Europese richtlijnWat een poortwachter, toezichthouder of opsporingsprofessional n\u00fa al kan doenZelfreflectie: hoe organiseer je je eigen tegenmacht?Deze aflevering is onderdeel van een tweeluik. In deel 2 zoomen we in op concrete casussen uit gemeenten en lokale netwerken.Links naar bronnen, zoals besproken in de podcast:Agreement reached on the first EU-wide criminal law rules against corruption | News | European Parliament: https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption Council and European Parliament reach deal on new EU law to step up fight against corruption - Consilium: https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/De kamervragen van van Nispen (3 maart 2025):https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html",
-            "html_description": "<p>In deze aflevering spreekt Erik Reissenweber met Willeke Slingerland, lector Weerbare Democratie, over de vaak onzichtbare rol van netwerken bij corruptie. Waar traditionele corruptie draait om omkoping, laat netwerkcorruptie zien hoe loyaliteit, wederkerigheid en gesloten kringetjes kunnen leiden tot ernstige integriteitsrisico\u2019s \u2014 vaak zonder dat iemand expliciet \u2018fout\u2019 wil zijn.</p><p>We bespreken onder meer:</p><ul><li><p>Hoe netwerkcorruptie werkt en waarom het moeilijk te herkennen is</p></li><li><p>Waarom netwerken soms kritische tegenspraak onderdrukken</p></li><li><p>Voorbeelden uit binnenlands bestuur \u00e9n internationale casussen zoals FIFA en Uber</p></li><li><p>De link met witwassen: hoe criminele geldstromen de bovenwereld binnenkomen</p></li><li><p>Waarom bestaande anti-corruptiewetgeving tekortschiet</p></li><li><p>Het belang van influence peddling en de Europese richtlijn</p></li><li><p>Wat een poortwachter, toezichthouder of opsporingsprofessional n\u00fa al kan doen</p></li><li><p>Zelfreflectie: hoe organiseer je je eigen tegenmacht?</p></li></ul><p>Deze aflevering is onderdeel van een tweeluik. In deel 2 zoomen we in op concrete casussen uit gemeenten en lokale netwerken.</p><p>Links naar bronnen, zoals besproken in de podcast:</p><ul><li><p><a href=\"https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption\" rel=\"nofollow\">Agreement reached on the first EU-wide criminal law rules against corruption | News | European Parliament</a>: https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption\t</p></li><li><p><a href=\"https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/\" rel=\"nofollow\">Council and European Parliament reach deal on new EU law to step up fight against corruption - Consilium</a>: https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/</p></li></ul><p>De kamervragen van van Nispen (3 maart 2025):<a href=\"https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html?utm_source&#61;chatgpt.com\" rel=\"nofollow\">https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html</a></p>",
+            "description": "In deze aflevering spreekt Erik Reissenweber met Willeke Slingerland, Lector Sociale Cohesie en de Democratische Rechtsstaat (Hogeschool Utrecht), over de vaak onzichtbare rol van netwerken bij corruptie. Waar traditionele corruptie draait om omkoping, laat netwerkcorruptie zien hoe loyaliteit, wederkerigheid en gesloten kringetjes kunnen leiden tot ernstige integriteitsrisico\u2019s \u2014 vaak zonder dat iemand expliciet \u2018fout\u2019 wil zijn.We bespreken onder meer:Hoe netwerkcorruptie werkt en waarom het moeilijk te herkennen isWaarom netwerken soms kritische tegenspraak onderdrukkenVoorbeelden uit binnenlands bestuur \u00e9n internationale casussen zoals FIFA en UberDe link met witwassen: hoe criminele geldstromen de bovenwereld binnenkomenWaarom bestaande anti-corruptiewetgeving tekortschietHet belang van influence peddling en de Europese richtlijnWat een poortwachter, toezichthouder of opsporingsprofessional n\u00fa al kan doenZelfreflectie: hoe organiseer je je eigen tegenmacht?Deze aflevering is onderdeel van een tweeluik. In deel 2 zoomen we in op concrete casussen uit gemeenten en lokale netwerken.Links naar bronnen, zoals besproken in de podcast:Agreement reached on the first EU-wide criminal law rules against corruption | News | European Parliament: https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption Council and European Parliament reach deal on new EU law to step up fight against corruption - Consilium: https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/De kamervragen van van Nispen (3 maart 2025):https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html",
+            "html_description": "<p>In deze aflevering spreekt Erik Reissenweber met Willeke Slingerland, Lector Sociale Cohesie en de Democratische Rechtsstaat (Hogeschool Utrecht), over de vaak onzichtbare rol van netwerken bij corruptie. Waar traditionele corruptie draait om omkoping, laat netwerkcorruptie zien hoe loyaliteit, wederkerigheid en gesloten kringetjes kunnen leiden tot ernstige integriteitsrisico\u2019s \u2014 vaak zonder dat iemand expliciet \u2018fout\u2019 wil zijn.</p><p>We bespreken onder meer:</p><ul><li><p>Hoe netwerkcorruptie werkt en waarom het moeilijk te herkennen is</p></li><li><p>Waarom netwerken soms kritische tegenspraak onderdrukken</p></li><li><p>Voorbeelden uit binnenlands bestuur \u00e9n internationale casussen zoals FIFA en Uber</p></li><li><p>De link met witwassen: hoe criminele geldstromen de bovenwereld binnenkomen</p></li><li><p>Waarom bestaande anti-corruptiewetgeving tekortschiet</p></li><li><p>Het belang van influence peddling en de Europese richtlijn</p></li><li><p>Wat een poortwachter, toezichthouder of opsporingsprofessional n\u00fa al kan doen</p></li><li><p>Zelfreflectie: hoe organiseer je je eigen tegenmacht?</p></li></ul><p>Deze aflevering is onderdeel van een tweeluik. In deel 2 zoomen we in op concrete casussen uit gemeenten en lokale netwerken.</p><p>Links naar bronnen, zoals besproken in de podcast:</p><ul><li><p><a href=\"https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption\" rel=\"nofollow\">Agreement reached on the first EU-wide criminal law rules against corruption | News | European Parliament</a>: https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption\t</p></li><li><p><a href=\"https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/\" rel=\"nofollow\">Council and European Parliament reach deal on new EU law to step up fight against corruption - Consilium</a>: https://www.consilium.europa.eu/en/press/press-releases/2025/12/02/council-and-european-parliament-reach-deal-on-new-eu-law-to-step-up-fight-against-corruption/</p></li></ul><p>De kamervragen van van Nispen (3 maart 2025):<a href=\"https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html?utm_source&#61;chatgpt.com\" rel=\"nofollow\">https://zoek.officielebekendmakingen.nl/ah-tk-20242025-1472.html</a></p>",
             "duration_ms": 3431198,
             "explicit": false,
             "external_urls": {
