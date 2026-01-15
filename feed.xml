@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-01-15T15:27:55Z</updated>
+	<updated>2026-01-15T22:24:00Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -50,6 +50,17 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/4KkBRc6HvFRIC1zai1dyTc/clip_127587_187587.mp3" type="audio/mpeg" />
 		<id>spotify:episode:14yASUn8aIqdV3xByTOlpS</id>
+		<updated>2026-01-15T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>KNMI - De KNMI Podcast - Aflevering 3: Elfstedentocht, dooimist en schaatsen op natuurijs</title>
+		<link href="https://open.spotify.com/episode/0QHiM91rnd7a059iaCwLAE" />
+		<summary type="html">&lt;p&gt;In deze aflevering praten Rob Sluijter en Rubert Konijn met elfstedenmeteoroloog Hisso Homan, klimaatonderzoeker Hylke de Vries en ijsmeester Hendrik van Prooije van de Winterswijkse ijsvereniging over schaatsen op natuurijs, de kans op een Elfstedentocht en hoe bereken je die kans eigenlijk?&lt;br /&gt;&lt;br /&gt;Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar &lt;a href="info&amp;#64;knmi.nl" rel="nofollow"&gt;info&amp;#64;knmi.nl&lt;/a&gt;.  &lt;br /&gt;&lt;br /&gt;Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de &lt;a href="https://apps.apple.com/nl/app/knmi-weer/id1225568094" rel="nofollow"&gt;App store&lt;/a&gt; voor Android in de &lt;a href="https://play.google.com/store/apps/details?id&amp;#61;nl.knmi.weer" rel="nofollow"&gt;Play store&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;En volg ons op Instagram: &lt;a href="https://www.instagram.com/knmi.nl/" rel="nofollow"&gt;https://www.instagram.com/knmi.nl/&lt;/a&gt;.&lt;/p&gt;</summary>
+		<author>
+			<name>KNMI</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/5lHEPZHtZk9wvvKDuLuzNY/clip_303384_363384.mp3" type="audio/mpeg" />
+		<id>spotify:episode:0QHiM91rnd7a059iaCwLAE</id>
 		<updated>2026-01-15T00:00:00Z</updated>
 	</entry>
 	<entry>
