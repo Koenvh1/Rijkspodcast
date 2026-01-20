@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-01-16T15:26:09Z</updated>
+	<updated>2026-01-20T06:38:41Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Uitvoering - #11 Als de kosten opstapelen</title>
+		<link href="https://open.spotify.com/episode/2HzVCt61ZmODl0jz86KHHT" />
+		<summary type="html">&lt;p&gt;In deze aflevering horen we het verhaal van Lucinda van de Ven, die haar zus Nadia verloor door een moord. Na dit grote verlies komt zij samen met haar moeder in een financieel moeras terecht. De uitvaart, verlies van inkomen, medische zorg, juridische procedures: de kosten stapelen zich op tot grote bedragen.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Slachtofferhulp Nederland ziet dit probleem keer op keer terugkomen bij nabestaanden. Zij maken forse kosten, terwijl de weg naar vergoeding vaak jarenlang duurt en onzeker is. Bestuursvoorzitter Rosa Jansen en casemanager Moniek Aldewereld vertellen hoe Slachtofferhulp nabestaanden bijstaat in dit ingewikkelde en pijnlijke proces.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Wil je meer weten over het werk van Slachtofferhulp Nederland? Kijk dan op www.slachtofferhulp.nl. Wil je meer lezen over de inzet van Lucinda van de Ven? Ga dan naar &lt;a href="https://www.lucindavandeven.nl/" rel="nofollow"&gt;https://www.lucindavandeven.nl/&lt;/a&gt;. &lt;/p&gt;</summary>
+		<author>
+			<name>Het ministerie van Justitie en Veiligheid (JenV)</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0tsW1KfxF55yY8D3rlBAGp/clip_128356_188356.mp3" type="audio/mpeg" />
+		<id>spotify:episode:2HzVCt61ZmODl0jz86KHHT</id>
+		<updated>2026-01-20T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Innovatie Ambtenaar - Wat doen ontwerpers binnen de overheid? Met Ece en Claire</title>
 		<link href="https://open.spotify.com/episode/6eMY9Len4hTfZNJpbzU9WT" />

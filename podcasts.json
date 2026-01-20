@@ -21380,15 +21380,55 @@
       "publisher": "Het ministerie van Justitie en Veiligheid (JenV)",
       "type": "show",
       "uri": "spotify:show:5t7QVRJDOA6nySnsHrc7sU",
-      "total_episodes": 10,
+      "total_episodes": 11,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5t7QVRJDOA6nySnsHrc7sU/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 10,
+        "total": 11,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0tsW1KfxF55yY8D3rlBAGp/clip_128356_188356.mp3",
+            "description": "In deze aflevering horen we het verhaal van Lucinda van de Ven, die haar zus Nadia verloor door een moord. Na dit grote verlies komt zij samen met haar moeder in een financieel moeras terecht. De uitvaart, verlies van inkomen, medische zorg, juridische procedures: de kosten stapelen zich op tot grote bedragen.Slachtofferhulp Nederland ziet dit probleem keer op keer terugkomen bij nabestaanden. Zij maken forse kosten, terwijl de weg naar vergoeding vaak jarenlang duurt en onzeker is. Bestuursvoorzitter Rosa Jansen en casemanager Moniek Aldewereld vertellen hoe Slachtofferhulp nabestaanden bijstaat in dit ingewikkelde en pijnlijke proces.Wil je meer weten over het werk van Slachtofferhulp Nederland? Kijk dan op www.slachtofferhulp.nl. Wil je meer lezen over de inzet van Lucinda van de Ven? Ga dan naar https://www.lucindavandeven.nl/.\u00a0",
+            "html_description": "<p>In deze aflevering horen we het verhaal van Lucinda van de Ven, die haar zus Nadia verloor door een moord. Na dit grote verlies komt zij samen met haar moeder in een financieel moeras terecht. De uitvaart, verlies van inkomen, medische zorg, juridische procedures: de kosten stapelen zich op tot grote bedragen.</p><p><br /></p><p>Slachtofferhulp Nederland ziet dit probleem keer op keer terugkomen bij nabestaanden. Zij maken forse kosten, terwijl de weg naar vergoeding vaak jarenlang duurt en onzeker is. Bestuursvoorzitter Rosa Jansen en casemanager Moniek Aldewereld vertellen hoe Slachtofferhulp nabestaanden bijstaat in dit ingewikkelde en pijnlijke proces.</p><p><br /></p><p>Wil je meer weten over het werk van Slachtofferhulp Nederland? Kijk dan op www.slachtofferhulp.nl. Wil je meer lezen over de inzet van Lucinda van de Ven? Ga dan naar <a href=\"https://www.lucindavandeven.nl/\" rel=\"nofollow\">https://www.lucindavandeven.nl/</a>.\u00a0</p>",
+            "duration_ms": 1495992,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2HzVCt61ZmODl0jz86KHHT"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2HzVCt61ZmODl0jz86KHHT",
+            "id": "2HzVCt61ZmODl0jz86KHHT",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a39bc23af046277bfc2259256",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f39bc23af046277bfc2259256",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d39bc23af046277bfc2259256",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#11 Als de kosten opstapelen",
+            "release_date": "2026-01-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2HzVCt61ZmODl0jz86KHHT"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0wSIRT9RB7tJeqAgGWzsF9/clip_155143_215143.mp3",
             "description": "In deze aflevering horen we hoe het Nederlands Forensisch Instituut (NFI) samen met de politie een taalmodel bouwde om doodsbedreigingen op te sporen in de Encrochat zaak. Uit de chatdienst werden in 2021 25 miljoen berichten onderschept en handmatig had de politie die berichten nooit allemaal op tijd kunnen analyseren. Dankzij slimme samenwerking en de technologische expertise van het NFI kon de politie al deze berichten makkelijk verwerken en zijn er levensbedreigende situaties voorkomen.\u00a0Data scientist Julia van het NFI en operationeel specialist Henk van de politie vertellen hoe de twee organisaties samenwerkten om dat model te bouwen. Daarnaast vertelt Mattijs Koeberg, innovatieadviseur bij het NFI, over het belang van kennisontwikkeling en de rol van innovatie binnen een rijkskennisinstelling. Hij benadrukt dat er dankzij technologische ontwikkelingen steeds meer mogelijk is in de wereld van opsporing en veiligheid!\u00a0Wil je meer weten over het NFI? Kijk dan op www.forensischinstituut.nl.",
