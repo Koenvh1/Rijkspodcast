@@ -124408,15 +124408,55 @@
       "publisher": "SSR Communicatie",
       "type": "show",
       "uri": "spotify:show:2fUgdA1OH04g1BPsGKe0Ne",
-      "total_episodes": 75,
+      "total_episodes": 76,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2fUgdA1OH04g1BPsGKe0Ne/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2fUgdA1OH04g1BPsGKe0Ne/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 75,
+        "total": 76,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7qNtLPKM81ixzfat9wILdg/clip_583826_643826.mp3",
+            "description": "Ybo Buruma \u2013 de nestor van het Nederlandse strafrecht - ging in september 2025 met pensioen. Hij nam hij afscheid van de Hoge Raad waar hij sinds 2011 raadsheer was. Ook verscheen onlangs zijn boek Onvoltooide rechtsstaat.  Hoogste tijd voor een terugblik op zijn carri\u00e8re en voor een blik vooruit. Een bezorgde blik, want \u2018we begeven ons op dit moment op een kantelpunt\u2019, volgens Buruma. Samen met interviewer Daan Langkamp bespreekt hij in deze extra lange aflevering zijn zorgen over de staat van de rechtsstaat.",
+            "html_description": "<p>Ybo Buruma \u2013 de nestor van het Nederlandse strafrecht - ging in september 2025 met pensioen. Hij nam hij afscheid van de Hoge Raad waar hij sinds 2011 raadsheer was. Ook verscheen onlangs zijn boek Onvoltooide rechtsstaat. <br /><br/>Hoogste tijd voor een terugblik op zijn carri\u00e8re en voor een blik vooruit. Een bezorgde blik, want \u2018we begeven ons op dit moment op een kantelpunt\u2019, volgens Buruma. Samen met interviewer Daan Langkamp bespreekt hij in deze extra lange aflevering zijn zorgen over de staat van de rechtsstaat.</p>",
+            "duration_ms": 2522544,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4mmYdmQHiCM8hZPrg96kuJ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4mmYdmQHiCM8hZPrg96kuJ",
+            "id": "4mmYdmQHiCM8hZPrg96kuJ",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab86b015c3b5cd8ede6d35571",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb86b015c3b5cd8ede6d35571",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db86b015c3b5cd8ede6d35571",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Episode 76: Ybo Buruma -  De staat van de rechtsstaat",
+            "release_date": "2026-01-21",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4mmYdmQHiCM8hZPrg96kuJ"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/69pXA6P5RDptPSS5YenKeT/clip_500299_560299.mp3",
             "description": "Kunst kan ons iets laten begrijpen zonder oordeel. En daar kunnen we in de rechterlijke organisatie, als beoordelaars van geschillen, veel van leren. SSR-bestuurder Diederik Greive pleit in deze podcast dan ook voor meer verbeelding in de rechtspraktijk.",
@@ -126380,28 +126420,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5CS1P1ZrJLBJJXBZ9cdgii/clip_255091_315091.mp3",
             "description": "Plaats delict: internet. In deze speciale serie van SSR Meestervertellers besteden we een maand lang wekelijks aandacht aan de aanpak van internetcriminaliteit. In deze aflevering spreekt cyber-expert Chris van\u2019t Hof met Brenno de Winter. In zijn rol als onderzoeksjournalist probeerde De Winter misstanden aan te kaarten door hacks van onder meer de OV-chipkaart. Tegenwoordig helpt hij organisaties met het verbeteren van gegevensbescherming.  Van 't Hof en de Winter praten in deze podcast niet zozeer over computercriminaliteit, maar wel over digitale bewijsvoering. Ze vragen zich af: \u201cIn hoeverre moet een rechter z\u00e9lf ICT-kennis hebben en welke experts kan de rechter vertrouwen om een oordeel te vellen?\u201d Kijk op ssr.nl/podcast voor een downloadlink naar de Survivalgids voor de Digitale Jungle, het boek van Brenno de Winter.",
-            "html_description": "<p>Plaats delict: internet. In deze speciale serie van SSR Meestervertellers besteden we een maand lang wekelijks aandacht aan de aanpak van internetcriminaliteit.</p><br/><p>In deze aflevering spreekt cyber-expert Chris van\u2019t Hof met Brenno de Winter. In zijn rol als onderzoeksjournalist probeerde De Winter misstanden aan te kaarten door hacks van onder meer de OV-chipkaart. Tegenwoordig helpt hij organisaties met het verbeteren van gegevensbescherming. </p><br/><p>Van &#39;t Hof en de Winter praten in deze podcast niet zozeer over computercriminaliteit, maar wel over digitale bewijsvoering. Ze vragen zich af: \u201cIn hoeverre moet een rechter z\u00e9lf ICT-kennis hebben en welke experts kan de rechter vertrouwen om een oordeel te vellen?\u201d</p><br/><p>Kijk op ssr.nl/podcast voor een downloadlink naar de Survivalgids voor de Digitale Jungle, het boek van Brenno de Winter. </p>",
             "duration_ms": 1308421,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/0Z7HK7o9wFEJADQtUCORU5"
             },
             "href": "https://api.spotify.com/v1/episodes/0Z7HK7o9wFEJADQtUCORU5",
+            "html_description": "<p>Plaats delict: internet. In deze speciale serie van SSR Meestervertellers besteden we een maand lang wekelijks aandacht aan de aanpak van internetcriminaliteit.</p><br/><p>In deze aflevering spreekt cyber-expert Chris van\u2019t Hof met Brenno de Winter. In zijn rol als onderzoeksjournalist probeerde De Winter misstanden aan te kaarten door hacks van onder meer de OV-chipkaart. Tegenwoordig helpt hij organisaties met het verbeteren van gegevensbescherming. </p><br/><p>Van &#39;t Hof en de Winter praten in deze podcast niet zozeer over computercriminaliteit, maar wel over digitale bewijsvoering. Ze vragen zich af: \u201cIn hoeverre moet een rechter z\u00e9lf ICT-kennis hebben en welke experts kan de rechter vertrouwen om een oordeel te vellen?\u201d</p><br/><p>Kijk op ssr.nl/podcast voor een downloadlink naar de Survivalgids voor de Digitale Jungle, het boek van Brenno de Winter. </p>",
             "id": "0Z7HK7o9wFEJADQtUCORU5",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ab86b015c3b5cd8ede6d35571",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab86b015c3b5cd8ede6d35571",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fb86b015c3b5cd8ede6d35571",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb86b015c3b5cd8ede6d35571",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68db86b015c3b5cd8ede6d35571",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db86b015c3b5cd8ede6d35571",
                 "width": 64
               }
             ],

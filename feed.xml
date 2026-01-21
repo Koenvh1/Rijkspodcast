@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-01-20T22:24:56Z</updated>
+	<updated>2026-01-21T10:31:14Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>SSR Meestervertellers - Episode 76: Ybo Buruma -  De staat van de rechtsstaat</title>
+		<link href="https://open.spotify.com/episode/4mmYdmQHiCM8hZPrg96kuJ" />
+		<summary type="html">&lt;p&gt;Ybo Buruma – de nestor van het Nederlandse strafrecht - ging in september 2025 met pensioen. Hij nam hij afscheid van de Hoge Raad waar hij sinds 2011 raadsheer was. Ook verscheen onlangs zijn boek Onvoltooide rechtsstaat. &lt;br /&gt;&lt;br/&gt;Hoogste tijd voor een terugblik op zijn carrière en voor een blik vooruit. Een bezorgde blik, want ‘we begeven ons op dit moment op een kantelpunt’, volgens Buruma. Samen met interviewer Daan Langkamp bespreekt hij in deze extra lange aflevering zijn zorgen over de staat van de rechtsstaat.&lt;/p&gt;</summary>
+		<author>
+			<name>SSR Communicatie</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/7qNtLPKM81ixzfat9wILdg/clip_583826_643826.mp3" type="audio/mpeg" />
+		<id>spotify:episode:4mmYdmQHiCM8hZPrg96kuJ</id>
+		<updated>2026-01-21T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Uitvoering - #11 Als de kosten opstapelen</title>
 		<link href="https://open.spotify.com/episode/2HzVCt61ZmODl0jz86KHHT" />
