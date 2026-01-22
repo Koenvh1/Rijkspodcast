@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-01-22T10:29:44Z</updated>
+	<updated>2026-01-22T15:33:05Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -28,6 +28,17 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/6yzgXGd7yDFpZW56srhXP7/clip_369915_429915.mp3" type="audio/mpeg" />
 		<id>spotify:episode:7eQtOd7flHMOsrBO7JIefM</id>
+		<updated>2026-01-22T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Planbureau voor de Leefomgeving - #30 Reflectie Ontwerp-Nota Ruimte</title>
+		<link href="https://open.spotify.com/episode/5Qz0TIJ6rhoi54yTpHlL3D" />
+		<summary type="html">Deze nieuwe aflevering van Studio Leefomgeving, de podcast van het PBL, gaat over de reflectie op de Ontwerp-Nota Ruimte. Een belangrijk plan, want het gaat over de grote ruimtelijke uitdagingen in Nederland, zoals het woningtekort. PBL-experts Rienk Kuiper en Bart Nijhof leggen uit wat ze goed vinden aan de ontwerpnota en leggen uit waar mogelijke aanscherpingen zitten op weg naar de definitieve Nota Ruimte. Podcast-hosts zijn Jacqueline Timmerhuis en Laura Westendorp, beide PBL-collega’s.</summary>
+		<author>
+			<name>PBL</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6T40DtEhYdU9uh94UXN03l/clip_639127_699127.mp3" type="audio/mpeg" />
+		<id>spotify:episode:5Qz0TIJ6rhoi54yTpHlL3D</id>
 		<updated>2026-01-22T00:00:00Z</updated>
 	</entry>
 	<entry>

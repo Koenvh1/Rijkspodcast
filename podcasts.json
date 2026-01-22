@@ -58195,15 +58195,55 @@
       "publisher": "PBL",
       "type": "show",
       "uri": "spotify:show:260DL4Ua6wUImv0e2KH3Fi",
-      "total_episodes": 28,
+      "total_episodes": 29,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/260DL4Ua6wUImv0e2KH3Fi/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 28,
+        "total": 29,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6T40DtEhYdU9uh94UXN03l/clip_639127_699127.mp3",
+            "description": "Deze nieuwe aflevering van Studio Leefomgeving, de podcast van het PBL, gaat over de reflectie op de Ontwerp-Nota Ruimte. Een belangrijk plan, want het gaat over de grote ruimtelijke uitdagingen in Nederland, zoals het woningtekort. PBL-experts Rienk Kuiper en Bart Nijhof leggen uit wat ze goed vinden aan de ontwerpnota en leggen uit waar mogelijke aanscherpingen zitten op weg naar de definitieve Nota Ruimte. Podcast-hosts zijn Jacqueline Timmerhuis en Laura Westendorp, beide PBL-collega\u2019s.",
+            "html_description": "Deze nieuwe aflevering van Studio Leefomgeving, de podcast van het PBL, gaat over de reflectie op de Ontwerp-Nota Ruimte. Een belangrijk plan, want het gaat over de grote ruimtelijke uitdagingen in Nederland, zoals het woningtekort. PBL-experts Rienk Kuiper en Bart Nijhof leggen uit wat ze goed vinden aan de ontwerpnota en leggen uit waar mogelijke aanscherpingen zitten op weg naar de definitieve Nota Ruimte. Podcast-hosts zijn Jacqueline Timmerhuis en Laura Westendorp, beide PBL-collega\u2019s.",
+            "duration_ms": 1699214,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5Qz0TIJ6rhoi54yTpHlL3D"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5Qz0TIJ6rhoi54yTpHlL3D",
+            "id": "5Qz0TIJ6rhoi54yTpHlL3D",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa0386c4b4f584d845ceb24c2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa0386c4b4f584d845ceb24c2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da0386c4b4f584d845ceb24c2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#30 Reflectie Ontwerp-Nota Ruimte",
+            "release_date": "2026-01-22",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5Qz0TIJ6rhoi54yTpHlL3D"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3ZAwRUCZ3UrBfDyNqwUUL2/clip_527754_587754.mp3",
             "description": "Een nieuwe aflevering van Studio Leefomgeving, deze keer over de publicatie van Keuzes voor de Leefomgeving met onderzoekers Dick van Dam en Timo Maas. \u201cDit rapport is gemaakt voor de formatie: de keuzes waar het nieuwe kabinet voor staat wat betreft de leefomgeving staan er in op een rij\u201d, aldus Dick van Dam.",
