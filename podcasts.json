@@ -9080,15 +9080,55 @@
       "publisher": "CIP - Centrum Informatiebeveiliging en Privacybescherming",
       "type": "show",
       "uri": "spotify:show:6Eb7YjZnONrbelDXDEe1iQ",
-      "total_episodes": 131,
+      "total_episodes": 132,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 131,
+        "total": 132,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4PWTUJHuV0a4z8AfoPptXp/clip_288980_348980.mp3",
+            "description": "Geert-Jan van de Ven (Directeur Centrum Informatiebeveiliging en Privacybescherming \u2013 CIP) bespreekt de bestuurlijke verantwoordelijkheid bij de implementatie van de BIO2. Het gaat volgens Geert-Jan sinds de invoering van de vernieuwde BIO2 vooral over eigenaarschap en bewust risicomanagement. Dit zijn zaken die de bestuurder samen met de organisatie op orde moet hebben. \u00a0",
+            "html_description": "<p>Geert-Jan van de Ven (Directeur Centrum Informatiebeveiliging en Privacybescherming \u2013 CIP) bespreekt de bestuurlijke verantwoordelijkheid bij de implementatie van de BIO2. Het gaat volgens Geert-Jan sinds de invoering van de vernieuwde BIO2 vooral over eigenaarschap en bewust risicomanagement. Dit zijn zaken die de bestuurder samen met de organisatie op orde moet hebben. \u00a0</p>",
+            "duration_ms": 1215869,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5HUdfvbamrCVnUzBxbhlIY"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5HUdfvbamrCVnUzBxbhlIY",
+            "id": "5HUdfvbamrCVnUzBxbhlIY",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 5 \u2013 De rol van de bestuurder bij de implementatie van de BIO2",
+            "release_date": "2026-01-22",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5HUdfvbamrCVnUzBxbhlIY"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4awCiXLriNOhA1SjlUxiGE/clip_498761_558761.mp3",
             "description": "Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de derde aflevering van de podcastserie \u2018Privacy & de cloud in de praktijk\u2019 hebben we het met Bas de Natris (Co\u00f6rdinerend Adviseur Cloud Security, Directie CIO Rijk) en Jacques Eding (Co\u00f6rdinator Privacy team CIO Rijk) onder andere over nationale en internationale regelgeving, toezicht en de verantwoordelijkheden van de CISO, CPO, CTO etc. binnen een overheidsorganisatie.De podcastserie is mede mogelijk gemaakt door CIO Rijk.\u00a0",
@@ -11052,32 +11092,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1HCSQxKb4s20tmye8ruCHt/clip_171948_231948.mp3",
             "description": "\u2018We moeten meer samenwerken en met een meer holistische blik naar het gebruik en verwerking van gegevens kijken\u2019, zegt Isabel Barber\u00e1. Deze recente winnaar van de \u2018Most Responsible AI leader\u2019 award bekijkt privacy ook vanuit een technologische en ethische optiek. Dat is z\u00f3 interessant dat Isabel ook internationaal actief is, onder meer voor ENISA en de EDPB. In deze podcast is ze in gesprek met Walter van Wijk (CIP) en Robin Rotman (host). Daarin vertelt ze onder meer over haar online bibliotheek met risico\u2019s rondom AI. Want veiligheid vindt ook zij belangrijk.",
-            "html_description": "<p>\u2018We moeten meer samenwerken en met een meer holistische blik naar het gebruik en verwerking van gegevens kijken\u2019, zegt Isabel Barber\u00e1. Deze recente winnaar van de \u2018Most Responsible AI leader\u2019 award bekijkt privacy ook vanuit een technologische en ethische optiek. Dat is z\u00f3 interessant dat Isabel ook internationaal actief is, onder meer voor ENISA en de EDPB. In deze podcast is ze in gesprek met Walter van Wijk (CIP) en Robin Rotman (host). Daarin vertelt ze onder meer over haar online bibliotheek met risico\u2019s rondom AI. Want veiligheid vindt ook zij belangrijk.</p>",
             "duration_ms": 1550027,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/6SjxxHdRTVbjk7USkHfREt"
             },
             "href": "https://api.spotify.com/v1/episodes/6SjxxHdRTVbjk7USkHfREt",
+            "html_description": "<p>\u2018We moeten meer samenwerken en met een meer holistische blik naar het gebruik en verwerking van gegevens kijken\u2019, zegt Isabel Barber\u00e1. Deze recente winnaar van de \u2018Most Responsible AI leader\u2019 award bekijkt privacy ook vanuit een technologische en ethische optiek. Dat is z\u00f3 interessant dat Isabel ook internationaal actief is, onder meer voor ENISA en de EDPB. In deze podcast is ze in gesprek met Walter van Wijk (CIP) en Robin Rotman (host). Daarin vertelt ze onder meer over haar online bibliotheek met risico\u2019s rondom AI. Want veiligheid vindt ook zij belangrijk.</p>",
             "id": "6SjxxHdRTVbjk7USkHfREt",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae7a925772c9ef0527ea0b742",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae7a925772c9ef0527ea0b742",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe7a925772c9ef0527ea0b742",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fe7a925772c9ef0527ea0b742",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68de7a925772c9ef0527ea0b742",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68de7a925772c9ef0527ea0b742",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [

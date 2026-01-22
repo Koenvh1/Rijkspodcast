@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-01-22T06:37:32Z</updated>
+	<updated>2026-01-22T10:29:44Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Aflevering 5 – De rol van de bestuurder bij de implementatie van de BIO2</title>
+		<link href="https://open.spotify.com/episode/5HUdfvbamrCVnUzBxbhlIY" />
+		<summary type="html">&lt;p&gt;Geert-Jan van de Ven (Directeur Centrum Informatiebeveiliging en Privacybescherming – CIP) bespreekt de bestuurlijke verantwoordelijkheid bij de implementatie van de BIO2. Het gaat volgens Geert-Jan sinds de invoering van de vernieuwde BIO2 vooral over eigenaarschap en bewust risicomanagement. Dit zijn zaken die de bestuurder samen met de organisatie op orde moet hebben.  &lt;/p&gt;</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4PWTUJHuV0a4z8AfoPptXp/clip_288980_348980.mp3" type="audio/mpeg" />
+		<id>spotify:episode:5HUdfvbamrCVnUzBxbhlIY</id>
+		<updated>2026-01-22T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Zorgklank - handvatten voor professionals in de zorg - S2E12: De mens centraal; Oncologische zorg in samenwerking met IPSO</title>
 		<link href="https://open.spotify.com/episode/7eQtOd7flHMOsrBO7JIefM" />
