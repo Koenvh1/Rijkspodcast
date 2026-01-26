@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-01-25T22:22:02Z</updated>
+	<updated>2026-01-26T06:39:45Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -1247,6 +1247,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/3IkviPEp4ERABS6UkJIXOH/clip_409468_469468.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2M7gMSf10rPE4E9eKF2XvN</id>
 		<updated>2025-09-30T00:00:00Z</updated>
 	</entry>
@@ -1631,6 +1632,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/59bBBKwHxMegwgkJ5ARMuO/clip_483202_543202.mp3" type="audio/mpeg" />
 		<id>spotify:episode:3bZppnl34FgfXiQLuJ8R1f</id>
 		<updated>2025-08-04T00:00:00Z</updated>
 	</entry>
@@ -2972,6 +2974,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/605LCzuxBShfu59ek5rKlL/clip_273328_333328.mp3" type="audio/mpeg" />
 		<id>spotify:episode:3W8fhAFacCci3GZeRoYETA</id>
 		<updated>2025-04-28T00:00:00Z</updated>
 	</entry>
@@ -3664,6 +3667,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6BLIAIvlEUtTnxidlEkLnV/clip_342839_402839.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5cVLWoaJNlCk3CsjSI7DB4</id>
 		<updated>2025-02-26T00:00:00Z</updated>
 	</entry>
@@ -5027,6 +5031,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/5vJGioiv9OeJFHpihM2AHu/clip_627312_687312.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2i5U5Nb11K04zqxEr9u1pl</id>
 		<updated>2024-11-25T00:00:00Z</updated>
 	</entry>
@@ -5664,6 +5669,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/7inGSxY3P1dbeVam4stmBz/clip_388153_448153.mp3" type="audio/mpeg" />
 		<id>spotify:episode:1ffxyEQhAvMsydCJUr7oGi</id>
 		<updated>2024-10-21T00:00:00Z</updated>
 	</entry>
@@ -6994,6 +7000,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/1CeCD3nwhJaPPDRhDMMLiM/clip_476290_536290.mp3" type="audio/mpeg" />
 		<id>spotify:episode:1JUgf2RY4xw7wFMxIZ1zM3</id>
 		<updated>2024-06-25T00:00:00Z</updated>
 	</entry>
@@ -7554,6 +7561,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/32p2K19Jj7beRLDNSaQTSS/clip_519206_579206.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2Fo9WjRUKVoygd5sKBiZjw</id>
 		<updated>2024-05-15T00:00:00Z</updated>
 	</entry>
@@ -9324,6 +9332,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6masbbLA6eNcUV5VDZOY2W/clip_453344_513344.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5OF7xVZMQjSbGzuuqQNvzX</id>
 		<updated>2023-12-29T00:00:00Z</updated>
 	</entry>
@@ -10434,6 +10443,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/74YLCnCmuBKuEhTx4svYUp/clip_611664_671664.mp3" type="audio/mpeg" />
 		<id>spotify:episode:1qlf9K9dtAnhQNdbO20Q9s</id>
 		<updated>2023-10-31T00:00:00Z</updated>
 	</entry>
@@ -11894,6 +11904,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0XEoyHL1g8YKSkQYMAjHIC/clip_463329_523329.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0dPa7e5n02mAOCoumJnAUk</id>
 		<updated>2023-07-04T00:00:00Z</updated>
 	</entry>
@@ -12751,6 +12762,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6jfP9zcT8JfwbFnCbpNBSQ/clip_252585_312585.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0egseHi2qa1mKn8WYIliTj</id>
 		<updated>2023-05-10T00:00:00Z</updated>
 	</entry>
@@ -14510,6 +14522,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6tq1sU4fJIGEG7ew3dR2LT/clip_301360_361360.mp3" type="audio/mpeg" />
 		<id>spotify:episode:52e0oRuWuusKnujOZk5XfL</id>
 		<updated>2023-01-11T00:00:00Z</updated>
 	</entry>
@@ -15466,6 +15479,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/2ROhrUG98qrTzIfNR00Srv/clip_511428_571428.mp3" type="audio/mpeg" />
 		<id>spotify:episode:6LqEFlh7RprU8xDFLDpADX</id>
 		<updated>2022-11-01T00:00:00Z</updated>
 	</entry>
@@ -16741,6 +16755,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/2r7yiqLksITOiqEo5bnQHE/clip_370392_430392.mp3" type="audio/mpeg" />
 		<id>spotify:episode:7hW7pHFL4paogQopHncVEc</id>
 		<updated>2022-07-06T00:00:00Z</updated>
 	</entry>
@@ -17719,6 +17734,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0VY95qVU0JvjHxX5cEIhqQ/clip_204105_264105.mp3" type="audio/mpeg" />
 		<id>spotify:episode:4c4ErDnRWe5LxukFuuEKs8</id>
 		<updated>2022-04-28T00:00:00Z</updated>
 	</entry>
@@ -18334,6 +18350,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6A1l7HapRfckJithV3S0F8/clip_343318_403318.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2Olfo6RKFflmBvpCqRt1cw</id>
 		<updated>2022-03-09T00:00:00Z</updated>
 	</entry>
@@ -19037,6 +19054,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/5IqxJls73hqj6bC8NICv8y/clip_526216_586216.mp3" type="audio/mpeg" />
 		<id>spotify:episode:1elJ98Jumvw1zlKTBBV44G</id>
 		<updated>2022-01-18T00:00:00Z</updated>
 	</entry>
@@ -19894,6 +19912,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4RaKDn5Ah09yKNK7g6e5XV/clip_212552_272552.mp3" type="audio/mpeg" />
 		<id>spotify:episode:7ES1ZfuN87exEEWE3qJALV</id>
 		<updated>2021-11-17T00:00:00Z</updated>
 	</entry>
@@ -20926,6 +20945,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6lbhNFgxzp07gRCgfAbTge/clip_264880_324880.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5ppcz87xxsTdXGUgehkTp7</id>
 		<updated>2021-09-14T00:00:00Z</updated>
 	</entry>
@@ -21728,6 +21748,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4jOhZIjxzNrz3llzATQuhf/clip_0_60000.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5P4KZfIkOBWhUwdR77yESk</id>
 		<updated>2021-07-07T00:00:00Z</updated>
 	</entry>
@@ -21936,6 +21957,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4tEby7X6ZxjwafPAlWxm9a/clip_575851_635851.mp3" type="audio/mpeg" />
 		<id>spotify:episode:1sOUTrQyLtGKMVkSHq0qqr</id>
 		<updated>2021-06-22T00:00:00Z</updated>
 	</entry>
@@ -22892,6 +22914,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/25ckgUga04PKQ0aP1QAWlw/clip_331028_391028.mp3" type="audio/mpeg" />
 		<id>spotify:episode:3ghXvySST9MUsny6WiyoUE</id>
 		<updated>2021-04-20T00:00:00Z</updated>
 	</entry>
@@ -24519,6 +24542,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4khagCB6ar5AlI20vP4pX6/clip_536681_596681.mp3" type="audio/mpeg" />
 		<id>spotify:episode:4lutD7JC9YZkoaskLlZrjP</id>
 		<updated>2020-12-16T00:00:00Z</updated>
 	</entry>
@@ -24760,6 +24784,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6vvBGsmg3pL6X9oNFd3zrt/clip_0_22726.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2uyKJpxj7eOotdOIf42qOh</id>
 		<updated>2020-11-25T00:00:00Z</updated>
 	</entry>
@@ -25111,6 +25136,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6y0JUjSXa8p36LuGLNlbbl/clip_244427_304427.mp3" type="audio/mpeg" />
 		<id>spotify:episode:3wyA44dLYTYA99cbL0xKdd</id>
 		<updated>2020-10-19T00:00:00Z</updated>
 	</entry>
@@ -25583,6 +25609,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/7JSnjxP9VT1GQjzY7aXLZw/clip_284464_344464.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0wgG4OExywiNGFjhF716Rc</id>
 		<updated>2020-08-24T00:00:00Z</updated>
 	</entry>
@@ -25648,6 +25675,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6qkTKbZ65rk51CgBJGox39/clip_599086_659086.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2hzT7zs84CuXbS6ovjJidX</id>
 		<updated>2020-08-05T00:00:00Z</updated>
 	</entry>
@@ -25944,6 +25972,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/2Fj7MDG5mm67iTIDjsR996/clip_509604_569604.mp3" type="audio/mpeg" />
 		<id>spotify:episode:18101udd94CQqvuzOShPlf</id>
 		<updated>2020-06-23T00:00:00Z</updated>
 	</entry>
@@ -26460,6 +26489,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/1OeS0aZLhqzAbnYglMtI6w/clip_419742_479742.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0j5jOImsTuv4y7aFEukISV</id>
 		<updated>2020-04-22T00:00:00Z</updated>
 	</entry>
@@ -26844,6 +26874,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/7c4CCynOntaj2jhZVUFj81/clip_457955_517955.mp3" type="audio/mpeg" />
 		<id>spotify:episode:51JrRXWo1fLa8Vt7aLkJ1j</id>
 		<updated>2020-02-20T00:00:00Z</updated>
 	</entry>
@@ -27591,6 +27622,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0MwlRrXv1JxCHfp45ldDTH/clip_289164_349164.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5py4hbqnGzVwflWe77Fjuh</id>
 		<updated>2019-10-16T00:00:00Z</updated>
 	</entry>
@@ -27601,6 +27633,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0jMgXMKdlkpSRxwujQuI26/clip_551081_611081.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0Ham0Q1j7UGMHq9N9fAKzH</id>
 		<updated>2019-10-16T00:00:00Z</updated>
 	</entry>
@@ -27611,6 +27644,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0W7zOtbfD4e1AVM66Ny48r/clip_169253_229253.mp3" type="audio/mpeg" />
 		<id>spotify:episode:0UAXebvtrzvdf98lG5lt9X</id>
 		<updated>2019-10-16T00:00:00Z</updated>
 	</entry>
@@ -27665,6 +27699,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/35qOotspjstSxuYTvZDs3W/clip_188165_248165.mp3" type="audio/mpeg" />
 		<id>spotify:episode:3pIASYa5Y1EJN7cfo305pz</id>
 		<updated>2019-10-14T00:00:00Z</updated>
 	</entry>
@@ -28456,6 +28491,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/7aouJo3lccNHLCL5uPiVpU/clip_495974_555974.mp3" type="audio/mpeg" />
 		<id>spotify:episode:6eTvZmyLQ53VtCsUwUrW5D</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
@@ -28466,6 +28502,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/5QGLTjCNw6dC6dvO5YBzs5/clip_561352_621352.mp3" type="audio/mpeg" />
 		<id>spotify:episode:64msFHX1NoHVzkdxuokvoK</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
@@ -28476,6 +28513,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6oXYeNkAytySqZQIiZfe1k/clip_311438_371438.mp3" type="audio/mpeg" />
 		<id>spotify:episode:2ZijWESJjLFqCUwKSfg9Vn</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
@@ -28486,6 +28524,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/5Xq7FbzBzlTGQCLcMdv0Di/clip_219174_279174.mp3" type="audio/mpeg" />
 		<id>spotify:episode:6P5I8BMuAj4yeo4GvaEzNU</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
@@ -28496,6 +28535,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/1ANFRD94Sc6QALhD5r6yZZ/clip_544450_604450.mp3" type="audio/mpeg" />
 		<id>spotify:episode:4OpNwwPFkcMs3yHTSCu9sz</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
@@ -28506,6 +28546,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4iPgsVbmQiNeR7op8kxL3N/clip_587759_647759.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5XHaZkbr9uv4XEfkqHBv5Q</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
@@ -28516,6 +28557,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/3PVF6qMtM1F2IChZYeWXju/clip_362127_422127.mp3" type="audio/mpeg" />
 		<id>spotify:episode:26kMgZhsR4pI2xr2Rk2PMP</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
@@ -28526,6 +28568,7 @@
 		<author>
 			<name>Rijkswaterstaat</name>
 		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0Oy2actpeuTxQBmPvv8RhJ/clip_329291_389291.mp3" type="audio/mpeg" />
 		<id>spotify:episode:5DO0fffjIzWqH3Ss2YgAaT</id>
 		<updated>2019-02-22T00:00:00Z</updated>
 	</entry>
