@@ -53634,7 +53634,46 @@
         "previous": null,
         "total": 38,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/76dUHs1d3ZM9AsGW9MGKrs/clip_228207_288207.mp3",
+            "description": "Ondermijnende criminaliteit kent verschillende verschijningsvormen. In de aanpak richten we ons op het bestrijden van complexe problematiek om de samenleving beter weerbaar te maken. Naast drugscriminaliteit, zijn er de laatste jaren ook ontwikkelingen op gebied van mensenhandel en vastgoedfraude geweest. Deze ontwikkelingen maken duidelijk hoe belangrijk een geco\u00f6rdineerde samenwerking is, en precies daarom is het ACT! Interventieteam in Limburg opgezet!\u00a0\u00a0\u00a0In deze aflevering vertellen Ryan Palmen, burgemeester van gemeente Horst aan de Maas in Limburg, en co\u00f6rdinator Emmy Mobers over het ACT! Interventieteam. Wat houdt het ACT! Interventieteam in? Met welke beweegreden is het ontstaan? En wat is de rol van co\u00f6rdinator Emmy in het team? Daarnaast leggen Ryan en Emmy uit wat de aanpak en samenwerking met ketenpartners uniek maakt.\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING: Alain Meijer en BOOST-student Noortje Buitelaar. Samen stellen ze Ryan en Emmy vragen over de doelen, werkwijze en kracht van het ACT! Interventieteam.\u00a0\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f \u2060\u2060\u2060#9 \u2013 Marc Janssen en Alain Meijer over Meld Misdaad Anoniem\u00a0\ud83c\udf99\ufe0f #18 \u2013 Moreno van Loenhout over Bedrijventerreinen en het PVO\u00a0\u00a0\ud83c\udf99\ufe0f #25 \u2013 Sybrand Buma over de Rol van het Lokaal Bestuur in de Aanpak van Ondermijning\u00a0",
+            "html_description": "<p>Ondermijnende criminaliteit kent verschillende verschijningsvormen. In de aanpak richten we ons op het bestrijden van complexe problematiek om de samenleving beter weerbaar te maken. Naast drugscriminaliteit, zijn er de laatste jaren ook ontwikkelingen op gebied van mensenhandel en vastgoedfraude geweest. Deze ontwikkelingen maken duidelijk hoe belangrijk een geco\u00f6rdineerde samenwerking is, en precies daarom is het ACT! Interventieteam in Limburg opgezet!\u00a0\u00a0\u00a0</p><p>In deze aflevering vertellen Ryan Palmen, burgemeester van gemeente Horst aan de Maas in Limburg, en co\u00f6rdinator Emmy Mobers over het ACT! Interventieteam. Wat houdt het ACT! Interventieteam in? Met welke beweegreden is het ontstaan? En wat is de rol van co\u00f6rdinator Emmy in het team? Daarnaast leggen Ryan en Emmy uit wat de aanpak en samenwerking met ketenpartners uniek maakt.\u00a0</p><p>Aan tafel zitten twee leden van Team #ONDERMIJNING: Alain Meijer en BOOST-student Noortje Buitelaar. Samen stellen ze Ryan en Emmy vragen over de doelen, werkwijze en kracht van het ACT! Interventieteam.\u00a0\u00a0</p><p>Volg ons op:\u00a0</p><p>&#x1f4f1; <a href=\"https://www.linkedin.com/company/landelijk-programma-ondermijning/\" rel=\"nofollow\">\u2060\u2060LinkedIn\u2060\u2060</a>\u00a0</p><p>&#x1f4f1; <a href=\"https://www.youtube.com/&#64;PolitieONDERMIJNING\" rel=\"nofollow\">\u2060\u2060YouTube\u2060\u2060</a>\u00a0</p><p>Relevante afleveringen:\u00a0</p><p>&#x1f399;\ufe0f \u2060\u2060\u2060<a href=\"https://open.spotify.com/episode/65yVf2NzK56OI4O63IMvCo?si&#61;rKEJLQZfSXOomhkS4t_zaQ\" rel=\"nofollow\">#9 \u2013 Marc Janssen en Alain Meijer over Meld Misdaad Anoniem</a>\u00a0</p><p>&#x1f399;\ufe0f <a href=\"https://open.spotify.com/episode/4omCqOYwHxekVmbuaMjsIK?si&#61;C31J3oUsTC-eZUfal-LZzw\" rel=\"nofollow\">#18 \u2013 Moreno van Loenhout over Bedrijventerreinen en het PVO</a>\u00a0\u00a0</p><p>&#x1f399;\ufe0f <a href=\"https://open.spotify.com/episode/0gLkRBeQEoKceHQooVdLDG?si&#61;GOX9W16ZS4GyyX43IZA5YA\" rel=\"nofollow\">#25 \u2013 Sybrand Buma over de Rol van het Lokaal Bestuur in de Aanpak van Ondermijning</a>\u00a0</p>",
+            "duration_ms": 2839445,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3TiWk4J1pHbm4VQj8ZnzGa"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3TiWk4J1pHbm4VQj8ZnzGa",
+            "id": "3TiWk4J1pHbm4VQj8ZnzGa",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab6dd410bae07b9a95512c156",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb6dd410bae07b9a95512c156",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db6dd410bae07b9a95512c156",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#37 - Burgemeester Ryan Palmen en Emmy Mobers over ACT! Interventieteam",
+            "release_date": "2026-01-28",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3TiWk4J1pHbm4VQj8ZnzGa"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3g4HY5yMH6oCvh84sx9uVe/clip_250095_310095.mp3",
             "description": "De georganiseerde misdaad verandert in hoog tempo. Criminele netwerken opereren internationaal en online platforms spelen een grotere rol dan ooit. Vooral jongeren raken op nieuwe manieren betrokken bij de zware, georganiseerde misdaad. Waar signalen vroeger vooral op straat zichtbaar waren, verschuift een groot deel van het benaderen en be\u00efnvloeden van jongeren naar besloten online ruimtes. Juist daarom is internationale samenwerking belangrijker dan ooit om deze grensoverschrijdende netwerken te doorbreken. Europol speelt daarbij een cruciale rol.\u00a0\u00a0In deze aflevering bespreken we wat Europol is, welke ontwikkelingen binnen de georganiseerde misdaad zij waarnemen \u00e9n waarom Europese samenwerking onmisbaar is. We spreken daarvoor met Andy Kraag, die eerder te horen was in aflevering 6 als Hoofd Landelijke Recherche. Inmiddels is hij Hoofd van het European Serious and Organised Crime Centre (ESOCC) bij Europol. Met zijn Europese blik vertelt hij welke patronen opvallen, hoe online ronselmethoden zich ontwikkelen en wat Europol concreet kan betekenen voor bijvoorbeeld een rechercheur van de Nederlandse politie. Ook deelt Andy zijn persoonlijke visie op het ronselen van jongeren en de toekomst van de aanpak.\u00a0Deze en andere vragen worden gesteld door twee leden van Team #ONDERMIJNING. Host Christiaan Los (programmalid) en sidekick Charlotte Treuren (werkstudent en masterstudent Internationale Conflicten) gaan met Andy in gesprek.\u00a0\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f \u2060\u2060#6 \u2013 Andy Kraag over de Aanpak van Geograniseerde Criminaliteit\u00a0\u00a0\ud83c\udf99\ufe0f #28 \u2013 Ilse van de Groep en Laura van Duin over Puberteit en Criminaliteit\u00a0\ud83c\udf99\ufe0f \u2060\u2060\u2060\u2060#30 \u2013 Gerard Zwarts en Jessy de Pina over het EPJO-programma\u00a0",
