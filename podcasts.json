@@ -77789,15 +77789,55 @@
       "publisher": "KNMI",
       "type": "show",
       "uri": "spotify:show:1Pr6Rx1OhOYaqEvogCyRbf",
-      "total_episodes": 13,
+      "total_episodes": 14,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Pr6Rx1OhOYaqEvogCyRbf/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 13,
+        "total": 14,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2arctzxSMag7OJ2Yi5Lz0x/clip_449700_509700.mp3",
+            "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met klimaatexpert Peter Siegmund over De staat van ons klimaat, en met neerslagwaarnemer Linda Hofstede, die elke ochtend voor het KNMI de gevallen neerslag (regen of sneeuw) meet en doorgeeft.Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store\u00a0of voor Android in de Play store. En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
+            "html_description": "<p>In deze aflevering praten Rob Sluijter en Rubert Konijn met klimaatexpert Peter Siegmund over De staat van ons klimaat, en met neerslagwaarnemer Linda Hofstede, die elke ochtend voor het KNMI de gevallen neerslag (regen of sneeuw) meet en doorgeeft.<br /><br />Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar <a href=\"info&#64;knmi.nl\" rel=\"nofollow\">info&#64;knmi.nl</a>.\u00a0 <br /><br />Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de <a href=\"https://apps.apple.com/nl/app/knmi-weer/id1225568094\" rel=\"nofollow\">App store</a>\u00a0of voor Android in de <a href=\"https://play.google.com/store/apps/details?id&#61;nl.knmi.weer\" rel=\"nofollow\">Play store</a>. <br /><br />En volg ons op Instagram: <a href=\"https://www.instagram.com/knmi.nl/\" rel=\"nofollow\">https://www.instagram.com/knmi.nl/</a>.</p>",
+            "duration_ms": 1518264,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3KJMTq4qXnhawDI20mDSQ6"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3KJMTq4qXnhawDI20mDSQ6",
+            "id": "3KJMTq4qXnhawDI20mDSQ6",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a51f84ab9b000be01c0364a45",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f51f84ab9b000be01c0364a45",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d51f84ab9b000be01c0364a45",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De KNMI Podcast \u2013 Aflevering 4: Black ice, windchill en De staat van ons klimaat",
+            "release_date": "2026-01-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3KJMTq4qXnhawDI20mDSQ6"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5lHEPZHtZk9wvvKDuLuzNY/clip_303384_363384.mp3",
             "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met elfstedenmeteoroloog Hisso Homan, klimaatonderzoeker Hylke de Vries en ijsmeester Hendrik van Prooije van de Winterswijkse ijsvereniging over schaatsen op natuurijs, de kans op een Elfstedentocht en hoe bereken je die kans eigenlijk?Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store\u00a0voor Android in de Play store. En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
