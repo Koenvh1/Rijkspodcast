@@ -3,11 +3,33 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-02T10:46:22Z</updated>
+	<updated>2026-02-03T06:54:21Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Publieke Ruimte - Peter Kanne - Lang zal ik lekker leven</title>
+		<link href="https://open.spotify.com/episode/1fElLBGjSGTNnglhFnSmJ7" />
+		<summary type="html">&lt;p&gt;Otto en Martijn duiken deze aflevering in de weerbare burger. Want bestaat die weerbare burger nog wel? Peter Kanne is als senior adviseur betrokken bij onderzoeksbureau Ipsos I&amp;amp;O. Hij houdt zich bezig met politiek, draagvlak, beleid en duurzaamheid en is regelmatig te zien als opinie onderzoeker in de media. Van zijn hand verschijnt in februari het boek &amp;#39;Lang zal ik lekker leven - de genotzuchtige Nederlander: van ik-verslaving naar wij-gevoel.&amp;#39;  In het boek schetst hij het verontrustende beeld van de Nederlander als genotzuchtige individualist. In vergelijking met inwoners van andere landen trekt de Nederlander zich nog meer terug in zijn eigen kleine, genoegzame wereldje. Aan de hand van objectieve cijfers, wetenschappelijk onderzoek en opinieonderzoek duidt Kanne de ontwikkelingen op het gebied van economie, communicatie, gezondheid, duurzaamheid en democratie. Het vaste patroon: het systeem – de markt, big tech, een weifelende overheid – houdt consumentisme en genotzucht in stand. Hoe kan de Nederlander zijn weerbaarheid terugvinden? En wat zou de rol van de overheid moeten zijn? &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0Aelnm1TuN9W6dxjndDuqy/clip_440007_500007.mp3" type="audio/mpeg" />
+		<id>spotify:episode:1fElLBGjSGTNnglhFnSmJ7</id>
+		<updated>2026-02-03T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Dossier WODC - Dossier WODC Live: Dossier Verschoningsrecht</title>
+		<link href="https://open.spotify.com/episode/4CyaYplFwswQLUCgkCjRT1" />
+		<summary type="html">&lt;p&gt;De achtste editie van Dossier WODC Live heeft plaatsgevonden bij de Erasmus Universiteit Rotterdam en ging over Dossier Verschoningsrecht. In deze editie spreekt host Sanne Noyon met hoogleraar en strafrechtadvocaat Joost Nan en onderzoeker Nina Holvast over het professioneel verschoningsrecht: het recht om niet te hoeven getuigen vanwege iemands beroep.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Bijvoorbeeld, een advocaat hoeft niet tegen zijn eigen client te getuigen in strafzaken met informatie die hij verkrijgt door zijn rol met zijn client. Hetzelfde geldt ook voor andere vertrouwensberoepen, zoals artsen en notarissen, en ook voor sommige familiebanden.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze achtste editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van &lt;a href="https://www.dossierwodc.nl/" rel="nofollow"&gt;⁠Dossier WODC Live⁠&lt;/a&gt; en kijk wanneer we bij jouw in de buurt komen.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Meer weten over dit onderzoek? Lees &lt;a href="https://repository.wodc.nl/bitstream/handle/20.500.12832/3498/rapport-internationaal-vergelijkend-onderzoek-professioneel-verschoningsrecht.pdf?sequence&amp;#61;1&amp;amp;isAllowed&amp;#61;y" rel="nofollow"&gt;⁠hier⁠&lt;/a&gt; het volledige rapport. &lt;br /&gt;&lt;/p&gt;&lt;p&gt;Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar ⁠&lt;a href="https://www.wodc.nl/" rel="nofollow"&gt;⁠www.wodc.nl⁠&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Opnames op locatie verzorgd door NFGD.&lt;/p&gt;</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/317KtXFKSh8rDKdp0NwyLv/clip_170114_230114.mp3" type="audio/mpeg" />
+		<id>spotify:episode:4CyaYplFwswQLUCgkCjRT1</id>
+		<updated>2026-02-02T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>KNMI - De KNMI Podcast – Aflevering 4: Black ice, windchill en De staat van ons klimaat</title>
 		<link href="https://open.spotify.com/episode/3KJMTq4qXnhawDI20mDSQ6" />

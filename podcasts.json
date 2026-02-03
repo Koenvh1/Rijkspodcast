@@ -4115,15 +4115,55 @@
       "publisher": "De Publieke Ruimte",
       "type": "show",
       "uri": "spotify:show:5VWtfJI3bOU0fDfO33YgeD",
-      "total_episodes": 65,
+      "total_episodes": 66,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 65,
+        "total": 66,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0Aelnm1TuN9W6dxjndDuqy/clip_440007_500007.mp3",
+            "description": "Otto en Martijn duiken deze aflevering in de weerbare burger. Want bestaat die weerbare burger nog wel? Peter Kanne is als senior adviseur betrokken bij onderzoeksbureau Ipsos I&O. Hij houdt zich bezig met politiek, draagvlak, beleid en duurzaamheid en is regelmatig te zien als opinie onderzoeker in de media. Van zijn hand verschijnt in februari het boek 'Lang zal ik lekker leven - de genotzuchtige Nederlander: van ik-verslaving naar wij-gevoel.' \u00a0In het boek schetst hij het verontrustende beeld van de Nederlander als genotzuchtige individualist. In vergelijking met inwoners van andere landen trekt de Nederlander zich nog meer terug in zijn eigen kleine, genoegzame wereldje. Aan de hand van objectieve cijfers, wetenschappelijk onderzoek en opinieonderzoek duidt Kanne de ontwikkelingen op het gebied van economie, communicatie, gezondheid, duurzaamheid en democratie. Het vaste patroon: het systeem \u2013 de markt, big tech, een weifelende overheid \u2013 houdt consumentisme en genotzucht in stand. Hoe kan de Nederlander zijn weerbaarheid terugvinden? En wat zou de rol van de overheid moeten zijn?\u00a0 ",
+            "html_description": "<p>Otto en Martijn duiken deze aflevering in de weerbare burger. Want bestaat die weerbare burger nog wel? Peter Kanne is als senior adviseur betrokken bij onderzoeksbureau Ipsos I&amp;O. Hij houdt zich bezig met politiek, draagvlak, beleid en duurzaamheid en is regelmatig te zien als opinie onderzoeker in de media. Van zijn hand verschijnt in februari het boek &#39;Lang zal ik lekker leven - de genotzuchtige Nederlander: van ik-verslaving naar wij-gevoel.&#39; \u00a0In het boek schetst hij het verontrustende beeld van de Nederlander als genotzuchtige individualist. In vergelijking met inwoners van andere landen trekt de Nederlander zich nog meer terug in zijn eigen kleine, genoegzame wereldje. Aan de hand van objectieve cijfers, wetenschappelijk onderzoek en opinieonderzoek duidt Kanne de ontwikkelingen op het gebied van economie, communicatie, gezondheid, duurzaamheid en democratie. Het vaste patroon: het systeem \u2013 de markt, big tech, een weifelende overheid \u2013 houdt consumentisme en genotzucht in stand. Hoe kan de Nederlander zijn weerbaarheid terugvinden? En wat zou de rol van de overheid moeten zijn?\u00a0</p><br/><p><br /><br /></p>",
+            "duration_ms": 2610048,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1fElLBGjSGTNnglhFnSmJ7"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1fElLBGjSGTNnglhFnSmJ7",
+            "id": "1fElLBGjSGTNnglhFnSmJ7",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Peter Kanne - Lang zal ik lekker leven",
+            "release_date": "2026-02-03",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1fElLBGjSGTNnglhFnSmJ7"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3o205JC1PZVa4obIZ7OJWJ/clip_519598_579598.mp3",
             "description": "Je kunt als beleidsmedewerker wel vanachter je tekentafel een ideale wereld schetsen, maar hoe pakt dit uit in de echte wereld? Hoe houd je in het beleid bijvoorbeeld ook rekening met gedachten, gevoelens en gewoontes die maken dat iemand zich op een bepaalde manier gedraagt? De inzet van een gedragsdeskundige kan helpen daarop een antwoord te krijgen. Bij het ministerie van Justitie en Veiligheid loopt momenteel een pilot waarin wordt onderzocht in hoeverre het toevoegen van meer gedragsdeskundigheid leidt tot beter beleid. Denk aan beleidseffecten op het gebied van het vuurwerkverbod of het stimuleren van de sociale advocatuur. Martijn en Otto spreken in deze aflevering over de ervaringen met gedragsdeskundigheid bij het Ministerie van J&V met Eric Bezem, Directeur-Generaal Straffen en Beschermen, gedragswetenschapper Kim van Zoonen en\u00a0programmamanager van de J&V brede werkagenda Ralph Kleuskens.\u00a0",
@@ -6087,32 +6127,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1M4VcZtUUqvAZSKqMHqYvh/clip_600436_660436.mp3",
             "description": "De overheid verzamelt en beheert digitaal steeds meer informatie. De dienstverlening kan hierdoor verbeterd\u00a0worden, maar tegelijkertijd roept het ook vragen en dilemma\u2019s op. Met wie mag je welke informatie wel of niet delen? Kun je overal zomaar een algoritme op los laten? En van welke mogelijkheden van kunstmatige intelligentie, AI, kun je gebruik maken? Om ervoor te zorgen dat er zorgvuldig en weloverwogen gebruik gemaakt wordt van data heeft het UWV het Kompas Data Ethiek ontwikkeld. In deze aflevering praten Martijn en Otto met twee gasten die hier nauw bij betrokken zijn: Maarten Speet, programmamanager \u00a0gegevensdiensten bij het UWV en Frank Kaptein, applicatieontwikkelaar bij het UWV.",
-            "html_description": "<p>De overheid verzamelt en beheert digitaal steeds meer informatie. De dienstverlening kan hierdoor verbeterd\u00a0worden, maar tegelijkertijd roept het ook vragen en dilemma\u2019s op. Met wie mag je welke informatie wel of niet delen? Kun je overal zomaar een algoritme op los laten? En van welke mogelijkheden van kunstmatige intelligentie, AI, kun je gebruik maken?<br /><br/>Om ervoor te zorgen dat er zorgvuldig en weloverwogen gebruik gemaakt wordt van data heeft het UWV het <a href=\"https://www.uwv.nl/overuwv/pers/nieuwsberichten/2021/kompas-data-ethiek-helpt-uwv-bij-zorgvuldig-gebruik-data.aspx\" rel=\"nofollow\">Kompas Data Ethiek </a>ontwikkeld. In deze aflevering praten Martijn en Otto met twee gasten die hier nauw bij betrokken zijn: Maarten Speet, programmamanager \u00a0gegevensdiensten bij het UWV en Frank Kaptein, applicatieontwikkelaar bij het UWV.</p>",
             "duration_ms": 2030942,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3LkHYR5ggVfjU6YJsx9T1N"
             },
             "href": "https://api.spotify.com/v1/episodes/3LkHYR5ggVfjU6YJsx9T1N",
+            "html_description": "<p>De overheid verzamelt en beheert digitaal steeds meer informatie. De dienstverlening kan hierdoor verbeterd\u00a0worden, maar tegelijkertijd roept het ook vragen en dilemma\u2019s op. Met wie mag je welke informatie wel of niet delen? Kun je overal zomaar een algoritme op los laten? En van welke mogelijkheden van kunstmatige intelligentie, AI, kun je gebruik maken?<br /><br/>Om ervoor te zorgen dat er zorgvuldig en weloverwogen gebruik gemaakt wordt van data heeft het UWV het <a href=\"https://www.uwv.nl/overuwv/pers/nieuwsberichten/2021/kompas-data-ethiek-helpt-uwv-bij-zorgvuldig-gebruik-data.aspx\" rel=\"nofollow\">Kompas Data Ethiek </a>ontwikkeld. In deze aflevering praten Martijn en Otto met twee gasten die hier nauw bij betrokken zijn: Maarten Speet, programmamanager \u00a0gegevensdiensten bij het UWV en Frank Kaptein, applicatieontwikkelaar bij het UWV.</p>",
             "id": "3LkHYR5ggVfjU6YJsx9T1N",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -135512,15 +135552,55 @@
       "publisher": "WODC",
       "type": "show",
       "uri": "spotify:show:7jtE5bnuZHD46nMJUAmdyG",
-      "total_episodes": 18,
+      "total_episodes": 19,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/7jtE5bnuZHD46nMJUAmdyG/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 18,
+        "total": 19,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/317KtXFKSh8rDKdp0NwyLv/clip_170114_230114.mp3",
+            "description": "De achtste editie van Dossier WODC Live heeft plaatsgevonden bij de Erasmus Universiteit Rotterdam en ging over Dossier Verschoningsrecht. In deze editie spreekt host Sanne Noyon met hoogleraar en strafrechtadvocaat Joost Nan en onderzoeker Nina Holvast over het professioneel verschoningsrecht: het recht om niet te hoeven getuigen vanwege iemands beroep.Bijvoorbeeld, een advocaat hoeft niet tegen zijn eigen client te getuigen in strafzaken met informatie die hij verkrijgt door zijn rol met zijn client. Hetzelfde geldt ook voor andere vertrouwensberoepen, zoals artsen en notarissen, en ook voor sommige familiebanden.Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze achtste editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van \u2060Dossier WODC Live\u2060 en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees \u2060hier\u2060 het volledige rapport. Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060\u2060www.wodc.nl\u2060Opnames op locatie verzorgd door NFGD.",
+            "html_description": "<p>De achtste editie van Dossier WODC Live heeft plaatsgevonden bij de Erasmus Universiteit Rotterdam en ging over Dossier Verschoningsrecht. In deze editie spreekt host Sanne Noyon met hoogleraar en strafrechtadvocaat Joost Nan en onderzoeker Nina Holvast over het professioneel verschoningsrecht: het recht om niet te hoeven getuigen vanwege iemands beroep.<br /></p><p>Bijvoorbeeld, een advocaat hoeft niet tegen zijn eigen client te getuigen in strafzaken met informatie die hij verkrijgt door zijn rol met zijn client. Hetzelfde geldt ook voor andere vertrouwensberoepen, zoals artsen en notarissen, en ook voor sommige familiebanden.<br /></p><p>Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze achtste editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van <a href=\"https://www.dossierwodc.nl/\" rel=\"nofollow\">\u2060Dossier WODC Live\u2060</a> en kijk wanneer we bij jouw in de buurt komen.<br /></p><p>Meer weten over dit onderzoek? Lees <a href=\"https://repository.wodc.nl/bitstream/handle/20.500.12832/3498/rapport-internationaal-vergelijkend-onderzoek-professioneel-verschoningsrecht.pdf?sequence&#61;1&amp;isAllowed&#61;y\" rel=\"nofollow\">\u2060hier\u2060</a> het volledige rapport. <br /></p><p>Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar \u2060<a href=\"https://www.wodc.nl/\" rel=\"nofollow\">\u2060www.wodc.nl\u2060</a><br /></p><p>Opnames op locatie verzorgd door NFGD.</p>",
+            "duration_ms": 1982025,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4CyaYplFwswQLUCgkCjRT1"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4CyaYplFwswQLUCgkCjRT1",
+            "id": "4CyaYplFwswQLUCgkCjRT1",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ad4425c22b3f81ad66631294b",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fd4425c22b3f81ad66631294b",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dd4425c22b3f81ad66631294b",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Dossier WODC Live: Dossier Verschoningsrecht",
+            "release_date": "2026-02-02",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4CyaYplFwswQLUCgkCjRT1"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0ciqFGgTJgFCCz7WCo0A0m/clip_512205_572205.mp3",
             "description": "Een aantal onderzoekers van het WODC is ook hoogleraar aan een universiteit. Door zowel bij het WODC als bij een universiteit te werken, wordt kruisbestuiving tussen wetenschap en beleidsonderzoek mogelijk. Maar wie zijn deze hoogleraren? En wat voor onderzoek doen zij?In deze aflevering spreekt host Carlissa Remmerswaal met WODC-onderzoekers Andr\u00e9 van der Laan (hoogleraar aan de Universiteit Leiden) en Arjen Leerkes (hoogleraar aan de Erasmus Universiteit Rotterdam) over hun leerstoelen en onderzoeksthema's.Voor onderzoek naar thema's binnen de rechtsstaat, ga naar \u2060www.wodc.nlOpname en montage gedaan in eigen beheer WODC.",
