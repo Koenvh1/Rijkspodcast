@@ -70,10 +70,18 @@ def add_podcasts():
         if not exists:
             apple = input(f"Apple URL https://podcasts.apple.com/nl/search?term={urllib.parse.quote_plus(spotify_data["name"])} : ")
             if apple:
-                apple_data = requests.get("https://itunes.apple.com/lookup?id=" + get_apple_podcasts_id(apple)).json()["results"][0]
+                apple_data = requests.get(
+                    "https://itunes.apple.com/lookup?id=" + get_apple_podcasts_id(apple)
+                ).json()["results"][0]
             else:
                 apple_data = None
-            podcasts.append({"provider": provider, "spotify": spotify, "spotify_data": spotify_data, "apple": apple, "apple_data": apple_data})
+            podcasts.append({
+                "provider": provider,
+                "spotify": spotify,
+                "spotify_data": spotify_data,
+                "apple": apple,
+                "apple_data": apple_data
+            })
             json.dump(podcasts, open("podcasts.json", "w"), indent=2)
             generate_opml()
 
@@ -122,6 +130,8 @@ def generate_feed():
     podcasts = json.load(open("podcasts.json"))
     episodes = []
     for podcast in podcasts:
+        if not podcast["spotify_data"]["episodes"] or not podcast["spotify_data"]["episodes"]["items"]:
+            continue
         for episode in podcast["spotify_data"]["episodes"]["items"]:
             if episode:
                 episode["podcast"] = podcast["spotify_data"]["name"]
