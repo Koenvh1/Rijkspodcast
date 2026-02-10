@@ -56,7 +56,7 @@ async function render(podcasts, sorting) {
         <h6 class="mb-1 mt-1">${name}</h6>
         <p><small class="podcast-description">${description}</small></p>
         <p><small class="podcast-description">Gepubliceerd door: ${publisher}</small></p>
-        <p><small><a href="${p.spotify}" class="muted">Spotify</a>${p.apple ? ", <a href='" + p.apple + "'>Apple Podcasts</a>, <a href='" + p.apple_data.feedUrl + "'>RSS</a>" : ""}</small></p>
+        <p><small><a href="${p.spotify}" class="muted">Spotify</a>${p.apple ? ", <a href='" + p.apple + "'>Apple Podcasts</a>, <a href='" + p.apple_data[0].feedUrl + "'>RSS</a>" : ""}</small></p>
     </div>
 
     <button class="btn btn-primary mt-3 mt-sm-0 ms-0 ms-sm-3 accordion-toggle" type="button"
