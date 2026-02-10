@@ -46,6 +46,13 @@ def get_podcast_info(spotify_url):
                 break
     return show
 
+def get_apple_podcast_info(apple_url):
+    apple = get_apple_podcasts_id(apple_url)
+    apple_data = requests.get(
+        "https://itunes.apple.com/lookup?id=" + get_apple_podcasts_id(apple) + "&entity=podcastEpisode&country=NL&lang=nl_nl&limit=200"
+    ).json()["results"]
+    return apple_data
+
 def get_apple_podcasts_id(s):
     m = re.search(r'\d+$', s)
     return m.group() if m else None
@@ -70,9 +77,7 @@ def add_podcasts():
         if not exists:
             apple = input(f"Apple URL https://podcasts.apple.com/nl/search?term={urllib.parse.quote_plus(spotify_data["name"])} : ")
             if apple:
-                apple_data = requests.get(
-                    "https://itunes.apple.com/lookup?id=" + get_apple_podcasts_id(apple)
-                ).json()["results"][0]
+                apple_data = get_apple_podcast_info(apple)
             else:
                 apple_data = None
             podcasts.append({
@@ -103,7 +108,7 @@ def generate_opml():
         outline.set("type", "rss")
         outline.set("text", podcast["spotify_data"]["name"])
         outline.set("title", podcast["spotify_data"]["name"])
-        outline.set("xmlUrl", podcast["apple_data"]["feedUrl"])
+        outline.set("xmlUrl", podcast["apple_data"][0]["feedUrl"])
 
     tree = ET.ElementTree(root)
     ET.indent(tree, space="\t", level=0)
@@ -181,6 +186,8 @@ def update_podcasts():
                 print("NOT FOUND: " + podcast["spotify_data"]["name"])
             else:
                 raise e
+        if podcast["apple"]:
+            podcast["apple_data"] = get_apple_podcast_info(podcast["apple"])
 
     json.dump(podcasts, open("podcasts.json", "w"), indent=2)
     return previous_podcasts != podcasts
