@@ -135,7 +135,6 @@ def generate_feed():
         for episode in podcast["spotify_data"]["episodes"]["items"]:
             if episode:
                 episode["podcast"] = podcast["spotify_data"]["name"]
-                episode["publisher"] = podcast["spotify_data"]["publisher"]
                 episodes.append(episode)
     episodes.sort(key=lambda x: x["release_date"], reverse=True)
 
@@ -143,7 +142,7 @@ def generate_feed():
     for idx, episode in enumerate(episodes):
         item = ET.SubElement(root, "entry")
         title = ET.SubElement(item, "title")
-        title.text = episode["podcast"] + " - " + episode["name"]
+        title.text = episode["name"]
         link = ET.SubElement(item, "link")
         link.set("href", episode["external_urls"]["spotify"])
         summary = ET.SubElement(item, "summary")
@@ -153,7 +152,7 @@ def generate_feed():
         # image.text = episode["images"][0]["url"]
         author = ET.SubElement(item, "author")
         author_name = ET.SubElement(author, "name")
-        author_name.text = episode["publisher"]
+        author_name.text = episode["podcast"]
         if episode["audio_preview_url"]:
             content = ET.SubElement(item, "content")
             content.set("src", episode["audio_preview_url"])
