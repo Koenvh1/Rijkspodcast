@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-11T16:04:20Z</updated>
+	<updated>2026-02-12T07:03:37Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Geeke Feiter (Verbond van Verzekeraars) en Harwil de Jonge (Heijmans)</title>
+		<link href="https://open.spotify.com/episode/6ZHLpUGkD6unYuIZn5Si9H" />
+		<summary type="html">&lt;p&gt;We moeten honderdduizend woningen per jaar bouwen, terwijl water en bodem steeds vaker de grenzen aangeven van wat kan en wat niet. Maarten Bouwhuis spreekt in deze nieuwe aflevering van Delta &amp;amp; Duiten met Harwil de Jonge van bouwbedrijf Heijmans en Geeke Feiter van het Verbond van Verzekeraars over natuur-inclusief en klimaatadaptief bouwen. Maar ook over de spanning tussen landelijke ambities en lokale regels. Wat betekent “bodem en water sturend” in de praktijk? En is een richtlijn genoeg, of is wetgeving onvermijdelijk?&lt;/p&gt;&lt;p&gt;Daarnaast gaat het over de rol van verzekeraars: kunnen zij via premies, voorwaarden en data écht sturen op klimaatbestendig bouwen? Van het Dutch Climate Risk Portal tot early warning-systemen met het KNMI, en van verzekerbaarheid tot de lessen uit de overstromingen in Limburg en de WTS. Wie pakt de regie, wie betaalt de kosten aan de voorkant, en wie profiteert van de baten later? &lt;/p&gt;&lt;p&gt;Delta &amp;amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financiële experts, over klimaatadaptatie en over de fysieke en de financiële gevolgen hiervan.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary>
+		<author>
+			<name>Delta en Duiten</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/0s9yY93t8UtGGjrT9qzGHr/clip_627986_687986.mp3" type="audio/mpeg" />
+		<id>spotify:episode:6ZHLpUGkD6unYuIZn5Si9H</id>
+		<updated>2026-02-12T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>#112 Conceptueel orkestreren van effecten</title>
 		<link href="https://open.spotify.com/episode/6GpZpFuJFdwuMRJVEq0EXs" />
