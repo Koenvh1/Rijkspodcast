@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-12T10:49:02Z</updated>
+	<updated>2026-02-12T15:55:05Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De KNMI Podcast - Aflevering 5: Een frontenkerkhof, Brabantse kunstwerken en een kantelpunt op zee</title>
+		<link href="https://open.spotify.com/episode/5ryZnbAfwvmVAoBSZ5wqT6" />
+		<summary type="html">&lt;p&gt;In deze aflevering praten Rob Sluijter en Rubert Konijn met Thomas Deurloo, tactisch strategisch peilbeheerder bij Waterschap Brabantse Delta over de waterstanden in het zuidwesten van Nederland. Daarnaast in deze aflevering KNMI-klimaatadviseur Bart Verheggen over de AMOC, de Atlantische oceaanstroming die mogelijk sterk verzwakt of zelfs stilvalt. Ook het extreme weer in Zuid-Europa komt ter sprake. &lt;br /&gt;&lt;br /&gt;Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar &lt;a href="info&amp;#64;knmi.nl" rel="nofollow"&gt;info&amp;#64;knmi.nl&lt;/a&gt;.  &lt;br /&gt;&lt;br /&gt;Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de &lt;a href="https://apps.apple.com/nl/app/knmi-weer/id1225568094" rel="nofollow"&gt;App store&lt;/a&gt; of voor Android in de &lt;a href="https://play.google.com/store/apps/details?id&amp;#61;nl.knmi.weer" rel="nofollow"&gt;Play store&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;En volg ons op Instagram: &lt;a href="https://www.instagram.com/knmi.nl/" rel="nofollow"&gt;https://www.instagram.com/knmi.nl/&lt;/a&gt;.&lt;/p&gt;</summary>
+		<author>
+			<name>KNMI</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/4JtYwbfzunEmrGKOg74wMj/clip_255570_315570.mp3" type="audio/mpeg" />
+		<id>spotify:episode:5ryZnbAfwvmVAoBSZ5wqT6</id>
+		<updated>2026-02-12T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Geeke Feiter (Verbond van Verzekeraars) en Harwil de Jonge (Heijmans)</title>
 		<link href="https://open.spotify.com/episode/6ZHLpUGkD6unYuIZn5Si9H" />
@@ -17,6 +28,17 @@
 		</author>
 		<content src="https://podz-content.spotifycdn.com/audio/clips/0s9yY93t8UtGGjrT9qzGHr/clip_627986_687986.mp3" type="audio/mpeg" />
 		<id>spotify:episode:6ZHLpUGkD6unYuIZn5Si9H</id>
+		<updated>2026-02-12T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>104. Deel 1 - stand van zaken EU AML-pakket en rol van AMLA</title>
+		<link href="https://open.spotify.com/episode/3UfGJ6mqBPBal2Da5isdiT" />
+		<summary type="html">&lt;p&gt;De Europese hervormingen in de aanpak van witwassen zijn geen toekomstmuziek meer. De Anti-Money Laundering Authority (AMLA) is in oprichting, het EU-AML-pakket krijgt steeds verder vorm en de eerste effecten worden nu al zichtbaar in de praktijk.&lt;/p&gt;&lt;p&gt;In deze aflevering brengen we de stand van zaken in kaart. Waar staan we op dit moment met de Anti-Money Laundering Regulation (AMLR) en de AMLA? Wat is al besloten, wat is al operationeel en wat betekent dit vandaag al voor instellingen, toezichthouders en Financial Intelligence Units?&lt;/p&gt;&lt;p&gt;In deze aflevering hoor je onder andere:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Waar Europa nu staat in de uitrol van het EU-AML-pakket&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Welke rol de AMLA krijgt als normsteller, coördinator en toezichthouder&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Welke onderdelen van de regelgeving al concreet effect hebben in de praktijk&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Wat instellingen en toezichthouders nu al merken van de komende veranderingen&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Hoe regulatory technical standards (RTS) en richtsnoeren de komende jaren het speelveld gaan bepalen&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De aflevering laat zien dat de Europese anti-witwasaanpak een nieuwe fase is ingegaan: van plannen naar uitvoering.&lt;/p&gt;&lt;p&gt;“Als je ziet wat we nu op ons af gaan krijgen dit jaar en de jaren daarop, dan kun je wel stellen dat we echt begonnen zijn nu.”&lt;/p&gt;&lt;p&gt;&amp;#x1f3a7; In de volgende aflevering zoomen we in op het single rulebook en de vraag hoe Europese harmonisatie nationale verschillen in toezicht en uitvoering moet gaan wegnemen.&lt;/p&gt;</summary>
+		<author>
+			<name>AMLC podcast</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/3Ma6FiLvhyLoQjYgO98q24/clip_256336_316336.mp3" type="audio/mpeg" />
+		<id>spotify:episode:3UfGJ6mqBPBal2Da5isdiT</id>
 		<updated>2026-02-12T00:00:00Z</updated>
 	</entry>
 	<entry>
@@ -64,7 +86,7 @@
 		<updated>2026-02-02T00:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>De KNMI Podcast – Aflevering 4: Black ice, windchill en De staat van ons klimaat</title>
+		<title>De KNMI Podcast - Aflevering 4: Black ice, windchill en De staat van ons klimaat</title>
 		<link href="https://open.spotify.com/episode/3KJMTq4qXnhawDI20mDSQ6" />
 		<summary type="html">&lt;p&gt;In deze aflevering praten Rob Sluijter en Rubert Konijn met klimaatexpert Peter Siegmund over De staat van ons klimaat, en met neerslagwaarnemer Linda Hofstede, die elke ochtend voor het KNMI de gevallen neerslag (regen of sneeuw) meet en doorgeeft.&lt;br /&gt;&lt;br /&gt;Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar &lt;a href="info&amp;#64;knmi.nl" rel="nofollow"&gt;info&amp;#64;knmi.nl&lt;/a&gt;.  &lt;br /&gt;&lt;br /&gt;Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de &lt;a href="https://apps.apple.com/nl/app/knmi-weer/id1225568094" rel="nofollow"&gt;App store&lt;/a&gt; of voor Android in de &lt;a href="https://play.google.com/store/apps/details?id&amp;#61;nl.knmi.weer" rel="nofollow"&gt;Play store&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;En volg ons op Instagram: &lt;a href="https://www.instagram.com/knmi.nl/" rel="nofollow"&gt;https://www.instagram.com/knmi.nl/&lt;/a&gt;.&lt;/p&gt;</summary>
 		<author>
