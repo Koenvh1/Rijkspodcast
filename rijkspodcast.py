@@ -51,6 +51,8 @@ def get_apple_podcast_info(apple_url):
     apple_data = requests.get(
         "https://itunes.apple.com/lookup?id=" + get_apple_podcasts_id(apple) + "&entity=podcastEpisode&country=NL&lang=nl_nl&limit=200"
     ).json()["results"]
+    for idx, result in enumerate(apple_data):
+        apple_data[idx] = {k: v for k, v in sorted(result.items(), key=lambda item: item[0])}
     return apple_data
 
 def get_apple_podcasts_id(s):
