@@ -14,7 +14,7 @@
 		<outline type="rss" text="Onzekere Zaken" title="Onzekere Zaken" xmlUrl="https://feeds.acast.com/public/shows/613f914f0d07cc0012b28931" />
 		<outline type="rss" text="Vakidioten in publieke dienst" title="Vakidioten in publieke dienst" xmlUrl="https://app.springcast.fm/podcast-xml/15016" />
 		<outline type="rss" text="Digitale Zaken op tafel" title="Digitale Zaken op tafel" xmlUrl="https://app.springcast.fm/podcast-xml/19492" />
-		<outline type="rss" text="CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming" title="CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming" xmlUrl="https://feeds.buzzsprout.com/1696126.rss" />
+		<outline type="rss" text="CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming" title="CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming" xmlUrl="https://rss.buzzsprout.com/1696126.rss" />
 		<outline type="rss" text="Digitale Fitheid" title="Digitale Fitheid" xmlUrl="https://app.springcast.fm/podcast-xml/8167/" />
 		<outline type="rss" text="Tax Talk" title="Tax Talk" xmlUrl="https://rss.springcast.app/nbkurl" />
 		<outline type="rss" text="Gebruiker Centraal" title="Gebruiker Centraal" xmlUrl="https://www.gebruikercentraal.nl/feed/podcast/" />
@@ -26,7 +26,7 @@
 		<outline type="rss" text="Zorgklank - handvatten voor professionals in de zorg" title="Zorgklank - handvatten voor professionals in de zorg" xmlUrl="https://rss.springcast.app/nJwuAw" />
 		<outline type="rss" text="Podcast van het Ministerie van Onderwijs, Cultuur en Wetenschap " title="Podcast van het Ministerie van Onderwijs, Cultuur en Wetenschap " xmlUrl="https://anchor.fm/s/55b034c0/podcast/rss" />
 		<outline type="rss" text="De Wettenfabriek" title="De Wettenfabriek" xmlUrl="https://feeds.simplecast.com/lravBCSq" />
-		<outline type="rss" text="Samen Sterker Podcast Defensie" title="Samen Sterker Podcast Defensie" xmlUrl="https://app.springcast.fm/podcast-xml/16564" />
+		<outline type="rss" text="Samen Sterker Podcast Defensie" title="Samen Sterker Podcast Defensie" xmlUrl="https://anchor.fm/s/10ee95a98/podcast/rss" />
 		<outline type="rss" text="De Politiepodcast: Cold Case" title="De Politiepodcast: Cold Case" xmlUrl="https://app.springcast.fm/podcast-xml/18588" />
 		<outline type="rss" text="Participatiepraat" title="Participatiepraat" xmlUrl="https://feeds.transistor.fm/participatiepraat" />
 		<outline type="rss" text="Achter de schermen bij Nederland" title="Achter de schermen bij Nederland" xmlUrl="https://feeds.castos.com/r33j9" />
@@ -56,14 +56,14 @@
 		<outline type="rss" text="RVO-podcast" title="RVO-podcast" xmlUrl="https://anchor.fm/s/ff304a30/podcast/rss" />
 		<outline type="rss" text="De RIVM Podcast Leefomgeving &amp; Gezondheid" title="De RIVM Podcast Leefomgeving &amp; Gezondheid" xmlUrl="https://rss.art19.com/de-rivm-podcast" />
 		<outline type="rss" text="De i-Podcast: de podcast over data en ICT" title="De i-Podcast: de podcast over data en ICT" xmlUrl="https://anchor.fm/s/393d7c94/podcast/rss" />
-		<outline type="rss" text="RCE-podcast" title="RCE-podcast" xmlUrl="https://app.springcast.fm/podcast-xml/10880" />
+		<outline type="rss" text="RCE-podcast" title="RCE-podcast" xmlUrl="https://rss.springcast.app/yE5uZ7" />
 		<outline type="rss" text="Enter" title="Enter" xmlUrl="https://anchor.fm/s/bd8e1eb8/podcast/rss" />
 		<outline type="rss" text="Leren verbeteren podcasts" title="Leren verbeteren podcasts" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:955351393/sounds.rss" />
 		<outline type="rss" text="Never waste a good crisis" title="Never waste a good crisis" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:1017812356/sounds.rss" />
 		<outline type="rss" text="Woningmarkt in krimpregio's" title="Woningmarkt in krimpregio's" xmlUrl="https://app.springcast.fm/podcast-xml/14558" />
 		<outline type="rss" text="Wereldvrouwen" title="Wereldvrouwen" xmlUrl="https://feeds.transistor.fm/werken-bij-defensie" />
-		<outline type="rss" text="Klapmok met Thee" title="Klapmok met Thee" xmlUrl="https://app.springcast.fm/podcast-xml/17082" />
-		<outline type="rss" text="Boots on the Ground" title="Boots on the Ground" xmlUrl="https://app.springcast.fm/podcast-xml/17083" />
+		<outline type="rss" text="Klapmok met Thee" title="Klapmok met Thee" xmlUrl="https://rss.springcast.app/nQPuGd" />
+		<outline type="rss" text="Boots on the Ground" title="Boots on the Ground" xmlUrl="https://rss.springcast.app/loVueW" />
 		<outline type="rss" text="Slim Inkopen, Slim Afvoeren" title="Slim Inkopen, Slim Afvoeren" xmlUrl="https://feeds.transistor.fm/slim-inkopen-slim-afvoeren" />
 		<outline type="rss" text="De veranderende rol van een informatieprofessional" title="De veranderende rol van een informatieprofessional" xmlUrl="https://channels.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/feed.xml" />
 		<outline type="rss" text="Zwarte Muisjes" title="Zwarte Muisjes" xmlUrl="https://anchor.fm/s/530d5c34/podcast/rss" />
@@ -85,9 +85,9 @@
 		<outline type="rss" text="WRR Vogelvlucht" title="WRR Vogelvlucht" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:429318093/sounds.rss" />
 		<outline type="rss" text="De Innovatie Ambtenaar" title="De Innovatie Ambtenaar" xmlUrl="https://anchor.fm/s/1192d0e0/podcast/rss" />
 		<outline type="rss" text="Vertrekpunt Nederland" title="Vertrekpunt Nederland" xmlUrl="https://feeds.simplecast.com/qOAtzz5c" />
-		<outline type="rss" text="Mijn Missie" title="Mijn Missie" xmlUrl="https://app.springcast.fm/podcast-xml/17081" />
+		<outline type="rss" text="Mijn Missie" title="Mijn Missie" xmlUrl="https://rss.springcast.app/ng4u41" />
 		<outline type="rss" text="Dossier Delict - de podcast van het NIFP" title="Dossier Delict - de podcast van het NIFP" xmlUrl="https://feeds.acast.com/public/shows/6579b18ff921fb0016838310" />
-		<outline type="rss" text="De Tank" title="De Tank" xmlUrl="https://app.springcast.fm/podcast-xml/17084" />
+		<outline type="rss" text="De Tank" title="De Tank" xmlUrl="https://rss.springcast.app/y1ku0d" />
 		<outline type="rss" text="Dwang en Dilemma's" title="Dwang en Dilemma's" xmlUrl="https://anchor.fm/s/f9955048/podcast/rss" />
 		<outline type="rss" text="De Marine Wereldwijd" title="De Marine Wereldwijd" xmlUrl="https://app.springcast.fm/podcast-xml/18452" />
 		<outline type="rss" text="Zij Hielden Koers" title="Zij Hielden Koers" xmlUrl="https://app.springcast.fm/podcast-xml/16082" />
@@ -117,7 +117,7 @@
 		<outline type="rss" text="AMLC podcast" title="AMLC podcast" xmlUrl="https://anchor.fm/s/56d70950/podcast/rss" />
 		<outline type="rss" text="Morele Wezens" title="Morele Wezens" xmlUrl="https://feeds.transistor.fm/morele-wezens" />
 		<outline type="rss" text="Verborgen in het volle zicht" title="Verborgen in het volle zicht" xmlUrl="https://feed.podbean.com/erfgoeddeal/feed.xml" />
-		<outline type="rss" text="Wie Wat Bewaart" title="Wie Wat Bewaart" xmlUrl="https://app.springcast.fm/podcast-xml/19687" />
+		<outline type="rss" text="Wie Wat Bewaart" title="Wie Wat Bewaart" xmlUrl="https://rss.springcast.app/yRYuY6" />
 		<outline type="rss" text="Dossier WODC" title="Dossier WODC" xmlUrl="https://anchor.fm/s/e9f55368/podcast/rss" />
 		<outline type="rss" text="KB nationale bibliotheek" title="KB nationale bibliotheek" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:663110451/sounds.rss" />
 		<outline type="rss" text="De top kijkt om" title="De top kijkt om" xmlUrl="https://anchor.fm/s/59362d70/podcast/rss" />

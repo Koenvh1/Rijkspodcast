@@ -223110,5 +223110,486 @@
         "wrapperType": "podcastEpisode"
       }
     ]
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/6wmJDWqHIBb0h0f5WHXTYK",
+    "spotify_data": {
+      "available_markets": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AM",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BJ",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CV",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GB",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KI",
+        "KN",
+        "KR",
+        "KW",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "TH",
+        "TL",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "UA",
+        "US",
+        "UY",
+        "VC",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "ZA"
+      ],
+      "copyrights": [],
+      "description": "Een podcast voor ambtenaren, beleidsmakers en politici die willen bijdragen aan een overheid die toegankelijk, betrouwbaar en transparant is.   In elke aflevering onderzoekt presentatrice Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat kan. Dit doen ze aan de hand van rapporten en onderzoeken van de Nationale ombudsman, ervaringen van Reinier van Zutphen \u00e9n een gesprek met een ambtenaar die laat zien dat meer oog voor de burger wel degelijk mogelijk is.",
+      "html_description": "Een podcast voor ambtenaren, beleidsmakers en politici die willen bijdragen aan een overheid die toegankelijk, betrouwbaar en transparant is. <br/>In elke aflevering onderzoekt presentatrice Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat kan. Dit doen ze aan de hand van rapporten en onderzoeken van de Nationale ombudsman, ervaringen van Reinier van Zutphen \u00e9n een gesprek met een ambtenaar die laat zien dat meer oog voor de burger wel degelijk mogelijk is.",
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/show/6wmJDWqHIBb0h0f5WHXTYK"
+      },
+      "href": "https://api.spotify.com/v1/shows/6wmJDWqHIBb0h0f5WHXTYK",
+      "id": "6wmJDWqHIBb0h0f5WHXTYK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "languages": [
+        "nl"
+      ],
+      "media_type": "audio",
+      "name": "Oog voor de Burger",
+      "publisher": "Nationale ombudsman",
+      "type": "show",
+      "uri": "spotify:show:6wmJDWqHIBb0h0f5WHXTYK",
+      "total_episodes": 7,
+      "episodes": {
+        "href": "https://api.spotify.com/v1/shows/6wmJDWqHIBb0h0f5WHXTYK/episodes?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 7,
+        "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/73xtOQPSepiXMQF4E82uMh/clip_361468_421468.mp3",
+            "description": "Als de overheid te veel handelt vanuit veiligheidsperspectief en eigen systemen, kunnen rechten en vrijheden onder druk komen te staan. Een overheid moet werken v\u00f3\u00f3r haar burgers, niet andersom. Dat betekent: het perspectief van burgers meenemen in beleid en uitvoering. En hun rechten respecteren en borgen \u2014 ook als veiligheid, effici\u00ebntie of wetgeving onder druk staan. Want als de balans zoek is, raken mensenrechten in het geding en kan vertrouwen omslaan in wantrouwen.In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen wat er op dat vlak mis gaat \u00e9n hoe het beter kan.Alle besproken rapporten en onderzoeken vind je hier: Aflevering 6: Een behoorlijke overheid | Nationale ombudsman",
+            "html_description": "<p>Als de overheid te veel handelt vanuit veiligheidsperspectief en eigen systemen, kunnen rechten en vrijheden onder druk komen te staan. Een overheid moet werken v\u00f3\u00f3r haar burgers, niet andersom. Dat betekent: het perspectief van burgers meenemen in beleid en uitvoering. En hun rechten respecteren en borgen \u2014 ook als veiligheid, effici\u00ebntie of wetgeving onder druk staan. Want als de balans zoek is, raken mensenrechten in het geding en kan vertrouwen omslaan in wantrouwen.</p><p>In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen wat er op dat vlak mis gaat \u00e9n hoe het beter kan.</p><p>Alle besproken rapporten en onderzoeken vind je hier: <a href=\"https://www.nationaleombudsman.nl/aflevering-6-een-behoorlijke-overheid\" rel=\"nofollow\">Aflevering 6: Een behoorlijke overheid | Nationale ombudsman</a></p>",
+            "duration_ms": 1868370,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3VaT6OM7lh0waa0czJFJUG"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3VaT6OM7lh0waa0czJFJUG",
+            "id": "3VaT6OM7lh0waa0czJFJUG",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 5: Vrijheid en veiligheid",
+            "release_date": "2026-02-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3VaT6OM7lh0waa0czJFJUG"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4NZ2dKx5uZvVKQ977FTkIw/clip_348794_408794.mp3",
+            "description": "Behoorlijkheid betekent: het goede doen voor de burger. Een overheid die behoorlijk handelt, stelt het burgerperspectief centraal en draagt bij aan een eerlijke, begrijpelijke en menselijke overheid. In deze aflevering bespreken we de vernieuwde Behoorlijkheidswijzer van de Nationale ombudsman, en laten we aan de hand van twee dossiers zien hoe overheidsprofessionals deze waarden in de praktijk kunnen brengen.In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen wat er mis gaat \u00e9n wat er al goed gaat.Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/aflevering-5-in-dienst-van-de-burger",
+            "html_description": "<p>Behoorlijkheid betekent: het goede doen voor de burger. Een overheid die behoorlijk handelt, stelt het burgerperspectief centraal en draagt bij aan een eerlijke, begrijpelijke en menselijke overheid. In deze aflevering bespreken we de vernieuwde Behoorlijkheidswijzer van de Nationale ombudsman, en laten we aan de hand van twee dossiers zien hoe overheidsprofessionals deze waarden in de praktijk kunnen brengen.</p><p>In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen wat er mis gaat \u00e9n wat er al goed gaat.</p><p>Alle besproken rapporten en onderzoeken vind je hier: <a href=\"https://www.nationaleombudsman.nl/aflevering-5-in-dienst-van-de-burger\" rel=\"nofollow\">https://www.nationaleombudsman.nl/aflevering-5-in-dienst-van-de-burger</a></p>",
+            "duration_ms": 2383691,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/4Z11ZFPZxShEmTvtzEnIFX"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4Z11ZFPZxShEmTvtzEnIFX",
+            "id": "4Z11ZFPZxShEmTvtzEnIFX",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 6: Behoorlijkheid",
+            "release_date": "2026-02-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4Z11ZFPZxShEmTvtzEnIFX"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5D0XxM9C3yXA81zHrIKK3D/clip_441922_501922.mp3",
+            "description": "Persoonlijke en duidelijke communicatie is cruciaal om vertrouwen te houden tussen overheid en burger. Niet alleen wat je zegt telt, maar ook hoe, wanneer en via welk kanaal. Slechte communicatie leidt tot frustratie, onbegrip en klachten, ook als de intentie van de overheid goed was.In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen wat er mis gaat \u00e9n wat er al goed gaat.Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger",
+            "html_description": "<p>Persoonlijke en duidelijke communicatie is cruciaal om vertrouwen te houden tussen overheid en burger. Niet alleen wat je zegt telt, maar ook hoe, wanneer en via welk kanaal. Slechte communicatie leidt tot frustratie, onbegrip en klachten, ook als de intentie van de overheid goed was.</p><p><br /></p><p>In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen wat er mis gaat \u00e9n wat er al goed gaat.</p><p><br /></p><p>Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger</p>",
+            "duration_ms": 2126328,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6AalGqrHPWKP904fEA3zNO"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6AalGqrHPWKP904fEA3zNO",
+            "id": "6AalGqrHPWKP904fEA3zNO",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 1: Persoonlijke en duidelijke communicatie",
+            "release_date": "2026-01-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6AalGqrHPWKP904fEA3zNO"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7t8wxxWFxPhrB2t198G2WS/clip_469189_529189.mp3",
+            "description": "De overheid weet soms wie hulp nodig heeft, maar komt toch niet in actie. Daardoor blijven voorzieningen zoals huurtoeslag, zorgtoeslag en het kindgebonden budget liggen \u2014 terwijl mensen er wel recht op hebben. Vooral ouderen en het thuisfront van veteranen lopen hulp mis. De overheid moet mensen actief benaderen, begeleiden \u00e9n samenwerken met partijen die dichtbij deze doelgroepen staan.In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat kan \u00e9n wat er al goed gaat.Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger",
+            "html_description": "<p>De overheid weet soms wie hulp nodig heeft, maar komt toch niet in actie. Daardoor blijven voorzieningen zoals huurtoeslag, zorgtoeslag en het kindgebonden budget liggen \u2014 terwijl mensen er wel recht op hebben. Vooral ouderen en het thuisfront van veteranen lopen hulp mis. De overheid moet mensen actief benaderen, begeleiden \u00e9n samenwerken met partijen die dichtbij deze doelgroepen staan.</p><p><br /></p><p>In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat kan \u00e9n wat er al goed gaat.</p><p><br /></p><p>Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger</p>",
+            "duration_ms": 2071488,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2OVjGViAhUaltXxolBrYtH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2OVjGViAhUaltXxolBrYtH",
+            "id": "2OVjGViAhUaltXxolBrYtH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 2: Proactieve overheid",
+            "release_date": "2026-01-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2OVjGViAhUaltXxolBrYtH"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/24skgcqr8ycfOY7HV6gskU/clip_619058_679058.mp3",
+            "description": "Overheden hebben vaak de drang om het wiel opnieuw uit te vinden, terwijl er veel kennis beschikbaar is. Door onderling meer samen te werken en kennis en ervaringen te delen kunnen overheden van elkaar leren en burgers beter helpen.In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat beter kan \u00e9n wat er al goed gaat.Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger",
+            "html_description": "<p>Overheden hebben vaak de drang om het wiel opnieuw uit te vinden, terwijl er veel kennis beschikbaar is. Door onderling meer samen te werken en kennis en ervaringen te delen kunnen overheden van elkaar leren en burgers beter helpen.</p><p><br />In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat beter kan \u00e9n wat er al goed gaat.</p><p><br /></p><p>Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger</p>",
+            "duration_ms": 1694328,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1jqu73bC6pFzbMeU7teOlR"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1jqu73bC6pFzbMeU7teOlR",
+            "id": "1jqu73bC6pFzbMeU7teOlR",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 3: Samenwerking tussen overheden",
+            "release_date": "2026-01-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1jqu73bC6pFzbMeU7teOlR"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7bjRFQMyLWAFG3Mr0gjpd5/clip_540044_600044.mp3",
+            "description": "Kunnen meepraten, meedoen en meebeslissen draagt bij aan het draagvlak voor overheidsbeleid en het vertrouwen in de overheid. Daarom vind de Nationale ombudsman het belangrijk dat burgers invloed hebben op beslissingen en ontwikkelingen die hen rechtstreeks raken.In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat beter kan \u00e9n wat er al goed gaat.Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger",
+            "html_description": "<p>Kunnen meepraten, meedoen en meebeslissen draagt bij aan het draagvlak voor overheidsbeleid en het vertrouwen in de overheid. Daarom vind de Nationale ombudsman het belangrijk dat burgers invloed hebben op beslissingen en ontwikkelingen die hen rechtstreeks raken.</p><p><br />In deze aflevering onderzoekt Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat beter kan \u00e9n wat er al goed gaat.</p><p><br /></p><p>Alle besproken rapporten en onderzoeken vind je hier: https://www.nationaleombudsman.nl/professionals/podcast-oog-voor-de-burger</p>",
+            "duration_ms": 2349648,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0ZeecBNr6Jsbm9IHVs8ZFc"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0ZeecBNr6Jsbm9IHVs8ZFc",
+            "id": "0ZeecBNr6Jsbm9IHVs8ZFc",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering 4: Invloed en participatie",
+            "release_date": "2026-01-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0ZeecBNr6Jsbm9IHVs8ZFc"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7uVCD8GyTpZq6GNlWmZWJh/clip_14012_74012.mp3",
+            "description": "Oog voor de burger is een podcast voor ambtenaren, beleidsmakers en politici die willen bijdragen aan een overheid die toegankelijk, betrouwbaar en transparant is. In elke aflevering onderzoekt presentatrice Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat kan. Dit doen ze aan de hand van rapporten en onderzoeken van de Nationale ombudsman, ervaringen van Reinier van Zutphen \u00e9n een gesprek met een ambtenaar die laat zien dat meer oog voor de burger wel degelijk mogelijk is.Abonneer je op deze podcast",
+            "html_description": "<p>Oog voor de burger is een podcast voor ambtenaren, beleidsmakers en politici die willen bijdragen aan een overheid die toegankelijk, betrouwbaar en transparant is. </p><p><br /></p><p>In elke aflevering onderzoekt presentatrice Marcia Luyten samen met ombudsman Reinier van Zutphen hoe dat kan. Dit doen ze aan de hand van rapporten en onderzoeken van de Nationale ombudsman, ervaringen van Reinier van Zutphen \u00e9n een gesprek met een ambtenaar die laat zien dat meer oog voor de burger wel degelijk mogelijk is.</p><p><br /></p><p>Abonneer je op deze podcast</p>",
+            "duration_ms": 82896,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3tkpY469yR6Z5AqJZCzXed"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3tkpY469yR6Z5AqJZCzXed",
+            "id": "3tkpY469yR6Z5AqJZCzXed",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aef7228023afd02aecfeb3ba1",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fef7228023afd02aecfeb3ba1",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68def7228023afd02aecfeb3ba1",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Trailer: Oog voor de Burger",
+            "release_date": "2026-01-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3tkpY469yR6Z5AqJZCzXed"
+          }
+        ]
+      }
+    },
+    "apple": "",
+    "apple_data": null
   }
 ]
