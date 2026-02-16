@@ -67,8 +67,8 @@ async function render(podcasts, sorting) {
         ${newest_episode ? `<small class="text-muted">Laatste aflevering: ${newest_episode}</small>` : ``}
         <h6 class="mb-1 mt-1">${name}</h6>
         <!--p><small class="podcast-description">${description}</small></p-->
-        ${publisher ? `<p><small class="podcast-description">Gepubliceerd door: ${publisher}</small></p>` : ``}
-        <p><small><a href="${p.spotify}" class="muted">Spotify</a>${isApple ? ", <a href='" + p.apple + "'>Apple Podcasts</a>, <a href='" + p.apple_data[0].feedUrl + "'>RSS</a>" : ""}</small></p>
+        ${publisher ? `<p><small class="podcast-description">${publisher}</small></p>` : ``}
+        <p><small>${isApple ? "<a href='" + p.spotify + "'>Spotify</a>, <a href='" + p.apple + "'>Apple Podcasts</a>, <a href='" + p.apple_data[0].feedUrl + "'>RSS</a>" : ""}</small></p>
     </div>
     ${isApple ? 
         `<button class="btn btn-primary mt-3 mt-sm-0 ms-0 ms-sm-3 accordion-toggle" type="button"
