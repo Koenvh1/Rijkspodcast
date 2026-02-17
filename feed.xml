@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-16T22:31:18Z</updated>
+	<updated>2026-02-17T07:01:11Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Dag van Beleid 2026 - Herijking van het Beleidskompas</title>
+		<link href="https://open.spotify.com/episode/0cImULuWj5gtI8XfRuwa3E" />
+		<summary type="html">&lt;p&gt;Op maandag 26 januari vond de Dag van Beleid plaats in de Fokker Terminal in Den Haag. Otto was daarbij te gast en sprak met verschillende sprekers, standhouders en bezoekers. In deze aflevering van podcast De Publieke Ruimte gaat hij samen met Martijn op zoek naar manieren om de kwaliteit van beleid te verbeteren aan de hand van het Beleidskompas.&lt;br /&gt;&lt;br/&gt;Centraal staan de oproepen en beschouwingen van columnist en adviseur Kustaw Bessems. Hij pleit voor meer presentie en urgentie om de manier waarop we beleid maken structureel te veranderen. Ook spreken we met Erik Bezem (directeur-generaal Straffen en Beschermen bij het ministerie van Justitie en Veiligheid) over opgavegericht werken. En pleit Loes Mulder (Secretaris Generaal van het Ministerie van OC&amp;amp;W) voor topsturing vanuit een gezamenlijke bestuursraad.&lt;br /&gt;&lt;br/&gt;Daarnaast veel praktische ervaringen van collega’s over werken vanuit burgerperspectief, participatie, uitvoerbaarheid, doenlijkheid, ambtelijk vakmanschap, publiek leiderschap, gedragsdeskundigheid, beleidskwaliteit en -evaluaties. &lt;/p&gt;</summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6i7xWFpvzru76VHOutGb3G/clip_644596_704596.mp3" type="audio/mpeg" />
+		<id>spotify:episode:0cImULuWj5gtI8XfRuwa3E</id>
+		<updated>2026-02-17T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Tussen politieke wens en technische realiteit</title>
 		<link href="https://open.spotify.com/episode/3N6ig5tFlXq2vtWMtDBN3B" />

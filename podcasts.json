@@ -5544,15 +5544,55 @@
       "publisher": "De Publieke Ruimte",
       "type": "show",
       "uri": "spotify:show:5VWtfJI3bOU0fDfO33YgeD",
-      "total_episodes": 66,
+      "total_episodes": 67,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/5VWtfJI3bOU0fDfO33YgeD/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 66,
+        "total": 67,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6i7xWFpvzru76VHOutGb3G/clip_644596_704596.mp3",
+            "description": "Op maandag 26 januari vond de Dag van Beleid plaats in de Fokker Terminal in Den Haag. Otto was daarbij te gast en sprak met verschillende sprekers, standhouders en bezoekers. In deze aflevering van podcast De Publieke Ruimte gaat hij samen met Martijn op zoek naar manieren om de kwaliteit van beleid te verbeteren aan de hand van het Beleidskompas. Centraal staan de oproepen en beschouwingen van columnist en adviseur Kustaw Bessems. Hij pleit voor meer\u00a0presentie en\u00a0urgentie om de manier waarop we beleid maken structureel te veranderen. Ook spreken we met\u00a0Erik Bezem (directeur-generaal Straffen en Beschermen bij het ministerie van Justitie en Veiligheid) over\u00a0opgavegericht werken. En pleit\u00a0Loes Mulder (Secretaris Generaal van het Ministerie van OC&W) voor topsturing vanuit een\u00a0gezamenlijke bestuursraad. Daarnaast veel praktische ervaringen van collega\u2019s over werken vanuit burgerperspectief, participatie, uitvoerbaarheid, doenlijkheid, ambtelijk vakmanschap, publiek leiderschap,\u00a0gedragsdeskundigheid, beleidskwaliteit en -evaluaties.\u00a0",
+            "html_description": "<p>Op maandag 26 januari vond de Dag van Beleid plaats in de Fokker Terminal in Den Haag. Otto was daarbij te gast en sprak met verschillende sprekers, standhouders en bezoekers. In deze aflevering van podcast De Publieke Ruimte gaat hij samen met Martijn op zoek naar manieren om de kwaliteit van beleid te verbeteren aan de hand van het Beleidskompas.<br /><br/>Centraal staan de oproepen en beschouwingen van columnist en adviseur Kustaw Bessems. Hij pleit voor meer\u00a0presentie en\u00a0urgentie om de manier waarop we beleid maken structureel te veranderen. Ook spreken we met\u00a0Erik Bezem (directeur-generaal Straffen en Beschermen bij het ministerie van Justitie en Veiligheid) over\u00a0opgavegericht werken. En pleit\u00a0Loes Mulder (Secretaris Generaal van het Ministerie van OC&amp;W) voor topsturing vanuit een\u00a0gezamenlijke bestuursraad.<br /><br/>Daarnaast veel praktische ervaringen van collega\u2019s over werken vanuit burgerperspectief, participatie, uitvoerbaarheid, doenlijkheid, ambtelijk vakmanschap, publiek leiderschap,\u00a0gedragsdeskundigheid, beleidskwaliteit en -evaluaties.\u00a0</p>",
+            "duration_ms": 3057432,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0cImULuWj5gtI8XfRuwa3E"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0cImULuWj5gtI8XfRuwa3E",
+            "id": "0cImULuWj5gtI8XfRuwa3E",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Dag van Beleid 2026 - Herijking van het Beleidskompas",
+            "release_date": "2026-02-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0cImULuWj5gtI8XfRuwa3E"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0Aelnm1TuN9W6dxjndDuqy/clip_440007_500007.mp3",
             "description": "Peter Kanne is als senior adviseur betrokken bij onderzoeksbureau Ipsos I&O en is regelmatig te zien als opinie onderzoeker in de media. Hij schreef op persoonlijke titel het boek 'Lang zal ik lekker leven - de genotzuchtige Nederlander: van ik-verslaving naar wij-gevoel.' \u00a0Otto en Martijn gaan in deze aflevering met hem op zoek naar de weerbare burger. Is de Nederlander een genotzuchtige individualist die zich terugtrekt in zijn eigen kleine, genoegzame wereldje? Aan de hand van objectieve cijfers, wetenschappelijk onderzoek en opinieonderzoek schetst Kanne de maatschappelijke context op het gebied van economie, communicatie, gezondheid, duurzaamheid en democratie. Daaruit blijkt telkens dat het systeem \u2013 de markt, big tech, een weifelende overheid \u2013consumentisme en genotzucht in stand houdt. Vraag is of en hoe dit kan worden doorbroken. Met meer overheidsbetutteling en normering? Of met meer gemeenschapszin en oprecht burgerschap? En welke rol kunnen ambtenaren hier zelf in spelen?",
@@ -7516,32 +7556,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1BF37fCn1jjg5yHmTzwteR/clip_444902_504902.mp3",
             "description": "Hoe zorg je ervoor dat ingevoerd beleid ook daadwerkelijk het effect heeft dat je ermee had beoogd en niet knelt in de uitvoering? Om bij te dragen aan de kwaliteitsverbetering rond nieuwe regelgeving wil het kabinet vaker een zogenaamde invoeringstoets inzetten. Maar wanneer zet je zo\u2019n toets nou in? Wat voor resultaten levert dit op? Zit je er als beleidsmedewerker wel op te wachten? En is het niet nog meer bureaucratie voor een uitvoeringsorganisatie? Martijn en Otto praten er over met Andre Bosman, oud-kamerlid en voorzitter van de Tijdelijke Commissie Uitvoeringsorganisaties, Pim Beirnaert, projectleider invoeringstoets bij het ministerie van Justitie en Veiligheid en Rosalinde van Putt, projectleider invoeringstoets bij de Belastingdienst.",
-            "html_description": "<p>Hoe zorg je ervoor dat ingevoerd beleid ook daadwerkelijk het effect heeft dat je ermee had beoogd en niet knelt in de uitvoering? Om bij te dragen aan de kwaliteitsverbetering rond nieuwe regelgeving wil het kabinet vaker een zogenaamde <a href=\"https://www.rijksoverheid.nl/documenten/kamerstukken/2022/04/21/tk-inkleuring-en-stand-van-zaken-invoeringstoets\" rel=\"nofollow\">invoeringstoets</a> inzetten. Maar wanneer zet je zo\u2019n toets nou in? Wat voor resultaten levert dit op? Zit je er als beleidsmedewerker wel op te wachten? En is het niet nog meer bureaucratie voor een uitvoeringsorganisatie? Martijn en Otto praten er over met Andre Bosman, oud-kamerlid en voorzitter van de Tijdelijke Commissie Uitvoeringsorganisaties, Pim Beirnaert, projectleider invoeringstoets bij het ministerie van Justitie en Veiligheid en Rosalinde van Putt, projectleider invoeringstoets bij de Belastingdienst.</p>",
             "duration_ms": 2756675,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/5tACHRqnXi5XubEekkYSUs"
             },
             "href": "https://api.spotify.com/v1/episodes/5tACHRqnXi5XubEekkYSUs",
+            "html_description": "<p>Hoe zorg je ervoor dat ingevoerd beleid ook daadwerkelijk het effect heeft dat je ermee had beoogd en niet knelt in de uitvoering? Om bij te dragen aan de kwaliteitsverbetering rond nieuwe regelgeving wil het kabinet vaker een zogenaamde <a href=\"https://www.rijksoverheid.nl/documenten/kamerstukken/2022/04/21/tk-inkleuring-en-stand-van-zaken-invoeringstoets\" rel=\"nofollow\">invoeringstoets</a> inzetten. Maar wanneer zet je zo\u2019n toets nou in? Wat voor resultaten levert dit op? Zit je er als beleidsmedewerker wel op te wachten? En is het niet nog meer bureaucratie voor een uitvoeringsorganisatie? Martijn en Otto praten er over met Andre Bosman, oud-kamerlid en voorzitter van de Tijdelijke Commissie Uitvoeringsorganisaties, Pim Beirnaert, projectleider invoeringstoets bij het ministerie van Justitie en Veiligheid en Rosalinde van Putt, projectleider invoeringstoets bij de Belastingdienst.</p>",
             "id": "5tACHRqnXi5XubEekkYSUs",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8abbfcebd6f243f6a94f85bb8c",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fbbfcebd6f243f6a94f85bb8c",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68dbbfcebd6f243f6a94f85bb8c",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -13226,16 +13266,16 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/53/34/2d5334de-b391-1975-fcba-74266a23c390/mza_5587151719650489525.png/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/53/34/2d5334de-b391-1975-fcba-74266a23c390/mza_5587151719650489525.png/60x60bb.png",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/53/34/2d5334de-b391-1975-fcba-74266a23c390/mza_5587151719650489525.png/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ae/c8/56/aec856fc-f7ef-2c9c-d401-cc27f58f6a12/mza_1867999006640240602.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ae/c8/56/aec856fc-f7ef-2c9c-d401-cc27f58f6a12/mza_1867999006640240602.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ae/c8/56/aec856fc-f7ef-2c9c-d401-cc27f58f6a12/mza_1867999006640240602.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1720910530,
         "collectionName": "Digitale Zaken op tafel",
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/digitale-zaken-op-tafel/id1720910530?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "In de zevende aflevering spreekt Sander van Amerongen (secretaris-directeur AcICT) over de spagaat van de Belastingdienst tussen een complex ICT-netwerk en de vraag van de Tweede Kamer om belastingvernieuwingen. In deze aflevering spreekt hij met:\nPeter Smink, Directeur-Generaal BelastingdienstBart de Jongh, directeur van de concerndirectie Informatievoorziening & Databeheersing en CIO bij de BelastingdienstJoost Visser, collegelid AcICT en daarnaast hoogleraar informatica bij het Leiden Institute of Advanced Computer Science.De Belastingdienst heeft de grootste ICT-organisatie van de Rijksoverheid: ruim 4.700 ICT-professionals houden de ongeveer 900 applicaties in de lucht. Een deel van die applicaties is lastig aanpasbaar, verouderd of gebruikt verouderde apparatuur.\u00a0Het gesprek gaat over de verschillende afwegingen die de Belastingdienst maakt bij de planning en prioritering. Hoe vervang je applicaties terwijl de winkel openblijft? En hoe verhoudt die moderniseringsopgave zich tot de politieke wensen die ook moeten worden ingevuld?\u00a0\nMeer weten over dit thema?Lees ook onze handreiking leveranciersmanagementLees ook onze handreiking over legacyAcICT adviseerde de afgelopen jaren 8 keer over grote vervangingstrajecten bij de Belastingdienst:\nRationaliseren Cool:GEN InkomstenheffingMultiKanaal OntvangenModernisering OmzetbelastingGeneriek platform voor Document- en ArchiefbeheerVernieuwen Heffen Loonbelasting en Premies (HLP)Rationalisatie Auto Motorrijtuigenbelasting (MRB)Programma Regie Modernisering IV- landschapRealisatie doelarchitectuur InningAdviescollege ICT-toetsingOp de website van het Adviescollege ICT-toetsing staan onze handreikingen, toetskaders en rapporten van alle uitgebrachte adviezen: www.adviescollegeicttoetsing.nl\nCreditsRedactie en productie door Judith Wouters \u2013 Adviescollege ICT-toetsingMuziekcompositie en uitvoering door Marco RaaphorstTechnische realisatie: Wim Brons - VlaklandDe Podcastserie Digitale Zaken is een samenwerking tussen AcICT en Rijksacademie voor Digitalisering en Informatisering Overheid (RADIO)",
+        "description": "In de zevende aflevering spreekt Sander van Amerongen (secretaris-directeur AcICT) over de spagaat van de Belastingdienst tussen een complex ICT-netwerk en de vraag van de Tweede Kamer om belastingvernieuwingen. In deze aflevering spreekt hij met:\nPeter Smink, Directeur-Generaal BelastingdienstBart de Jongh, directeur van de concerndirectie Informatievoorziening & Databeheersing en CIO bij de BelastingdienstJoost Visser, collegelid AcICT en daarnaast hoogleraar informatica bij het Leiden Institute of Advanced Computer Science.De Belastingdienst heeft de grootste ICT-organisatie van de Rijksoverheid: ruim 4.700 ICT-professionals houden de ongeveer 900 applicaties in de lucht. Een deel van die applicaties is lastig aanpasbaar, verouderd of gebruikt verouderde apparatuur.\u00a0Het gesprek gaat over de verschillende afwegingen die de Belastingdienst maakt bij de planning en prioritering. Hoe vervang je applicaties terwijl de winkel openblijft? En hoe verhoudt die moderniseringsopgave zich tot de politieke wensen die ook moeten worden ingevuld?\u00a0\nMeer weten over dit thema?Lees ook onze handreiking leveranciersmanagementLees ook onze handreiking over legacyAcICT adviseerde de afgelopen jaren 8 keer over grote vervangingstrajecten bij de Belastingdienst:\nRationaliseren Cool:GEN InkomstenheffingMultiKanaal OntvangenModernisering OmzetbelastingGeneriek platform voor Document- en ArchiefbeheerVernieuwen Heffen Loonbelasting en Premies (HLP)Rationalisatie Auto Motorrijtuigenbelasting (MRB)Programma Regie Modernisering IV- landschapRealisatie doelarchitectuur InningAdviescollege ICT-toetsingOp de website van het Adviescollege ICT-toetsing staan onze handreikingen, toetskaders en rapporten van alle uitgebrachte adviezen: www.adviescollegeicttoetsing.nl\nCreditsRedactie en productie door Judith Wouters \u2013 Adviescollege ICT-toetsingMuziekcompositie en uitvoering door Marco RaapohorstTechnische realisatie: Wim Brons - VlaklandDe Podcastserie Digitale Zaken is een samenwerking tussen AcICT en Rijksacademie voor Digitalisering en Informatisering Overheid (RADIO)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "https://app.springcast.fm/19492/tussen-politieke-wens-en-technische-realiteit",
