@@ -107475,9 +107475,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/0b/76/3a0b764f-6291-0db5-2a67-25da813278cc/mza_6578705455876491370.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/0b/76/3a0b764f-6291-0db5-2a67-25da813278cc/mza_6578705455876491370.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/0b/76/3a0b764f-6291-0db5-2a67-25da813278cc/mza_6578705455876491370.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/79/e6/5d79e6ca-d05f-e204-e670-f9ff8b107f1f/mza_591747340866229392.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/79/e6/5d79e6ca-d05f-e204-e670-f9ff8b107f1f/mza_591747340866229392.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/79/e6/5d79e6ca-d05f-e204-e670-f9ff8b107f1f/mza_591747340866229392.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -191762,15 +191762,55 @@
       "publisher": "SSR Communicatie",
       "type": "show",
       "uri": "spotify:show:2fUgdA1OH04g1BPsGKe0Ne",
-      "total_episodes": 76,
+      "total_episodes": 77,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2fUgdA1OH04g1BPsGKe0Ne/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2fUgdA1OH04g1BPsGKe0Ne/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 76,
+        "total": 77,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4oBwUsIJNJnG61ZgYfEd7I/clip_255187_315187.mp3",
+            "description": "Tot op de dag van vandaag hebben gedupeerden van de kinderopvangtoeslagenaffaire last van de gevolgen. Zij werden jaren geleden door de Belastingdienst onterecht aangewezen als fraudeur en moesten vaak duizenden euro\u2019s terugbetalen. Recht zoeken was lastig: rechters hielden zich vaak strak aan regels, waardoor erkenning en rechtvaardigheid uitbleven. Pas later bood de Raad voor de rechtspraak excuses aan.  In deze podcastaflevering bespreekt Narda Teke-Bozkurt met Daan Langkamp de impact van de affaire. Teke-Bozkurt staat als sociaal advocaat meer dan 180 slachtoffers van de toeslagenaffaire bij en is zelf ook slachtoffer. Ze heeft als geen ander inzicht in de gevolgen en de zaken waar zij en haar lotgenoten nog steeds tegenaan lopen. Welke lessen moeten er getrokken worden en gebeurt dat ook voldoende?",
+            "html_description": "<p>Tot op de dag van vandaag hebben gedupeerden van de kinderopvangtoeslagenaffaire last van de gevolgen. Zij werden jaren geleden door de Belastingdienst onterecht aangewezen als fraudeur en moesten vaak duizenden euro\u2019s terugbetalen. Recht zoeken was lastig: rechters hielden zich vaak strak aan regels, waardoor erkenning en rechtvaardigheid uitbleven. Pas later bood de Raad voor de rechtspraak excuses aan.</p><br/><p>In deze podcastaflevering bespreekt Narda Teke-Bozkurt met Daan Langkamp de impact van de affaire. Teke-Bozkurt staat als sociaal advocaat meer dan 180 slachtoffers van de toeslagenaffaire bij en is zelf ook slachtoffer. Ze heeft als geen ander inzicht in de gevolgen en de zaken waar zij en haar lotgenoten nog steeds tegenaan lopen. Welke lessen moeten er getrokken worden en gebeurt dat ook voldoende?</p>",
+            "duration_ms": 1849464,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0byeUxBRPeI53lmbk8buWh"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0byeUxBRPeI53lmbk8buWh",
+            "id": "0byeUxBRPeI53lmbk8buWh",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab86b015c3b5cd8ede6d35571",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb86b015c3b5cd8ede6d35571",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db86b015c3b5cd8ede6d35571",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Episode 77: Narda Teke-Bozkurt - Advocaat en slachtoffer van de toeslagenaffaire",
+            "release_date": "2026-02-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0byeUxBRPeI53lmbk8buWh"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7qNtLPKM81ixzfat9wILdg/clip_583826_643826.mp3",
             "description": "Ybo Buruma \u2013 de nestor van het Nederlandse strafrecht - ging in september 2025 met pensioen. Hij nam hij afscheid van de Hoge Raad waar hij sinds 2011 raadsheer was. Ook verscheen onlangs zijn boek Onvoltooide rechtsstaat.  Hoogste tijd voor een terugblik op zijn carri\u00e8re en voor een blik vooruit. Een bezorgde blik, want \u2018we begeven ons op dit moment op een kantelpunt\u2019, volgens Buruma. Samen met interviewer Daan Langkamp bespreekt hij in deze extra lange aflevering zijn zorgen over de staat van de rechtsstaat.",
@@ -193734,28 +193774,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5CJLCbiLSBXx5IUIXRQKLl/clip_505867_565867.mp3",
             "description": "Plaats delict: internet. In deze speciale serie van SSR Meestervertellers besteden we een maand lang wekelijks aandacht aan de aanpak van internetcriminaliteit.  In deze aflevering spreekt cyber-expert Chris van\u2019t Hof met Jacqueline Bonnes. Als officier van justitie doet Bonnes grote onderzoeken op het gebied van cybercrime. Ze geeft in deze podcast uitleg over de aanpak van afpersing met gijzelsoftware, beter bekend als ransomware. Voor welke dillema\u2019s kom je te staan bij de bestrijding van ransomware? Op welk moment wordt het onderzoeksbelang bijvoorbeeld ondergeschikt aan slachtoffernotificatie?",
-            "html_description": "<p>Plaats delict: internet. In deze speciale serie van SSR Meestervertellers besteden we een maand lang wekelijks aandacht aan de aanpak van internetcriminaliteit.</p><br/><p>In deze aflevering spreekt cyber-expert Chris van\u2019t Hof met Jacqueline Bonnes. Als officier van justitie doet Bonnes grote onderzoeken op het gebied van cybercrime. Ze geeft in deze podcast uitleg over de aanpak van afpersing met gijzelsoftware, beter bekend als ransomware.<br /><br/>Voor welke dillema\u2019s kom je te staan bij de bestrijding van ransomware? Op welk moment wordt het onderzoeksbelang bijvoorbeeld ondergeschikt aan slachtoffernotificatie?</p>",
             "duration_ms": 1312418,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/5TaLZ5CJpbbe9WRVyoMBRt"
             },
             "href": "https://api.spotify.com/v1/episodes/5TaLZ5CJpbbe9WRVyoMBRt",
+            "html_description": "<p>Plaats delict: internet. In deze speciale serie van SSR Meestervertellers besteden we een maand lang wekelijks aandacht aan de aanpak van internetcriminaliteit.</p><br/><p>In deze aflevering spreekt cyber-expert Chris van\u2019t Hof met Jacqueline Bonnes. Als officier van justitie doet Bonnes grote onderzoeken op het gebied van cybercrime. Ze geeft in deze podcast uitleg over de aanpak van afpersing met gijzelsoftware, beter bekend als ransomware.<br /><br/>Voor welke dillema\u2019s kom je te staan bij de bestrijding van ransomware? Op welk moment wordt het onderzoeksbelang bijvoorbeeld ondergeschikt aan slachtoffernotificatie?</p>",
             "id": "5TaLZ5CJpbbe9WRVyoMBRt",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ab86b015c3b5cd8ede6d35571",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab86b015c3b5cd8ede6d35571",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fb86b015c3b5cd8ede6d35571",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fb86b015c3b5cd8ede6d35571",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68db86b015c3b5cd8ede6d35571",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68db86b015c3b5cd8ede6d35571",
                 "width": 64
               }
             ],
@@ -194846,16 +194886,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Onderwijs",
-        "releaseDate": "2025-11-28T10:45:00Z",
+        "releaseDate": "2026-01-21T08:15:00Z",
         "trackCensoredName": "SSR Meestervertellers",
-        "trackCount": 76,
+        "trackCount": 77,
         "trackExplicitness": "cleaned",
         "trackId": 1481318192,
         "trackName": "SSR Meestervertellers",
         "trackPrice": 0.0,
-        "trackTimeMillis": 703,
+        "trackTimeMillis": 2522,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/ssr-meestervertellers/id1481318192?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1481318192,
+        "collectionName": "SSR Meestervertellers",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/ssr-meestervertellers/id1481318192?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Tot op de dag van vandaag hebben gedupeerden van de kinderopvangtoeslagenaffaire last van de gevolgen. Zij werden jaren geleden door de Belastingdienst onterecht aangewezen als fraudeur en moesten vaak duizenden euro\u2019s terugbetalen. Recht zoeken was lastig: rechters hielden zich vaak strak aan regels, waardoor erkenning en rechtvaardigheid uitbleven. Pas later bood de Raad voor de rechtspraak excuses aan.\n\n\nIn deze podcastaflevering bespreekt Narda Teke-Bozkurt met Daan Langkamp de impact van de affaire. Teke-Bozkurt staat als sociaal advocaat meer dan 180 slachtoffers van de toeslagenaffaire bij en is zelf ook slachtoffer. Ze heeft als geen ander inzicht in de gevolgen en de zaken waar zij en haar lotgenoten nog steeds tegenaan lopen. Welke lessen moeten er getrokken worden en gebeurt dat ook voldoende?",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "3db14cc0-f529-4880-b0b8-e40c5bc8adbd",
+        "episodeUrl": "https://aphid.fireside.fm/d/1437767933/0a88c135-a567-4c20-9eea-2092a570b578/3db14cc0-f529-4880-b0b8-e40c5bc8adbd.mp3",
+        "feedUrl": "https://feeds.fireside.fm/ssr/rss",
+        "genres": [
+          {
+            "name": "Education",
+            "id": "1304"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://aphid.fireside.fm/d/1437767933/0a88c135-a567-4c20-9eea-2092a570b578/3db14cc0-f529-4880-b0b8-e40c5bc8adbd.mp3",
+        "releaseDate": "2026-02-18T08:00:00Z",
+        "shortDescription": "Tot op de dag van vandaag hebben gedupeerden van de kinderopvangtoeslagenaffaire last van de gevolgen. Zij werden jaren geleden door de Belastingdienst onterecht aangewezen als fraudeur en moesten vaak duizenden euro\u2019s terugbetalen. Recht zoeken was l",
+        "trackId": 1000750283086,
+        "trackName": "Episode 77: Narda Teke-Bozkurt - Advocaat en slachtoffer van de toeslagenaffaire",
+        "trackTimeMillis": 1849000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/episode-77-narda-teke-bozkurt-advocaat-en-slachtoffer/id1481318192?i=1000750283086&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -197561,7 +197634,46 @@
         "previous": null,
         "total": 105,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ZnSbW6cZDaGZqTrFS8utU/clip_542058_602058.mp3",
+            "description": "De Europese Unie werkt toe naar \u00e9\u00e9n uniform anti-witwaskader: het Single Rulebook. Met de Anti-Money Laundering Regulation (AMLR) moeten nationale interpretaties en uiteenlopende toezichtpraktijken tot het verleden gaan behoren. Maar wat betekent dat in de praktijk?In deze aflevering zoomen we in op de vraag welke verschillen tussen lidstaten daadwerkelijk verdwijnen en waar ruimte blijft voor nationale invulling. We bespreken hoe het single rulebook moet zorgen voor meer consistentie, minder fragmentatie en een gelijker speelveld voor instellingen die grensoverschrijdend actief zijn.In deze aflevering hoor je onder andere:Waarom nationale interpretaties en \u2018koppen\u2019 nu zorgen voor frictieWat het single rulebook concreet verandert voor instellingen en toezichthoudersWelke typisch Nederlandse keuzes onder de AMLR verdwijnen of juist blijven bestaanWat harmonisatie betekent voor meldprocessen en FIU-samenwerkingHoe het single rulebook bijdraagt aan een meer pan-Europese aanpak van witwasbestrijdingDe aflevering laat zien dat het single rulebook geen volledige uniformiteit garandeert, maar wel een fundamentele stap zet richting meer voorspelbaarheid en samenhang in het Europese AML-toezicht.\u201cHet grootste probleem is eigenlijk dat verschillen in interpretatie door toezichthouders een uniforme toepassing van de EU-regel hinderen.\u201d\ud83c\udfa7 In de volgende aflevering duiken we in het Europese risicomodel en bespreken we wat de nieuwe pan-EU risicomethodologie betekent voor SIRA\u2019s, risicobereidheid en het gesprek met de toezichthouder.",
+            "html_description": "<p>De Europese Unie werkt toe naar \u00e9\u00e9n uniform anti-witwaskader: het Single Rulebook. Met de Anti-Money Laundering Regulation (AMLR) moeten nationale interpretaties en uiteenlopende toezichtpraktijken tot het verleden gaan behoren. Maar wat betekent dat in de praktijk?</p><p>In deze aflevering zoomen we in op de vraag welke verschillen tussen lidstaten daadwerkelijk verdwijnen en waar ruimte blijft voor nationale invulling. We bespreken hoe het single rulebook moet zorgen voor meer consistentie, minder fragmentatie en een gelijker speelveld voor instellingen die grensoverschrijdend actief zijn.</p><p>In deze aflevering hoor je onder andere:</p><ul><li><p>Waarom nationale interpretaties en \u2018koppen\u2019 nu zorgen voor frictie</p></li><li><p>Wat het single rulebook concreet verandert voor instellingen en toezichthouders</p></li><li><p>Welke typisch Nederlandse keuzes onder de AMLR verdwijnen of juist blijven bestaan</p></li><li><p>Wat harmonisatie betekent voor meldprocessen en FIU-samenwerking</p></li><li><p>Hoe het single rulebook bijdraagt aan een meer pan-Europese aanpak van witwasbestrijding</p></li></ul><p>De aflevering laat zien dat het single rulebook geen volledige uniformiteit garandeert, maar wel een fundamentele stap zet richting meer voorspelbaarheid en samenhang in het Europese AML-toezicht.</p><p>\u201cHet grootste probleem is eigenlijk dat verschillen in interpretatie door toezichthouders een uniforme toepassing van de EU-regel hinderen.\u201d</p><p>&#x1f3a7; In de volgende aflevering duiken we in het Europese risicomodel en bespreken we wat de nieuwe pan-EU risicomethodologie betekent voor SIRA\u2019s, risicobereidheid en het gesprek met de toezichthouder.</p>",
+            "duration_ms": 782679,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7JAfJkh9WZZeD0t4tgXJEP"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7JAfJkh9WZZeD0t4tgXJEP",
+            "id": "7JAfJkh9WZZeD0t4tgXJEP",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "105. Deel 2 - Het Single Rulebook en het einde van nationale variatie",
+            "release_date": "2026-02-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7JAfJkh9WZZeD0t4tgXJEP"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Ma6FiLvhyLoQjYgO98q24/clip_256336_316336.mp3",
             "description": "De Europese hervormingen in de aanpak van witwassen zijn geen toekomstmuziek meer. De Anti-Money Laundering Authority (AMLA) is in oprichting, het EU-AML-pakket krijgt steeds verder vorm en de eerste effecten worden nu al zichtbaar in de praktijk.In deze aflevering brengen we de stand van zaken in kaart. Waar staan we op dit moment met de Anti-Money Laundering Regulation (AMLR) en de AMLA? Wat is al besloten, wat is al operationeel en wat betekent dit vandaag al voor instellingen, toezichthouders en Financial Intelligence Units?In deze aflevering hoor je onder andere:Waar Europa nu staat in de uitrol van het EU-AML-pakketWelke rol de AMLA krijgt als normsteller, co\u00f6rdinator en toezichthouderWelke onderdelen van de regelgeving al concreet effect hebben in de praktijkWat instellingen en toezichthouders nu al merken van de komende veranderingenHoe regulatory technical standards (RTS) en richtsnoeren de komende jaren het speelveld gaan bepalenDe aflevering laat zien dat de Europese anti-witwasaanpak een nieuwe fase is ingegaan: van plannen naar uitvoering.\u201cAls je ziet wat we nu op ons af gaan krijgen dit jaar en de jaren daarop, dan kun je wel stellen dat we echt begonnen zijn nu.\u201d\ud83c\udfa7 In de volgende aflevering zoomen we in op het single rulebook en de vraag hoe Europese harmonisatie nationale verschillen in toezicht en uitvoering moet gaan wegnemen.",
@@ -201755,16 +201867,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
-        "releaseDate": "2026-01-14T08:17:00Z",
+        "releaseDate": "2026-02-12T12:28:00Z",
         "trackCensoredName": "AMLC podcast",
-        "trackCount": 104,
+        "trackCount": 105,
         "trackExplicitness": "cleaned",
         "trackId": 1565172628,
         "trackName": "AMLC podcast",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1883,
+        "trackTimeMillis": 825,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/amlc-podcast/id1565172628?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1565172628,
+        "collectionName": "AMLC podcast",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/amlc-podcast/id1565172628?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "De Europese Unie werkt toe naar \u00e9\u00e9n uniform anti-witwaskader: het Single Rulebook. Met de Anti-Money Laundering Regulation (AMLR) moeten nationale interpretaties en uiteenlopende toezichtpraktijken tot het verleden gaan behoren. Maar wat betekent dat in de praktijk?\nIn deze aflevering zoomen we in op de vraag welke verschillen tussen lidstaten daadwerkelijk verdwijnen en waar ruimte blijft voor nationale invulling. We bespreken hoe het single rulebook moet zorgen voor meer consistentie, minder fragmentatie en een gelijker speelveld voor instellingen die grensoverschrijdend actief zijn.\nIn deze aflevering hoor je onder andere:\nWaarom nationale interpretaties en \u2018koppen\u2019 nu zorgen voor frictie\nWat het single rulebook concreet verandert voor instellingen en toezichthouders\nWelke typisch Nederlandse keuzes onder de AMLR verdwijnen of juist blijven bestaan\nWat harmonisatie betekent voor meldprocessen en FIU-samenwerking\nHoe het single rulebook bijdraagt aan een meer pan-Europese aanpak van witwasbestrijding\nDe aflevering laat zien dat het single rulebook geen volledige uniformiteit garandeert, maar wel een fundamentele stap zet richting meer voorspelbaarheid en samenhang in het Europese AML-toezicht.\n\u201cHet grootste probleem is eigenlijk dat verschillen in interpretatie door toezichthouders een uniforme toepassing van de EU-regel hinderen.\u201d\n\ud83c\udfa7 In de volgende aflevering duiken we in het Europese risicomodel en bespreken we wat de nieuwe pan-EU risicomethodologie betekent voor SIRA\u2019s, risicobereidheid en het gesprek met de toezichthouder.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "cd0462e2-82bb-437f-8e3e-e9f9d98357f8",
+        "episodeUrl": "https://anchor.fm/s/56d70950/podcast/play/115267081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-13%2F6ccf8cb0-45d7-0c4b-9526-bbfc2963077b.mp3",
+        "feedUrl": "https://anchor.fm/s/56d70950/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/56d70950/podcast/play/115267081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-13%2F6ccf8cb0-45d7-0c4b-9526-bbfc2963077b.mp3",
+        "releaseDate": "2026-02-18T08:35:00Z",
+        "shortDescription": "De Europese Unie werkt toe naar \u00e9\u00e9n uniform anti-witwaskader: het Single Rulebook. Met de Anti-Money Laundering Regulation (AMLR) moeten nationale interpretaties en uiteenlopende toezichtpraktijken tot het verleden gaan behoren. Maar wat betekent dat",
+        "trackId": 1000750286880,
+        "trackName": "105. Deel 2 - Het Single Rulebook en het einde van nationale variatie",
+        "trackTimeMillis": 782000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/105-deel-2-het-single-rulebook-en-het-einde-van-nationale/id1565172628?i=1000750286880&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
