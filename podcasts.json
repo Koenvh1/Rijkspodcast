@@ -82738,7 +82738,46 @@
         "previous": null,
         "total": 39,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4tEeUpyYBt1CpVwjiWAw8v/clip_383261_443261.mp3",
+            "description": "In de strijd tegen de georganiseerde misdaad is de weg een cruciaal middel. Criminelen gebruiken steeds geavanceerdere technieken om drugs, wapens en cash te vervoeren in speciaal geprepareerde voertuigen. Van hydraulische luiken tot complexe elektronische codes: hoe gaat de onderwereld te werk en hoe haalt de politie ze van de weg?\u00a0In deze aflevering vertelt Koen Schols werkzaam bij het Flexibel Interventie Team (FIT) van Landelijke expertise en operaties over verborgen ruimtes in voertuigen. Wat is een verborgen ruimte? Wat is de schaal van het probleem en wat zijn de laatste trends en ontwikkelingen? En wat zijn de risico\u2019s voor de veiligheid in het verkeer?\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie. Christiaan Los zit vanuit het Landelijk Programma Ondermijning aan tafel en Ivana, student bij team BOOST en is haar scriptie bij team BOOST aan het afronden van de master Criminologie en Veiligheidsbeleid. Samen stellen ze Koen vragen over verborgen ruimtes in voertuigen.\u00a0\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f#19 \u2013 Tom Torensma over ondermijning in de Transport- en Logistieke sector en TFOC\u00a0\ud83c\udf99\ufe0f #23 \u2013 Martijn Mol over project Mietwagen\u00a0\u00a0\u00a0",
+            "html_description": "<p>In de strijd tegen de georganiseerde misdaad is de weg een cruciaal middel. Criminelen gebruiken steeds geavanceerdere technieken om drugs, wapens en cash te vervoeren in speciaal geprepareerde voertuigen. Van hydraulische luiken tot complexe elektronische codes: hoe gaat de onderwereld te werk en hoe haalt de politie ze van de weg?\u00a0</p><p>In deze aflevering vertelt Koen Schols werkzaam bij het Flexibel Interventie Team (FIT) van Landelijke expertise en operaties over verborgen ruimtes in voertuigen. Wat is een verborgen ruimte? Wat is de schaal van het probleem en wat zijn de laatste trends en ontwikkelingen? En wat zijn de risico\u2019s voor de veiligheid in het verkeer?\u00a0</p><p>Aan tafel zitten twee leden van Team #ONDERMIJNING, bestaande uit het Landelijk Programma Ondermijning en studententeam BOOST van de politie. Christiaan Los zit vanuit het Landelijk Programma Ondermijning aan tafel en Ivana, student bij team BOOST en is haar scriptie bij team BOOST aan het afronden van de master Criminologie en Veiligheidsbeleid. Samen stellen ze Koen vragen over verborgen ruimtes in voertuigen.\u00a0\u00a0</p><p>Volg ons op:\u00a0</p><p>&#x1f4f1; <a href=\"https://www.linkedin.com/company/landelijk-programma-ondermijning/\" rel=\"nofollow\">\u2060\u2060LinkedIn\u2060\u2060</a>\u00a0</p><p>&#x1f4f1; <a href=\"https://www.youtube.com/&#64;PolitieONDERMIJNING\" rel=\"nofollow\">\u2060\u2060YouTube\u2060\u2060</a>\u00a0</p><p>Relevante afleveringen:\u00a0</p><p><a href=\"https://youtu.be/LbH80e_6p0I\" rel=\"nofollow\">&#x1f399;\ufe0f#19 \u2013 Tom Torensma over ondermijning in de Transport- en Logistieke sector en TFOC</a>\u00a0</p><p><a href=\"https://www.youtube.com/watch?v&#61;Dei3B8Bf_0I&amp;t&#61;148s\" rel=\"nofollow\">&#x1f399;\ufe0f #23 \u2013 Martijn Mol over project Mietwagen</a>\u00a0</p><p>\u00a0\u00a0</p>",
+            "duration_ms": 2728362,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/41MKRMtWBAHY8ZrLYHDxwC"
+            },
+            "href": "https://api.spotify.com/v1/episodes/41MKRMtWBAHY8ZrLYHDxwC",
+            "id": "41MKRMtWBAHY8ZrLYHDxwC",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a1b46d8ae6b0ae330c3d1c002",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f1b46d8ae6b0ae330c3d1c002",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d1b46d8ae6b0ae330c3d1c002",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#38 - Koen Schols over Verborgen Ruimtes",
+            "release_date": "2026-02-18",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:41MKRMtWBAHY8ZrLYHDxwC"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/76dUHs1d3ZM9AsGW9MGKrs/clip_228207_288207.mp3",
             "description": "Ondermijnende criminaliteit kent verschillende verschijningsvormen. In de aanpak richten we ons op het bestrijden van complexe problematiek om de samenleving beter weerbaar te maken. Naast drugscriminaliteit, zijn er de laatste jaren ook ontwikkelingen op gebied van mensenhandel en vastgoedfraude geweest. Deze ontwikkelingen maken duidelijk hoe belangrijk een geco\u00f6rdineerde samenwerking is, en precies daarom is het ACT! Interventieteam in Limburg opgezet!\u00a0\u00a0\u00a0In deze aflevering vertellen Ryan Palmen, burgemeester van gemeente Horst aan de Maas in Limburg, en co\u00f6rdinator Emmy Mobers over het ACT! Interventieteam. Wat houdt het ACT! Interventieteam in? Met welke beweegreden is het ontstaan? En wat is de rol van co\u00f6rdinator Emmy in het team? Daarnaast leggen Ryan en Emmy uit wat de aanpak en samenwerking met ketenpartners uniek maakt.\u00a0Aan tafel zitten twee leden van Team #ONDERMIJNING: Alain Meijer en BOOST-student Noortje Buitelaar. Samen stellen ze Ryan en Emmy vragen over de doelen, werkwijze en kracht van het ACT! Interventieteam.\u00a0\u00a0Volg ons op:\u00a0\ud83d\udcf1 \u2060\u2060LinkedIn\u2060\u2060\u00a0\ud83d\udcf1 \u2060\u2060YouTube\u2060\u2060\u00a0Relevante afleveringen:\u00a0\ud83c\udf99\ufe0f \u2060\u2060\u2060#9 \u2013 Marc Janssen en Alain Meijer over Meld Misdaad Anoniem\u00a0\ud83c\udf99\ufe0f #18 \u2013 Moreno van Loenhout over Bedrijventerreinen en het PVO\u00a0\u00a0\ud83c\udf99\ufe0f #25 \u2013 Sybrand Buma over de Rol van het Lokaal Bestuur in de Aanpak van Ondermijning\u00a0",
