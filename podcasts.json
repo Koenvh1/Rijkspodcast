@@ -197663,8 +197663,8 @@
         "ZA"
       ],
       "copyrights": [],
-      "description": "De AMLC podcast praat namens de FIOD publieke en private partijen nationaal en internationaal bij over onderwerpen die relevant zijn voor de samenwerking in bestrijding van witwassen.  The AMLC podcast updates public and private parties nationally and internationally on topics relevant to anti-money laundering cooperation (in Dutch). The AMLC is part of the investigation service for financial and tax crime.",
-      "html_description": "De AMLC podcast praat namens de FIOD publieke en private partijen nationaal en internationaal bij over onderwerpen die relevant zijn voor de samenwerking in bestrijding van witwassen.<br/>The AMLC podcast updates public and private parties nationally and internationally on topics relevant to anti-money laundering cooperation (in Dutch). The AMLC is part of the investigation service for financial and tax crime.",
+      "description": "De AMLC podcast van de FIOD praat publieke en private partijen nationaal en internationaal bij over onderwerpen die relevant zijn voor de samenwerking in bestrijding van witwassen.  The AMLC podcast updates public and private parties nationally and internationally on topics relevant to anti-money laundering cooperation (in Dutch). The AMLC is part of the Dutch investigation service for financial and tax crime (FIOD).",
+      "html_description": "De AMLC podcast van de FIOD praat publieke en private partijen nationaal en internationaal bij over onderwerpen die relevant zijn voor de samenwerking in bestrijding van witwassen.<br/>The AMLC podcast updates public and private parties nationally and internationally on topics relevant to anti-money laundering cooperation (in Dutch). The AMLC is part of the Dutch investigation service for financial and tax crime (FIOD).",
       "explicit": false,
       "external_urls": {
         "spotify": "https://open.spotify.com/show/3o2g2TbiVE9lNdUZDS2N6Q"
@@ -197697,15 +197697,16 @@
       "publisher": "AMLC/FIOD",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 105,
+      "total_episodes": 106,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 105,
+        "total": 106,
         "items": [
+          null,
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ZnSbW6cZDaGZqTrFS8utU/clip_542058_602058.mp3",
             "description": "De Europese Unie werkt toe naar \u00e9\u00e9n uniform anti-witwaskader: het Single Rulebook. Met de Anti-Money Laundering Regulation (AMLR) moeten nationale interpretaties en uiteenlopende toezichtpraktijken tot het verleden gaan behoren. Maar wat betekent dat in de praktijk?In deze aflevering zoomen we in op de vraag welke verschillen tussen lidstaten daadwerkelijk verdwijnen en waar ruimte blijft voor nationale invulling. We bespreken hoe het single rulebook moet zorgen voor meer consistentie, minder fragmentatie en een gelijker speelveld voor instellingen die grensoverschrijdend actief zijn.In deze aflevering hoor je onder andere:Waarom nationale interpretaties en \u2018koppen\u2019 nu zorgen voor frictieWat het single rulebook concreet verandert voor instellingen en toezichthoudersWelke typisch Nederlandse keuzes onder de AMLR verdwijnen of juist blijven bestaanWat harmonisatie betekent voor meldprocessen en FIU-samenwerkingHoe het single rulebook bijdraagt aan een meer pan-Europese aanpak van witwasbestrijdingDe aflevering laat zien dat het single rulebook geen volledige uniformiteit garandeert, maar wel een fundamentele stap zet richting meer voorspelbaarheid en samenhang in het Europese AML-toezicht.\u201cHet grootste probleem is eigenlijk dat verschillen in interpretatie door toezichthouders een uniforme toepassing van de EU-regel hinderen.\u201d\ud83c\udfa7 In de volgende aflevering duiken we in het Europese risicomodel en bespreken we wat de nieuwe pan-EU risicomethodologie betekent voor SIRA\u2019s, risicobereidheid en het gesprek met de toezichthouder.",
@@ -199669,28 +199670,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4wFdsEv5wd66ZTc0hFb3GW/clip_341975_401975.mp3",
             "description": "De IBAN is al een jaar of 25 de standaard voor betalingsverkeer. Wat is dan de virtual IBAN en waarom waarschuwt de European Banking Authority ervoor vanuit een integriteit perspectief? In deze podcast is Dorine Stahlie van het AMLC de podcast host en vertelt Erik op redelijk beginnersniveau wat de virtual IBAN is, waarom die zijn opmars maakt en welke risico's er nog aan kleven. Heb je met virtual IBANs te maken? Luisteren! Heb je nog niet met virtual IBANs te maken, dan gaat dat komen, dus... luisteren!",
-            "html_description": "<p>De IBAN is al een jaar of 25 de standaard voor betalingsverkeer. Wat is dan de virtual IBAN en waarom waarschuwt de European Banking Authority ervoor vanuit een integriteit perspectief?</p><br/><p>In deze podcast is Dorine Stahlie van het AMLC de podcast host en vertelt Erik op redelijk beginnersniveau wat de virtual IBAN is, waarom die zijn opmars maakt en welke risico&#39;s er nog aan kleven. Heb je met virtual IBANs te maken? Luisteren! Heb je nog niet met virtual IBANs te maken, dan gaat dat komen, dus... luisteren!</p>",
             "duration_ms": 1398375,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2GBCgHaFFp2jn7pSh8KxSS"
             },
             "href": "https://api.spotify.com/v1/episodes/2GBCgHaFFp2jn7pSh8KxSS",
+            "html_description": "<p>De IBAN is al een jaar of 25 de standaard voor betalingsverkeer. Wat is dan de virtual IBAN en waarom waarschuwt de European Banking Authority ervoor vanuit een integriteit perspectief?</p><br/><p>In deze podcast is Dorine Stahlie van het AMLC de podcast host en vertelt Erik op redelijk beginnersniveau wat de virtual IBAN is, waarom die zijn opmars maakt en welke risico&#39;s er nog aan kleven. Heb je met virtual IBANs te maken? Luisteren! Heb je nog niet met virtual IBANs te maken, dan gaat dat komen, dus... luisteren!</p>",
             "id": "2GBCgHaFFp2jn7pSh8KxSS",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
@@ -214447,15 +214448,55 @@
       "publisher": "Interviews met oud-bewindspersonen en oud-topambtenaren",
       "type": "show",
       "uri": "spotify:show:6vM4ioqldTXWWxD6xW5zSg",
-      "total_episodes": 46,
+      "total_episodes": 47,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6vM4ioqldTXWWxD6xW5zSg/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 46,
+        "total": 47,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0IbfMDPyiCYoNI567xdcUh/clip_149962_209962.mp3",
+            "description": "Stef Blok was namens de VVD minister voor Wonen en Rijksdienst en een periode ook van Veiligheid en Justitie in kabinet-Rutte II (2012-2017). In Rutte III werd hij minister van Buitenlandse Zaken (2018-2021), en in 2021 minister van Economische Zaken. Naar zijn ambtenaren en de Kamer was hij altijd helder: \u201c\u2018We doen belangrijk werk in Den Haag, maar moeten ook duidelijk zijn over wat we hier doen en wat er lokaal moet gebeuren.\u2019\u201d Ook als dat een minder welkome boodschap is: \u201cUiteindelijk heeft de kiezer jou daar neergezet om het land te besturen.\u201d\u00a0Luister naar Stef Blok in gesprek met Caspar van den Berg en Zeger van der Wal.",
+            "html_description": "<p>Stef Blok was namens de VVD minister voor Wonen en Rijksdienst en een periode ook van Veiligheid en Justitie in kabinet-Rutte II (2012-2017). In Rutte III werd hij minister van Buitenlandse Zaken (2018-2021), en in 2021 minister van Economische Zaken. Naar zijn ambtenaren en de Kamer was hij altijd helder: \u201c\u2018We doen belangrijk werk in Den Haag, maar moeten ook duidelijk zijn over wat we hier doen en wat er lokaal moet gebeuren.\u2019\u201d Ook als dat een minder welkome boodschap is: \u201cUiteindelijk heeft de kiezer jou daar neergezet om het land te besturen.\u201d</p><p>\u00a0Luister naar Stef Blok in gesprek met Caspar van den Berg en Zeger van der Wal.</p>",
+            "duration_ms": 4011648,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/43ZcnfhKqxFTXLnxau4KpH"
+            },
+            "href": "https://api.spotify.com/v1/episodes/43ZcnfhKqxFTXLnxau4KpH",
+            "id": "43ZcnfhKqxFTXLnxau4KpH",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab8fc80f9833f156d583967d4",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb8fc80f9833f156d583967d4",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db8fc80f9833f156d583967d4",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "Uiteindelijk heeft de kiezer jou daar neergezet om het land te besturen",
+            "release_date": "2026-02-19",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:43ZcnfhKqxFTXLnxau4KpH"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2UynJno4wwZ6MZGs81GT2X/clip_438847_498847.mp3",
             "description": "Peter van Uhm was van 2008 tot 2012 Commandant der Strijdkrachten (CDS). Een functie waarin hij altijd kritisch was, maar soms ook zijn principes los moest laten, bijvoorbeeld nadat het kabinet besloot flink te bezuinigen op Defensie. Dan was het een kwestie van \u201ceen rechte rug, schouders eronder en er het beste van maken.\u201d In de omgang met de politiek zag hij het als zijn taak om zijn rol zuiver te houden, \u201cmet je tenen net buiten het speelveld\u201d. Op die manier kan je als CDS je werk het meest effectief doen, vindt hij. Luister naar Peter van Uhm in gesprek met Paul \u2019t Hart en Jouke de Vries.",
