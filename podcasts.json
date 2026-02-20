@@ -13740,15 +13740,55 @@
       "publisher": "CIP - Centrum Informatiebeveiliging en Privacybescherming",
       "type": "show",
       "uri": "spotify:show:6Eb7YjZnONrbelDXDEe1iQ",
-      "total_episodes": 132,
+      "total_episodes": 133,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/6Eb7YjZnONrbelDXDEe1iQ/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 132,
+        "total": 133,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6itljYa1okoBLoOuqu4aFa/clip_436549_496549.mp3",
+            "description": "In deze podcast luister je naar het gesprek dat Jeroen Prinse (voormalig CISO bij het NCSC, nu strategisch adviseur) en Rob van der Veer (Chief AI Officer bij SIG en AI standaardmaker bij ISO en de AI Act) hadden tijdens het webinar van 12 februari 2026.We willen AI het liefst aan alles koppelen en naar onze data laten kijken, als we het kunnen vertrouwen. Want: waar gaat die data naar toe en hoe voorkomen we dat AI gemanipuleerd wordt?\u00a0\u200bRob en Jeroen hebben het over AI toepassen voor security, over het programmeren met AI en over het beveiligen van AI systemen, inclusief Agentic AI. Daarvoor putten de heren samen uit 20 jaar ervaring in security plus 34 jaar in AI. Zij geven een duidelijk overzicht, praktische tips en verwijzingen naar nuttige bronnen zoals owaspai.org en ncsc.nl/artificial-intelligence.\u00a0",
+            "html_description": "<p>In deze podcast luister je naar het gesprek dat Jeroen Prinse (voormalig CISO bij het NCSC, nu strategisch adviseur) en Rob van der Veer (Chief AI Officer bij SIG en AI standaardmaker bij ISO en de AI Act) hadden tijdens het webinar van 12 februari 2026.</p><p>We willen AI het liefst aan alles koppelen en naar onze data laten kijken, als we het kunnen vertrouwen. Want: waar gaat die data naar toe en hoe voorkomen we dat AI gemanipuleerd wordt?\u00a0</p><p>\u200bRob en Jeroen hebben het over AI toepassen voor security, over het programmeren met AI en over het beveiligen van AI systemen, inclusief Agentic AI. Daarvoor putten de heren samen uit 20 jaar ervaring in security plus 34 jaar in AI. Zij geven een duidelijk overzicht, praktische tips en verwijzingen naar nuttige bronnen zoals owaspai.org en <a href=\"https://www.ncsc.nl/artificial-intelligence\" rel=\"nofollow\">ncsc.nl/artificial-intelligence</a>.\u00a0</p>",
+            "duration_ms": 2350550,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6qiF89wK1mGU46xhzyOer5"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6qiF89wK1mGU46xhzyOer5",
+            "id": "6qiF89wK1mGU46xhzyOer5",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ab29fbe9882b032387bde5da2",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fb29fbe9882b032387bde5da2",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68db29fbe9882b032387bde5da2",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": true,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "\u200b\u200bAI & security: ervaringen en internationale standaarden\u200b",
+            "release_date": "2026-02-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6qiF89wK1mGU46xhzyOer5"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4PWTUJHuV0a4z8AfoPptXp/clip_288980_348980.mp3",
             "description": "Geert-Jan van de Ven (Directeur Centrum Informatiebeveiliging en Privacybescherming \u2013 CIP) bespreekt de bestuurlijke verantwoordelijkheid bij de implementatie van de BIO2. Het gaat volgens Geert-Jan sinds de invoering van de vernieuwde BIO2 vooral over eigenaarschap en bewust risicomanagement. Dit zijn zaken die de bestuurder samen met de organisatie op orde moet hebben. \u00a0",
@@ -15712,32 +15752,32 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7H0XTlcx3pAOv9n8JNGehG/clip_610613_670613.mp3",
             "description": "Jaap-Henk Hoepman, o.a. schrijver en docent op meerdere universiteiten in binnen- en buitenland, stelt zich actief ten doel om de bescherming van persoonsgegevens in Nederland op een hoger plan te brengen. Het stimuleren van \u2018Privacy by Design\u2019 is daarvoor een belangrijk instrument. Hoe herstel je de onbalans in informatie - en dus macht - tussen de overheid en de burger? En wat betekent het Internet of Things voor gegevensbescherming? Over deze onderwerpen en meer praat Jaap-Henk in deze podcast met Walter van Wijk van CIP en host Robin Rotman.\u00a0",
-            "html_description": "<p>Jaap-Henk Hoepman, o.a. schrijver en docent op meerdere universiteiten in binnen- en buitenland, stelt zich actief ten doel om de bescherming van persoonsgegevens in Nederland op een hoger plan te brengen. Het stimuleren van \u2018Privacy by Design\u2019 is daarvoor een belangrijk instrument. Hoe herstel je de onbalans in informatie - en dus macht - tussen de overheid en de burger? En wat betekent het Internet of Things voor gegevensbescherming? Over deze onderwerpen en meer praat Jaap-Henk in deze podcast met Walter van Wijk van CIP en host Robin Rotman.\u00a0</p>",
             "duration_ms": 1632888,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1CDkjO0YFHHO0Lgw2BXo5Q"
             },
             "href": "https://api.spotify.com/v1/episodes/1CDkjO0YFHHO0Lgw2BXo5Q",
+            "html_description": "<p>Jaap-Henk Hoepman, o.a. schrijver en docent op meerdere universiteiten in binnen- en buitenland, stelt zich actief ten doel om de bescherming van persoonsgegevens in Nederland op een hoger plan te brengen. Het stimuleren van \u2018Privacy by Design\u2019 is daarvoor een belangrijk instrument. Hoe herstel je de onbalans in informatie - en dus macht - tussen de overheid en de burger? En wat betekent het Internet of Things voor gegevensbescherming? Over deze onderwerpen en meer praat Jaap-Henk in deze podcast met Walter van Wijk van CIP en host Robin Rotman.\u00a0</p>",
             "id": "1CDkjO0YFHHO0Lgw2BXo5Q",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a26725c7ea2a9566492e78cdc",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a26725c7ea2a9566492e78cdc",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f26725c7ea2a9566492e78cdc",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f26725c7ea2a9566492e78cdc",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d26725c7ea2a9566492e78cdc",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d26725c7ea2a9566492e78cdc",
                 "width": 64
               }
             ],
-            "is_externally_hosted": true,
+            "is_externally_hosted": false,
             "is_playable": true,
             "language": "nl",
             "languages": [
@@ -100123,15 +100163,55 @@
       "publisher": "Koninklijke Landmacht",
       "type": "show",
       "uri": "spotify:show:2L7kxlgPM960W942WjE1Ge",
-      "total_episodes": 114,
+      "total_episodes": 115,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/2L7kxlgPM960W942WjE1Ge/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 114,
+        "total": 115,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2OPFr30AAj4BRlbuhri4aG/clip_239340_299340.mp3",
+            "description": "Deborah en Anne-Marij gaan into space! Ze worden hierin begeleid door twee toppers dit gebied: Lkol Petra Wijnja, de krijgsmachtgoeroe op het gebied van space, en Ronald Genemans, die zich lange tijd bezig heeft gehouden met space in relatie tot nationale veiligheid. Laat je met deze aflevering volledig bijpraten over de melkpakken, lasercommunicatie, ruimtepuin en nog veel meer. De Luchtmacht is natuurlijk niet voor niets het Commando Lucht- en Ruimtestrijdkrachten gaan heten, dus het belang is duidelijk. Maar, space is niet alleen belangrijk voor de Luchtmacht. Hierin zitten voor ons allemaal belangen, waardoor er een goede verwevenheid binnen de organisatie moet zijn. Veel luisterplezier!",
+            "html_description": "<p>Deborah en Anne-Marij gaan into space! Ze worden hierin begeleid door twee toppers dit gebied: Lkol Petra Wijnja, de krijgsmachtgoeroe op het gebied van space, en Ronald Genemans, die zich lange tijd bezig heeft gehouden met space in relatie tot nationale veiligheid. Laat je met deze aflevering volledig bijpraten over de melkpakken, lasercommunicatie, ruimtepuin en nog veel meer. De Luchtmacht is natuurlijk niet voor niets het Commando Lucht- en Ruimtestrijdkrachten gaan heten, dus het belang is duidelijk. Maar, space is niet alleen belangrijk voor de Luchtmacht. Hierin zitten voor ons allemaal belangen, waardoor er een goede verwevenheid binnen de organisatie moet zijn. Veel luisterplezier!</p>",
+            "duration_ms": 3818640,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1193a2JtOFwImABszQFLMb"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1193a2JtOFwImABszQFLMb",
+            "id": "1193a2JtOFwImABszQFLMb",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a10543352a8471d398ec5625d",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f10543352a8471d398ec5625d",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d10543352a8471d398ec5625d",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "#113 Into Space",
+            "release_date": "2026-02-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1193a2JtOFwImABszQFLMb"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7sKh6SVdEvoW8G0af08gV4/clip_640275_700275.mp3",
             "description": "Deel 2 van het drieluik Militair Vermogen: de conceptuele component. Anne-Marij en Deborah gaan dit keer in gesprek met de brigadegeneraal Mark van Ockenburg, Directeur Plannen bij de Landmachtstaf en de kolonel Hans van der Linden, commandant van het Land Warfare Center. Zij geven ons een inkijk in de focus van de Landmacht en de lessen die we leren van de landen en conflicten om ons heen. Hoe integreren we deze lessen in ons gedachtegoed? Alles draait uiteindelijk om het synchroniseren van de effecten in ons eigen optreden, maar ook in samenwerking met onze omgeving.",
@@ -102095,28 +102175,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ICKq1zic89YABN61d48bq/clip_223119_283119.mp3",
             "description": "Defensiemedewerkers krijgen per 1 januari een loonsverhoging van 7%. Ook krijgt iedereen een eenmalige uitkering van \u20ac 1.500 bruto. Dat zijn Defensie en de vakbonden vrijdag 3 november overeengekomen in de loonafspraken over 2024. De vakbonden leggen nu eerst het nieuwe arbeidsvoorwaardenpakket voor aan hun leden. Anne-Marij en Deborah bespreken het nieuwe arbeidsvoorwaardenpakket met Maarten Suwout, Directeur Werkgeverszaken bij de Hoofddirectie Personeel. De directeur Werkgeverszaken vertegenwoordigt Defensie bij het overleg met sociale partners over de arbeidsvoorwaarden voor al het defensiepersoneel.",
-            "html_description": "<p>Defensiemedewerkers krijgen per 1 januari een loonsverhoging van 7%. Ook krijgt iedereen een eenmalige uitkering van \u20ac 1.500 bruto. Dat zijn Defensie en de vakbonden vrijdag 3 november overeengekomen in de loonafspraken over 2024. De vakbonden leggen nu eerst het nieuwe arbeidsvoorwaardenpakket voor aan hun leden. Anne-Marij en Deborah bespreken het nieuwe arbeidsvoorwaardenpakket met Maarten Suwout, Directeur Werkgeverszaken bij de Hoofddirectie Personeel. De directeur Werkgeverszaken vertegenwoordigt Defensie bij het overleg met sociale partners over de arbeidsvoorwaarden voor al het defensiepersoneel.</p>",
             "duration_ms": 3900395,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2Vv8bU1FkcrXCJgqvoGSez"
             },
             "href": "https://api.spotify.com/v1/episodes/2Vv8bU1FkcrXCJgqvoGSez",
+            "html_description": "<p>Defensiemedewerkers krijgen per 1 januari een loonsverhoging van 7%. Ook krijgt iedereen een eenmalige uitkering van \u20ac 1.500 bruto. Dat zijn Defensie en de vakbonden vrijdag 3 november overeengekomen in de loonafspraken over 2024. De vakbonden leggen nu eerst het nieuwe arbeidsvoorwaardenpakket voor aan hun leden. Anne-Marij en Deborah bespreken het nieuwe arbeidsvoorwaardenpakket met Maarten Suwout, Directeur Werkgeverszaken bij de Hoofddirectie Personeel. De directeur Werkgeverszaken vertegenwoordigt Defensie bij het overleg met sociale partners over de arbeidsvoorwaarden voor al het defensiepersoneel.</p>",
             "id": "2Vv8bU1FkcrXCJgqvoGSez",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a0976495f768381a272866152",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0976495f768381a272866152",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f0976495f768381a272866152",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f0976495f768381a272866152",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d0976495f768381a272866152",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d0976495f768381a272866152",
                 "width": 64
               }
             ],

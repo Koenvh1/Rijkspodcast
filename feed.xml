@@ -3,11 +3,33 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-20T06:59:10Z</updated>
+	<updated>2026-02-20T10:38:55Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>​​AI &amp; security: ervaringen en internationale standaarden​</title>
+		<link href="https://open.spotify.com/episode/6qiF89wK1mGU46xhzyOer5" />
+		<summary type="html">&lt;p&gt;In deze podcast luister je naar het gesprek dat Jeroen Prinse (voormalig CISO bij het NCSC, nu strategisch adviseur) en Rob van der Veer (Chief AI Officer bij SIG en AI standaardmaker bij ISO en de AI Act) hadden tijdens het webinar van 12 februari 2026.&lt;/p&gt;&lt;p&gt;We willen AI het liefst aan alles koppelen en naar onze data laten kijken, als we het kunnen vertrouwen. Want: waar gaat die data naar toe en hoe voorkomen we dat AI gemanipuleerd wordt? &lt;/p&gt;&lt;p&gt;​Rob en Jeroen hebben het over AI toepassen voor security, over het programmeren met AI en over het beveiligen van AI systemen, inclusief Agentic AI. Daarvoor putten de heren samen uit 20 jaar ervaring in security plus 34 jaar in AI. Zij geven een duidelijk overzicht, praktische tips en verwijzingen naar nuttige bronnen zoals owaspai.org en &lt;a href="https://www.ncsc.nl/artificial-intelligence" rel="nofollow"&gt;ncsc.nl/artificial-intelligence&lt;/a&gt;. &lt;/p&gt;</summary>
+		<author>
+			<name>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/6itljYa1okoBLoOuqu4aFa/clip_436549_496549.mp3" type="audio/mpeg" />
+		<id>spotify:episode:6qiF89wK1mGU46xhzyOer5</id>
+		<updated>2026-02-20T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>#113 Into Space</title>
+		<link href="https://open.spotify.com/episode/1193a2JtOFwImABszQFLMb" />
+		<summary type="html">&lt;p&gt;Deborah en Anne-Marij gaan into space! Ze worden hierin begeleid door twee toppers dit gebied: Lkol Petra Wijnja, de krijgsmachtgoeroe op het gebied van space, en Ronald Genemans, die zich lange tijd bezig heeft gehouden met space in relatie tot nationale veiligheid. Laat je met deze aflevering volledig bijpraten over de melkpakken, lasercommunicatie, ruimtepuin en nog veel meer. De Luchtmacht is natuurlijk niet voor niets het Commando Lucht- en Ruimtestrijdkrachten gaan heten, dus het belang is duidelijk. Maar, space is niet alleen belangrijk voor de Luchtmacht. Hierin zitten voor ons allemaal belangen, waardoor er een goede verwevenheid binnen de organisatie moet zijn. Veel luisterplezier!&lt;/p&gt;</summary>
+		<author>
+			<name>Klapmok met Thee</name>
+		</author>
+		<content src="https://podz-content.spotifycdn.com/audio/clips/2OPFr30AAj4BRlbuhri4aG/clip_239340_299340.mp3" type="audio/mpeg" />
+		<id>spotify:episode:1193a2JtOFwImABszQFLMb</id>
+		<updated>2026-02-20T00:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>105. Deel 2 - Het Single Rulebook en het einde van nationale variatie</title>
 		<link href="https://open.spotify.com/episode/7JAfJkh9WZZeD0t4tgXJEP" />
