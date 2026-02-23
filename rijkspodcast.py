@@ -137,39 +137,35 @@ def generate_feed():
     podcasts = json.load(open("podcasts.json"))
     episodes = []
     for podcast in podcasts:
-        if not podcast["spotify_data"]["episodes"] or not podcast["spotify_data"]["episodes"]["items"]:
+        if not podcast["apple"]:
             continue
-        for episode in podcast["spotify_data"]["episodes"]["items"]:
+        for episode in podcast["apple_data"][1:]:
             if episode:
-                episode["podcast"] = podcast["spotify_data"]["name"]
+                episode["podcast"] = podcast["apple_data"][0]
                 episodes.append(episode)
-    episodes.sort(key=lambda x: x["release_date"], reverse=True)
+    episodes.sort(key=lambda x: x["releaseDate"], reverse=True)
 
     total = len(episodes)
     for idx, episode in enumerate(episodes):
         item = ET.SubElement(root, "entry")
         title = ET.SubElement(item, "title")
-        title.text = episode["name"]
+        title.text = episode["podcast"]["trackName"] + " - " + episode["trackName"]
         link = ET.SubElement(item, "link")
-        link.set("href", episode["external_urls"]["spotify"])
+        link.set("href", episode["trackViewUrl"])
         summary = ET.SubElement(item, "summary")
-        summary.set("type", "html")
-        summary.text = episode["html_description"]
+        summary.text = episode["description"]
         # image = ET.SubElement(item, "image")
         # image.text = episode["images"][0]["url"]
         author = ET.SubElement(item, "author")
         author_name = ET.SubElement(author, "name")
-        author_name.text = episode["podcast"]
-        if episode["audio_preview_url"]:
-            content = ET.SubElement(item, "content")
-            content.set("src", episode["audio_preview_url"])
-            content.set("type", "audio/mpeg")
+        author_name.text = episode["podcast"]["artistName"]
+        content = ET.SubElement(item, "content")
+        content.set("src", episode["episodeUrl"])
+        content.set("type", "audio/mpeg")
         entry_id = ET.SubElement(item, "id")
-        entry_id.text = episode["uri"]
-        release_date = time.strptime(episode["release_date"], "%Y-%m-%d")
-        release_date = time.strftime("%Y-%m-%dT%H:%M:%SZ", release_date)
+        entry_id.text = str(episode["trackId"])
         updated = ET.SubElement(item, "updated")
-        updated.text = release_date
+        updated.text = episode["releaseDate"]
 
     tree = ET.ElementTree(root)
     ET.indent(tree, space="\t", level=0)
