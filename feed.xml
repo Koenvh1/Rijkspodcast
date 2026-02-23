@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-23T22:47:23Z</updated>
+	<updated>2026-02-23T22:49:05Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -20,6 +20,19 @@ We willen AI het liefst aan alles koppelen en naar onze data laten kijken, als w
 		<link href="https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000750634065</id>
 		<updated>2026-02-23T09:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Boeiend De Podcast - John van den Heuvel: van agent naar misdaadjournalist - Boeiend de Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/john-van-den-heuvel-van-agent-naar-misdaadjournalist/id1522926580?i=1000750994855&amp;uo=4" rel="alternate" />
+		<summary>In deze aflevering van Boeiend, gaat Niels in gesprek met niemand minder dan John van den Heuvel. Van zijn beginjaren bij de politie tot zijn spraakmakende carrière in de journalistiek: hoe verliep zijn pad? Waarom maakte hij de overstap? Hoe was het om het korps achter zich te laten? En met de kennis en ervaring van nu: hoe kijkt hij naar de politie van vandaag? Een openhartig gesprek over keuzes, de overeenkomsten in het werk en de spannende momenten in zijn carrière.
+Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!
+#johnvandenheuvel #misdaad #journalist #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast</summary>
+		<author>
+			<name>Politie</name>
+		</author>
+		<link href="https://anchor.fm/s/2a8edcc4/podcast/play/115905336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-23%2F418647435-44100-2-32ba5796d4adc.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000750994855</id>
+		<updated>2026-02-23T08:54:19Z</updated>
 	</entry>
 	<entry>
 		<title>Lange lijnen in de leefomgeving - Woningbouw met duurzame materialen: begin er gewoon mee – met Job Dura</title>
