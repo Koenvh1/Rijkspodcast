@@ -152,6 +152,7 @@ def generate_feed():
         title.text = episode["podcast"]["trackName"] + " - " + episode["trackName"]
         link = ET.SubElement(item, "link")
         link.set("href", episode["trackViewUrl"])
+        link.set("rel", "alternate")
         summary = ET.SubElement(item, "summary")
         summary.text = episode["description"]
         # image = ET.SubElement(item, "image")
@@ -159,9 +160,10 @@ def generate_feed():
         author = ET.SubElement(item, "author")
         author_name = ET.SubElement(author, "name")
         author_name.text = episode["podcast"]["artistName"]
-        content = ET.SubElement(item, "content")
-        content.set("src", episode["episodeUrl"])
-        content.set("type", "audio/mpeg")
+        enclosure = ET.SubElement(item, "link")
+        enclosure.set("href", episode["episodeUrl"])
+        enclosure.set("type", "audio/mpeg")
+        enclosure.set("rel", "enclosure")
         entry_id = ET.SubElement(item, "id")
         entry_id.text = "https://rijkspodcast.koenvh.nl/appleid/" + str(episode["trackId"])
         updated = ET.SubElement(item, "updated")
