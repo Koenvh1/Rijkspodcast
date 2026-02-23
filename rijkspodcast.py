@@ -163,7 +163,7 @@ def generate_feed():
         content.set("src", episode["episodeUrl"])
         content.set("type", "audio/mpeg")
         entry_id = ET.SubElement(item, "id")
-        entry_id.text = str(episode["trackId"])
+        entry_id.text = "https://rijkspodcast.koenvh.nl/appleid/" + str(episode["trackId"])
         updated = ET.SubElement(item, "updated")
         updated.text = episode["releaseDate"]
 
