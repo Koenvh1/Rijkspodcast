@@ -13784,7 +13784,7 @@
               "nl"
             ],
             "name": "\u200b\u200bAI & security: ervaringen en internationale standaarden\u200b",
-            "release_date": "2026-02-20",
+            "release_date": "2026-02-23",
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:6qiF89wK1mGU46xhzyOer5"
@@ -19138,7 +19138,7 @@
         ],
         "kind": "podcast-episode",
         "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden.mp3",
-        "releaseDate": "2026-02-20T08:00:00Z",
+        "releaseDate": "2026-02-23T09:00:00Z",
         "shortDescription": "In deze podcast luister je naar het gesprek dat Jeroen Prinse (voormalig CISO bij het NCSC, nu strategisch adviseur) en Rob van der Veer (Chief AI Officer bij SIG en AI standaardmaker bij ISO en de AI Act) hadden tijdens het webinar van 12 februari 2026",
         "trackId": 1000750634065,
         "trackName": "\u200b\u200bAI & security: ervaringen en internationale standaarden\u200b",
@@ -165055,15 +165055,55 @@
       "publisher": "Politie",
       "type": "show",
       "uri": "spotify:show:3ODZ8fIfGxiV5DiXaJmxTi",
-      "total_episodes": 138,
+      "total_episodes": 139,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3ODZ8fIfGxiV5DiXaJmxTi/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 138,
+        "total": 139,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3GYRrQCFeWsRDEVZ0GbtRz/clip_332283_392283.mp3",
+            "description": "In deze aflevering van Boeiend, gaat Niels in gesprek met niemand minder dan John van den Heuvel. Van zijn beginjaren bij de politie tot zijn spraakmakende carri\u00e8re in de journalistiek: hoe verliep zijn pad? Waarom maakte hij de overstap? Hoe was het om het korps achter zich te laten? En met de kennis en ervaring van nu: hoe kijkt hij naar de politie van vandaag? Een openhartig gesprek over keuzes, de overeenkomsten in het werk en de spannende momenten in zijn carri\u00e8re.Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!Op de hoogte blijven van al het podcast-nieuws?Volg Niels op Instagram:https://www.instagram.com/niels_politieMeer interesse in het politiewerk? Op het YouTube kanaal @PolitieBoeiend neemt Niels je mee tijdens diensten samen met collega's.https://www.youtube.com/@PolitieBoeiendBekijk ook onze social-media:https://www.instagram.com/politie_eenheid_rotterdamhttps://www.tiktok.com/@politie_rotterdamhttps://www.facebook.com/EenheidRotterdam/https://x.com/POL_Rotterdam#johnvandenheuvel #misdaad #journalist #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast",
+            "html_description": "<p>In deze aflevering van Boeiend, gaat Niels in gesprek met niemand minder dan John van den Heuvel. Van zijn beginjaren bij de politie tot zijn spraakmakende carri\u00e8re in de journalistiek: hoe verliep zijn pad? Waarom maakte hij de overstap? Hoe was het om het korps achter zich te laten? En met de kennis en ervaring van nu: hoe kijkt hij naar de politie van vandaag? Een openhartig gesprek over keuzes, de overeenkomsten in het werk en de spannende momenten in zijn carri\u00e8re.</p><p>Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!Op de hoogte blijven van al het podcast-nieuws?Volg Niels op Instagram:https://www.instagram.com/niels_politieMeer interesse in het politiewerk? Op het YouTube kanaal &#64;PolitieBoeiend neemt Niels je mee tijdens diensten samen met collega&#39;s.https://www.youtube.com/&#64;PolitieBoeiendBekijk ook onze social-media:https://www.instagram.com/politie_eenheid_rotterdamhttps://www.tiktok.com/&#64;politie_rotterdamhttps://www.facebook.com/EenheidRotterdam/https://x.com/POL_Rotterdam#johnvandenheuvel #misdaad #journalist #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast</p>",
+            "duration_ms": 3502762,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/5QQVkWsFNdS5TYv0PD8o5v"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5QQVkWsFNdS5TYv0PD8o5v",
+            "id": "5QQVkWsFNdS5TYv0PD8o5v",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl-NL",
+            "languages": [
+              "nl-NL"
+            ],
+            "name": "John van den Heuvel: van agent naar misdaadjournalist - Boeiend de Podcast",
+            "release_date": "2026-02-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5QQVkWsFNdS5TYv0PD8o5v"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3qifDqShVk8FOZ7qc6oWCK/clip_608214_668214.mp3",
             "description": "In deze aflevering van Boeiend de Podcast vertelt collega Dennis openhartig over de keerzijde van politiewerk. Na een heftig schietincident tijdens het Zomercarnaval in Rotterdam kreeg hij te maken met PTSS en alsof dat nog niet erg genoeg was, werd ook nog eens kanker bij hem gediagnosticeerd. Hij deelt zijn ervaringen, de impact op zijn leven en hoe hij met hulp en steun stap voor stap werkt aan herstel.",
@@ -167027,28 +167067,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/231s9UtDCQjmJoPqlrQ3s8/clip_514317_574317.mp3",
             "description": "Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn \"Bureau\"-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo'n programma?  Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.  Vergeet niet om de podcast te liken en je te abonneren op ons kanaal! Volg Niels en blijf op de hoogte van al het podcast nieuws @niels_politie  #politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam  ",
-            "html_description": "<p>Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn &#34;Bureau&#34;-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo&#39;n programma?<br/>Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.<br/>Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!<br/>Volg Niels en blijf op de hoogte van al het podcast nieuws<br/>&#64;niels_politie<br/>#politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam <br/></p>",
             "duration_ms": 3255205,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/3sr7WYCIoRfPq8M0N2c0E7"
             },
             "href": "https://api.spotify.com/v1/episodes/3sr7WYCIoRfPq8M0N2c0E7",
+            "html_description": "<p>Ewout Genemans is bij veel mensen bekend als programmamaker waarbij hij met zijn &#34;Bureau&#34;-serie meeloopt met diverse politie eenheden. Dit jaar is Rotterdam aan de beurt, een van de meest heftige seizoenen. Maar wat komt er allemaal kijken bij het maken van zo&#39;n programma?<br/>Samen met zijn cameraman Julian Bakkum vertellen ze je over hoe de Bureau-serie tot stand is gekomen, wat hun spannendste momenten waren en geeft Ewout een hint over de volgende Bureau serie.<br/>Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!<br/>Volg Niels en blijf op de hoogte van al het podcast nieuws<br/>&#64;niels_politie<br/>#politiepodcast #politie #boeiend #boeienddepodcast #ewoutgenemans #bureaurotterdam <br/></p>",
             "id": "3sr7WYCIoRfPq8M0N2c0E7",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a224ff6a1a5c2b6a5ef6616e4",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f224ff6a1a5c2b6a5ef6616e4",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d224ff6a1a5c2b6a5ef6616e4",
                 "width": 64
               }
             ],
@@ -170617,14 +170657,14 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Waargebeurde misdaad",
-        "releaseDate": "2025-11-17T11:00:00Z",
+        "releaseDate": "2025-12-02T09:52:00Z",
         "trackCensoredName": "Boeiend De Podcast",
         "trackCount": 138,
         "trackExplicitness": "cleaned",
         "trackId": 1522926580,
         "trackName": "Boeiend De Podcast",
         "trackPrice": 0.0,
-        "trackTimeMillis": 3373,
+        "trackTimeMillis": 3361,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/boeiend-de-podcast/id1522926580?uo=4",
         "wrapperType": "track"
       },
@@ -180541,15 +180581,55 @@
       "publisher": "Raad voor de leefomgeving en infrastructuur",
       "type": "show",
       "uri": "spotify:show:0gIUjS12RKpV8ObV7GgZz5",
-      "total_episodes": 10,
+      "total_episodes": 11,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/0gIUjS12RKpV8ObV7GgZz5/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 10,
+        "total": 11,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/56GOL0qHk9P2YeUMhscT9S/clip_0_60000.mp3",
+            "description": "Zoals bekend staat Nederland voor een grote woningbouwopgave en willen we tegelijkertijd onze klimaatdoelen halen. Woningbouw is een grote uitstoter van CO2, waarvan een belangrijk deel afkomstig is van het materiaalgebruik, zoals beton en staal waarvan de productie gepaard gaat met uitstoot. Een snel begin aan de omslag naar het bouwen met duurzame, klimaatvriendelijke bouwmaterialen is van belang \u2013 al was het maar omdat de Europese Unie (EU) vanaf 2030 grenzen gaat stellen aan de CO2-uitstoot van nieuw te bouwen woningen. In deze derde aflevering van de Rli-podcastserie Lange lijnen in de leefomgeving gaat junior-raadslid Marnix Kluiters in gesprek met raadsvoorzitter Jan Jacob van Dijk en Job Dura, CEO van Dura Vermeer. In deze podcast bespreken we wat op dit moment al mogelijk is en hoe de bouwketen zich voorbereidt. Hierbij wordt ingegaan op strategie\u00ebn, belemmeringen en uitdagingen, maar ook op succesverhalen en vooruitzichten. De omslag naar woningbouw met duurzame materialen heeft de toekomst, maar we zijn er nog niet. In het gesprek komen verschillende aspecten van de verduurzaming van woningbouw aan de orde, zoals de bouwketen en kansen voor industri\u00eble woningbouw. Ook wordt uitgezoomd naar de bredere context waarin deze woningbouw gerealiseerd moet worden, en de belemmeringen die daar spelen. Om die op te lossen wordt een oproep gedaan om als Nederland een aantal belangrijke ruimtelijke keuzen te maken die ruimte bieden aan onder meer woningbouw, maar ook helder maken wat niet meer kan. Voor wie een beperking heeft of iets wil terugzoeken, is een volledig transcript van deze aflevering te vinden via https://www.rli.nl/podcast. Daar vind je ook alle afleveringen van deze serie overzichtelijk bij elkaar.",
+            "html_description": "<p>Zoals bekend staat Nederland voor een grote woningbouwopgave en willen we tegelijkertijd onze klimaatdoelen halen. Woningbouw is een grote uitstoter van CO2, waarvan een belangrijk deel afkomstig is van het materiaalgebruik, zoals beton en staal waarvan de productie gepaard gaat met uitstoot. Een snel begin aan de omslag naar het bouwen met duurzame, klimaatvriendelijke bouwmaterialen is van belang \u2013 al was het maar omdat de Europese Unie (EU) vanaf 2030 grenzen gaat stellen aan de CO2-uitstoot van nieuw te bouwen woningen.</p> <p>In deze derde aflevering van de Rli-podcastserie Lange lijnen in de leefomgeving gaat junior-raadslid Marnix Kluiters in gesprek met raadsvoorzitter Jan Jacob van Dijk en Job Dura, CEO van Dura Vermeer. In deze podcast bespreken we wat op dit moment al mogelijk is en hoe de bouwketen zich voorbereidt. Hierbij wordt ingegaan op strategie\u00ebn, belemmeringen en uitdagingen, maar ook op succesverhalen en vooruitzichten. De omslag naar woningbouw met duurzame materialen heeft de toekomst, maar we zijn er nog niet.</p> <p>In het gesprek komen verschillende aspecten van de verduurzaming van woningbouw aan de orde, zoals de bouwketen en kansen voor industri\u00eble woningbouw. Ook wordt uitgezoomd naar de bredere context waarin deze woningbouw gerealiseerd moet worden, en de belemmeringen die daar spelen. Om die op te lossen wordt een oproep gedaan om als Nederland een aantal belangrijke ruimtelijke keuzen te maken die ruimte bieden aan onder meer woningbouw, maar ook helder maken wat niet meer kan.</p> <p>Voor wie een beperking heeft of iets wil terugzoeken, is een volledig transcript van deze aflevering te vinden via <a href=\"https://www.rli.nl/podcast\" rel=\"nofollow\">https://www.rli.nl/podcast</a>. Daar vind je ook alle afleveringen van deze serie overzichtelijk bij elkaar.</p>",
+            "duration_ms": 3434449,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1kHuSfk3sdqO3D6y5i54aR"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1kHuSfk3sdqO3D6y5i54aR",
+            "id": "1kHuSfk3sdqO3D6y5i54aR",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae2e8d5ec190b8707fa74240b",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe2e8d5ec190b8707fa74240b",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de2e8d5ec190b8707fa74240b",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Woningbouw met duurzame materialen: begin er gewoon mee \u2013 met Job Dura",
+            "release_date": "2026-02-23",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1kHuSfk3sdqO3D6y5i54aR"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0WAp7naiYytxE8P6Kxxi3Z/clip_0_60000.mp3",
             "description": "Hoewel Bonaire, Sint-Eustatius en Saba integraal onderdeel zijn van Nederland, worden deze eilanden vaak niet meegenomen in het rijksbeleid voor de leefomgeving. Er is bovendien te weinig structurele financiering voor de reguliere taken van de eilanden. Een andere aanpak is volgens de Raad voor de leefomgeving en infrastructuur nodig om te komen tot gelijkwaardigheid in kwaliteit van de leefomgeving voor heel Nederland. Hoe kan een nieuw te vormen kabinet samen met de openbare lichamen invulling geven aan deze aanpak? \u00a0 In de tweede aflevering Leefomgevingskwaliteit: gelijk voor heel Nederland van de Rli-podcastserie Lange lijnen in de leefomgeving gaat junior-raadslid Marnix Kluiters kort voor de verkiezingen in gesprek met raadsvoorzitter Jan Jacob van Dijk, raadslid Jantine Kriens en Liesbeth Spies. Liesbeth Spies was in 2015 voorzitter van de commissie evaluatie uitwerking van de nieuwe staatkundige structuur Caribisch Nederland. Achtergrond Bij de zogeheten staatskundige hervormingen van 10 oktober 2010 is het land Nederlandse Antillen opgeheven. Sinds die datum zijn Bonaire, Sint-Eustatius en Saba (de BES-eilanden) openbare lichamen en maken zij integraal onderdeel uit van het land Nederland. Sint-Maarten en Cura\u00e7ao zijn sinds de hervormingen autonome landen binnen het koninkrijk Nederland. Aruba had al de status van autonoom land binnen het koninkrijk. Bij de bespreking van deze staatskundige verhoudingen zijn enkele kleine onvolkomenheden in de podcast geslopen. De nieuwe verhoudingen zijn het resultaat van een intensief proces tussen de eilandbesturen en de rijksoverheid waarbij onder andere referenda (volksraadplegingen) hebben plaatsgevonden. Verder heeft de Rli alleen een adviestaak voor het land Nederland en niet voor het koninkrijk (daarom richt het Rli-advies zich alleen op de BES-eilanden). Voor wie een beperking heeft of iets wil terugzoeken, is een volledig transcript van deze aflevering te vinden via https://www.rli.nl/podcast. Daar vind je ook alle afleveringen van deze serie overzichtelijk bij elkaar.",
@@ -180987,16 +181067,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
-        "releaseDate": "2025-10-20T06:00:00Z",
+        "releaseDate": "2026-02-23T07:00:00Z",
         "trackCensoredName": "Lange lijnen in de leefomgeving",
-        "trackCount": 10,
+        "trackCount": 11,
         "trackExplicitness": "cleaned",
         "trackId": 1614210127,
         "trackName": "Lange lijnen in de leefomgeving",
         "trackPrice": 0.0,
-        "trackTimeMillis": 3142,
+        "trackTimeMillis": 3430,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/lange-lijnen-in-de-leefomgeving/id1614210127?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/29/56/482956b4-b3d2-f4b5-2a56-8b617ab801a7/mza_12336023609379380191.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/29/56/482956b4-b3d2-f4b5-2a56-8b617ab801a7/mza_12336023609379380191.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/29/56/482956b4-b3d2-f4b5-2a56-8b617ab801a7/mza_12336023609379380191.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1614210127,
+        "collectionName": "Lange lijnen in de leefomgeving",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/lange-lijnen-in-de-leefomgeving/id1614210127?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Zoals bekend staat Nederland voor een grote woningbouwopgave en willen we tegelijkertijd onze klimaatdoelen halen. Woningbouw is een grote uitstoter van CO2, waarvan een belangrijk deel afkomstig is van het materiaalgebruik, zoals beton en staal waarvan de productie gepaard gaat met uitstoot. Een snel begin aan de omslag naar het bouwen met duurzame, klimaatvriendelijke bouwmaterialen is van belang \u2013 al was het maar omdat de Europese Unie (EU) vanaf 2030 grenzen gaat stellen aan de CO2-uitstoot van nieuw te bouwen woningen.\n In deze derde aflevering van de Rli-podcastserie Lange lijnen in de leefomgeving gaat junior-raadslid Marnix Kluiters in gesprek met raadsvoorzitter Jan Jacob van Dijk en Job Dura, CEO van Dura Vermeer. In deze podcast bespreken we wat op dit moment al mogelijk is en hoe de bouwketen zich voorbereidt. Hierbij wordt ingegaan op strategie\u00ebn, belemmeringen en uitdagingen, maar ook op succesverhalen en vooruitzichten. De omslag naar woningbouw met duurzame materialen heeft de toekomst, maar we zijn er nog niet.\n In het gesprek komen verschillende aspecten van de verduurzaming van woningbouw aan de orde, zoals de bouwketen en kansen voor industri\u00eble woningbouw. Ook wordt uitgezoomd naar de bredere context waarin deze woningbouw gerealiseerd moet worden, en de belemmeringen die daar spelen. Om die op te lossen wordt een oproep gedaan om als Nederland een aantal belangrijke ruimtelijke keuzen te maken die ruimte bieden aan onder meer woningbouw, maar ook helder maken wat niet meer kan.\n Voor wie een beperking heeft of iets wil terugzoeken, is een volledig transcript van deze aflevering te vinden via https://www.rli.nl/podcast. Daar vind je ook alle afleveringen van deze serie overzichtelijk bij elkaar.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "009b2ed9-dd52-5b99-b78b-36c066c8ec3f",
+        "episodeUrl": "https://rss.springcast.app/y3bux7/RYu8zH4O5/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fy3bux7%2Fitems%2FRYu8zH4O5%2F69666329580c02.31353030.mp3?source=itms.apple.com",
+        "feedUrl": "https://rss.springcast.app/y3bux7",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://rss.springcast.app/y3bux7/RYu8zH4O5/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fy3bux7%2Fitems%2FRYu8zH4O5%2F69666329580c02.31353030.mp3?source=itms.apple.com",
+        "releaseDate": "2026-02-23T07:00:00Z",
+        "shortDescription": "Zoals bekend staat Nederland voor een grote woningbouwopgave en willen we tegelijkertijd onze klimaatdoelen halen. Woningbouw is een grote uitstoter van CO2, waarvan een belangrijk deel afkomstig is van het materiaalgebruik, zoals beton en staal waarvan",
+        "trackId": 1000750980485,
+        "trackName": "Woningbouw met duurzame materialen: begin er gewoon mee \u2013 met Job Dura",
+        "trackTimeMillis": 3430000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/woningbouw-met-duurzame-materialen-begin-er-gewoon/id1614210127?i=1000750980485&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
