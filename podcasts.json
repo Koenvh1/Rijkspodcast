@@ -71208,7 +71208,7 @@
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7sGCCoNSw0Ow503ZO4LvlM/clip_145065_205065.mp3",
             "description": "In deze aflevering zijn Dennis en Carola in gesprek met Daniel en Lieven. Lieven kwam na een detachering van een half jaar terug op het team en ontdekte dat er veel veranderd was. Om alle kennis up to date te houden is bijna niet meer te doen maar hoe dat wel? Lieven besloot om aan app te bouwen en klopte aan bij Daniel. Samen zijn ze bezig met het ontwikkelen van een app. De app wordt de Kennis Assistent genoemd en gaat ervoor zorgen dat de kennis, die de politiemensen nodig hebben op straat, met behulp van AI opgevraagd kan worden.\u00a0Dit en meer in deze aflevering van Podium voor Goed Politiewerk. Volg ons nu voor nog meer waardevolle gesprekken.\u00a0",
             "html_description": "<p>In deze aflevering zijn Dennis en Carola in gesprek met Daniel en Lieven. Lieven kwam na een detachering van een half jaar terug op het team en ontdekte dat er veel veranderd was. Om alle kennis up to date te houden is bijna niet meer te doen maar hoe dat wel? Lieven besloot om aan app te bouwen en klopte aan bij Daniel. Samen zijn ze bezig met het ontwikkelen van een app. De app wordt de Kennis Assistent genoemd en gaat ervoor zorgen dat de kennis, die de politiemensen nodig hebben op straat, met behulp van AI opgevraagd kan worden.\u00a0</p><p>Dit en meer in deze aflevering van Podium voor Goed Politiewerk. Volg ons nu voor nog meer waardevolle gesprekken.\u00a0</p>",
-            "duration_ms": 1751666,
+            "duration_ms": 1751667,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/2A92GFlHQ6pz5W524meYwS"
@@ -197989,16 +197989,55 @@
       "publisher": "AMLC/FIOD",
       "type": "show",
       "uri": "spotify:show:3o2g2TbiVE9lNdUZDS2N6Q",
-      "total_episodes": 106,
+      "total_episodes": 108,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/3o2g2TbiVE9lNdUZDS2N6Q/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 106,
+        "total": 108,
         "items": [
-          null,
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Jef1NxeUqeWvfwVZfkEGC/clip_235886_295886.mp3",
+            "description": "De Anti-Money Laundering Authority (AMLA) en nationale toezichthouders gaan werken met \u00e9\u00e9n pan-Europees risicomodel. Dat heeft directe gevolgen voor hoe instellingen hun risico\u2019s in kaart brengen, hoe toezicht wordt ingericht en hoe het gesprek met de toezichthouder wordt gevoerd.In deze aflevering staan we stil bij de Europese risicomethodologie onder de AMLR. Hoe worden inherente risico\u2019s, beheersmaatregelen en residuele risico\u2019s straks beoordeeld? En wat betekent dit voor bestaande processen zoals de SIRA, risicobereidheid en interne governance?In deze aflevering hoor je onder andere:Hoe het Europese risicomodel is opgebouwd en welke data wordt uitgevraagdHet verschil tussen inherente, gecontroleerde en residuele risico\u2019sDe rol van datagedreven vragenlijsten en uniforme beoordelingscriteriaWat de nieuwe methodiek betekent voor CIRA\u2019s en ERM-processenHoe AMLA en nationale toezichthouders dezelfde risicomethodiek gaan toepassenDe aflevering maakt duidelijk dat risicobeoordeling in Europa steeds uniformer, transparanter en meer datagedreven wordt \u2014 met directe impact op instellingen die onder toezicht staan.\u201cAan de hand van een vrij mathematische exercitie wordt uiteindelijk het residuele risicoprofiel van een instelling vastgesteld.\u201d\ud83c\udfa7 In de volgende aflevering verschuift de focus naar data en samenwerking: welke informatie wordt centraal geregistreerd, hoe FIU\u2019s samenwerken en wat dit betekent voor meldprocessen binnen Europa.",
+            "html_description": "<p>De Anti-Money Laundering Authority (AMLA) en nationale toezichthouders gaan werken met \u00e9\u00e9n pan-Europees risicomodel. Dat heeft directe gevolgen voor hoe instellingen hun risico\u2019s in kaart brengen, hoe toezicht wordt ingericht en hoe het gesprek met de toezichthouder wordt gevoerd.</p><p>In deze aflevering staan we stil bij de Europese risicomethodologie onder de AMLR. Hoe worden inherente risico\u2019s, beheersmaatregelen en residuele risico\u2019s straks beoordeeld? En wat betekent dit voor bestaande processen zoals de SIRA, risicobereidheid en interne governance?</p><p>In deze aflevering hoor je onder andere:</p><ul><li><p>Hoe het Europese risicomodel is opgebouwd en welke data wordt uitgevraagd</p></li><li><p>Het verschil tussen inherente, gecontroleerde en residuele risico\u2019s</p></li><li><p>De rol van datagedreven vragenlijsten en uniforme beoordelingscriteria</p></li><li><p>Wat de nieuwe methodiek betekent voor CIRA\u2019s en ERM-processen</p></li><li><p>Hoe AMLA en nationale toezichthouders dezelfde risicomethodiek gaan toepassen</p></li></ul><p>De aflevering maakt duidelijk dat risicobeoordeling in Europa steeds uniformer, transparanter en meer datagedreven wordt \u2014 met directe impact op instellingen die onder toezicht staan.</p><p>\u201cAan de hand van een vrij mathematische exercitie wordt uiteindelijk het residuele risicoprofiel van een instelling vastgesteld.\u201d</p><p>&#x1f3a7; In de volgende aflevering verschuift de focus naar data en samenwerking: welke informatie wordt centraal geregistreerd, hoe FIU\u2019s samenwerken en wat dit betekent voor meldprocessen binnen Europa.</p>",
+            "duration_ms": 911556,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/6bI6kt1KS7eSk5a1uPD7Yw"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6bI6kt1KS7eSk5a1uPD7Yw",
+            "id": "6bI6kt1KS7eSk5a1uPD7Yw",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "106. Deel 3 - Het Europese risicomodel en toezicht",
+            "release_date": "2026-02-25",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6bI6kt1KS7eSk5a1uPD7Yw"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ZnSbW6cZDaGZqTrFS8utU/clip_542058_602058.mp3",
             "description": "De Europese Unie werkt toe naar \u00e9\u00e9n uniform anti-witwaskader: het Single Rulebook. Met de Anti-Money Laundering Regulation (AMLR) moeten nationale interpretaties en uiteenlopende toezichtpraktijken tot het verleden gaan behoren. Maar wat betekent dat in de praktijk?In deze aflevering zoomen we in op de vraag welke verschillen tussen lidstaten daadwerkelijk verdwijnen en waar ruimte blijft voor nationale invulling. We bespreken hoe het single rulebook moet zorgen voor meer consistentie, minder fragmentatie en een gelijker speelveld voor instellingen die grensoverschrijdend actief zijn.In deze aflevering hoor je onder andere:Waarom nationale interpretaties en \u2018koppen\u2019 nu zorgen voor frictieWat het single rulebook concreet verandert voor instellingen en toezichthoudersWelke typisch Nederlandse keuzes onder de AMLR verdwijnen of juist blijven bestaanWat harmonisatie betekent voor meldprocessen en FIU-samenwerkingHoe het single rulebook bijdraagt aan een meer pan-Europese aanpak van witwasbestrijdingDe aflevering laat zien dat het single rulebook geen volledige uniformiteit garandeert, maar wel een fundamentele stap zet richting meer voorspelbaarheid en samenhang in het Europese AML-toezicht.\u201cHet grootste probleem is eigenlijk dat verschillen in interpretatie door toezichthouders een uniforme toepassing van de EU-regel hinderen.\u201d\ud83c\udfa7 In de volgende aflevering duiken we in het Europese risicomodel en bespreken we wat de nieuwe pan-EU risicomethodologie betekent voor SIRA\u2019s, risicobereidheid en het gesprek met de toezichthouder.",
@@ -198078,6 +198117,86 @@
             "release_date_precision": "day",
             "type": "episode",
             "uri": "spotify:episode:3UfGJ6mqBPBal2Da5isdiT"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3nawot25UCv2VPay9lJeIU/clip_578732_638732.mp3",
+            "description": "Artikel 75 van de Anti-Money Laundering Regulation (AMLR) markeert een belangrijk kantelpunt in de Europese witwasbestrijding. Voor het eerst worden informatiedeling, publiek-private samenwerking en privacywetgeving expliciet samengebracht op het niveau van Europese wetgeving.In deze aflevering staat artikel 75 AMLR centraal. Wat mag straks wel en wat niet als het gaat om het delen van informatie tussen instellingen? Welke ruimte ontstaat er voor private samenwerking en hoe verhoudt dit zich tot de AVG? En wat betekent dit concreet voor bestaande initiatieven en nieuwe samenwerkingsvormen?In deze aflevering hoor je onder andere:Wat artikel 75 AMLR regelt en waarom dit een juridisch novum isHet concept van Partnerships for Information Sharing (PIFS)Welke vormen van informatie-uitwisseling zijn toegestaanDe verhouding tussen witwasbestrijding en privacybeschermingWat dit betekent voor bestaande en toekomstige samenwerkingenDeze slotaflevering laat zien dat artikel 75 kansen biedt voor effectievere samenwerking, maar alleen binnen duidelijke juridische kaders. Daarmee onderstreept deze aflevering dat succesvolle witwasbestrijding vraagt om balans tussen impact, proportionaliteit en rechtsbescherming.\u201cDit is de eerste keer dat anti-witwasregelgeving en AVG-vereisten op wetgevingsniveau expliciet bij elkaar komen.\u201d\ud83c\udfa7 Met deze aflevering ronden we de serie over de AMLR en de AMLA af: een fundamentele herinrichting van de Europese aanpak van witwassen.",
+            "html_description": "<p>Artikel 75 van de Anti-Money Laundering Regulation (AMLR) markeert een belangrijk kantelpunt in de Europese witwasbestrijding. Voor het eerst worden informatiedeling, publiek-private samenwerking en privacywetgeving expliciet samengebracht op het niveau van Europese wetgeving.</p><p>In deze aflevering staat artikel 75 AMLR centraal. Wat mag straks wel en wat niet als het gaat om het delen van informatie tussen instellingen? Welke ruimte ontstaat er voor private samenwerking en hoe verhoudt dit zich tot de AVG? En wat betekent dit concreet voor bestaande initiatieven en nieuwe samenwerkingsvormen?</p><p>In deze aflevering hoor je onder andere:</p><ul><li><p>Wat artikel 75 AMLR regelt en waarom dit een juridisch novum is</p></li><li><p>Het concept van Partnerships for Information Sharing (PIFS)</p></li><li><p>Welke vormen van informatie-uitwisseling zijn toegestaan</p></li><li><p>De verhouding tussen witwasbestrijding en privacybescherming</p></li><li><p>Wat dit betekent voor bestaande en toekomstige samenwerkingen</p></li></ul><p>Deze slotaflevering laat zien dat artikel 75 kansen biedt voor effectievere samenwerking, maar alleen binnen duidelijke juridische kaders. Daarmee onderstreept deze aflevering dat succesvolle witwasbestrijding vraagt om balans tussen impact, proportionaliteit en rechtsbescherming.</p><p>\u201cDit is de eerste keer dat anti-witwasregelgeving en AVG-vereisten op wetgevingsniveau expliciet bij elkaar komen.\u201d</p><p>&#x1f3a7; Met deze aflevering ronden we de serie over de AMLR en de AMLA af: een fundamentele herinrichting van de Europese aanpak van witwassen.</p>",
+            "duration_ms": 854766,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/1Ky416lD6gs9GEp3pAwtcs"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1Ky416lD6gs9GEp3pAwtcs",
+            "id": "1Ky416lD6gs9GEp3pAwtcs",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "108. Deel 5 - Artikel 75 AMLR & informatiedeling",
+            "release_date": "2026-02-11",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1Ky416lD6gs9GEp3pAwtcs"
+          },
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ZhpEsiMlwg8NlZaunXa1i/clip_410236_470236.mp3",
+            "description": "Met de komst van de Anti-Money Laundering Authority (AMLA) krijgt data een centrale rol in het Europese anti-witwasstelsel. AMLA wordt het knooppunt van Europese AML-informatie en gaat een belangrijke rol spelen bij risicogebaseerd toezicht en samenwerking tussen lidstaten.In deze aflevering kijken we naar welke data centraal wordt geregistreerd, welke informatie nationaal blijft en hoe FIU\u2019s binnen Europa nauwer gaan samenwerken. Wat betekent dit voor meldprocessen, datakwaliteit en de manier waarop toezicht wordt ingericht?In deze aflevering hoor je onder andere:Welke databronnen en registers onder regie van AMLA komenDe rol van systemen zoals Eureka en FIU-netwerkenWat centraal wordt opgeslagen en wat bewust nationaal blijftDe gevolgen voor meldprocessen en datakwaliteitHoe data wordt ingezet voor risicogebaseerd toezicht en toezichtselectieDe aflevering laat zien dat betere samenwerking en datadeling essentieel zijn voor een effectieve Europese aanpak, maar ook dat duidelijke keuzes zijn gemaakt over grenzen aan centralisatie en nationale verantwoordelijkheden.\u201cAMLA wordt het knooppunt van Europese AML-data.\u201d\ud83c\udfa7 In de volgende aflevering staat artikel 75 van de AML-verordening centraal: informatie-deling tussen publieke en private partijen, samenwerking tussen poortwachters en de balans met privacywetgeving.",
+            "html_description": "<p>Met de komst van de Anti-Money Laundering Authority (AMLA) krijgt data een centrale rol in het Europese anti-witwasstelsel. AMLA wordt het knooppunt van Europese AML-informatie en gaat een belangrijke rol spelen bij risicogebaseerd toezicht en samenwerking tussen lidstaten.</p><p>In deze aflevering kijken we naar welke data centraal wordt geregistreerd, welke informatie nationaal blijft en hoe FIU\u2019s binnen Europa nauwer gaan samenwerken. Wat betekent dit voor meldprocessen, datakwaliteit en de manier waarop toezicht wordt ingericht?</p><p>In deze aflevering hoor je onder andere:</p><ul><li><p>Welke databronnen en registers onder regie van AMLA komen</p></li><li><p>De rol van systemen zoals Eureka en FIU-netwerken</p></li><li><p>Wat centraal wordt opgeslagen en wat bewust nationaal blijft</p></li><li><p>De gevolgen voor meldprocessen en datakwaliteit</p></li><li><p>Hoe data wordt ingezet voor risicogebaseerd toezicht en toezichtselectie</p></li></ul><p>De aflevering laat zien dat betere samenwerking en datadeling essentieel zijn voor een effectieve Europese aanpak, maar ook dat duidelijke keuzes zijn gemaakt over grenzen aan centralisatie en nationale verantwoordelijkheden.</p><p>\u201cAMLA wordt het knooppunt van Europese AML-data.\u201d</p><p>&#x1f3a7; In de volgende aflevering staat artikel 75 van de AML-verordening centraal: informatie-deling tussen publieke en private partijen, samenwerking tussen poortwachters en de balans met privacywetgeving.</p>",
+            "duration_ms": 900410,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/3wBdwq8X4hgvfmooSVTrQO"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3wBdwq8X4hgvfmooSVTrQO",
+            "id": "3wBdwq8X4hgvfmooSVTrQO",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "107. Deel 4 - Data, FIU\u2019s en Europese samenwerking",
+            "release_date": "2026-02-04",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3wBdwq8X4hgvfmooSVTrQO"
           },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Xdg9hTEgj2Mm1stfiCjKD/clip_148422_208422.mp3",
@@ -199882,28 +200001,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59Ett41H2PEtzj3IQAXJNy/clip_246824_306824.mp3",
             "description": "Op 28 mei werd in Utrecht het symposium 10-jaar ge\u00efntensiveerde aanpak van witwassen vanuit de FIOD georganiseerd. In deze podcast kun je luisteren naar enkele verhalen van FIOD rechercheurs en Officieren van Justitie over witwaszaken waaraan zij werkten in de afgelopen periode.",
-            "html_description": "<p>Op 28 mei werd in Utrecht het symposium 10-jaar ge\u00efntensiveerde aanpak van witwassen vanuit de FIOD georganiseerd. In deze podcast kun je luisteren naar enkele verhalen van FIOD rechercheurs en Officieren van Justitie over witwaszaken waaraan zij werkten in de afgelopen periode.</p>",
             "duration_ms": 1382678,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/062aIHZl44uMyk7EgsF8en"
             },
             "href": "https://api.spotify.com/v1/episodes/062aIHZl44uMyk7EgsF8en",
+            "html_description": "<p>Op 28 mei werd in Utrecht het symposium 10-jaar ge\u00efntensiveerde aanpak van witwassen vanuit de FIOD georganiseerd. In deze podcast kun je luisteren naar enkele verhalen van FIOD rechercheurs en Officieren van Justitie over witwaszaken waaraan zij werkten in de afgelopen periode.</p>",
             "id": "062aIHZl44uMyk7EgsF8en",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
@@ -199922,28 +200041,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/02LKO2bKTX1uYcd5mvsWZU/clip_256529_316529.mp3",
             "description": "De recente National Risk Assessment (WODC) \u00e9n de recente Financial Crime Threat Assessment (NVB) spreken van witwasrisico's met Payment Services Providers en geldtransactiekantoren. Paul Koetsier, partner bij KPMG, geeft in deze AMLC podcast de nodige context.",
-            "html_description": "De recente National Risk Assessment (WODC) \u00e9n de recente Financial Crime Threat Assessment (NVB) spreken van witwasrisico&#39;s met Payment Services Providers en geldtransactiekantoren.<br/>Paul Koetsier, partner bij KPMG, geeft in deze AMLC podcast de nodige context.",
             "duration_ms": 2165748,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/1HFOAga1ibYccKvDw9tZka"
             },
             "href": "https://api.spotify.com/v1/episodes/1HFOAga1ibYccKvDw9tZka",
+            "html_description": "De recente National Risk Assessment (WODC) \u00e9n de recente Financial Crime Threat Assessment (NVB) spreken van witwasrisico&#39;s met Payment Services Providers en geldtransactiekantoren.<br/>Paul Koetsier, partner bij KPMG, geeft in deze AMLC podcast de nodige context.",
             "id": "1HFOAga1ibYccKvDw9tZka",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8a97389657d0d2d52d0143b129",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1f97389657d0d2d52d0143b129",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68d97389657d0d2d52d0143b129",
                 "width": 64
               }
             ],
