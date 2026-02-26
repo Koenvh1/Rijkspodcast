@@ -79226,15 +79226,55 @@
       "publisher": "Forum Fiscaal Dienstverleners",
       "type": "show",
       "uri": "spotify:show:294RcdFuoh0j2J3iqmCus9",
-      "total_episodes": 7,
+      "total_episodes": 8,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/294RcdFuoh0j2J3iqmCus9/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 7,
+        "total": 8,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4IoHQknAzLHrumZpMGTqZY/clip_226769_286769.mp3",
+            "description": "In deze aflevering van de Fiscaal Wijzer-podcast ontvangt Elianne Blom accountmanager Carlo Gase. Carlo vertelt waarom fiscaal dienstverleners zo belangrijk zijn voor de Belastingdienst en hoe de samenwerking en kennisdeling tussen fiscaal dienstverleners en accountmanagers in de praktijk werkt. Carlo gaat met Elianne dieper in op de dienstverlening van accountmanagers: hoe helpen zij procesverstoringen oplossen en wanneer kunt u contact met hen opnemen. Daarmee krijgt u een inkijkje in het dagelijks werk van een accountmanager. De video over de rol van de accountmanager, besproken in de podcast, kunt u bekijken via  FD-benadering: Onze accountmanagers. Tijdens de podcast komen ook de  contactkaart\u00a0en het  contactformulier\u00a0aan de orde.",
+            "html_description": "<p>In deze aflevering van de Fiscaal Wijzer-podcast ontvangt Elianne Blom accountmanager Carlo Gase. Carlo vertelt waarom fiscaal dienstverleners zo belangrijk zijn voor de Belastingdienst en hoe de samenwerking en kennisdeling tussen fiscaal dienstverleners en accountmanagers in de praktijk werkt. Carlo gaat met Elianne dieper in op de dienstverlening van accountmanagers: hoe helpen zij procesverstoringen oplossen en wanneer kunt u contact met hen opnemen. Daarmee krijgt u een inkijkje in het dagelijks werk van een accountmanager.</p> <p>De video over de rol van de accountmanager, besproken in de podcast, kunt u bekijken via <a href=\"https://over-ons.belastingdienst.nl/fd-benadering/fd-benadering-onze-accountmanagers/\" rel=\"nofollow\"> FD-benadering: Onze accountmanagers</a>. Tijdens de podcast komen ook de <a href=\"https://ffd.pleio.nl/page/view/1f1d1601-b240-40e5-a9f6-8643fae307ef/in-contact-met-de-belastingdienst\" rel=\"nofollow\"> contactkaart</a>\u00a0en het <a href=\"https://ffd.pleio.nl/page/view/1009ecfe-90f3-4d12-8a95-1ac4495ca44c/contact\" rel=\"nofollow\"> contactformulier</a>\u00a0aan de orde.</p>",
+            "duration_ms": 1398242,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/2QCCqD83bSvHyZkX3BwAHq"
+            },
+            "href": "https://api.spotify.com/v1/episodes/2QCCqD83bSvHyZkX3BwAHq",
+            "id": "2QCCqD83bSvHyZkX3BwAHq",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ad630142c7093326acce97ae9",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fd630142c7093326acce97ae9",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dd630142c7093326acce97ae9",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Rol van de accountmanager",
+            "release_date": "2026-02-26",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:2QCCqD83bSvHyZkX3BwAHq"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4zKXAGPVjcgzzj4G8Lk2Bb/clip_149002_209002.mp3",
             "description": "Wat betekent de Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft) voor u als fiscaal dienstverlener? In deze aflevering van onze podcastserie Fiscaal Wijzer is Lenie van der Plas van Bureau Financieel Toezicht (BFT), te gast bij Elianne Blom. BFT houdt onafhankelijk toezicht op de naleving van de (Wwft) door financi\u00eble en juridische dienstverleners. Elianne en Lenie bespreken de risico\u2019s en verplichtingen die voortvloeien uit de Wwft. U hoort wat er van u wordt verwacht in uw dagelijkse werkzaamheden ten aanzien van deze wet. Ook geeft Lenie u concrete praktijkvoorbeelden en praktische tips die u helpen fouten te voorkomen. U kunt deze podcast ook op Spotify beluisteren. [Meer informatie] De internetsites waarnaar in de podcast verwezen wordt, staan hieronder voor u op een rij:   BTF   FIU-Nederland   Belastingdienst  ",
@@ -79550,16 +79590,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Ondernemerschap",
-        "releaseDate": "2026-01-13T08:23:00Z",
+        "releaseDate": "2026-02-26T06:52:00Z",
         "trackCensoredName": "Fiscaal Wijzer",
-        "trackCount": 7,
+        "trackCount": 8,
         "trackExplicitness": "cleaned",
         "trackId": 1779274214,
         "trackName": "Fiscaal Wijzer",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1503,
+        "trackTimeMillis": 1398,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/fiscaal-wijzer/id1779274214?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/15/95/201595f5-7e84-a9f0-419f-c1a3317921e2/mza_1673362907192520931.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/15/95/201595f5-7e84-a9f0-419f-c1a3317921e2/mza_1673362907192520931.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/15/95/201595f5-7e84-a9f0-419f-c1a3317921e2/mza_1673362907192520931.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1779274214,
+        "collectionName": "Fiscaal Wijzer",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/fiscaal-wijzer/id1779274214?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In deze aflevering van de Fiscaal Wijzer-podcast ontvangt Elianne Blom accountmanager Carlo Gase. Carlo vertelt waarom fiscaal dienstverleners zo belangrijk zijn voor de Belastingdienst en hoe de samenwerking en kennisdeling tussen fiscaal dienstverleners en accountmanagers in de praktijk werkt. Carlo gaat met Elianne dieper in op de dienstverlening van accountmanagers: hoe helpen zij procesverstoringen oplossen en wanneer kunt u contact met hen opnemen. Daarmee krijgt u een inkijkje in het dagelijks werk van een accountmanager.\n De video over de rol van de accountmanager, besproken in de podcast, kunt u bekijken via  FD-benadering: Onze accountmanagers. Tijdens de podcast komen ook de  contactkaart\u00a0en het  contactformulier\u00a0aan de orde.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "wav",
+        "episodeGuid": "f343b100-2f95-5597-9868-b7cecff4fe0f",
+        "episodeUrl": "https://rss.springcast.app/ng4uqE/9AuorCrZp/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fng4uqE%2Fitems%2F9AuorCrZp%2F699feda1a3cc01.31742565.wav?source=itms.apple.com",
+        "feedUrl": "https://rss.springcast.app/ng4uqE",
+        "genres": [
+          {
+            "name": "Entrepreneurship",
+            "id": "1493"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://rss.springcast.app/ng4uqE/9AuorCrZp/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fng4uqE%2Fitems%2F9AuorCrZp%2F699feda1a3cc01.31742565.wav?source=itms.apple.com",
+        "releaseDate": "2026-02-26T06:52:00Z",
+        "shortDescription": "In deze aflevering van de Fiscaal Wijzer-podcast ontvangt Elianne Blom accountmanager Carlo Gase. Carlo vertelt waarom fiscaal dienstverleners zo belangrijk zijn voor de Belastingdienst en hoe de samenwerking en kennisdeling tussen fiscaal dienstverlene",
+        "trackId": 1000751490432,
+        "trackName": "Rol van de accountmanager",
+        "trackTimeMillis": 1398000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/rol-van-de-accountmanager/id1779274214?i=1000751490432&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -112635,15 +112708,55 @@
       "publisher": "Leerhuis Informatiehuishouding",
       "type": "show",
       "uri": "spotify:show:6oJsjZsAiunyNsDK1g9QzK",
-      "total_episodes": 51,
+      "total_episodes": 52,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/6oJsjZsAiunyNsDK1g9QzK/episodes?offset=0&limit=50",
         "limit": 50,
         "next": "https://api.spotify.com/v1/shows/6oJsjZsAiunyNsDK1g9QzK/episodes?offset=50&limit=50",
         "offset": 0,
         "previous": null,
-        "total": 51,
+        "total": 52,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4M2xBq5luuGEFtJvbKhg2K/clip_349946_409946.mp3",
+            "description": "Hoe ontwikkel je een datastrategie en vergroot je datageletterdheid binnen de overheid? In gesprek met trainee Jolnar Makhous over leren in de praktijk, data minimaliseren en werken vanuit de burger.",
+            "html_description": "<p></p><p>Hoe ontwikkel je een datastrategie en vergroot je datageletterdheid binnen de overheid? In gesprek met trainee Jolnar Makhous over leren in de praktijk, data minimaliseren en werken vanuit de burger.</p>",
+            "duration_ms": 2024986,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/7roNVf7RDnFE9MThdpUTPc"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7roNVf7RDnFE9MThdpUTPc",
+            "id": "7roNVf7RDnFE9MThdpUTPc",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ada6eee1b82949dbac906f46c",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fda6eee1b82949dbac906f46c",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dda6eee1b82949dbac906f46c",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "Aflevering #51 met als gast Jolnar Makhous - Justitie en Veiligheid",
+            "release_date": "2026-02-26",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7roNVf7RDnFE9MThdpUTPc"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2nGzKA9sbrCsRORpjgCxG2/clip_418399_478399.mp3",
             "description": "In deze jubileumaflevering blikken we terug met oud-ambassadeurs Benji Huinder (DNB) en Patricia den Ambtman (gemeente Den Haag). Wat heeft het ambassadeurschap hen gebracht en hoe voedden zij het Leerhuis? Een inspirerend gesprek over de wisselwerking tussen de praktijk en het Leerhuis vanaf het allereerste uur.",
@@ -114607,28 +114720,28 @@
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6nXH326wcwiu7B32jUtWxt/clip_525830_585830.mp3",
             "description": "Jouw vakkennis up-to-date houden? Maak kennis met het Leerhuis: www.leerhuisinformatiehuishouding.nl",
-            "html_description": "<p>Jouw vakkennis up-to-date houden? Maak kennis met het Leerhuis: www.leerhuisinformatiehuishouding.nl</p>",
             "duration_ms": 1671835,
             "explicit": false,
             "external_urls": {
               "spotify": "https://open.spotify.com/episode/31VahT6OfTxHFBw3vQZ4iA"
             },
             "href": "https://api.spotify.com/v1/episodes/31VahT6OfTxHFBw3vQZ4iA",
+            "html_description": "<p>Jouw vakkennis up-to-date houden? Maak kennis met het Leerhuis: www.leerhuisinformatiehuishouding.nl</p>",
             "id": "31VahT6OfTxHFBw3vQZ4iA",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab6765630000ba8ae1ab9dac2a950cf41b1bfec2",
                 "height": 640,
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae1ab9dac2a950cf41b1bfec2",
                 "width": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67656300005f1fe1ab9dac2a950cf41b1bfec2",
                 "height": 300,
+                "url": "https://i.scdn.co/image/ab67656300005f1fe1ab9dac2a950cf41b1bfec2",
                 "width": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab6765630000f68de1ab9dac2a950cf41b1bfec2",
                 "height": 64,
+                "url": "https://i.scdn.co/image/ab6765630000f68de1ab9dac2a950cf41b1bfec2",
                 "width": 64
               }
             ],
@@ -114719,16 +114832,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Zakelijk",
-        "releaseDate": "2026-01-28T08:44:00Z",
+        "releaseDate": "2026-02-26T06:30:00Z",
         "trackCensoredName": "De veranderende rol van een informatieprofessional",
-        "trackCount": 51,
+        "trackCount": 52,
         "trackExplicitness": "explicit",
         "trackId": 1695522129,
         "trackName": "De veranderende rol van een informatieprofessional",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1853,
+        "trackTimeMillis": 2025,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-veranderende-rol-van-een-informatieprofessional/id1695522129?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/8d/56/d68d56c7-22e6-d19b-7f70-1751b2f200e5/mza_6700934934476002064.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/8d/56/d68d56c7-22e6-d19b-7f70-1751b2f200e5/mza_6700934934476002064.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/8d/56/d68d56c7-22e6-d19b-7f70-1751b2f200e5/mza_6700934934476002064.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1695522129,
+        "collectionName": "De veranderende rol van een informatieprofessional",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-veranderende-rol-van-een-informatieprofessional/id1695522129?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Hoe ontwikkel je een datastrategie en vergroot je datageletterdheid binnen de overheid? In gesprek met trainee Jolnar Makhous over leren in de praktijk, data minimaliseren en werken vanuit de burger.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://channels.podcastfeed.eu/de-veranderende-rol-van-een-informatieprofessional#e71c06dd-cd0a-40a4-adad-05804c14e693",
+        "episodeUrl": "https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/25010b2a-0894-44e1-a0c8-468da0e0064a.mp3",
+        "feedUrl": "https://channels.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/feed.xml",
+        "genres": [
+          {
+            "name": "Business",
+            "id": "1321"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/25010b2a-0894-44e1-a0c8-468da0e0064a.mp3",
+        "releaseDate": "2026-02-26T06:30:00Z",
+        "shortDescription": "Hoe ontwikkel je een datastrategie en vergroot je datageletterdheid binnen de overheid? In gesprek met trainee Jolnar Makhous over leren in de praktijk, data minimaliseren en werken vanuit de burger.",
+        "trackId": 1000751705459,
+        "trackName": "Aflevering #51 met als gast Jolnar Makhous - Justitie en Veiligheid",
+        "trackTimeMillis": 2025000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/aflevering-51-met-als-gast-jolnar-makhous-justitie/id1695522129?i=1000751705459&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -202273,16 +202419,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
-        "releaseDate": "2026-02-19T13:52:00Z",
+        "releaseDate": "2026-02-25T08:12:00Z",
         "trackCensoredName": "AMLC podcast",
-        "trackCount": 105,
+        "trackCount": 106,
         "trackExplicitness": "cleaned",
         "trackId": 1565172628,
         "trackName": "AMLC podcast",
         "trackPrice": 0.0,
-        "trackTimeMillis": 712,
+        "trackTimeMillis": 911,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/amlc-podcast/id1565172628?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1565172628,
+        "collectionName": "AMLC podcast",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/amlc-podcast/id1565172628?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "De Anti-Money Laundering Authority (AMLA) en nationale toezichthouders gaan werken met \u00e9\u00e9n pan-Europees risicomodel. Dat heeft directe gevolgen voor hoe instellingen hun risico\u2019s in kaart brengen, hoe toezicht wordt ingericht en hoe het gesprek met de toezichthouder wordt gevoerd.\nIn deze aflevering staan we stil bij de Europese risicomethodologie onder de AMLR. Hoe worden inherente risico\u2019s, beheersmaatregelen en residuele risico\u2019s straks beoordeeld? En wat betekent dit voor bestaande processen zoals de SIRA, risicobereidheid en interne governance?\nIn deze aflevering hoor je onder andere:\nHoe het Europese risicomodel is opgebouwd en welke data wordt uitgevraagd\nHet verschil tussen inherente, gecontroleerde en residuele risico\u2019s\nDe rol van datagedreven vragenlijsten en uniforme beoordelingscriteria\nWat de nieuwe methodiek betekent voor CIRA\u2019s en ERM-processen\nHoe AMLA en nationale toezichthouders dezelfde risicomethodiek gaan toepassen\nDe aflevering maakt duidelijk dat risicobeoordeling in Europa steeds uniformer, transparanter en meer datagedreven wordt \u2014 met directe impact op instellingen die onder toezicht staan.\n\u201cAan de hand van een vrij mathematische exercitie wordt uiteindelijk het residuele risicoprofiel van een instelling vastgesteld.\u201d\n\ud83c\udfa7 In de volgende aflevering verschuift de focus naar data en samenwerking: welke informatie wordt centraal geregistreerd, hoe FIU\u2019s samenwerken en wat dit betekent voor meldprocessen binnen Europa.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "3c8c5f26-0879-4433-87f5-8f2b25f9e488",
+        "episodeUrl": "https://anchor.fm/s/56d70950/podcast/play/115267186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-9%2Fc4f6dae8-b6fe-7e49-715a-73a4401f48b6.mp3",
+        "feedUrl": "https://anchor.fm/s/56d70950/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/56d70950/podcast/play/115267186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-9%2Fc4f6dae8-b6fe-7e49-715a-73a4401f48b6.mp3",
+        "releaseDate": "2026-02-25T08:12:00Z",
+        "shortDescription": "De Anti-Money Laundering Authority (AMLA) en nationale toezichthouders gaan werken met \u00e9\u00e9n pan-Europees risicomodel. Dat heeft directe gevolgen voor hoe instellingen hun risico\u2019s in kaart brengen, hoe toezicht wordt ingericht en hoe het gesprek met",
+        "trackId": 1000751353829,
+        "trackName": "106. Deel 3 - Het Europese risicomodel en toezicht",
+        "trackTimeMillis": 911000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/106-deel-3-het-europese-risicomodel-en-toezicht/id1565172628?i=1000751353829&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],

@@ -3,11 +3,55 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-25T22:36:04Z</updated>
+	<updated>2026-02-26T07:02:47Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Fiscaal Wijzer - Rol van de accountmanager</title>
+		<link href="https://podcasts.apple.com/nl/podcast/rol-van-de-accountmanager/id1779274214?i=1000751490432&amp;uo=4" rel="alternate" />
+		<summary>In deze aflevering van de Fiscaal Wijzer-podcast ontvangt Elianne Blom accountmanager Carlo Gase. Carlo vertelt waarom fiscaal dienstverleners zo belangrijk zijn voor de Belastingdienst en hoe de samenwerking en kennisdeling tussen fiscaal dienstverleners en accountmanagers in de praktijk werkt. Carlo gaat met Elianne dieper in op de dienstverlening van accountmanagers: hoe helpen zij procesverstoringen oplossen en wanneer kunt u contact met hen opnemen. Daarmee krijgt u een inkijkje in het dagelijks werk van een accountmanager.
+ De video over de rol van de accountmanager, besproken in de podcast, kunt u bekijken via  FD-benadering: Onze accountmanagers. Tijdens de podcast komen ook de  contactkaart en het  contactformulier aan de orde.</summary>
+		<author>
+			<name>Forum Fiscaal Dienstverleners</name>
+		</author>
+		<link href="https://rss.springcast.app/ng4uqE/9AuorCrZp/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fng4uqE%2Fitems%2F9AuorCrZp%2F699feda1a3cc01.31742565.wav?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000751490432</id>
+		<updated>2026-02-26T06:52:00Z</updated>
+	</entry>
+	<entry>
+		<title>De veranderende rol van een informatieprofessional - Aflevering #51 met als gast Jolnar Makhous - Justitie en Veiligheid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/aflevering-51-met-als-gast-jolnar-makhous-justitie/id1695522129?i=1000751705459&amp;uo=4" rel="alternate" />
+		<summary>Hoe ontwikkel je een datastrategie en vergroot je datageletterdheid binnen de overheid? In gesprek met trainee Jolnar Makhous over leren in de praktijk, data minimaliseren en werken vanuit de burger.</summary>
+		<author>
+			<name>Leerhuis Informatiehuishouding</name>
+		</author>
+		<link href="https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/25010b2a-0894-44e1-a0c8-468da0e0064a.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000751705459</id>
+		<updated>2026-02-26T06:30:00Z</updated>
+	</entry>
+	<entry>
+		<title>AMLC podcast - 106. Deel 3 - Het Europese risicomodel en toezicht</title>
+		<link href="https://podcasts.apple.com/nl/podcast/106-deel-3-het-europese-risicomodel-en-toezicht/id1565172628?i=1000751353829&amp;uo=4" rel="alternate" />
+		<summary>De Anti-Money Laundering Authority (AMLA) en nationale toezichthouders gaan werken met één pan-Europees risicomodel. Dat heeft directe gevolgen voor hoe instellingen hun risico’s in kaart brengen, hoe toezicht wordt ingericht en hoe het gesprek met de toezichthouder wordt gevoerd.
+In deze aflevering staan we stil bij de Europese risicomethodologie onder de AMLR. Hoe worden inherente risico’s, beheersmaatregelen en residuele risico’s straks beoordeeld? En wat betekent dit voor bestaande processen zoals de SIRA, risicobereidheid en interne governance?
+In deze aflevering hoor je onder andere:
+Hoe het Europese risicomodel is opgebouwd en welke data wordt uitgevraagd
+Het verschil tussen inherente, gecontroleerde en residuele risico’s
+De rol van datagedreven vragenlijsten en uniforme beoordelingscriteria
+Wat de nieuwe methodiek betekent voor CIRA’s en ERM-processen
+Hoe AMLA en nationale toezichthouders dezelfde risicomethodiek gaan toepassen
+De aflevering maakt duidelijk dat risicobeoordeling in Europa steeds uniformer, transparanter en meer datagedreven wordt — met directe impact op instellingen die onder toezicht staan.
+“Aan de hand van een vrij mathematische exercitie wordt uiteindelijk het residuele risicoprofiel van een instelling vastgesteld.”
+🎧 In de volgende aflevering verschuift de focus naar data en samenwerking: welke informatie wordt centraal geregistreerd, hoe FIU’s samenwerken en wat dit betekent voor meldprocessen binnen Europa.</summary>
+		<author>
+			<name>AMLC/FIOD</name>
+		</author>
+		<link href="https://anchor.fm/s/56d70950/podcast/play/115267186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-9%2Fc4f6dae8-b6fe-7e49-715a-73a4401f48b6.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000751353829</id>
+		<updated>2026-02-25T08:12:00Z</updated>
+	</entry>
 	<entry>
 		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - ​​AI &amp; security: ervaringen en internationale standaarden​</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ai-security-ervaringen-en-internationale-standaarden/id1554063582?i=1000750634065&amp;uo=4" rel="alternate" />
