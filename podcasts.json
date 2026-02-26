@@ -118957,15 +118957,55 @@
       "publisher": "KNMI",
       "type": "show",
       "uri": "spotify:show:1Pr6Rx1OhOYaqEvogCyRbf",
-      "total_episodes": 15,
+      "total_episodes": 16,
       "episodes": {
         "href": "https://api.spotify.com/v1/shows/1Pr6Rx1OhOYaqEvogCyRbf/episodes?offset=0&limit=50",
         "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
-        "total": 15,
+        "total": 16,
         "items": [
+          {
+            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0ic94uRWzLEO2VNzStONrQ/clip_290612_350612.mp3",
+            "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met bioloog Arnold van Vliet van de Wageningen Universiteit over de natuurkalender, alles wat weer wakker wordt, tot leven komt en gaat bloeien nu de temperaturen omhoog gaan. Ook is klimaatexpert Peter Siegmund te gast. Hij vertelt over de start van het droogteseizoen, wat betekent verdamping, en hoe berekenen we het neerslagtekort? De vraag van de luisteraar gaat over de locatie van de Olympische winterspelen en of klimaatverandering daar invloed op heeft. Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store\u00a0of voor Android in de Play store. En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
+            "html_description": "<p>In deze aflevering praten Rob Sluijter en Rubert Konijn met bioloog Arnold van Vliet van de Wageningen Universiteit over de natuurkalender, alles wat weer wakker wordt, tot leven komt en gaat bloeien nu de temperaturen omhoog gaan. Ook is klimaatexpert Peter Siegmund te gast. Hij vertelt over de start van het droogteseizoen, wat betekent verdamping, en hoe berekenen we het neerslagtekort? De vraag van de luisteraar gaat over de locatie van de Olympische winterspelen en of klimaatverandering daar invloed op heeft. <br /><br />Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar<a href=\"info&#64;knmi.nl\" rel=\"nofollow\"> info&#64;knmi.nl</a>.\u00a0 <br /><br />Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de <a href=\"https://apps.apple.com/nl/app/knmi-weer/id1225568094\" rel=\"nofollow\">App store</a>\u00a0of voor Android in de <a href=\"https://play.google.com/store/apps/details?id&#61;nl.knmi.weer\" rel=\"nofollow\">Play store</a>. <br /><br />En volg ons op Instagram: <a href=\"https://www.instagram.com/knmi.nl/\" rel=\"nofollow\">https://www.instagram.com/knmi.nl/</a>.</p>",
+            "duration_ms": 1683744,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/episode/0AZaP8BaO07NTBO69xkdtw"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0AZaP8BaO07NTBO69xkdtw",
+            "id": "0AZaP8BaO07NTBO69xkdtw",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a51f84ab9b000be01c0364a45",
+                "height": 640,
+                "width": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f51f84ab9b000be01c0364a45",
+                "height": 300,
+                "width": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d51f84ab9b000be01c0364a45",
+                "height": 64,
+                "width": 64
+              }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "nl",
+            "languages": [
+              "nl"
+            ],
+            "name": "De KNMI Podcast - Aflevering 6: Citroenvlinders, pollen en de lente komt eraan",
+            "release_date": "2026-02-26",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0AZaP8BaO07NTBO69xkdtw"
+          },
           {
             "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4JtYwbfzunEmrGKOg74wMj/clip_255570_315570.mp3",
             "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met Thomas Deurloo, tactisch strategisch peilbeheerder bij Waterschap Brabantse Delta over de waterstanden in het zuidwesten van Nederland. Daarnaast in deze aflevering KNMI-klimaatadviseur Bart Verheggen over de AMOC, de Atlantische oceaanstroming die mogelijk sterk verzwakt of zelfs stilvalt. Ook het extreme weer in Zuid-Europa komt ter sprake. Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store\u00a0of voor Android in de Play store.En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
@@ -119601,16 +119641,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Wetenschap",
-        "releaseDate": "2026-02-12T15:00:00Z",
+        "releaseDate": "2026-02-26T20:00:00Z",
         "trackCensoredName": "KNMI",
-        "trackCount": 15,
+        "trackCount": 16,
         "trackExplicitness": "cleaned",
         "trackId": 1710387840,
         "trackName": "KNMI",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1840,
+        "trackTimeMillis": 1683,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/knmi/id1710387840?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1710387840,
+        "collectionName": "KNMI",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/knmi/id1710387840?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met bioloog Arnold van Vliet van de Wageningen Universiteit over de natuurkalender, alles wat weer wakker wordt, tot leven komt en gaat bloeien nu de temperaturen omhoog gaan. Ook is klimaatexpert Peter Siegmund te gast. Hij vertelt over de start van het droogteseizoen, wat betekent verdamping, en hoe berekenen we het neerslagtekort? De vraag van de luisteraar gaat over de locatie van de Olympische winterspelen en of klimaatverandering daar invloed op heeft. Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store\u00a0of voor Android in de Play store. En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/19104/de-knmi-podcast-aflevering-6-citroenvlinders-pollen-en-de-lente-komt-eraan",
+        "episodeUrl": "https://app.springcast.fm/download/184454/lHjCUDkVZ2JwFPNHS57gx4KY41LQBHGS.mp3",
+        "feedUrl": "https://app.springcast.fm/podcast-xml/19104",
+        "genres": [
+          {
+            "name": "Science",
+            "id": "1533"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://app.springcast.fm/download/184454/lHjCUDkVZ2JwFPNHS57gx4KY41LQBHGS.mp3",
+        "releaseDate": "2026-02-26T20:00:00Z",
+        "shortDescription": "In deze aflevering praten Rob Sluijter en Rubert Konijn met bioloog Arnold van Vliet van de Wageningen Universiteit over de natuurkalender, alles wat weer wakker wordt, tot leven komt en gaat bloeien nu de temperaturen omhoog gaan. Ook is klimaatexpert",
+        "trackId": 1000751804474,
+        "trackName": "De KNMI Podcast - Aflevering 6: Citroenvlinders, pollen en de lente komt eraan",
+        "trackTimeMillis": 1683000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-knmi-podcast-aflevering-6-citroenvlinders-pollen/id1710387840?i=1000751804474&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
