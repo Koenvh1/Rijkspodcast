@@ -61,9 +61,8 @@ def get_apple_podcasts_id(s):
 
 def add_podcasts():
     while True:
-        name = input("Enter the URL of the podcast: ")
+        name = input("Voer de URL van de podcast in: ")
         spotify = name
-        spotify_data = get_podcast_info(name)
         provider = "spotify"
 
         if spotify.strip() == "":
@@ -77,7 +76,7 @@ def add_podcasts():
                 print("Podcast al eerder toegevoegd!")
 
         if not exists:
-            apple = input(f"Apple URL https://podcasts.apple.com/nl/search?term={urllib.parse.quote_plus(spotify_data["name"])} : ")
+            apple = input(f"Apple URL https://podcasts.apple.com/nl/search : ")
             if apple:
                 apple_data = get_apple_podcast_info(apple)
             else:
@@ -85,7 +84,7 @@ def add_podcasts():
             podcasts.append({
                 "provider": provider,
                 "spotify": spotify,
-                "spotify_data": spotify_data,
+                "spotify_data": None,
                 "apple": apple,
                 "apple_data": apple_data
             })
@@ -108,8 +107,8 @@ def generate_opml():
             continue
         outline = ET.SubElement(body, "outline")
         outline.set("type", "rss")
-        outline.set("text", podcast["spotify_data"]["name"])
-        outline.set("title", podcast["spotify_data"]["name"])
+        outline.set("text", podcast["apple_data"][0]["collectionName"])
+        outline.set("title", podcast["apple_data"][0]["collectionName"])
         outline.set("xmlUrl", podcast["apple_data"][0]["feedUrl"])
 
     tree = ET.ElementTree(root)
@@ -177,17 +176,10 @@ def update_podcasts():
     previous_podcasts = json.load(open("podcasts.json"))
     podcasts = json.load(open("podcasts.json"))
     for podcast in podcasts:
-        try:
-            podcast["spotify_data"] = get_podcast_info(podcast["spotify"])
-            print(podcast["spotify_data"]["name"])
-            time.sleep(0.1)
-        except spotipy.SpotifyException as e:
-            if e.http_status == 404:
-                print("NOT FOUND: " + podcast["spotify_data"]["name"])
-            else:
-                raise e
         if podcast["apple"]:
             podcast["apple_data"] = get_apple_podcast_info(podcast["apple"])
+            print(podcast["apple_data"][0]["collectionName"])
+            time.sleep(0.5)
 
     json.dump(podcasts, open("podcasts.json", "w"), indent=2)
     return previous_podcasts != podcasts
