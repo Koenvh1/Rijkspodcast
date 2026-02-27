@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-02-27T06:57:11Z</updated>
+	<updated>2026-02-27T10:40:12Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>KNMI - De KNMI Podcast - Aflevering 6: Citroenvlinders, pollen en de lente komt eraan</title>
+		<link href="https://podcasts.apple.com/nl/podcast/de-knmi-podcast-aflevering-6-citroenvlinders-pollen/id1710387840?i=1000751804474&amp;uo=4" rel="alternate" />
+		<summary>In deze aflevering praten Rob Sluijter en Rubert Konijn met bioloog Arnold van Vliet van de Wageningen Universiteit over de natuurkalender, alles wat weer wakker wordt, tot leven komt en gaat bloeien nu de temperaturen omhoog gaan. Ook is klimaatexpert Peter Siegmund te gast. Hij vertelt over de start van het droogteseizoen, wat betekent verdamping, en hoe berekenen we het neerslagtekort? De vraag van de luisteraar gaat over de locatie van de Olympische winterspelen en of klimaatverandering daar invloed op heeft. Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl.  Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store of voor Android in de Play store. En volg ons op Instagram: https://www.instagram.com/knmi.nl/.</summary>
+		<author>
+			<name>KNMI</name>
+		</author>
+		<link href="https://app.springcast.fm/download/184454/lHjCUDkVZ2JwFPNHS57gx4KY41LQBHGS.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000751804474</id>
+		<updated>2026-02-26T20:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Zorgklank - handvatten voor professionals in de zorg - S2E14: De veranderende rol van de zorgbestuurder met Wilma Van der Scheer</title>
 		<link href="https://podcasts.apple.com/nl/podcast/s2e14-de-veranderende-rol-van-de-zorgbestuurder/id1780286589?i=1000751718882&amp;uo=4" rel="alternate" />
