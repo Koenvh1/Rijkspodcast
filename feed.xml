@@ -3,11 +3,33 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-02T15:43:32Z</updated>
+	<updated>2026-03-03T15:49:31Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Publieke Ruimte - Lessen voor een Responsieve Overheid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/lessen-voor-een-responsieve-overheid/id1568120402?i=1000752783441&amp;uo=4" rel="alternate" />
+		<summary>Zo'n twee jaar geleden verscheen het rapport 'De gebroken belofte van de rechtsstaat'. Dit rapport van de Staatscommissie Rechtsstaat bevatte 10 verbetervoorstellen voor het onderhoud van de rechtsstaat met oog voor de burger. Wat is er van deze voorstellen terecht gekomen? Wat doet het nieuwe kabinet met de aanbeveling om het contact met burgers te verbeteren? En hoe kunnen ambtenaren in hun dagelijkse werk de verbetervoorstellen nu al toepassen? Martijn en Otto spreken met Marc Hertogh, vicevoorzitter van de Staatscommissie Rechtsstaat en hoogleraar rechtssociologie, en André Verburg, rechter bij de afdeling bestuursrechtspraak van de Raad van State en hoogleraar Rechtsbescherming tegen de overheid. </summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<link href="https://mcdn.podbean.com/mf/web/m6fepbv5tyjskm3w/Responsieve_overheid_DEFb70ye.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000752783441</id>
+		<updated>2026-03-03T00:20:00Z</updated>
+	</entry>
+	<entry>
+		<title>Dossier WODC - Transnationaal seksueel kindermisbruik komt vaker voor dan je denkt</title>
+		<link href="https://podcasts.apple.com/nl/podcast/transnationaal-seksueel-kindermisbruik-komt-vaker-voor/id1724937331?i=1000752775257&amp;uo=4" rel="alternate" />
+		<summary>Naar schatting reizen ieder jaar 20.000 Nederlandse mannen af naar het buitenland voor seks met minderjarigen. Dit heet transnationaal seksueel kindermisbruik. Wie zijn deze mannen? Wat voor types zijn dat? En wat moeten we doen of weten om het te voorkomen?In deze aflevering spreekt host Carlissa Remmerswaal met Arjan Blokland van het NSCR en Anneke Koning van de Vrije Universiteit Amsterdam over hun WODC-onderzoek naar transnationaal seksueel kindermisbruik door Nederlandse volwassen mannen.Meer weten over dit onderzoek? Lees hier het ⁠⁠volledige rapport⁠⁠ of bekijk de ⁠infographic⁠.Voor meer onderzoek naar daders van seksueel kindermisbruik, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nlOpname en montage gedaan in eigen beheer WODC.</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<link href="https://anchor.fm/s/e9f55368/podcast/play/116269419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2F2f13681a-f091-7b45-8122-a338014806fc.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000752775257</id>
+		<updated>2026-03-02T23:05:00Z</updated>
+	</entry>
 	<entry>
 		<title>KNMI - De KNMI Podcast - Aflevering 6: Citroenvlinders, pollen en de lente komt eraan</title>
 		<link href="https://podcasts.apple.com/nl/podcast/de-knmi-podcast-aflevering-6-citroenvlinders-pollen/id1710387840?i=1000751804474&amp;uo=4" rel="alternate" />
