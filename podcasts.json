@@ -202600,7 +202600,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-02-25T08:12:00Z",
         "trackCensoredName": "AMLC podcast",
-        "trackCount": 106,
+        "trackCount": 107,
         "trackExplicitness": "cleaned",
         "trackId": 1565172628,
         "trackName": "AMLC podcast",
@@ -202608,6 +202608,39 @@
         "trackTimeMillis": 911,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/amlc-podcast/id1565172628?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1565172628,
+        "collectionName": "AMLC podcast",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/amlc-podcast/id1565172628?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Met de komst van de Anti-Money Laundering Authority (AMLA) krijgt data een centrale rol in het Europese anti-witwasstelsel. AMLA wordt het knooppunt van Europese AML-informatie en gaat een belangrijke rol spelen bij risicogebaseerd toezicht en samenwerking tussen lidstaten.\nIn deze aflevering kijken we naar welke data centraal wordt geregistreerd, welke informatie nationaal blijft en hoe FIU\u2019s binnen Europa nauwer gaan samenwerken. Wat betekent dit voor meldprocessen, datakwaliteit en de manier waarop toezicht wordt ingericht?\nIn deze aflevering hoor je onder andere:\nWelke databronnen en registers onder regie van AMLA komen\nDe rol van systemen zoals Eureka en FIU-netwerken\nWat centraal wordt opgeslagen en wat bewust nationaal blijft\nDe gevolgen voor meldprocessen en datakwaliteit\nHoe data wordt ingezet voor risicogebaseerd toezicht en toezichtselectie\nDe aflevering laat zien dat betere samenwerking en datadeling essentieel zijn voor een effectieve Europese aanpak, maar ook dat duidelijke keuzes zijn gemaakt over grenzen aan centralisatie en nationale verantwoordelijkheden.\n\u201cAMLA wordt het knooppunt van Europese AML-data.\u201d\n\ud83c\udfa7 In de volgende aflevering staat artikel 75 van de AML-verordening centraal: informatie-deling tussen publieke en private partijen, samenwerking tussen poortwachters en de balans met privacywetgeving.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "b09595a5-6ef4-4f1e-8759-dbbfefd3bb56",
+        "episodeUrl": "https://anchor.fm/s/56d70950/podcast/play/115267278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fde56e236-a03a-d5ec-fe3f-d49423a377b6.mp3",
+        "feedUrl": "https://anchor.fm/s/56d70950/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/56d70950/podcast/play/115267278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fde56e236-a03a-d5ec-fe3f-d49423a377b6.mp3",
+        "releaseDate": "2026-03-04T08:10:00Z",
+        "shortDescription": "Met de komst van de Anti-Money Laundering Authority (AMLA) krijgt data een centrale rol in het Europese anti-witwasstelsel. AMLA wordt het knooppunt van Europese AML-informatie en gaat een belangrijke rol spelen bij risicogebaseerd toezicht en samenwerk",
+        "trackId": 1000751355601,
+        "trackName": "107. Deel 4 - Data, FIU\u2019s en Europese samenwerking",
+        "trackTimeMillis": 860000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/107-deel-4-data-fius-en-europese-samenwerking/id1565172628?i=1000751355601&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],

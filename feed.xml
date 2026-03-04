@@ -3,11 +3,32 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-04T10:38:25Z</updated>
+	<updated>2026-03-04T15:43:09Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>AMLC podcast - 107. Deel 4 - Data, FIU’s en Europese samenwerking</title>
+		<link href="https://podcasts.apple.com/nl/podcast/107-deel-4-data-fius-en-europese-samenwerking/id1565172628?i=1000751355601&amp;uo=4" rel="alternate" />
+		<summary>Met de komst van de Anti-Money Laundering Authority (AMLA) krijgt data een centrale rol in het Europese anti-witwasstelsel. AMLA wordt het knooppunt van Europese AML-informatie en gaat een belangrijke rol spelen bij risicogebaseerd toezicht en samenwerking tussen lidstaten.
+In deze aflevering kijken we naar welke data centraal wordt geregistreerd, welke informatie nationaal blijft en hoe FIU’s binnen Europa nauwer gaan samenwerken. Wat betekent dit voor meldprocessen, datakwaliteit en de manier waarop toezicht wordt ingericht?
+In deze aflevering hoor je onder andere:
+Welke databronnen en registers onder regie van AMLA komen
+De rol van systemen zoals Eureka en FIU-netwerken
+Wat centraal wordt opgeslagen en wat bewust nationaal blijft
+De gevolgen voor meldprocessen en datakwaliteit
+Hoe data wordt ingezet voor risicogebaseerd toezicht en toezichtselectie
+De aflevering laat zien dat betere samenwerking en datadeling essentieel zijn voor een effectieve Europese aanpak, maar ook dat duidelijke keuzes zijn gemaakt over grenzen aan centralisatie en nationale verantwoordelijkheden.
+“AMLA wordt het knooppunt van Europese AML-data.”
+🎧 In de volgende aflevering staat artikel 75 van de AML-verordening centraal: informatie-deling tussen publieke en private partijen, samenwerking tussen poortwachters en de balans met privacywetgeving.</summary>
+		<author>
+			<name>AMLC/FIOD</name>
+		</author>
+		<link href="https://anchor.fm/s/56d70950/podcast/play/115267278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fde56e236-a03a-d5ec-fe3f-d49423a377b6.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000751355601</id>
+		<updated>2026-03-04T08:10:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Publieke Ruimte - Lessen voor een Responsieve Overheid</title>
 		<link href="https://podcasts.apple.com/nl/podcast/lessen-voor-een-responsieve-overheid/id1568120402?i=1000752783441&amp;uo=4" rel="alternate" />
