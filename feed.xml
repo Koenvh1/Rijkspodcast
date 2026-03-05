@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-05T06:55:35Z</updated>
+	<updated>2026-03-05T10:41:06Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Leren verbeteren podcasts - #20 De verwaarloosde organisatie - als het op school ontbreekt aan leiderschap</title>
+		<link href="https://podcasts.apple.com/nl/podcast/20-de-verwaarloosde-organisatie-als-het-op-school/id1562352812?i=1000753191098&amp;uo=4" rel="alternate" />
+		<summary>Wat gebeurt er met een school wanneer goed leiderschap te lang ontbreekt? In deze podcast duiken we in het fenomeen van de school als verwaarloosde organisatie, waar het langdurig aan sturing, aandacht en begeleiding ontbreekt. We onderzoeken hoe verwaarlozing ontstaat en wat de gevolgen zijn voor teams en leerlingen. En vooral: hoe herstel mogelijk is.</summary>
+		<author>
+			<name>Leren verbeteren</name>
+		</author>
+		<link href="https://feeds.soundcloud.com/stream/2277801041-lerenverbeteren-20-de-verwaarloosde.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000753191098</id>
+		<updated>2026-03-05T08:54:56Z</updated>
+	</entry>
 	<entry>
 		<title>AMLC podcast - 107. Deel 4 - Data, FIU’s en Europese samenwerking</title>
 		<link href="https://podcasts.apple.com/nl/podcast/107-deel-4-data-fius-en-europese-samenwerking/id1565172628?i=1000751355601&amp;uo=4" rel="alternate" />
