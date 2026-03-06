@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-05T15:52:33Z</updated>
+	<updated>2026-03-06T22:31:02Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Klapmok met Thee - #114: Falcon Inside</title>
+		<link href="https://podcasts.apple.com/nl/podcast/114-falcon-inside/id1566819266?i=1000753507742&amp;uo=4" rel="alternate" />
+		<summary>In deze aflevering zijn Deborah en Anne-Marij op bezoek bij brigadegeneraal Frank Grandia, Commandant 11 Luchtmobiele Brigade. Hij vertelt alles over de taakstelling van de brigade, de mensen die er werken en de internationale samenwerking. Ook blikt hij terug op zijn tijd als commandant en de droombaan die hij daarmee heeft vervuld. Een mooi gesprek, waarin de term ‘actie intelligentie’ regelmatig voorbijkomt en ook de origami parachute een plek heeft.</summary>
+		<author>
+			<name>Koninklijke Landmacht</name>
+		</author>
+		<link href="https://rss.springcast.app/nQPuGd/AXup6FB2L/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnQPuGd%2Fitems%2FAXup6FB2L%2F69a94b2dc55295.28331217.wav?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000753507742</id>
+		<updated>2026-03-06T05:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Leren verbeteren podcasts - #20 De verwaarloosde organisatie - als het op school ontbreekt aan leiderschap</title>
 		<link href="https://podcasts.apple.com/nl/podcast/20-de-verwaarloosde-organisatie-als-het-op-school/id1562352812?i=1000753191098&amp;uo=4" rel="alternate" />
@@ -669,9 +680,9 @@ We gebruiken dit soort verhalen bewust als opening van de podcast. Ze helpen om 
 		<title>Klapmok met Thee - #110: Militair juridisch blokje – de ins en outs van de MJDKL</title>
 		<link href="https://podcasts.apple.com/nl/podcast/110-militair-juridisch-blokje-de-ins-en-outs-van-de-mjdkl/id1566819266?i=1000744394034&amp;uo=4" rel="alternate" />
 		<summary>Na een juridische aflevering over de oorlogswet kon een aflevering over de Militair Juridische Dienst KL niet langer uitblijven. Waarom hebben we eigenlijk een Militair Juridische Dienst en wat doet een militair jurist allemaal? Helpt de jurist bij de scheiding van de OPC 😉?
- Anne-Marij en Deborah gaan in gesprek met Hoofd Juridische Zaken van de Landmachtstaf Kolonel Robin Zegers. Alles komt voorbij. Van het planbord naar de militaire rechtbank te velde, het gebruik van mijnen en van Rules of Engagements naar advies in een operationeel conflict.
- Zeer interessant vakgebied waar ze nog niet over uitgepraat zijn…
- Luister je mee, naar weer een nieuwe aflevering Klapmok met Thee!</summary>
+Anne-Marij en Deborah gaan in gesprek met Hoofd Juridische Zaken van de Landmachtstaf Kolonel Robin Zegers. Alles komt voorbij. Van het planbord naar de militaire rechtbank te velde, het gebruik van mijnen en van Rules of Engagements naar advies in een operationeel conflict. 
+Zeer interessant vakgebied waar ze nog niet over uitgepraat zijn…
+Luister je mee, naar weer een nieuwe aflevering Klapmok met Thee!</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -1792,7 +1803,7 @@ Zie voor meer informatie: https://aofondsrijk.nl/menstruatie-overgang/</summary>
 	<entry>
 		<title>Klapmok met Thee - #105: Explainer Oorlogswet</title>
 		<link href="https://podcasts.apple.com/nl/podcast/105-explainer-oorlogswet/id1566819266?i=1000733254726&amp;uo=4" rel="alternate" />
-		<summary>Maarten Stokhof (senior beleidsmedewerker bij het ministerie van Justitie en Veiligheid) en Rob Lenssen (clusterhoofd bij de Directie Juridische Zaken van Defensie) nemen Deborah en Anne-Marij in deze aflevering helemaal mee in de Oorlogswet, maar ook breder in het staatsnoodrecht. Wat gebeurt of verandert er juridisch in Nederland als we in oorlog zijn? Daarvoor kijken ze natuurlijk ook naar hoe Nederland in vredestijd is georganiseerd en wat de rol is van lokaal bestuur. Verandert er eigenlijk iets als we in een art. 5 situatie komen? En hoe zit het nu precies met militair gezag? Alles wordt duidelijk uitgelegd en hangt soms - zoals het hoort bij een juridisch onderwerp - af van de omstandigheden van het geval.</summary>
+		<summary>Maarten Stokhof (senior beleidsmedewerker bij het ministerie van Justitie en Veiligheid) en Rob Lenssen (clusterhoofd bij de Directie Juridische Zaken van Defensie) nemen Deborah en Anne-Marij in deze aflevering helemaal mee in de Oorlogswet, maar ook breder in het staatsnoodrecht. Wat gebeurt of verandert er juridisch in Nederland als we in oorlog zijn?   Daarvoor kijken ze natuurlijk ook naar hoe Nederland in vredestijd is georganiseerd en wat de rol is van lokaal bestuur. Verandert er eigenlijk iets als we in een art. 5 situatie komen? En hoe zit het nu precies met militair gezag? Alles wordt duidelijk uitgelegd en hangt soms - zoals het hoort bij een juridisch onderwerp - af van de omstandigheden van het geval.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -2211,11 +2222,11 @@ Martijn en Otto blikken terug op deze dag aan de hand van de inzichten van Mari�
 	<entry>
 		<title>Klapmok met Thee - #103: COID: Boots on the ground meets Science</title>
 		<link href="https://podcasts.apple.com/nl/podcast/103-coid-boots-on-the-ground-meets-science/id1566819266?i=1000728501724&amp;uo=4" rel="alternate" />
-		<summary>Alvast voor in de agenda: 19 november vindt het COID congres plaats. Anne-Marij en Deborah gaan in gesprek met de keynote speaker, Sofie van der Maarel. Zij is universitair docent Militaire Ethiek &amp; Leiderschap op de NLDA en vertelt over haar onderzoek naar moral injury in relatie tot technologie &amp; innovatie. De nieuwe morele dilemma’s die komen kijken bij operationele integriteit in context. Wat betekent dit voor de militair van de toekomst. Wie is dat en wil ik die zijn? Belangrijk is het creëren van de juiste verwachtingen.
- Leestip: Het handboek moral injury in context
-  https://www.boom.nl/criminologie/100-19551_Handboek-moral-injury-in-context
- Luistertip: Buitenland met Boswijk afl 46: de Politieke motieven achter de Nederlandse missie in Uruzgan.
- Werk je bij Defensie: vragen over het congres kun je stellen door een mail te sturen naar Info.coid@mindef.nl. 19 november in Stroe.</summary>
+		<summary>Alvast voor in de agenda: 19 november vindt het COID congres plaats. Anne-Marij en Deborah gaan in gesprek met de keynote speaker, Sofie van der Maarel. Zij is universitair docent Militaire Ethiek &amp; Leiderschap op de NLDA en vertelt over haar onderzoek naar moral injury in relatie tot technologie &amp; innovatie. De nieuwe morele dilemma’s die komen kijken bij operationele integriteit in context. Wat betekent dit voor de militair van de toekomst. Wie is dat en wil ik die zijn? Belangrijk is het creëren van de juiste verwachtingen. 
+Leestip: Het handboek moral injury in context 
+https://www.boom.nl/criminologie/100-19551_Handboek-moral-injury-in-context
+Luistertip: Buitenland met Boswijk afl 46: de Politieke motieven achter de Nederlandse missie in Uruzgan. 
+Werk je bij Defensie: vragen over het congres kun je stellen door een mail te sturen naar Info.coid@mindef.nl. 19 november in Stroe.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -2373,8 +2384,8 @@ Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze z
 	<entry>
 		<title>Klapmok met Thee - #102: Pak je kans met ODA!</title>
 		<link href="https://podcasts.apple.com/nl/podcast/102-pak-je-kans-met-oda/id1566819266?i=1000726458237&amp;uo=4" rel="alternate" />
-		<summary>De vakantie is voorbij, dus tijd voor Anne-Marij en Deborah om kansen te pakken. In deze aflevering verkennen zij de open defence academy, de ODA, samen met Marielle van der Berg, adviseur leren en ontwikkelen en Ralph Spijker, onderwijskundig adviseur. Beide zijn werkzaam bij de NLDA en houden zich bezig met het bedenken van oplossingen op leervraagstukken. Welke kansen ODA biedt voor jou, je eenheid of je community hoor je in deze aflevering.
- Luister je mee, naar de nieuwe aflevering Klapmok met thee.</summary>
+		<summary>De vakantie is voorbij, dus tijd voor Anne-Marij en Deborah om kansen te pakken. In deze aflevering verkennen zij de open defence academy, de ODA, samen met Marielle van der Berg, adviseur leren en ontwikkelen en Ralph Spijker, onderwijskundig adviseur. Beide zijn werkzaam bij de NLDA en houden zich bezig met het bedenken van oplossingen op leervraagstukken. Welke kansen ODA biedt voor jou, je eenheid of je community hoor je in deze aflevering. 
+Luister je mee, naar de nieuwe aflevering Klapmok met thee.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -3320,7 +3331,7 @@ Redactie en productie door Judith Wouters – Adviescollege ICT-toetsingmuziekco
 		<title>Klapmok met Thee - #100: De Landmacht, het draait om de mensen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/100-de-landmacht-het-draait-om-de-mensen/id1566819266?i=1000713694935&amp;uo=4" rel="alternate" />
 		<summary>Record… en daar is de 100ste aflevering!
- Met niemand minder dan de commandant van de Landmacht, de luitenant-generaal Jan Swillens, gaan Anne-Marij en Deborah in gesprek over de Landmacht. Een half jaar na het uitkomen van zijn Command Message zijn ze benieuwd hoe het nu gaat met de Landmacht. Bij de Landmacht draait het altijd om de mens, moeten we leren van de geschiedenis en draait het om goed leiderschap. Wat hierin de constante is, is dat we altijd moeten veranderen. Verder neemt hij ons mee in zijn legervorming. Waar loopt een commandant tegenaan en wat is nodig voor de Landmacht van nu en in de toekomst? Hij wordt hierin bijgestaan door zijn rechterhand luitenant-kolonel Mariska Kroon. Wat is haar rol hierin en hoe houdt zij de commandant scherp?</summary>
+Met niemand minder dan de commandant van de Landmacht, de luitenant-generaal Jan Swillens, gaan Anne-Marij en Deborah in gesprek over de Landmacht. Een half jaar na het uitkomen van zijn Command Message zijn ze benieuwd hoe het nu gaat met de Landmacht. Bij de Landmacht draait het altijd om de mens, moeten we leren van de geschiedenis en draait het om goed leiderschap. Wat hierin de constante is, is dat we altijd moeten veranderen. Verder neemt hij ons mee in zijn legervorming. Waar loopt een commandant tegenaan en wat is nodig voor de Landmacht van nu en in de toekomst? Hij wordt hierin bijgestaan door zijn rechterhand luitenant-kolonel Mariska Kroon. Wat is haar rol hierin en hoe houdt zij de commandant scherp?</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
