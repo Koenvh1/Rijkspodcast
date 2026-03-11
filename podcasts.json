@@ -5125,7 +5125,7 @@
         "primaryGenreName": "Non-profit",
         "releaseDate": "2024-07-15T05:00:00Z",
         "trackCensoredName": "Hallo Hannah",
-        "trackCount": 7,
+        "trackCount": 6,
         "trackExplicitness": "cleaned",
         "trackId": 1677503433,
         "trackName": "Hallo Hannah",
@@ -5133,39 +5133,6 @@
         "trackTimeMillis": 1958,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/hallo-hannah/id1677503433?uo=4",
         "wrapperType": "track"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/c5/13/44c513a5-8161-d6e9-4821-8ef92621edb3/mza_8115252633698787383.png/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/c5/13/44c513a5-8161-d6e9-4821-8ef92621edb3/mza_8115252633698787383.png/60x60bb.png",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/c5/13/44c513a5-8161-d6e9-4821-8ef92621edb3/mza_8115252633698787383.png/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1677503433,
-        "collectionName": "Hallo Hannah",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/hallo-hannah/id1677503433?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "In aflevering 6 is het bijna tot op de dag 4 jaar geleden dat we van start gingen met de podcast. Een mooi moment om terug te blikken. We zijn daarvoor in gesprek gegaan met Jessica Vuijk, werkzaam bij het programma Dialoog & Ethiek en met Eva Heijblom, directeur-generaal van het directoraat-generaal digitalisering en overheidsorganisatie. Jessica voert talloze gesprekken over morele vragen in de rijksdienst, en Eva heeft als hoogste ambtenaar de hele overheidsorganisatie in haar portefeuille. We vragen hen bijblijft van de afleveringen tot nu toe, wat ze zelf zien, horen en meemaken in de rijksdienst en wat er moet gebeuren om open gesprekken gemakkelijker te voeren. Is er iets veranderd in die vier jaar? \n\nShownotes aflevering 6: \n\nWil je met collega\u2019s in gesprek gaan over deze podcast? Handvatten voor een gesprek vind je hier: Podcast Hallo Hannah | Dialoog en ethiek\n\nDeze podcast werd gemaakt in opdracht van het Hannah Arendt Podium van de rijksoverheid, een vrijplaats om het te hebben over de dingen die je in je werk niet altijd zomaar bespreekt. Meer informatie over het Hannah Arendt Podium vind je hier: Hannah Arendt Podium. Je kunt, als je rijksambtenaar bent, ook zelf onderwerpen agenderen, dus laat vooral van je horen! \n\nZoek je een gespreksleider voor een ethisch gesprek zoals een moreel beraad? Of ben je rijksambtenaar en wil je ethische gesprekken (leren) begeleiden? Check de webpagina van Dialoog & Ethiek.\n\nDeze podcast wordt gemaakt door Firma MES, een theatercollectief gespecialiseerd in documentair en audiotheater.\n\nHet onderzoek van het Ethiek Instituut (Universiteit Utrecht) waar Jessica tijdens de aflevering aan refereert staat op de website van Dialoog & Ethiek. Het vervolgonderzoek, ook van het Ethiek Instituut, staat inmiddels ook online en gaat in op hoe opvattingen van de democratie de rol van de ambtenaar be\u00efnvloeden, de legitimiteit van publieke ambtelijke beleidskritiek en de verankering van ethiek in de rijksdienst.\n\nIn het Praktijkboek Macht en Moed vind je een praktijkwijzer Tegenspraaktechnieken met oefeningen en gespreksvormen, vanaf pagina 199. In het boek vind je ook vele andere oefeningen en gespreksvormen om morele reflectie te doen. Het boek is ook in fysieke versie te verkrijgen via de boekhandel. \n\nDe ruimte die een ambtenaar heeft om zich publiekelijk uit te spreken staat beschreven in artikel 10 van de Ambtenarenwet. Een verdere toelichting op deze wet wordt gegeven in de Vaststellingsregeling Aanwijzingen externe contacten rijksambtenaren, specifiek in aanwijzing 12, 13 en 14.\n\nHet onderwerp tegenspraak valt als thema binnen de programmadirectie Ambtelijk Vakmanschap. Onder andere het programma Dialoog & Ethiek en Ambtelijk Vakmanschap houden zich hiermee bezig. Dat is nodig omdat het in de praktijk nog niet zo gemakkelijk is om tegen te spreken of om tegenspraak te ontvangen. Lees hier meer over het programma en de verschillende onderdelen daarvan.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "https://app.springcast.fm/18041/aflevering-6-reflectie",
-        "episodeUrl": "https://app.springcast.fm/download/183153/sXNCLQIKGUjSxvdbDbYcgLRaMpuUtNyp.mp3",
-        "feedUrl": "https://app.springcast.fm/podcast-xml/18041",
-        "genres": [
-          {
-            "name": "Non-Profit",
-            "id": "1494"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://app.springcast.fm/download/183153/sXNCLQIKGUjSxvdbDbYcgLRaMpuUtNyp.mp3",
-        "releaseDate": "2026-03-11T15:00:00Z",
-        "shortDescription": "In aflevering 6 is het bijna tot op de dag 4 jaar geleden dat we van start gingen met de podcast. Een mooi moment om terug te blikken. We zijn daarvoor in gesprek gegaan met Jessica Vuijk, werkzaam bij het programma Dialoog & Ethiek en met Eva Heijblom,",
-        "trackId": 1000754675987,
-        "trackName": "Aflevering 6: Reflectie",
-        "trackTimeMillis": 2056000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/aflevering-6-reflectie/id1677503433?i=1000754675987&uo=4",
-        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -79742,9 +79709,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/60/ae/1460ae69-930b-f6e8-4255-022378de5df4/mza_4294533980699178824.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/60/ae/1460ae69-930b-f6e8-4255-022378de5df4/mza_4294533980699178824.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/60/ae/1460ae69-930b-f6e8-4255-022378de5df4/mza_4294533980699178824.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/15/95/201595f5-7e84-a9f0-419f-c1a3317921e2/mza_1673362907192520931.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/15/95/201595f5-7e84-a9f0-419f-c1a3317921e2/mza_1673362907192520931.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/20/15/95/201595f5-7e84-a9f0-419f-c1a3317921e2/mza_1673362907192520931.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1779274214,
         "collectionName": "Fiscaal Wijzer",
@@ -79775,9 +79742,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/7e/bd/fc7ebd7a-4484-4c2c-a755-0b4468d1214b/mza_18368019478068233752.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/7e/bd/fc7ebd7a-4484-4c2c-a755-0b4468d1214b/mza_18368019478068233752.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/7e/bd/fc7ebd7a-4484-4c2c-a755-0b4468d1214b/mza_18368019478068233752.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/5e/ae/c85eaeb7-998d-5899-5c10-d2305dc46a73/mza_12164304128450803490.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/5e/ae/c85eaeb7-998d-5899-5c10-d2305dc46a73/mza_12164304128450803490.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/5e/ae/c85eaeb7-998d-5899-5c10-d2305dc46a73/mza_12164304128450803490.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1779274214,
         "collectionName": "Fiscaal Wijzer",
@@ -79808,9 +79775,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/7d/0b/697d0b7d-5228-b7ed-5c5f-858d29139c42/mza_12986204897514109686.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/7d/0b/697d0b7d-5228-b7ed-5c5f-858d29139c42/mza_12986204897514109686.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/7d/0b/697d0b7d-5228-b7ed-5c5f-858d29139c42/mza_12986204897514109686.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/10/38/f010386e-9659-b02e-c627-a9448e75664b/mza_8600153514492979885.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/10/38/f010386e-9659-b02e-c627-a9448e75664b/mza_8600153514492979885.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/10/38/f010386e-9659-b02e-c627-a9448e75664b/mza_8600153514492979885.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1779274214,
         "collectionName": "Fiscaal Wijzer",
@@ -84618,7 +84585,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-02-18T11:00:00Z",
         "trackCensoredName": "Podcast #ONDERMIJNING",
-        "trackCount": 40,
+        "trackCount": 39,
         "trackExplicitness": "cleaned",
         "trackId": 1658801107,
         "trackName": "Podcast #ONDERMIJNING",
@@ -84626,39 +84593,6 @@
         "trackTimeMillis": 2728,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/podcast-ondermijning/id1658801107?uo=4",
         "wrapperType": "track"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e3/2d/b0/e32db08c-d1e0-b345-0b33-922e94fdc524/mza_8022263263807376481.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e3/2d/b0/e32db08c-d1e0-b345-0b33-922e94fdc524/mza_8022263263807376481.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e3/2d/b0/e32db08c-d1e0-b345-0b33-922e94fdc524/mza_8022263263807376481.jpg/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1658801107,
-        "collectionName": "Podcast #ONDERMIJNING",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/podcast-ondermijning/id1658801107?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "Jongeren groeien tegenwoordig op in een wereld waarin online en offline steeds meer met elkaar verweven zijn. Sociale media, online platforms en digitale communicatie spelen een grote rol in het dagelijks leven van jongeren. Hoewel deze online wereld veel kansen biedt, brengt het ook risico\u2019s en uitdagingen met zich mee. Denk bijvoorbeeld aan online\u00a0(seksuele)\u00a0intimidatie, verspreiding\u00a0van desinformatie en de invloed van sociale media op het zelfbeeld van de jongeren. Dit roept vragen op over hoe we jongeren veilig en weerbaar kunnen laten opgroeien in een digitale samenleving.\u00a0\u00a0\nIn deze aflevering gaat\u00a0Chrissie\u00a0van der Meijden in op de rol van jongeren in de\u00a0onlinewereld. Welke problemen zien we momenteel? Welke trends zijn zorgwekkend? En hoe kunnen ouders en opvoeders hier op een goede manier mee omgaan?\u00a0Chrissie\u00a0deelt haar inzichten en ervaringen en gaat in op wat de samenleving kan\u00a0doen om\u00a0jongeren beter te begeleiden in hun online leefwereld.\u00a0\u00a0\nAan tafel zitten twee leden van Team #ONDERMIJNING: Alain Meijer en BOOST-student Noortje Buitelaar. Samen gaan zij met\u00a0Chrissie\u00a0in gesprek over de uitdagingen, ontwikkelingen en mogelijke oplossingen rondom jongeren in de\u00a0onlinewereld.\u00a0\nVolg ons op:\u00a0\n\ud83d\udcf1\u00a0\u2060\u2060LinkedIn\u2060\u2060\u00a0\n\ud83d\udcf1\u00a0\u2060\u2060YouTube\u2060\u2060\u00a0\nRelevante afleveringen:\u00a0\n\ud83c\udf99\ufe0f\u00a0\u2060\u2060\u2060#28 \u2013 Ilse\u00a0van de Groep en Laura van Duin over Puberteit en Criminaliteit\u00a0\n\ud83c\udf99\ufe0f\u00a0#29\u00a0\u2013 Hanneke\u00a0Ekelmans\u00a0over Stevig Staan in deze tijd\u00a0\u00a0\n\ud83c\udf99\ufe0f\u00a0#30 \u2013 Gerard Zwarts en\u00a0Jessy\u00a0de\u00a0Pina\u00a0over het EPJO-programma\u00a0\u00a0",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "7ea0e5ee-bfb4-4221-8f2a-4b93728ee8c7",
-        "episodeUrl": "https://anchor.fm/s/d45234f4/podcast/play/116743625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-11%2F419773134-44100-2-8d5dd83bdf79f.mp3",
-        "feedUrl": "https://anchor.fm/s/d45234f4/podcast/rss",
-        "genres": [
-          {
-            "name": "Government",
-            "id": "1511"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://anchor.fm/s/d45234f4/podcast/play/116743625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-11%2F419773134-44100-2-8d5dd83bdf79f.mp3",
-        "releaseDate": "2026-03-11T11:30:00Z",
-        "shortDescription": "Jongeren groeien tegenwoordig op in een wereld waarin online en offline steeds meer met elkaar verweven zijn. Sociale media, online platforms en digitale communicatie spelen een grote rol in het dagelijks leven van jongeren. Hoewel deze online wereld ve",
-        "trackId": 1000754647727,
-        "trackName": "#39 Chrissie van der Meijden over Online Wereld",
-        "trackTimeMillis": 2857000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/39-chrissie-van-der-meijden-over-online-wereld/id1658801107?i=1000754647727&uo=4",
-        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -105694,9 +105628,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/a8/ec/39a8ecd3-6f60-ee5e-9fd9-e113b8b78998/mza_10139228655356129212.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/a8/ec/39a8ecd3-6f60-ee5e-9fd9-e113b8b78998/mza_10139228655356129212.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/a8/ec/39a8ecd3-6f60-ee5e-9fd9-e113b8b78998/mza_10139228655356129212.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/e9/1e/89e91ed1-e48e-4d66-20a0-d56de56c5de4/mza_767256511181775854.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/e9/1e/89e91ed1-e48e-4d66-20a0-d56de56c5de4/mza_767256511181775854.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/e9/1e/89e91ed1-e48e-4d66-20a0-d56de56c5de4/mza_767256511181775854.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -107773,9 +107707,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/58/f1/9d58f111-bff2-b736-63fd-48959c4eedd7/mza_8206846854681952275.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/58/f1/9d58f111-bff2-b736-63fd-48959c4eedd7/mza_8206846854681952275.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/58/f1/9d58f111-bff2-b736-63fd-48959c4eedd7/mza_8206846854681952275.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/eb/76/16eb76cf-babf-4bb4-ec64-fabfd10a1af0/mza_14317314838217537932.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/eb/76/16eb76cf-babf-4bb4-ec64-fabfd10a1af0/mza_14317314838217537932.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/16/eb/76/16eb76cf-babf-4bb4-ec64-fabfd10a1af0/mza_14317314838217537932.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -164775,12 +164709,14 @@
         "genreIds": [
           "1488",
           "26",
-          "1324"
+          "1324",
+          "1543"
         ],
         "genres": [
           "Waargebeurde misdaad",
           "Podcasts",
-          "Maatschappij en cultuur"
+          "Maatschappij en cultuur",
+          "Documentaire"
         ],
         "kind": "podcast",
         "primaryGenreName": "Waargebeurde misdaad",
@@ -202728,49 +202664,16 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
-        "releaseDate": "2026-03-11T08:10:00Z",
+        "releaseDate": "2026-03-04T08:10:00Z",
         "trackCensoredName": "AMLC podcast",
-        "trackCount": 108,
+        "trackCount": 107,
         "trackExplicitness": "cleaned",
         "trackId": 1565172628,
         "trackName": "AMLC podcast",
         "trackPrice": 0.0,
-        "trackTimeMillis": 854,
+        "trackTimeMillis": 860,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/amlc-podcast/id1565172628?uo=4",
         "wrapperType": "track"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1565172628,
-        "collectionName": "AMLC podcast",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/amlc-podcast/id1565172628?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "Artikel 75 van de Anti-Money Laundering Regulation (AMLR) markeert een belangrijk kantelpunt in de Europese witwasbestrijding. Voor het eerst worden informatiedeling, publiek-private samenwerking en privacywetgeving expliciet samengebracht op het niveau van Europese wetgeving.\nIn deze aflevering staat artikel 75 AMLR centraal. Wat mag straks wel en wat niet als het gaat om het delen van informatie tussen instellingen? Welke ruimte ontstaat er voor private samenwerking en hoe verhoudt dit zich tot de AVG? En wat betekent dit concreet voor bestaande initiatieven en nieuwe samenwerkingsvormen?\nIn deze aflevering hoor je onder andere:\nWat artikel 75 AMLR regelt en waarom dit een juridisch novum is\nHet concept van Partnerships for Information Sharing (PIFS)\nWelke vormen van informatie-uitwisseling zijn toegestaan\nDe verhouding tussen witwasbestrijding en privacybescherming\nWat dit betekent voor bestaande en toekomstige samenwerkingen\nDeze slotaflevering laat zien dat artikel 75 kansen biedt voor effectievere samenwerking, maar alleen binnen duidelijke juridische kaders. Daarmee onderstreept deze aflevering dat succesvolle witwasbestrijding vraagt om balans tussen impact, proportionaliteit en rechtsbescherming.\n\u201cDit is de eerste keer dat anti-witwasregelgeving en AVG-vereisten op wetgevingsniveau expliciet bij elkaar komen.\u201d\n\ud83c\udfa7 Met deze aflevering ronden we de serie over de AMLR en de AMLA af: een fundamentele herinrichting van de Europese aanpak van witwassen.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "3a9975a3-b133-4b4a-8763-fd02c133d01d",
-        "episodeUrl": "https://anchor.fm/s/56d70950/podcast/play/115267381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-9%2F73338255-af25-a5d3-f6c3-01db368177f7.mp3",
-        "feedUrl": "https://anchor.fm/s/56d70950/podcast/rss",
-        "genres": [
-          {
-            "name": "Government",
-            "id": "1511"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://anchor.fm/s/56d70950/podcast/play/115267381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-9%2F73338255-af25-a5d3-f6c3-01db368177f7.mp3",
-        "releaseDate": "2026-03-11T08:10:00Z",
-        "shortDescription": "Artikel 75 van de Anti-Money Laundering Regulation (AMLR) markeert een belangrijk kantelpunt in de Europese witwasbestrijding. Voor het eerst worden informatiedeling, publiek-private samenwerking en privacywetgeving expliciet samengebracht op het niveau",
-        "trackId": 1000751355574,
-        "trackName": "108. Deel 5 - Artikel 75 AMLR & informatiedeling",
-        "trackTimeMillis": 854000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/108-deel-5-artikel-75-amlr-informatiedeling/id1565172628?i=1000751355574&uo=4",
-        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
