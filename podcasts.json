@@ -119841,7 +119841,7 @@
         "primaryGenreName": "Wetenschap",
         "releaseDate": "2026-02-26T20:00:00Z",
         "trackCensoredName": "KNMI",
-        "trackCount": 16,
+        "trackCount": 17,
         "trackExplicitness": "cleaned",
         "trackId": 1710387840,
         "trackName": "KNMI",
@@ -119849,6 +119849,39 @@
         "trackTimeMillis": 1683,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/knmi/id1710387840?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1710387840,
+        "collectionName": "KNMI",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/knmi/id1710387840?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met KNMI-collega Jouke de Baar over het verzamelen van weerdata en het vinden van de relatie met natuurbranden. En hoe AI kan helpen met het maken van een impactverwachting. Ook is klimaatadviseur Lone Mokkenstorm te gast. Ze vertelt over extremen in Nederland, zoals gepubliceerd in \u2018Een Extreem Rapport\u2019. Orkaan Kirk had bijvoorbeeld over Nederland kunnen gaan. Maar ook natuurbranden in Nederland nemen toe en draagt klimaatverandering daaraan bij?\u00a0 Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl. Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de\u00a0App store of voor Android in de Play store.En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/19104/de-knmi-podcast-aflevering-7-saharazand-een-wereldprimeur-en-brandgevaarlijk-weer",
+        "episodeUrl": "https://app.springcast.fm/download/185683/vEk0u7xmDxccwMWRSMPQYPfhoclnXKTG.mp3",
+        "feedUrl": "https://app.springcast.fm/podcast-xml/19104",
+        "genres": [
+          {
+            "name": "Science",
+            "id": "1533"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://app.springcast.fm/download/185683/vEk0u7xmDxccwMWRSMPQYPfhoclnXKTG.mp3",
+        "releaseDate": "2026-03-12T15:00:00Z",
+        "shortDescription": "In deze aflevering praten Rob Sluijter en Rubert Konijn met KNMI-collega Jouke de Baar over het verzamelen van weerdata en het vinden van de relatie met natuurbranden. En hoe AI kan helpen met het maken van een impactverwachting. Ook is klimaatadviseur",
+        "trackId": 1000754867082,
+        "trackName": "De KNMI Podcast - Aflevering 7:  Saharazand, een wereldprimeur en brandgevaarlijk weer",
+        "trackTimeMillis": 1831000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-knmi-podcast-aflevering-7-saharazand-een/id1710387840?i=1000754867082&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],

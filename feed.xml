@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-12T10:41:10Z</updated>
+	<updated>2026-03-12T16:00:46Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>KNMI - De KNMI Podcast - Aflevering 7:  Saharazand, een wereldprimeur en brandgevaarlijk weer</title>
+		<link href="https://podcasts.apple.com/nl/podcast/de-knmi-podcast-aflevering-7-saharazand-een/id1710387840?i=1000754867082&amp;uo=4" rel="alternate" />
+		<summary>In deze aflevering praten Rob Sluijter en Rubert Konijn met KNMI-collega Jouke de Baar over het verzamelen van weerdata en het vinden van de relatie met natuurbranden. En hoe AI kan helpen met het maken van een impactverwachting. Ook is klimaatadviseur Lone Mokkenstorm te gast. Ze vertelt over extremen in Nederland, zoals gepubliceerd in ‘Een Extreem Rapport’. Orkaan Kirk had bijvoorbeeld over Nederland kunnen gaan. Maar ook natuurbranden in Nederland nemen toe en draagt klimaatverandering daaraan bij?  Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl. Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store of voor Android in de Play store.En volg ons op Instagram: https://www.instagram.com/knmi.nl/.</summary>
+		<author>
+			<name>KNMI</name>
+		</author>
+		<link href="https://app.springcast.fm/download/185683/vEk0u7xmDxccwMWRSMPQYPfhoclnXKTG.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000754867082</id>
+		<updated>2026-03-12T15:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Delta en Duiten - Kristel Lammers en Jacqueline van Dongen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/kristel-lammers-en-jacqueline-van-dongen/id1810408656?i=1000754789690&amp;uo=4" rel="alternate" />
