@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-19T10:42:28Z</updated>
+	<updated>2026-03-20T06:58:38Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Klapmok met Thee - #115: De HR IT transitie doen we samen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/115-de-hr-it-transitie-doen-we-samen/id1566819266?i=1000756280890&amp;uo=4" rel="alternate" />
+		<summary>In deze aflevering gaan Deborah en Anne-Marij in gesprek met Commodore Linda de Looper (Programmadirecteur HR IT Transitie) en Leontine Douma (vanuit JIVC bezig met de HR IT Transitie). Wat is HR IT? En wat is de transitie waar we in zitten? Worden we allemaal 'gesapificeerd'? Een gesprek vol energie over het creëren van beweging en het zoeken van verbinding om samen deze grote opgave tot een goed resultaat te brengen.</summary>
+		<author>
+			<name>Koninklijke Landmacht</name>
+		</author>
+		<link href="https://rss.springcast.app/nQPuGd/bkuZ4sdPG/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnQPuGd%2Fitems%2FbkuZ4sdPG%2F69bbc920341593.28334455.wav?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000756280890</id>
+		<updated>2026-03-20T05:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Echte politieverhalen - 'Ze werd met haar gezicht onder water gehouden’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ze-werd-met-haar-gezicht-onder-water-gehouden/id1751266358?i=1000756090982&amp;uo=4" rel="alternate" />
