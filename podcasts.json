@@ -79863,7 +79863,7 @@
         "primaryGenreName": "Ondernemerschap",
         "releaseDate": "2026-02-26T06:52:00Z",
         "trackCensoredName": "Fiscaal Wijzer",
-        "trackCount": 8,
+        "trackCount": 9,
         "trackExplicitness": "cleaned",
         "trackId": 1779274214,
         "trackName": "Fiscaal Wijzer",
@@ -79871,6 +79871,39 @@
         "trackTimeMillis": 1398,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/fiscaal-wijzer/id1779274214?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/05/48/610548f9-5c29-ee43-6ebd-629932c2f4df/mza_3172213333174343676.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/05/48/610548f9-5c29-ee43-6ebd-629932c2f4df/mza_3172213333174343676.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/05/48/610548f9-5c29-ee43-6ebd-629932c2f4df/mza_3172213333174343676.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1779274214,
+        "collectionName": "Fiscaal Wijzer",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/fiscaal-wijzer/id1779274214?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Een onderwerp waar veel fiscaal dienstverleners regelmatig mee te maken hebben, komt in deze aflevering van onze podcastserie Fiscaal Wijzer aan bod: de geruisloze omzetting van een IB-onderneming in een bv. Elianne Blom gaat hierover in gesprek met fiscalist Paul van Venrooij.\u00a0\n De Belastingdienst merkt regelmatig dat verzoeken niet compleet zijn of relevante informatie ontbreekt. Het gaat dan vooral mis bij ontbrekende documentatie, zoals fiscale balansen, doorzakbalansen of noodzakelijke taxaties. Ook zijn onttrekkingen vaak niet helder uitgewerkt of zijn berekeningen onjuist of niet meegestuurd. Paul legt in de podcast uit hoe u namens uw klant het verzoek voor geruisloze omzetting indient en welke stukken u \u00e9cht moet meesturen voor een compleet verzoek.\n In de podcast wordt verwezen naar de volgende internetsites:\u00a0\n    Forum Fiscaal Dienstverleners | Contactformulier\n    Geleideformulier Voorovereenkomst of intentieverklaring\n    Handreiking en checklist verzoek geruisloze omzetting onderneming in bv\n    Handreiking verzoek geruisloze inbreng van een onderneming in een bv",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "8e0b87a4-2019-5bf7-a6e6-d16108a1da07",
+        "episodeUrl": "https://rss.springcast.app/ng4uqE/Dbu61HLkd/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fng4uqE%2Fitems%2FDbu61HLkd%2F69bad18f920006.46780524.mp3?source=itms.apple.com",
+        "feedUrl": "https://rss.springcast.app/ng4uqE",
+        "genres": [
+          {
+            "name": "Entrepreneurship",
+            "id": "1493"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://rss.springcast.app/ng4uqE/Dbu61HLkd/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fng4uqE%2Fitems%2FDbu61HLkd%2F69bad18f920006.46780524.mp3?source=itms.apple.com",
+        "releaseDate": "2026-03-24T12:03:00Z",
+        "shortDescription": "Een onderwerp waar veel fiscaal dienstverleners regelmatig mee te maken hebben, komt in deze aflevering van onze podcastserie Fiscaal Wijzer aan bod: de geruisloze omzetting van een IB-onderneming in een bv. Elianne Blom gaat hierover in gesprek met fis",
+        "trackId": 1000757047871,
+        "trackName": "Geruisloze inbreng",
+        "trackTimeMillis": 1164000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/geruisloze-inbreng/id1779274214?i=1000757047871&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],

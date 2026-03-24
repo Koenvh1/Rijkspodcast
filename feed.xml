@@ -3,11 +3,28 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-24T07:06:44Z</updated>
+	<updated>2026-03-24T16:08:24Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Fiscaal Wijzer - Geruisloze inbreng</title>
+		<link href="https://podcasts.apple.com/nl/podcast/geruisloze-inbreng/id1779274214?i=1000757047871&amp;uo=4" rel="alternate" />
+		<summary>Een onderwerp waar veel fiscaal dienstverleners regelmatig mee te maken hebben, komt in deze aflevering van onze podcastserie Fiscaal Wijzer aan bod: de geruisloze omzetting van een IB-onderneming in een bv. Elianne Blom gaat hierover in gesprek met fiscalist Paul van Venrooij. 
+ De Belastingdienst merkt regelmatig dat verzoeken niet compleet zijn of relevante informatie ontbreekt. Het gaat dan vooral mis bij ontbrekende documentatie, zoals fiscale balansen, doorzakbalansen of noodzakelijke taxaties. Ook zijn onttrekkingen vaak niet helder uitgewerkt of zijn berekeningen onjuist of niet meegestuurd. Paul legt in de podcast uit hoe u namens uw klant het verzoek voor geruisloze omzetting indient en welke stukken u écht moet meesturen voor een compleet verzoek.
+ In de podcast wordt verwezen naar de volgende internetsites: 
+    Forum Fiscaal Dienstverleners | Contactformulier
+    Geleideformulier Voorovereenkomst of intentieverklaring
+    Handreiking en checklist verzoek geruisloze omzetting onderneming in bv
+    Handreiking verzoek geruisloze inbreng van een onderneming in een bv</summary>
+		<author>
+			<name>Forum Fiscaal Dienstverleners</name>
+		</author>
+		<link href="https://rss.springcast.app/ng4uqE/Dbu61HLkd/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2Fng4uqE%2Fitems%2FDbu61HLkd%2F69bad18f920006.46780524.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000757047871</id>
+		<updated>2026-03-24T12:03:00Z</updated>
+	</entry>
 	<entry>
 		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - PO Go! 2026 - 'Onderbouw!' door Jos Boerties (Hoofd Systeemtoezicht Overheid &amp; Publieke Sector bij de AP)</title>
 		<link href="https://podcasts.apple.com/nl/podcast/po-go-2026-onderbouw-door-jos-boerties-hoofd-systeemtoezicht/id1554063582?i=1000756734621&amp;uo=4" rel="alternate" />
