@@ -3,11 +3,35 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-23T07:13:32Z</updated>
+	<updated>2026-03-24T07:06:44Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - PO Go! 2026 - 'Onderbouw!' door Jos Boerties (Hoofd Systeemtoezicht Overheid &amp; Publieke Sector bij de AP)</title>
+		<link href="https://podcasts.apple.com/nl/podcast/po-go-2026-onderbouw-door-jos-boerties-hoofd-systeemtoezicht/id1554063582?i=1000756734621&amp;uo=4" rel="alternate" />
+		<summary>Op donderdag 12 maart organiseerde CIP, samen met het Privacy team van CIO Rijk, hét privacyevenement voor privacy officers (PO’s) in de publieke sector: PO Go! 2026.
+Als privacy officer ondersteun je dagelijks je bestuurder en collega's in de uitvoering bij het bereiken van doelen met inachtneming van privacy. Jos Boerties (Hoofd Systeemtoezicht Overheid &amp; Publieke Sector bij de AP) ging in zijn keynote dieper in op de dimensie Onderbouw! Sah Farooq (CPO bij de gemeente Den Haag) nam ons in haar keynote mee in het aspect Ondersteun!</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<link href="https://www.buzzsprout.com/1696126/episodes/18891436-po-go-2026-onderbouw-door-jos-boerties-hoofd-systeemtoezicht-overheid-publieke-sector-bij-de-ap.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000756734621</id>
+		<updated>2026-03-23T09:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - PO Go! 2026 - 'Ondersteun!' door Sah Farooq (CPO bij de gemeente Den Haag)</title>
+		<link href="https://podcasts.apple.com/nl/podcast/po-go-2026-ondersteun-door-sah-farooq-cpo-bij-de/id1554063582?i=1000756734562&amp;uo=4" rel="alternate" />
+		<summary>Op donderdag 12 maart organiseerde CIP, samen met het Privacy team van CIO Rijk, hét privacyevenement voor privacy officers (PO’s) in de publieke sector: PO Go! 2026.
+Als privacy officer ondersteun je dagelijks je bestuurder en collega's in de uitvoering bij het bereiken van doelen met inachtneming van privacy. Jos Boerties (Hoofd Systeemtoezicht Overheid &amp; Publieke Sector bij de AP) ging in zijn keynote dieper in op de dimensie Onderbouw! Sah Farooq (CPO bij de gemeente Den Haag) nam ons in haar keynote mee in het aspect Ondersteun!</summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<link href="https://www.buzzsprout.com/1696126/episodes/18891430-po-go-2026-ondersteun-door-sah-farooq-cpo-bij-de-gemeente-den-haag.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000756734562</id>
+		<updated>2026-03-23T09:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De kunst van transparantie - Aflevering 2: De keerzijde van transparantie</title>
 		<link href="https://podcasts.apple.com/nl/podcast/aflevering-2-de-keerzijde-van-transparantie/id1843394489?i=1000756298809&amp;uo=4" rel="alternate" />
@@ -84,15 +108,11 @@ Maar is dit wel helemaal eerlijk? Wat als je hier geen gebruik van wilt maken? O
 	<entry>
 		<title>De Publieke Ruimte - Gebiedsgericht werken</title>
 		<link href="https://podcasts.apple.com/nl/podcast/gebiedsgericht-werken/id1568120402?i=1000755716817&amp;uo=4" rel="alternate" />
-		<summary>Martijn en Otto duiken in het thema gebiedsgericht werken en doen dat aan de hand van een onderwerp dat op veel plekken leeft in ons land: netcongestie.
+		<summary>Netcongestie – de file op ons elektriciteitsnet – zet overheid en regio's klem met botsende plannen, versnipperde verantwoordelijkheden en opeenstapelende regelingen. Is dit nou vooral een capaciteitsprobleem of een organisatieprobleem?
 
-Bedrijven die willen uitbreiden maar geen stroom krijgen. Woonwijken die wachten op verduurzaming. Ondernemers die willen investeren in groen, maar vastlopen op het net.
+In deze aflevering van podcast De Publieke Ruimte gaan Martijn Grimmius en Otto Thors in gesprek met Laurens Gijsbers (Programmamanager Energiesysteem, RVO) en Elmar Naber (programmamanager ORTESE, provincie Drenthe) over een nieuwe aanpak.
 
-Netcongestie is geen toekomstscenario meer. Het is een dagelijkse realiteit — en een rem op zowel economische ontwikkeling als de energietransitie.
-
-In Emmen proberen ze dit probleem te lijf te gaan met een gebiedsgerichte aanpak. Maar wat komt daarbij kijken? Zitten alle stakeholders daar wel op te wachten? En welke positie neemt de overheid hier in? 
-
-Martijn en Otto bespreken het met Laurens Gijsbers van RVO en Elmar Naber, programmamanager ORTESE in Drenthe.</summary>
+In Emmen, Nederland in het klein, passen zij gebiedsgericht werken toe: van individuele verduurzamingsplannen naar collectieve oplossingen via energiehubs, botsproeven en gebiedsboden. Ontdek hoe deze variant van opgavegericht werken systeeminzicht creëert, cumulatieve effecten tackelt en regie brengt in een versnipperd landschap.</summary>
 		<author>
 			<name>De Publieke Ruimte</name>
 		</author>
@@ -2083,7 +2103,7 @@ https://theateraandeschie.nl/voorstelling/boeiend-on-stage
 	<entry>
 		<title>Gebruiker Centraal - De kunst van het luisteren (Direct Duidelijk Tour)</title>
 		<link href="https://podcasts.apple.com/nl/podcast/de-kunst-van-het-luisteren-direct-duidelijk-tour/id1537102972?i=1000732768188&amp;uo=4" rel="alternate" />
-		<summary>Goed luisteren is cruciaal om te weten wat er leeft onder de mensen in onze samenleving. Als je dat weet, snap je namelijk ook waarover en hoe je moet communiceren. Maar kunnen we nog wel écht goed luisteren? Waarom is dat best lastig? Goed luisteren is geen trucje dat je zomaar kunt aanleren en toepassen. Luisteren komt vooral aan op een juiste instelling en op (luister)discipline. Meer hierover leer je in deze podcast.</summary>
+		<summary>Goed luisteren is cruciaal om te weten wat er leeft onder de mensen in onze samenleving. Luisteren komt vooral aan op een juiste instelling en op (luister)discipline. Meer hierover leer je in deze podcast.</summary>
 		<author>
 			<name>Gebruiker Centraal</name>
 		</author>
