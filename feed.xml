@@ -3,11 +3,45 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-24T16:08:24Z</updated>
+	<updated>2026-03-26T07:12:18Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De veranderende rol van een informatieprofessional - Aflevering #52 met als gasten Gert Zwagerman, Daniëlle van Mourik, Etienne Mommers,  Edo Huisman en  Regina Mögelin-Melissen - De Buch</title>
+		<link href="https://podcasts.apple.com/nl/podcast/aflevering-52-met-als-gasten-gert-zwagerman-dani%C3%ABlle/id1695522129?i=1000757435677&amp;uo=4" rel="alternate" />
+		<summary>Hoe pas je het DUTO-raamwerk toe in de praktijk? In deze aflevering gaan we in gesprek met professionals van werkorganisatie De Buch over hun ervaringen in de koplopersgroep van het Nationaal Archief en wat andere organisaties daarvan kunnen leren.</summary>
+		<author>
+			<name>Leerhuis Informatiehuishouding</name>
+		</author>
+		<link href="https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/59c2fc95-6e5c-43d3-ba46-e40353dd174c.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000757435677</id>
+		<updated>2026-03-26T06:08:00Z</updated>
+	</entry>
+	<entry>
+		<title>Echte politieverhalen - ‘Ze had geen idee dat ze zwanger was’</title>
+		<link href="https://podcasts.apple.com/nl/podcast/ze-had-geen-idee-dat-ze-zwanger-was/id1751266358?i=1000757433264&amp;uo=4" rel="alternate" />
+		<summary>Barry gaat met spoed naar een bevalling waarbij het niet goed gaat met de baby en de moeder. Hij komt binnen en overal ligt bloed. Dan krijgt hij te horen dat de moeder geen idee had dat ze zwanger was. 
+
+ 
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal: @politie</summary>
+		<author>
+			<name>Politie Nederland</name>
+		</author>
+		<link href="https://app.springcast.fm/download/186807/CBiQPwulVXWiO0T2yFxKQGZB8hUKCtad.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000757433264</id>
+		<updated>2026-03-26T06:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Fiscaal Wijzer - Geruisloze inbreng</title>
 		<link href="https://podcasts.apple.com/nl/podcast/geruisloze-inbreng/id1779274214?i=1000757047871&amp;uo=4" rel="alternate" />
