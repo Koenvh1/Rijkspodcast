@@ -19293,7 +19293,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18716682",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden-rob-van-der-veer-jeroen-prinse.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19302,11 +19302,11 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden-rob-van-der-veer-jeroen-prinse.mp3",
         "releaseDate": "2026-02-23T09:00:00Z",
         "shortDescription": "In deze podcast luister je naar het gesprek dat Jeroen Prinse (voormalig CISO bij het NCSC, nu strategisch adviseur) en Rob van der Veer (Chief AI Officer bij SIG en AI standaardmaker bij ISO en de AI Act) hadden tijdens het webinar van 12 februari 2026",
         "trackId": 1000750634065,
-        "trackName": "\u200b\u200bAI & security: ervaringen en internationale standaarden\u200b",
+        "trackName": "\u200b\u200bAI & security: ervaringen en internationale standaarden\u200b (Rob van der Veer & Jeroen Prinse)",
         "trackTimeMillis": 2350000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/ai-security-ervaringen-en-internationale-standaarden/id1554063582?i=1000750634065&uo=4",
         "wrapperType": "podcastEpisode"
@@ -19359,7 +19359,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18511698",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18511698-privacy-de-cloud-in-de-praktijk-beleid.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18511698-privacy-de-cloud-in-de-praktijk-beleid-ferjan-ormeling.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19368,13 +19368,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18511698-privacy-de-cloud-in-de-praktijk-beleid.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18511698-privacy-de-cloud-in-de-praktijk-beleid-ferjan-ormeling.mp3",
         "releaseDate": "2026-01-15T08:00:00Z",
         "shortDescription": "Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de tweede aflevering van de podcastserie \u2018Privacy & de cloud in de praktijk\u2019 hebben we het met Ferjan Ormeling (Strategisch Bele",
         "trackId": 1000745264276,
-        "trackName": "Privacy & de cloud in de praktijk: beleid",
+        "trackName": "Privacy & de cloud in de praktijk: beleid (Ferjan Ormeling)",
         "trackTimeMillis": 1482000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-beleid/id1554063582?i=1000745264276&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-beleid-ferjan-ormeling/id1554063582?i=1000745264276&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -19392,7 +19392,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18511700",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18511700-privacy-de-cloud-in-de-praktijk-wetgeving.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18511700-privacy-de-cloud-in-de-praktijk-wetgeving-bas-de-natris-jacques-eding.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19401,13 +19401,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18511700-privacy-de-cloud-in-de-praktijk-wetgeving.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18511700-privacy-de-cloud-in-de-praktijk-wetgeving-bas-de-natris-jacques-eding.mp3",
         "releaseDate": "2026-01-15T08:00:00Z",
         "shortDescription": "Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de derde aflevering van de podcastserie \u2018Privacy & de cloud in de praktijk\u2019 hebben we het met Bas de Natris (Co\u00f6rdinerend Advis",
         "trackId": 1000745264261,
-        "trackName": "Privacy & de cloud in de praktijk: wetgeving",
+        "trackName": "Privacy & de cloud in de praktijk: wetgeving (Bas de Natris & Jacques Eding)",
         "trackTimeMillis": 1703000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-wetgeving/id1554063582?i=1000745264261&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-wetgeving-bas/id1554063582?i=1000745264261&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -19425,7 +19425,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18511695",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18511695-privacy-de-cloud-in-de-praktijk-veiligheid.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18511695-privacy-de-cloud-in-de-praktijk-veiligheid-bas-de-natris.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19434,13 +19434,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18511695-privacy-de-cloud-in-de-praktijk-veiligheid.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18511695-privacy-de-cloud-in-de-praktijk-veiligheid-bas-de-natris.mp3",
         "releaseDate": "2026-01-15T07:00:00Z",
         "shortDescription": "Hoe combineer je werken met \u00e9n in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de eerste aflevering van de podcastserie \u2018Privacy & de cloud in de praktijk\u2019 hebben we het met Bas de Natris (Co\u00f6rdinerend Advi",
         "trackId": 1000745264226,
-        "trackName": "Privacy & de cloud in de praktijk: veiligheid",
+        "trackName": "Privacy & de cloud in de praktijk: veiligheid (Bas de Natris)",
         "trackTimeMillis": 1881000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-veiligheid/id1554063582?i=1000745264226&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-veiligheid-bas-de-natris/id1554063582?i=1000745264226&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -19454,11 +19454,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0",
+        "description": "Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0\nDeze serie is mede mogelijk gemaakt door CIO Rijk.\nBeluister ook de andere afleveringen:\nPersoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18324331",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18324331-privacy-de-fundamenten-inzagerechten.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18324331-privacy-de-fundamenten-inzagerechten-gerrit-jan-zwenne.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19467,13 +19467,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18324331-privacy-de-fundamenten-inzagerechten.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18324331-privacy-de-fundamenten-inzagerechten-gerrit-jan-zwenne.mp3",
         "releaseDate": "2025-12-09T14:00:00Z",
         "shortDescription": "Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat",
         "trackId": 1000740420200,
-        "trackName": "Privacy, de fundamenten: Inzagerechten",
+        "trackName": "Privacy, de fundamenten: Inzagerechten (Gerrit-Jan Zwenne)",
         "trackTimeMillis": 695000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-inzagerechten/id1554063582?i=1000740420200&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-inzagerechten-gerrit-jan-zwenne/id1554063582?i=1000740420200&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -19487,11 +19487,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0",
+        "description": "Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken.\u00a0\nDeze serie is mede mogelijk gemaakt door CIO Rijk.\nBeluister ook de andere afleveringen:\nPersoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18324350",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18324350-privacy-de-fundamenten-rectificatie-en-verwijderingsverzoeken.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18324350-privacy-de-fundamenten-rectificatie-en-verwijderingsverzoeken-gerrit-jan-zwenne.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19500,11 +19500,11 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18324350-privacy-de-fundamenten-rectificatie-en-verwijderingsverzoeken.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18324350-privacy-de-fundamenten-rectificatie-en-verwijderingsverzoeken-gerrit-jan-zwenne.mp3",
         "releaseDate": "2025-12-09T14:00:00Z",
         "shortDescription": "Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? \u200b\u200bIn deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en a",
         "trackId": 1000740420171,
-        "trackName": "Privacy, de fundamenten: Rectificatie en verwijderingsverzoeken",
+        "trackName": "Privacy, de fundamenten: Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "trackTimeMillis": 777000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-rectificatie-en/id1554063582?i=1000740420171&uo=4",
         "wrapperType": "podcastEpisode"
@@ -19652,11 +19652,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "Welke uitdagingen kom je tegen als je buiten de Europese Economische Ruimte data wilt delen of laten inzien? En hoe kun je daar als privacy professional mee omgaan?\u00a0\n\u200bIn deze aflevering spreken we hierover met Marlon Domingus, Functionaris Gegevensbescherming van Erasmus Universiteit Rotterdam. \u00a0\n\u200bDeze serie is mede mogelijk gemaakt door CIO Rijk.\u200b",
+        "description": "Welke uitdagingen kom je tegen als je buiten de Europese Economische Ruimte data wilt delen of laten inzien? En hoe kun je daar als privacy professional mee omgaan?\u00a0\n\u200bIn deze aflevering spreken we hierover met Marlon Domingus, Functionaris Gegevensbescherming van Erasmus Universiteit Rotterdam. \u00a0\n\u200bDeze serie is mede mogelijk gemaakt door CIO Rijk.\u200b\nBeluister ook de andere afleveringen:\nPersoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18001278",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18001278-privacy-de-fundamenten-internationale-doorgifte-van-persoonsgegevens.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18001278-privacy-de-fundamenten-internationale-doorgifte-van-persoonsgegevens-marlon-domingus.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19665,11 +19665,11 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18001278-privacy-de-fundamenten-internationale-doorgifte-van-persoonsgegevens.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18001278-privacy-de-fundamenten-internationale-doorgifte-van-persoonsgegevens-marlon-domingus.mp3",
         "releaseDate": "2025-10-13T09:00:00Z",
         "shortDescription": "Welke uitdagingen kom je tegen als je buiten de Europese Economische Ruimte data wilt delen of laten inzien? En hoe kun je daar als privacy professional mee omgaan?\u00a0\n\u200bIn deze aflevering spreken we hierover met Marlon Domingus, Functionaris Gegevensbe",
         "trackId": 1000731576452,
-        "trackName": "Privacy, de fundamenten: Internationale doorgifte van persoonsgegevens",
+        "trackName": "Privacy, de fundamenten: Internationale doorgifte van persoonsgegevens (Marlon Domingus)",
         "trackTimeMillis": 836000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-internationale-doorgifte-van/id1554063582?i=1000731576452&uo=4",
         "wrapperType": "podcastEpisode"
@@ -19685,11 +19685,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "\u200b\u200bWat is een verwerker en een verwerkingsverantwoordelijke en wanneer ben je dat als organisatie? Zijn er praktische handvatten om vast te stellen wanneer je je kwalificeert als een van deze? En wat is een verwerkersovereenkomst en waar moet je rekening mee houden bij het opstellen daarvan?\u00a0\n\u200bIn deze aflevering wordt hierop ingegaan met Lars de Bie, Senior Inspecteur Systeemtoezicht bij Autoriteit Persoonsgegevens. \u00a0\n\u200bDeze serie is mede mogelijk gemaakt door CIO Rijk.\u200b",
+        "description": "\u200b\u200bWat is een verwerker en een verwerkingsverantwoordelijke en wanneer ben je dat als organisatie? Zijn er praktische handvatten om vast te stellen wanneer je je kwalificeert als een van deze? En wat is een verwerkersovereenkomst en waar moet je rekening mee houden bij het opstellen daarvan?\u00a0\n\u200bIn deze aflevering wordt hierop ingegaan met Lars de Bie, Senior Inspecteur Systeemtoezicht bij Autoriteit Persoonsgegevens. \u00a0\n\u200bDeze serie is mede mogelijk gemaakt door CIO Rijk.\u200b\nBeluister ook de andere afleveringen:\nPersoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-18001264",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18001264-privacy-de-fundamenten-verwerkers-en-verwerkingsverantwoordelijken.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/18001264-privacy-de-fundamenten-verwerkers-en-verwerkingsverantwoordelijken-lars-de-bie.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19698,11 +19698,11 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18001264-privacy-de-fundamenten-verwerkers-en-verwerkingsverantwoordelijken.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/18001264-privacy-de-fundamenten-verwerkers-en-verwerkingsverantwoordelijken-lars-de-bie.mp3",
         "releaseDate": "2025-10-13T09:00:00Z",
         "shortDescription": "\u200b\u200bWat is een verwerker en een verwerkingsverantwoordelijke en wanneer ben je dat als organisatie? Zijn er praktische handvatten om vast te stellen wanneer je je kwalificeert als een van deze? En wat is een verwerkersovereenkomst en waar moet je reke",
         "trackId": 1000731576312,
-        "trackName": "Privacy, de fundamenten: Verwerkers en Verwerkingsverantwoordelijken",
+        "trackName": "Privacy, de fundamenten: Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)",
         "trackTimeMillis": 672000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-verwerkers-en/id1554063582?i=1000731576312&uo=4",
         "wrapperType": "podcastEpisode"
@@ -19718,11 +19718,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "\u200bWat is een DPIA? Wat is een Pre-scan DPIA? Hoe voer je een goed gesprek over de resultaten van een DPIA? En zijn er onderwerpen waar je altijd een DPIA voor moet uitvoeren? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy Officer bij het ministerie van Infrastructuur en Waterstaat.\nDeze serie is mede mogelijk gemaakt door CIO Rijk.",
+        "description": "\u200bWat is een DPIA? Wat is een Pre-scan DPIA? Hoe voer je een goed gesprek over de resultaten van een DPIA? En zijn er onderwerpen waar je altijd een DPIA voor moet uitvoeren? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy Officer bij het ministerie van Infrastructuur en Waterstaat.\nDeze serie is mede mogelijk gemaakt door CIO Rijk.\nBeluister ook de andere afleveringen:\nPersoonsgegevens (Friederike van der Jagt)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-17556105",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556105-privacy-de-fundamenten-dpia.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556105-privacy-de-fundamenten-dpia-sulaika-mahangi.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19731,13 +19731,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556105-privacy-de-fundamenten-dpia.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556105-privacy-de-fundamenten-dpia-sulaika-mahangi.mp3",
         "releaseDate": "2025-07-24T07:00:00Z",
         "shortDescription": "\u200bWat is een DPIA? Wat is een Pre-scan DPIA? Hoe voer je een goed gesprek over de resultaten van een DPIA? En zijn er onderwerpen waar je altijd een DPIA voor moet uitvoeren? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy",
         "trackId": 1000718793015,
-        "trackName": "Privacy, de fundamenten: DPIA",
+        "trackName": "Privacy, de fundamenten: DPIA (Sulaika Mahangi)",
         "trackTimeMillis": 530000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-dpia/id1554063582?i=1000718793015&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-dpia-sulaika-mahangi/id1554063582?i=1000718793015&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -19751,11 +19751,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "\u200bWat is precies een datalek? Wat moet je doen als je een datalek ontdekt? Hoe maak je een goede inschatting van het risico? En wat is de rol van de privacy professional en de Autoriteit Persoonsgegevens? In deze aflevering wordt hierop ingegaan door Barend Bon, Senior Inspecteur Datalekken bij de Autoriteit Persoonsgegevens.\nDeze serie is mede mogelijk gemaakt door CIO Rijk.",
+        "description": "\u200bWat is precies een datalek? Wat moet je doen als je een datalek ontdekt? Hoe maak je een goede inschatting van het risico? En wat is de rol van de privacy professional en de Autoriteit Persoonsgegevens? In deze aflevering wordt hierop ingegaan door Barend Bon, Senior Inspecteur Datalekken bij de Autoriteit Persoonsgegevens.\nDeze serie is mede mogelijk gemaakt door CIO Rijk.\nBeluister ook de andere afleveringen:\nPersoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-17556113",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556113-privacy-de-fundamenten-datalekken.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556113-privacy-de-fundamenten-datalekken-barend-bon.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19764,13 +19764,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556113-privacy-de-fundamenten-datalekken.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556113-privacy-de-fundamenten-datalekken-barend-bon.mp3",
         "releaseDate": "2025-07-24T07:00:00Z",
         "shortDescription": "\u200bWat is precies een datalek? Wat moet je doen als je een datalek ontdekt? Hoe maak je een goede inschatting van het risico? En wat is de rol van de privacy professional en de Autoriteit Persoonsgegevens? In deze aflevering wordt hierop ingegaan door B",
         "trackId": 1000718793649,
-        "trackName": "Privacy, de fundamenten: Datalekken",
+        "trackName": "Privacy, de fundamenten: Datalekken (Barend Bon)",
         "trackTimeMillis": 621000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-datalekken/id1554063582?i=1000718793649&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-datalekken-barend-bon/id1554063582?i=1000718793649&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -19784,11 +19784,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "Wat zijn nou eigenlijk precies persoonsgegevens? Wat is het verschil tussen algemene persoonsgegevens en bijzondere persoonsgegevens? \u200bEn hebben recente technologische en juridische ontwikkelingen invloed gehad op de definitie van persoonsgegevens? In deze aflevering gaan we hierop in met Friederike van der Jagt, advocaat bij Hunter Legal.\u00a0\nDeze serie is mede mogelijk gemaakt door CIO Rijk.",
+        "description": "Wat zijn nou eigenlijk precies persoonsgegevens? Wat is het verschil tussen algemene persoonsgegevens en bijzondere persoonsgegevens? \u200bEn hebben recente technologische en juridische ontwikkelingen invloed gehad op de definitie van persoonsgegevens? In deze aflevering gaan we hierop in met Friederike van der Jagt, advocaat bij Hunter Legal.\u00a0\nDeze serie is mede mogelijk gemaakt door CIO Rijk.\nBeluister ook de andere afleveringen:\nDPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-17556101",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556101-privacy-de-fundamenten-persoonsgegevens.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556101-privacy-de-fundamenten-persoonsgegevens-friederike-van-der-jagt.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19797,13 +19797,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556101-privacy-de-fundamenten-persoonsgegevens.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556101-privacy-de-fundamenten-persoonsgegevens-friederike-van-der-jagt.mp3",
         "releaseDate": "2025-07-24T07:00:00Z",
         "shortDescription": "Wat zijn nou eigenlijk precies persoonsgegevens? Wat is het verschil tussen algemene persoonsgegevens en bijzondere persoonsgegevens? \u200bEn hebben recente technologische en juridische ontwikkelingen invloed gehad op de definitie van persoonsgegevens? In",
         "trackId": 1000718793431,
-        "trackName": "Privacy, de fundamenten: Persoonsgegevens",
+        "trackName": "Privacy, de fundamenten: Persoonsgegevens (Friederike van der Jagt)",
         "trackTimeMillis": 605000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-persoonsgegevens/id1554063582?i=1000718793431&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-persoonsgegevens-friederike/id1554063582?i=1000718793431&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -19817,11 +19817,11 @@
         "collectionViewUrl": "https://itunes.apple.com/nl/podcast/cip-podcasts-voor-meer-kennis-over-informatiebeveiliging/id1554063582?mt=2&uo=4",
         "contentAdvisoryRating": "Clean",
         "country": "NLD",
-        "description": "\u200bWat is een verwerkingsregister? Wat is functie van het register tijdens een incident? En wat is hierbij de rol van de Autoriteit Persoonsgegevens en de privacy professional? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy Officer bij het ministerie van Infrastructuur en Waterstaat.\nDeze serie is mede mogelijk gemaakt door CIO Rijk.",
+        "description": "\u200bWat is een verwerkingsregister? Wat is functie van het register tijdens een incident? En wat is hierbij de rol van de Autoriteit Persoonsgegevens en de privacy professional? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy Officer bij het ministerie van Infrastructuur en Waterstaat.\nDeze serie is mede mogelijk gemaakt door CIO Rijk.\nBeluister ook de andere afleveringen:\nPersoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)",
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-17556108",
-        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556108-privacy-de-fundamenten-verwerkingsregister.mp3",
+        "episodeUrl": "https://www.buzzsprout.com/1696126/episodes/17556108-privacy-de-fundamenten-verwerkingsregister-sulaika-mahangi.mp3",
         "feedUrl": "https://rss.buzzsprout.com/1696126.rss",
         "genres": [
           {
@@ -19830,13 +19830,13 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556108-privacy-de-fundamenten-verwerkingsregister.mp3",
+        "previewUrl": "https://www.buzzsprout.com/1696126/episodes/17556108-privacy-de-fundamenten-verwerkingsregister-sulaika-mahangi.mp3",
         "releaseDate": "2025-07-24T07:00:00Z",
         "shortDescription": "\u200bWat is een verwerkingsregister? Wat is functie van het register tijdens een incident? En wat is hierbij de rol van de Autoriteit Persoonsgegevens en de privacy professional? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy",
         "trackId": 1000718793203,
-        "trackName": "Privacy, de fundamenten: Verwerkingsregister",
+        "trackName": "Privacy, de fundamenten: Verwerkingsregister (Sulaika Mahangi)",
         "trackTimeMillis": 448000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-verwerkingsregister/id1554063582?i=1000718793203&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-verwerkingsregister-sulaika/id1554063582?i=1000718793203&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -217797,9 +217797,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/1c/1c/a81c1c72-1d95-3551-040b-ed4a2eb5e1f7/mza_2341319571759552036.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/1c/1c/a81c1c72-1d95-3551-040b-ed4a2eb5e1f7/mza_2341319571759552036.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/1c/1c/a81c1c72-1d95-3551-040b-ed4a2eb5e1f7/mza_2341319571759552036.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/d4/50/a5d45070-4a5b-c6d2-5faa-e72e0f5ab217/mza_1535665082945210958.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/d4/50/a5d45070-4a5b-c6d2-5faa-e72e0f5ab217/mza_1535665082945210958.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/d4/50/a5d45070-4a5b-c6d2-5faa-e72e0f5ab217/mza_1535665082945210958.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1570437574,
         "collectionName": "De top kijkt om",
