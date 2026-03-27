@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-03-27T07:11:11Z</updated>
+	<updated>2026-03-27T10:52:22Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -465,7 +465,7 @@ De aflevering maakt duidelijk dat risicobeoordeling in Europa steeds uniformer, 
 		<updated>2026-02-25T08:12:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - ​​AI &amp; security: ervaringen en internationale standaarden​ (Rob van der Veer &amp; Jeroen Prinse)</title>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - ​​AI &amp; security: ervaringen en internationale standaarden​</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ai-security-ervaringen-en-internationale-standaarden/id1554063582?i=1000750634065&amp;uo=4" rel="alternate" />
 		<summary>In deze podcast luister je naar het gesprek dat Jeroen Prinse (voormalig CISO bij het NCSC, nu strategisch adviseur) en Rob van der Veer (Chief AI Officer bij SIG en AI standaardmaker bij ISO en de AI Act) hadden tijdens het webinar van 12 februari 2026.
 We willen AI het liefst aan alles koppelen en naar onze data laten kijken, als we het kunnen vertrouwen. Want: waar gaat die data naar toe en hoe voorkomen we dat AI gemanipuleerd wordt? 
@@ -473,7 +473,7 @@ We willen AI het liefst aan alles koppelen en naar onze data laten kijken, als w
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden-rob-van-der-veer-jeroen-prinse.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18716682-ai-security-ervaringen-en-internationale-standaarden.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000750634065</id>
 		<updated>2026-02-23T09:00:00Z</updated>
 	</entry>
@@ -886,38 +886,38 @@ Contact &amp; Feedback:📧 innovatie@svb.nl🌐 svb.nl/innovatie
 		<updated>2026-01-15T18:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy &amp; de cloud in de praktijk: beleid (Ferjan Ormeling)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-beleid-ferjan-ormeling/id1554063582?i=1000745264276&amp;uo=4" rel="alternate" />
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy &amp; de cloud in de praktijk: beleid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-beleid/id1554063582?i=1000745264276&amp;uo=4" rel="alternate" />
 		<summary>Hoe combineer je werken met én in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de tweede aflevering van de podcastserie ‘Privacy &amp; de cloud in de praktijk’ hebben we het met Ferjan Ormeling (Strategisch Beleidsadviseur Cloud, CIO Rijk) onder andere over cloudbeleid, geopolitiek en samenwerken binnen de Nederlandse overheid.
 ​De podcastserie is mede mogelijk gemaakt door CIO Rijk. </summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18511698-privacy-de-cloud-in-de-praktijk-beleid-ferjan-ormeling.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18511698-privacy-de-cloud-in-de-praktijk-beleid.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000745264276</id>
 		<updated>2026-01-15T08:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy &amp; de cloud in de praktijk: wetgeving (Bas de Natris &amp; Jacques Eding)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-wetgeving-bas/id1554063582?i=1000745264261&amp;uo=4" rel="alternate" />
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy &amp; de cloud in de praktijk: wetgeving</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-wetgeving/id1554063582?i=1000745264261&amp;uo=4" rel="alternate" />
 		<summary>Hoe combineer je werken met én in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de derde aflevering van de podcastserie ‘Privacy &amp; de cloud in de praktijk’ hebben we het met Bas de Natris (Coördinerend Adviseur Cloud Security, Directie CIO Rijk) en Jacques Eding (Coördinator Privacy team CIO Rijk) onder andere over nationale en internationale regelgeving, toezicht en de verantwoordelijkheden van de CISO, CPO, CTO etc. binnen een overheidsorganisatie.
 De podcastserie is mede mogelijk gemaakt door CIO Rijk. </summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18511700-privacy-de-cloud-in-de-praktijk-wetgeving-bas-de-natris-jacques-eding.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18511700-privacy-de-cloud-in-de-praktijk-wetgeving.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000745264261</id>
 		<updated>2026-01-15T08:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy &amp; de cloud in de praktijk: veiligheid (Bas de Natris)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-veiligheid-bas-de-natris/id1554063582?i=1000745264226&amp;uo=4" rel="alternate" />
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy &amp; de cloud in de praktijk: veiligheid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-cloud-in-de-praktijk-veiligheid/id1554063582?i=1000745264226&amp;uo=4" rel="alternate" />
 		<summary>Hoe combineer je werken met én in de cloud met de bescherming van persoonsgegevens en de beveiliging van informatie? In de eerste aflevering van de podcastserie ‘Privacy &amp; de cloud in de praktijk’ hebben we het met Bas de Natris (Coördinerend Adviseur Cloud Security, Directie CIO Rijk) onder andere over risicoanalyses, ketenverantwoordelijkheid en de noodzaak van twee exitplannen.
 De podcastserie is mede mogelijk gemaakt door CIO Rijk. </summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18511695-privacy-de-cloud-in-de-praktijk-veiligheid-bas-de-natris.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18511695-privacy-de-cloud-in-de-praktijk-veiligheid.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000745264226</id>
 		<updated>2026-01-15T07:00:00Z</updated>
 	</entry>
@@ -1348,30 +1348,24 @@ Montage en geluid: Practical Media</summary>
 		<updated>2025-12-10T05:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Inzagerechten (Gerrit-Jan Zwenne)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-inzagerechten-gerrit-jan-zwenne/id1554063582?i=1000740420200&amp;uo=4" rel="alternate" />
-		<summary>Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? ​​In deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken. 
-Deze serie is mede mogelijk gemaakt door CIO Rijk.
-Beluister ook de andere afleveringen:
-Persoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</summary>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Inzagerechten</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-inzagerechten/id1554063582?i=1000740420200&amp;uo=4" rel="alternate" />
+		<summary>Wat zegt de AVG over inzagerechten? En wat betekent dit voor een organisatie en voor privacy professionals? ​​In deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken. </summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18324331-privacy-de-fundamenten-inzagerechten-gerrit-jan-zwenne.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18324331-privacy-de-fundamenten-inzagerechten.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000740420200</id>
 		<updated>2025-12-09T14:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</title>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Rectificatie en verwijderingsverzoeken</title>
 		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-rectificatie-en/id1554063582?i=1000740420171&amp;uo=4" rel="alternate" />
-		<summary>Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? ​​In deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken. 
-Deze serie is mede mogelijk gemaakt door CIO Rijk.
-Beluister ook de andere afleveringen:
-Persoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)</summary>
+		<summary>Wat zegt de AVG over rectificatie en verwijdering van persoonsgegevens? En wat betekent dit voor een organisatie en voor privacy professionals? ​​In deze aflevering wordt hier op ingegaan met Gerrit-Jan Zwenne, hoogleraar privacyrecht in Leiden en aan de Open Universiteit en advocaat partner bij Pels Rijcken. </summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18324350-privacy-de-fundamenten-rectificatie-en-verwijderingsverzoeken-gerrit-jan-zwenne.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18324350-privacy-de-fundamenten-rectificatie-en-verwijderingsverzoeken.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000740420171</id>
 		<updated>2025-12-09T14:00:00Z</updated>
 	</entry>
@@ -2302,32 +2296,28 @@ Martijn en Otto spreken erover met de directeur van WerkSaam Westfriesland Anja 
 		<updated>2025-10-13T23:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Internationale doorgifte van persoonsgegevens (Marlon Domingus)</title>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Internationale doorgifte van persoonsgegevens</title>
 		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-internationale-doorgifte-van/id1554063582?i=1000731576452&amp;uo=4" rel="alternate" />
 		<summary>Welke uitdagingen kom je tegen als je buiten de Europese Economische Ruimte data wilt delen of laten inzien? En hoe kun je daar als privacy professional mee omgaan? 
 ​In deze aflevering spreken we hierover met Marlon Domingus, Functionaris Gegevensbescherming van Erasmus Universiteit Rotterdam.  
-​Deze serie is mede mogelijk gemaakt door CIO Rijk.​
-Beluister ook de andere afleveringen:
-Persoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</summary>
+​Deze serie is mede mogelijk gemaakt door CIO Rijk.​</summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18001278-privacy-de-fundamenten-internationale-doorgifte-van-persoonsgegevens-marlon-domingus.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18001278-privacy-de-fundamenten-internationale-doorgifte-van-persoonsgegevens.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000731576452</id>
 		<updated>2025-10-13T09:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)</title>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Verwerkers en Verwerkingsverantwoordelijken</title>
 		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-verwerkers-en/id1554063582?i=1000731576312&amp;uo=4" rel="alternate" />
 		<summary>​​Wat is een verwerker en een verwerkingsverantwoordelijke en wanneer ben je dat als organisatie? Zijn er praktische handvatten om vast te stellen wanneer je je kwalificeert als een van deze? En wat is een verwerkersovereenkomst en waar moet je rekening mee houden bij het opstellen daarvan? 
 ​In deze aflevering wordt hierop ingegaan met Lars de Bie, Senior Inspecteur Systeemtoezicht bij Autoriteit Persoonsgegevens.  
-​Deze serie is mede mogelijk gemaakt door CIO Rijk.​
-Beluister ook de andere afleveringen:
-Persoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</summary>
+​Deze serie is mede mogelijk gemaakt door CIO Rijk.​</summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/18001264-privacy-de-fundamenten-verwerkers-en-verwerkingsverantwoordelijken-lars-de-bie.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/18001264-privacy-de-fundamenten-verwerkers-en-verwerkingsverantwoordelijken.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000731576312</id>
 		<updated>2025-10-13T09:00:00Z</updated>
 	</entry>
@@ -3119,58 +3109,50 @@ Meer weten? Kijk op https://www.ceg.nl/ethische-dossiers/geslachtscellen-uit-het
 		<updated>2025-07-27T23:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: DPIA (Sulaika Mahangi)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-dpia-sulaika-mahangi/id1554063582?i=1000718793015&amp;uo=4" rel="alternate" />
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: DPIA</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-dpia/id1554063582?i=1000718793015&amp;uo=4" rel="alternate" />
 		<summary>​Wat is een DPIA? Wat is een Pre-scan DPIA? Hoe voer je een goed gesprek over de resultaten van een DPIA? En zijn er onderwerpen waar je altijd een DPIA voor moet uitvoeren? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy Officer bij het ministerie van Infrastructuur en Waterstaat.
-Deze serie is mede mogelijk gemaakt door CIO Rijk.
-Beluister ook de andere afleveringen:
-Persoonsgegevens (Friederike van der Jagt)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</summary>
+Deze serie is mede mogelijk gemaakt door CIO Rijk.</summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/17556105-privacy-de-fundamenten-dpia-sulaika-mahangi.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/17556105-privacy-de-fundamenten-dpia.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000718793015</id>
 		<updated>2025-07-24T07:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Datalekken (Barend Bon)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-datalekken-barend-bon/id1554063582?i=1000718793649&amp;uo=4" rel="alternate" />
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Datalekken</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-datalekken/id1554063582?i=1000718793649&amp;uo=4" rel="alternate" />
 		<summary>​Wat is precies een datalek? Wat moet je doen als je een datalek ontdekt? Hoe maak je een goede inschatting van het risico? En wat is de rol van de privacy professional en de Autoriteit Persoonsgegevens? In deze aflevering wordt hierop ingegaan door Barend Bon, Senior Inspecteur Datalekken bij de Autoriteit Persoonsgegevens.
-Deze serie is mede mogelijk gemaakt door CIO Rijk.
-Beluister ook de andere afleveringen:
-Persoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</summary>
+Deze serie is mede mogelijk gemaakt door CIO Rijk.</summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/17556113-privacy-de-fundamenten-datalekken-barend-bon.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/17556113-privacy-de-fundamenten-datalekken.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000718793649</id>
 		<updated>2025-07-24T07:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Persoonsgegevens (Friederike van der Jagt)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-persoonsgegevens-friederike/id1554063582?i=1000718793431&amp;uo=4" rel="alternate" />
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Persoonsgegevens</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-persoonsgegevens/id1554063582?i=1000718793431&amp;uo=4" rel="alternate" />
 		<summary>Wat zijn nou eigenlijk precies persoonsgegevens? Wat is het verschil tussen algemene persoonsgegevens en bijzondere persoonsgegevens? ​En hebben recente technologische en juridische ontwikkelingen invloed gehad op de definitie van persoonsgegevens? In deze aflevering gaan we hierop in met Friederike van der Jagt, advocaat bij Hunter Legal. 
-Deze serie is mede mogelijk gemaakt door CIO Rijk.
-Beluister ook de andere afleveringen:
-DPIA (Sulaika Mahangi)Verwerkingsregister (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</summary>
+Deze serie is mede mogelijk gemaakt door CIO Rijk.</summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/17556101-privacy-de-fundamenten-persoonsgegevens-friederike-van-der-jagt.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/17556101-privacy-de-fundamenten-persoonsgegevens.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000718793431</id>
 		<updated>2025-07-24T07:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Verwerkingsregister (Sulaika Mahangi)</title>
-		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-verwerkingsregister-sulaika/id1554063582?i=1000718793203&amp;uo=4" rel="alternate" />
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Privacy, de fundamenten: Verwerkingsregister</title>
+		<link href="https://podcasts.apple.com/nl/podcast/privacy-de-fundamenten-verwerkingsregister/id1554063582?i=1000718793203&amp;uo=4" rel="alternate" />
 		<summary>​Wat is een verwerkingsregister? Wat is functie van het register tijdens een incident? En wat is hierbij de rol van de Autoriteit Persoonsgegevens en de privacy professional? In deze aflevering wordt hierop ingegaan door Sulaika Mahangi, Chief Privacy Officer bij het ministerie van Infrastructuur en Waterstaat.
-Deze serie is mede mogelijk gemaakt door CIO Rijk.
-Beluister ook de andere afleveringen:
-Persoonsgegevens (Friederike van der Jagt)DPIA (Sulaika Mahangi)Datalekken (Barend Bon)Verwerkers en Verwerkingsverantwoordelijken (Lars de Bie)Internationale doorgifte van persoonsgegevens (Marlon Domingus)Inzagerechten (Gerrit-Jan Zwenne)Rectificatie en verwijderingsverzoeken (Gerrit-Jan Zwenne)</summary>
+Deze serie is mede mogelijk gemaakt door CIO Rijk.</summary>
 		<author>
 			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
 		</author>
-		<link href="https://www.buzzsprout.com/1696126/episodes/17556108-privacy-de-fundamenten-verwerkingsregister-sulaika-mahangi.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://www.buzzsprout.com/1696126/episodes/17556108-privacy-de-fundamenten-verwerkingsregister.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000718793203</id>
 		<updated>2025-07-24T07:00:00Z</updated>
 	</entry>
