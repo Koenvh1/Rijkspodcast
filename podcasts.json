@@ -67790,7 +67790,7 @@
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-9893880",
         "episodeUrl": "https://www.buzzsprout.com/1909083/episodes/9893880-aflevering-3-kleine-zaken-klein-houden.mp3",
-        "feedUrl": "https://feeds.buzzsprout.com/1909083.rss",
+        "feedUrl": "https://rss.buzzsprout.com/1909083.rss",
         "genres": [
           {
             "name": "True Crime",
@@ -106486,9 +106486,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/94/5a/a4945a92-0e33-0ed8-df52-abac1038fe24/mza_15983598221380694381.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/94/5a/a4945a92-0e33-0ed8-df52-abac1038fe24/mza_15983598221380694381.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/94/5a/a4945a92-0e33-0ed8-df52-abac1038fe24/mza_15983598221380694381.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/47/57/8c/47578ceb-3a7c-4bd0-0978-2955fa36b272/mza_11164640717710879471.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/47/57/8c/47578ceb-3a7c-4bd0-0978-2955fa36b272/mza_11164640717710879471.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/47/57/8c/47578ceb-3a7c-4bd0-0978-2955fa36b272/mza_11164640717710879471.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -133322,9 +133322,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2e/6b/d2/2e6bd2e8-89f3-75be-1a2d-6bc18a5b0316/mza_6817884644121818691.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2e/6b/d2/2e6bd2e8-89f3-75be-1a2d-6bc18a5b0316/mza_6817884644121818691.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2e/6b/d2/2e6bd2e8-89f3-75be-1a2d-6bc18a5b0316/mza_6817884644121818691.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b6/87/12/b68712ed-d63b-3881-7edc-f55081b2c488/mza_6810867667493288561.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b6/87/12/b68712ed-d63b-3881-7edc-f55081b2c488/mza_6810867667493288561.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b6/87/12/b68712ed-d63b-3881-7edc-f55081b2c488/mza_6810867667493288561.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1474597202,
         "collectionName": "ZonMw",
