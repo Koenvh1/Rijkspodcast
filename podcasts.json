@@ -35712,7 +35712,7 @@
     "apple": "https://podcasts.apple.com/nl/podcast/de-uitvoering/id1749992120",
     "apple_data": [
       {
-        "artistName": "Het ministerie van Justitie en Veiligheid (JenV)",
+        "artistName": "Ministerie van Justitie en Veiligheid (JenV)",
         "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/7b/33/037b338f-f5ed-2517-7217-cd6133bdc2ab/mza_17762354206482021660.jpg/100x100bb.jpg",
         "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/7b/33/037b338f-f5ed-2517-7217-cd6133bdc2ab/mza_17762354206482021660.jpg/30x30bb.jpg",
         "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/7b/33/037b338f-f5ed-2517-7217-cd6133bdc2ab/mza_17762354206482021660.jpg/60x60bb.jpg",
@@ -35742,14 +35742,14 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
-        "releaseDate": "2026-01-06T05:00:00Z",
+        "releaseDate": "2026-01-20T05:00:00Z",
         "trackCensoredName": "De Uitvoering",
         "trackCount": 11,
         "trackExplicitness": "cleaned",
         "trackId": 1749992120,
         "trackName": "De Uitvoering",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1545,
+        "trackTimeMillis": 1496,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-uitvoering/id1749992120?uo=4",
         "wrapperType": "track"
       },
