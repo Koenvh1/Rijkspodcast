@@ -36,7 +36,9 @@ async function render(podcasts, sorting) {
         let newest_episode = "";
         let episodes_content = "";
         episodes.filter(e => e).forEach(e => {
-            let release_date = isApple ? new Date(e.releaseDate).toLocaleString("nl-NL") : e.release_date;
+            let release_date = isApple ? 
+                new Date(e.releaseDate).toISOString().replace("T", " ").split(".")[0] : 
+                e.release_date;
             let name = isApple ? e.trackName : e.name;
             let description = isApple ? e.description : e.description;
             let episodeUrl = isApple ? e.episodeUrl : e.external_urls.spotify;
