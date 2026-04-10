@@ -120171,7 +120171,7 @@
         "primaryGenreName": "Wetenschap",
         "releaseDate": "2026-03-26T12:44:00Z",
         "trackCensoredName": "KNMI",
-        "trackCount": 19,
+        "trackCount": 18,
         "trackExplicitness": "cleaned",
         "trackId": 1710387840,
         "trackName": "KNMI",
@@ -120179,39 +120179,6 @@
         "trackTimeMillis": 1871,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/knmi/id1710387840?uo=4",
         "wrapperType": "track"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e0/b0/96/e0b096dc-77e2-bea3-2adc-d915c7c802c3/mza_11882344186133709680.jpg/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1710387840,
-        "collectionName": "KNMI",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/knmi/id1710387840?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "In deze aflevering praten Rob Sluijter en Rubert Konijn met thermofysioloog Boris Kingma van TNO over wat hitte doet met je lichaam, niet alleen als je gaat sporten op een warme dag, maar ook als je voor je werk in een uniform buiten moet zijn. Over acclimatiseren, en hoe hittefit ben jij eigenlijk? KNMI-wetenschapper Carolina Pereira Marghidan vertelde over de nieuwe hittekracht-index: een schaal van 0 tot 10 die het KNMI lanceert op 2 juni in de KNMI-app. Wat kun je ermee en waarom is dit belangrijk? Ook belden Rob en Rubert met Nederlands kampioen op de marathon, Olympi\u00ebr (en 17de op het WK in Tokio in september 2025) Anne Luijten die jaren ervaring heeft met hardlopen in een veranderend klimaat, \u00e9n op plekken waar de temperatuur tijdens de wedstrijd flink is opgelopen. Tot slot krijgen we antwoord op de vraag: hebben de bombardementen op verschillende plekken op de wereld ook effect op het klimaat?Heb jij een vraag aan Rob en Rubert, of wil je jouw favoriete liedje in de podcast, mail dan naar info@knmi.nl.\u00a0 Met de KNMI-app ben je voorbereid op gevaarlijk weer. Download onze app voor iOS in de App store of voor Android in de Play store. En volg ons op Instagram: https://www.instagram.com/knmi.nl/.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "https://app.springcast.fm/19104/de-knmi-podcast-aflevering-9-hittekracht-wennen-aan-warmte-en-marathons-lopen",
-        "episodeUrl": "https://app.springcast.fm/download/188674/Vit9KR7gYahqv1Zfv5nOXJo1TEtaISy1.mp3",
-        "feedUrl": "https://app.springcast.fm/podcast-xml/19104",
-        "genres": [
-          {
-            "name": "Science",
-            "id": "1533"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://app.springcast.fm/download/188674/Vit9KR7gYahqv1Zfv5nOXJo1TEtaISy1.mp3",
-        "releaseDate": "2026-04-09T16:00:00Z",
-        "shortDescription": "In deze aflevering praten Rob Sluijter en Rubert Konijn met thermofysioloog Boris Kingma van TNO over wat hitte doet met je lichaam, niet alleen als je gaat sporten op een warme dag, maar ook als je voor je werk in een uniform buiten moet zijn. Over acc",
-        "trackId": 1000760487009,
-        "trackName": "De KNMI Podcast - Aflevering 9:  Hittekracht, wennen aan warmte en marathons lopen",
-        "trackTimeMillis": 2279000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-knmi-podcast-aflevering-9-hittekracht-wennen-aan/id1710387840?i=1000760487009&uo=4",
-        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
