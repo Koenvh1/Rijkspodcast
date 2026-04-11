@@ -3,11 +3,31 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-10T15:55:40Z</updated>
+	<updated>2026-04-11T10:36:53Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Innovatie Ambtenaar - Open Innovatie – met Esther Gons (Open Innovation Works)</title>
+		<link href="https://podcasts.apple.com/nl/podcast/open-innovatie-met-esther-gons-open-innovation-works/id1502281387?i=1000760691996&amp;uo=4" rel="alternate" />
+		<summary>Innoveren doe je niet alleen. Maar hoe werk je dan samen met partijen van buiten en wat levert dat eigenlijk op?
+In deze aflevering spreken Jeroen en Marijn met Esther Gons, innovatiestrateeg bij Next Amsterdam en co-auteur van het nieuwe boek Open Innovation Works. Esther helpt bedrijven en overheidsorganisaties met de vraag hoe je open innovatie niet alleen begrijpt, maar ook écht in de praktijk brengt.
+We hebben het over het verschil tussen gewone en open innovatie, waarom alignment het grootste struikelblok is, en hoe je voorkomt dat een samenwerking doodbloedt in contracten en NDA's, nog voor je ook maar één experiment hebt gedraaid.
+Esther neemt ons mee langs de verschillende 'engines' van open innovatie: van consortia en start-up accelerators tot de proof-out journey met een start-up. Ze legt uit hoe je als organisatie kiest welke vorm bij je past, en waarom leren altijd het primaire doel is, ook als je liever meteen resultaat wil zien.
+We bespreken ook hoe dit werkt binnen de overheid: waarom de SVB als ketenregisseur juist een goede positie heeft voor open innovatie, wat Platform Zero en Digicampus ons leren, en waarom 'we huren een expert in' zelden de oplossing is.
+In deze aflevering:
+Wat is open innovatie en wat is het nadrukkelijk niet?Waarom leren het hoofdproduct is van vroege innovatieDeath by contract: hoe je dat voorkomtHet dashboard uit het boek als startpunt voor alignmentHoe je stakeholders meeneemt — en welke nieuwe stakeholders open innovatie met zich meebrengtEcosysteemdenkens: de non-usual suspects in beeld brengenEsther GonsInnovatiestrateeg bij Next Amsterdam, co-auteur van The Corporate Startup, Innovation Accounting en Open Innovation Works.
+🌐 estheremmelygons.nl🌐 next.amsterdam
+Het boek🔗 openinnovation.works
+De Innovatieambtenaar is de podcast van Novum, het innovatieteam van SVB. We nemen je mee in onze projecten, thema's en de mensen die ons inspireren.</summary>
+		<author>
+			<name>Novum Innovatielab</name>
+		</author>
+		<link href="https://anchor.fm/s/1192d0e0/podcast/play/118249684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-10%2F421797551-44100-2-0cc5037f5c8a4.m4a" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000760691996</id>
+		<updated>2026-04-10T14:59:34Z</updated>
+	</entry>
 	<entry>
 		<title>KNMI - De KNMI Podcast - Aflevering 9:  Hittekracht, wennen aan warmte en marathons lopen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/de-knmi-podcast-aflevering-9-hittekracht-wennen-aan/id1710387840?i=1000760487009&amp;uo=4" rel="alternate" />
