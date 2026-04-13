@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-12T07:17:10Z</updated>
+	<updated>2026-04-13T22:45:18Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Boeiend de Podcast - Oog in oog met een moordenaar: het bijzondere verhaal van Paul Spruit</title>
+		<link href="https://podcasts.apple.com/nl/podcast/oog-in-oog-met-een-moordenaar-het-bijzondere-verhaal/id1522926580?i=1000761111574&amp;uo=4" rel="alternate" />
+		<summary>Paul Spruit zat jarenlang vast voor moord. En hij kijkt zelf anders naar die gebeurtenis dan je misschien zou verwachten. Inmiddels heeft hij zijn leven op de rit en geeft hij voorlichten op scholen. In deze aflevering van Boeiend spreken we over schuld, straf en perspectief. Over hoe één moment een leven voorgoed verandert. Niet alleen dat van het slachtoffer, maar ook dat van de dader. Want een moord kost meer levens.Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!Op de hoogte blijven van al het podcast-nieuws?Volg Niels op Instagram:https://www.instagram.com/niels_politieMeer interesse in het politiewerk? Op het YouTube kanaal @PolitieBoeiend neemt Niels je mee tijdens diensten samen met collega's.https://www.youtube.com/@PolitieBoeiendBekijk ook onze social-media:https://www.instagram.com/politie_eenheid_rotterdamhttps://www.tiktok.com/@politie_rotterdamhttps://www.facebook.com/EenheidRotterdam/https://x.com/POL_Rotterdam#politie #boeiend #politiepodcast #boeienddepodcast</summary>
+		<author>
+			<name>Politie</name>
+		</author>
+		<link href="https://anchor.fm/s/2a8edcc4/podcast/play/118342165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-12%2F421918107-44100-2-31d88a8c661ee.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000761111574</id>
+		<updated>2026-04-13T14:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Innovatie Ambtenaar - Open Innovatie – met Esther Gons (Open Innovation Works)</title>
 		<link href="https://podcasts.apple.com/nl/podcast/open-innovatie-met-esther-gons-open-innovation-works/id1502281387?i=1000760691996&amp;uo=4" rel="alternate" />
@@ -850,9 +861,9 @@ Vraag is of en hoe dit kan worden doorbroken. Met meer overheidsbetutteling en n
 		<updated>2026-02-03T00:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Verschoningsrecht</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-verschoningsrecht/id1724937331?i=1000747792930&amp;uo=4" rel="alternate" />
-		<summary>De achtste editie van Dossier WODC Live heeft plaatsgevonden bij de Erasmus Universiteit Rotterdam en ging over Dossier Verschoningsrecht. In deze editie spreekt host Sanne Noyon met hoogleraar en strafrechtadvocaat Joost Nan en onderzoeker Nina Holvast over het professioneel verschoningsrecht: het recht om niet te hoeven getuigen vanwege iemands beroep.
+		<title>Dossier WODC - Dossier WODC Live: Verschoningsrecht</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-verschoningsrecht/id1724937331?i=1000747792930&amp;uo=4" rel="alternate" />
+		<summary>De achtste editie van Dossier WODC Live heeft plaatsgevonden bij de Erasmus Universiteit Rotterdam en ging over het verschoningsrecht. In deze editie spreekt host Sanne Noyon met hoogleraar en strafrechtadvocaat Joost Nan en onderzoeker Nina Holvast over het professioneel verschoningsrecht: het recht om niet te hoeven getuigen vanwege iemands beroep.
 Bijvoorbeeld, een advocaat hoeft niet tegen zijn eigen client te getuigen in strafzaken met informatie die hij verkrijgt door zijn rol met zijn client. Hetzelfde geldt ook voor andere vertrouwensberoepen, zoals artsen en notarissen, en ook voor sommige familiebanden.
 Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze achtste editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van ⁠Dossier WODC Live⁠ en kijk wanneer we bij jouw in de buurt komen.
 Meer weten over dit onderzoek? Lees ⁠hier⁠ het volledige rapport. 
@@ -1641,6 +1652,19 @@ Fase Experimenteren: https://www.svb.nl/nl/innovatie/zelf-aan-de-slag/fase-3-exp
 		<updated>2025-12-05T06:14:00Z</updated>
 	</entry>
 	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.08 - Future of Cybersecurity | Boye Tranum | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-08-future-of-cybersecurity-boye-tranum-one-podcast/id1834627264?i=1000739650940&amp;uo=4" rel="alternate" />
+		<summary>As our world electrifies, protecting the systems that keep the lights on has never been more critical. In the final episode of The ONE Podcast, host Koen from the National Cyber Security Centre (NCSC-NL) speaks with Boye Tranum, Director of Cybersecurity at DNV, about the future of cybersecurity in the age of renewable energy. They discuss why offshore wind farms - vital to Europe’s energy transition - have become an emerging target for adversaries, and how the industry is uniting through a Joint Industry Project to strengthen operational technology (OT) security across the sector.
+From complex supply chains to long-term lifecycle risks, this episode explores how collaboration, practical guidance, and a shared commitment to resilience can secure the energy systems of tomorrow.
+This episode is based on Boye’s ONE Conference session, “OT Cybersecurity for Offshore Wind”. More information about this session can be found on: https://app.recaphub.co/one-conference-2025/content/jFc0HeA4G</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/111120200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-13%2F412398300-44100-2-1ed88630b0743.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000739650940</id>
+		<updated>2025-12-04T09:00:00Z</updated>
+	</entry>
+	<entry>
 		<title>Delta en Duiten - Gedeputeerde Arne Weverling en econome Barbara Baarsma.</title>
 		<link href="https://podcasts.apple.com/nl/podcast/gedeputeerde-arne-weverling-en-econome-barbara-baarsma/id1810408656?i=1000739636238&amp;uo=4" rel="alternate" />
 		<summary>In de seizoensafsluiting van Delta &amp; Duiten zoomt Maarten Bouwhuis in op de vraag hoe Zuid-Holland zich kan wapenen tegen een snel veranderend klimaat. Gedeputeerde Arne Weverling en econome Barbara Baarsma bespreken de kwetsbaarheid van de provincie: van het laagste punt van Nederland tot de kwetsbare glastuinbouw en het havengebied. Wat betekent een extreme regenbui voor een provincie die al onder druk staat door bodemdaling, verzilting en ruimtegebrek? En welke bestuurlijke keuzes liggen er op tafel als je tegelijk waterveiligheid, woningbouw en economische groei wilt borgen?
@@ -1745,6 +1769,17 @@ Opname en montage gedaan in eigen beheer WODC.</summary>
 		<updated>2025-11-27T11:12:07Z</updated>
 	</entry>
 	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.07 - Geopolitics | Cody Barrow | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-07-geopolitics-cody-barrow-one-podcast/id1834627264?i=1000738650101&amp;uo=4" rel="alternate" />
+		<summary>What does digital sovereignty truly mean for Europe, and why does it matter now more than ever? In this episode of The ONE Podcast, host Koen speaks with Cody Barrow, CEO of EclecticIQ, about how Europe can strengthen its digital and economic independence in an era of shifting global power. Drawing on his unique transatlantic background, Cody discusses espionage risks, dependencies on non-European infrastructure, and the need to foster innovation and risk-taking within Europe’s technology community.A timely discussion on sovereignty, strategy, and Europe’s role in the next chapter of global cybersecurity.This episode is based on Cody’s ONE Conference session, “ReArm Europe/Readiness 2030: Cyber Sovereignty Starts Now”. More information about this session can be found on: https://app.recaphub.co/one-conference-2025/content/sUmNZtSkl</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/111119927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-13%2F412397977-44100-2-0216536e0cd3a.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000738650101</id>
+		<updated>2025-11-27T09:00:00Z</updated>
+	</entry>
+	<entry>
 		<title>De veranderende rol van een informatieprofessional - Aflevering #48 met als gast Sanne Bink - Netwerk Informatiehuishouding en Openbaarmaking  (EZ/LVVN/KGG)</title>
 		<link href="https://podcasts.apple.com/nl/podcast/aflevering-48-met-als-gast-sanne-bink-netwerk-informatiehuishouding/id1695522129?i=1000738634916&amp;uo=4" rel="alternate" />
 		<summary>In deze aflevering spreken we met Sanne Bink (EZ/LVVN/KGG) over zijn unieke en warme aanpak om een groot netwerk rondom informatiehuishouding en openbaarmaking te bouwen. Van de Week van de Transparantie tot 150 betrokken professionals: een inspirerend gesprek over liefdevol organiseren, community-building en stap-voor-stap veranderen binnen de overheid.</summary>
@@ -1841,6 +1876,18 @@ Wil je meer weten over het Juridisch Loket? Kijk dan op www.juridischloket.nl <
 		<link href="https://app.springcast.fm/download/179975/jJ5P2hmSMHxe2LGbt16MjgkdILKnMxyQ.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000737651341</id>
 		<updated>2025-11-20T17:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.06 - Securing the Chain | Sanne Maasakkers | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-06-securing-the-chain-sanne-maasakkers-one-podcast/id1834627264?i=1000737567640&amp;uo=4" rel="alternate" />
+		<summary>When does security research cross paths with cyber espionage? In this episode of The ONE Podcast, host Koen speaks with Sanne Maasakkers, Senior Analyst at Mandiant (Google Cloud), about how advanced threat actors are reusing tools and techniques originally eveloped by ethical researchers. Together, they explore the blurred lines between research and exploitation, the challenges of cloud visibility, and the shared responsibility of vendors, defenders, and researchers in keeping digital supply chains secure.
+This episode is based on Sanne’s ONE Conference session, “Researchers vs. Threat Actors in Cloud Attacks”. More information about this session can be found on: https://app.recaphub.co/one-conference-2025/content/2fhJjQkhO</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/111119679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-13%2F412397776-44100-2-86f8edec2f2e7.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000737567640</id>
+		<updated>2025-11-20T09:00:00Z</updated>
 	</entry>
 	<entry>
 		<title>Delta en Duiten - Dijkgraaf Tanja Cuppen en Rabobank-directeur Alex Datema</title>
@@ -1994,6 +2041,18 @@ Timestamps:
 		<updated>2025-11-13T10:59:32Z</updated>
 	</entry>
 	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.05 - Crisis Management | Joost de Jong | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-05-crisis-management-joost-de-jong-one-podcast/id1834627264?i=1000736570981&amp;uo=4" rel="alternate" />
+		<summary>When the Eindhoven University of Technology was hit by a major cyberattack, the IT team faced a critical decision: fight the intruder or shut everything down. In this episode, host Koen speaks with Joost de Jong, CISO of TU/e, about what really happened that night. Joost takes us through the process from the first alarming alert to the bold decision to take the entire university network offline. Together they unpack the chaos, communication, and tough calls that define real-world crisis management in cybersecurity. Discover how trust, preparation, and clear priorities can make all the difference when every second counts.
+This episode is based on Joost’s ONE Conference session, Bits, Breach &amp; Besluiten: The night of the TU/e Hack”. More information about this session can be found on: https://app.recaphub.co/one-conference-2025/content/8ouh0ht8a</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/111119439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-13%2F412397323-44100-2-9fd7fce2d21c2.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000736570981</id>
+		<updated>2025-11-13T09:59:10Z</updated>
+	</entry>
+	<entry>
 		<title>Dossier WODC - Special: Slachtofferbeleid</title>
 		<link href="https://podcasts.apple.com/nl/podcast/special-slachtofferbeleid/id1724937331?i=1000736507550&amp;uo=4" rel="alternate" />
 		<summary>Vandaag wordt in het kader van 50 jaar slachtofferenquête een conferentie georganiseerd. Daar wordt teruggeblikt op hoe deze methodiek al decennia lang ons van waardevolle inzichten voorziet. Ook het WODC doet mee aan deze conferentie en heeft een actieve rol (gehad) bij onderzoek naar slachtoffers van misdrijven.In deze korte special spreekt host Rik Beerthuizen met Pien van de Ven—gepromoveerd victimoloog en begeleider van extern onderzoek bij het WODC—over het Nederlandse slachtofferbeleid binnen het strafrecht, en wat het WODC aan onderzoek daarnaar laat doen.Meer weten over onderzoek naar slachtoffers en slachtofferbeleid? Ga dan naar deze ⁠website. Voor ander onderzoek over de rechtsstaat en aanverwante thema's, ga naar ⁠www.wodc.nlOpname en montage gedaan in eigen beheer WODC.</summary>
@@ -2059,6 +2118,19 @@ Kijk voor meer informatie over de Raad voor de Kinderbescherming op www.kinderbe
 		<updated>2025-11-06T22:19:00Z</updated>
 	</entry>
 	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.04 - Law &amp; Policy | Laima Jančiūtė | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-04-law-policy-laima-jan%C4%8Di%C5%ABt%C4%97-one-podcast/id1834627264?i=1000735533389&amp;uo=4" rel="alternate" />
+		<summary>In this episode of The ONE Podcast, we explore the law and policy side of cybersecurity’s next big challenge: the transition to post-quantum cryptography (PQC). Host Koen Dansbrink speaks with Laima Jančiūtė about how the European Union is preparing for the quantum era through governance, legislation, and coordination.
+Laima explains how EU institutions and Member States are shaping the PQC transition through the European Commission’s 2024 recommendation, the upcoming EU PQC Roadmap, and national initiatives across Europe. She discusses the importance of regulatory clarity, the precautionary principle in quantum risk management, and why organizations must act now to avoid the “harvest now, decrypt later” threat.
+This episode is based on Laima’s ONE Conference session, “The governance of the PQC transition in the EU .” More information about this session can be found on: https://app.recaphub.co/one-conference-2025/content/Z8LsDnhPA</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/110432537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-30%2F410258170-44100-2-2af885b872d1b.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000735533389</id>
+		<updated>2025-11-06T09:00:00Z</updated>
+	</entry>
+	<entry>
 		<title>Podcast #ONDERMIJNING - #33 Anne-Marie Slotboom - Over Vrouwen in de Criminaliteit</title>
 		<link href="https://podcasts.apple.com/nl/podcast/33-anne-marie-slotboom-over-vrouwen-in-de-criminaliteit/id1658801107?i=1000735377485&amp;uo=4" rel="alternate" />
 		<summary>Als we denken aan criminaliteit–en zeker aan georganiseerde en zware misdaad–denken we vaak meteen aan mannen en jongens. Maar vrouwen spelen ook een rol in de wereld van criminaliteit. Hun betrokkenheid is minder zichtbaar, vaak complexer en roept vragen op waar we nog lang geen eenduidig antwoord op hebben.
@@ -2112,9 +2184,9 @@ Links uit deze uitzending:
 		<updated>2025-11-04T00:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Online Gokken</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-online-gokken/id1724937331?i=1000735122322&amp;uo=4" rel="alternate" />
-		<summary>De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over Dossier Online Gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). 
+		<title>Dossier WODC - Dossier WODC Live: Online Gokken</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-online-gokken/id1724937331?i=1000735122322&amp;uo=4" rel="alternate" />
+		<summary>De zevende editie van Dossier WODC Live heeft plaatsgevonden bij hogeschool Fontys, locatie Tilburg, en ging over online gokken. In deze editie spreekt host Olivier Hendriks met senior onderzoeker Tessel Blom van onderzoeksbureau Dialogic over wat er allemaal gebeurde nadat online gokken legaal werd via de Wet Koa (kansspelen of afstand). 
 Wist je dat wel 70% van alle online gokkers dit pas is gaan doen nadat dit legaal werd? En dat deze groei in aantal gokkers eigenlijk helemaal niet de bedoeling was?
 Wil jij op de volgende kringverjaardag met deze en andere weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zevende editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van ⁠Dossier WODC Live⁠ en kijk wanneer we bij jouw in de buurt komen.
 Meer weten over dit onderzoek? Lees ⁠hier⁠ het volledige rapport. 
@@ -2186,6 +2258,19 @@ Zang: Hadewych Minis</summary>
 		<link href="https://anchor.fm/s/59362d70/podcast/play/110481231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-31%2F410322839-44100-2-36522b2eddd4c.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000734420156</id>
 		<updated>2025-10-31T09:01:49Z</updated>
+	</entry>
+	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.03 - Power of Partnerships | Lieske | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-03-power-of-partnerships-lieske-one-podcast/id1834627264?i=1000734188400&amp;uo=4" rel="alternate" />
+		<summary>In this episode of The ONE Podcast, we speak with Lieske from National Investigations &amp; Special Operations (N.I.S.) of the Netherlands Police about Operation PowerOFF, a long-running international effort to combat DDoS-for-hire (booter) services.
+We explore the power of partnerships in fighting cybercrime, and how data-driven interventions and collaboration between law enforcement, academia, and private partners are disrupting the DDoS ecosystem — not only by taking down infrastructure, but also by reaching out to offenders before they reoffend.
+Lieske shares insights on warning letters as deterrents, the effectiveness of Google Ads and YouTube interventions, and how research helps refine prevention strategies.</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/110399297/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-29%2F410213843-44100-2-ad318bf12d3d9.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000734188400</id>
+		<updated>2025-10-30T09:00:00Z</updated>
 	</entry>
 	<entry>
 		<title>De veranderende rol van een informatieprofessional - Aflevering #47 met als gasten Gerben Kleine en Simone Hensen - Justid</title>
@@ -2280,6 +2365,22 @@ Zie voor meer informatie: https://aofondsrijk.nl/menstruatie-overgang/</summary>
 		<link href="https://rss.springcast.app/nQPuGd/ZduVBijgk/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnQPuGd%2Fitems%2FZduVBijgk%2F68f3bd7e6c3a08.94862744.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000733254726</id>
 		<updated>2025-10-24T04:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.02 - Core of Tech | Geri Revay | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-02-core-of-tech-geri-revay-one-podcast/id1834627264?i=1000733132984&amp;uo=4" rel="alternate" />
+		<summary>In this episode of The ONE Podcast, we take a deeper dive into the technical side of cybersecurity. Our guest is Geri Revay, Principal Security Researcher at Fortinet, who discusses a powerful kernel technology - eBPF (Extended Berkeley Packet Filter) - and how it’s being repurposed by malware authors.
+We explore how eBPF, originally designed to enhance performance and observability in Linux systems, is now being abused to gain stealthy, kernel-level access, evade detection, and even hide malicious activity. Geri shares insights into the real-world risks, defensive strategies, and why awareness and preparation are essential as eBPF expands from Linux into Windows environments.
+ 
+This episode is based on Geri’s ONE Conference session, “Threat From The Inside: eBPF Used by Malware.” More information about this session can be found on: https://app.recaphub.co/one-conference-2025/content/iU7N6Y5wH
+
+Connect with Geri Revay: https://www.linkedin.com/in/gergelyrevay/⁠</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/110097750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-29%2F410213729-44100-2-2b54241c5d88c.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000733132984</id>
+		<updated>2025-10-23T10:53:54Z</updated>
 	</entry>
 	<entry>
 		<title>SSR Meestervertellers - Episode 74: Ingrid Derveaux, Viktor Vadász and Margreet Blaisse - Protecting the rule of law</title>
@@ -2408,6 +2509,20 @@ Een verhelderend verkiezingsdebat over politieke zelfmoordtaken, Nationale veree
 		<link href="https://rss.springcast.app/nJwuAw/aAuZguBed/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2FaAuZguBed%2F68f4fc45baa793.87607015.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000732633097</id>
 		<updated>2025-10-20T03:54:00Z</updated>
+	</entry>
+	<entry>
+		<title>ONE Podcast - Beyond the conference - 2025.01 - Human Factor | Daniel Shore | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2025-01-human-factor-daniel-shore-one-podcast/id1834627264?i=1000732122601&amp;uo=4" rel="alternate" />
+		<summary>In this episode of the ONE Podcast we zoom in on the theme “Human Factor”.  We speak with Daniel Shore from MultiTeam Solutions about  the insights from the Dutch Cybersecurity Sector Well-Being Survey.
+If you would like to receive the research report with full results from the survey you may complete this form: https://forms.gle/fS1QLer3TtJY1YZZ9If you are interested in taking the Dutch Security Sector Well-Being Survey and contributing (anonymously) to the research, you can fill in the survey here: https://forms.office.com/e/EVGKhmDWXa
+ 
+For questions, or complimentary access to frameworks and additional tools to support individual and collective well-being, please contact Dr. Daniel Shore (Daniel@MultiTeam.solutions and "Daniel Shore, PhD" on LinkedIn). If you are experiencing stress in your work, you are not alone! You can join the Mental Health in Cybersecurity Foundation group on LinkedIn (https://www.linkedin.com/company/106402212) for access to resources and a supportive community of 250+ cybersecurity professionals. </summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/109755399/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-29%2F410213679-44100-2-b040fddd6da62.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000732122601</id>
+		<updated>2025-10-16T09:43:25Z</updated>
 	</entry>
 	<entry>
 		<title>Delta en Duiten - Jaap Slootmaker, Directeur-generaal bij Ministerie I&amp;W</title>
@@ -2977,6 +3092,20 @@ Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze z
 		<updated>2025-08-28T05:00:00Z</updated>
 	</entry>
 	<entry>
+		<title>ONE Podcast - Beyond the conference - Get to know your host | Trailer | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/get-to-know-your-host-trailer-one-podcast/id1834627264?i=1000722932479&amp;uo=4" rel="alternate" />
+		<summary>Get to know your host for the ONE Podcast.
+ONE Podcast is a series of episodes recorded at the ONE Conference. ONE Conference, Europe’s prime cybersecurity event. A leading platform for sharing knowledge, best practices and research results. This year’s edition will take place on 30 September &amp; 1 October 2025. Both days will offer a plenary programme as well as optional breakout sessions in smaller groups.
+A wide variety of topics will be addressed: from highly technical subjects such as malware detection, incident response, and law enforcement cases to less technical subjects, such as partnerships between the public and the private domain, governance and recent cybersecurity research.
+For more information visit: one-conference.nl</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/107014063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-18%2F405852515-44100-2-c764da23e647c.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000722932479</id>
+		<updated>2025-08-18T13:33:00Z</updated>
+	</entry>
+	<entry>
 		<title>De Innovatie Ambtenaar - NIM Fase 1: Opstarten - Het Fundament van Innovatiesucces</title>
 		<link href="https://podcasts.apple.com/nl/podcast/nim-fase-1-opstarten-het-fundament-van-innovatiesucces/id1502281387?i=1000722072519&amp;uo=4" rel="alternate" />
 		<summary>In deze aflevering van De Innovatieambtenaar behandelen Jeroen en Marijn de eerste fase van de Novum Innovatiemethode (NIM): Opstarten. Waarom is deze fase zo cruciaal voor het succes van innovatieprojecten?
@@ -3124,14 +3253,9 @@ Logo: Aron Vellekoop León</summary>
 		<updated>2025-08-05T02:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Meisjescriminaliteit</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-meisjescriminaliteit/id1724937331?i=1000720652198&amp;uo=4" rel="alternate" />
-		<summary>De zesde editie van Dossier WODC Live heeft plaatsgevonden op de Vrije Universiteit Amsterdam en ging over Dossier Meisjescriminaliteit. In deze editie spreekt host Olivier Hendriks met universitair hoofddocent Anne-Marie Slotboom van de Vrije Universiteit Amsterdam over meisjes en jonge vrouwen die in de criminaliteit belanden.
-Meisjes en jonge vrouwen die crimineel gedrag vertonen zijn een blinde vlek in de strafrechtketen. Ze worden minder snel als verdachte gezien, en als ze eenmaal als verdachte in beeld zijn, dan worden ze bewust of onbewust anders bejegend dan mannen. Maar waarom dan?
-Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zesde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.
-Meer weten over dit onderzoek? Lees hier het volledige rapport.
-Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nl
-Opnames op locatie verzorgd door NFGD.</summary>
+		<title>Dossier WODC - Dossier WODC Live: Meisjescriminaliteit</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-meisjescriminaliteit/id1724937331?i=1000720652198&amp;uo=4" rel="alternate" />
+		<summary>De zesde editie van Dossier WODC Live heeft plaatsgevonden op de Vrije Universiteit Amsterdam en ging over meisjescriminaliteit. In deze editie spreekt host Olivier Hendriks met universitair hoofddocent Anne-Marie Slotboom van de Vrije Universiteit Amsterdam over meisjes en jonge vrouwen die in de criminaliteit belanden.Meisjes en jonge vrouwen die crimineel gedrag vertonen zijn een blinde vlek in de strafrechtketen. Ze worden minder snel als verdachte gezien, en als ze eenmaal als verdachte in beeld zijn, dan worden ze bewust of onbewust anders bejegend dan mannen. Maar waarom dan?Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Luister dan snel naar deze zesde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees hier het volledige rapport.Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nlOpnames op locatie verzorgd door NFGD.</summary>
 		<author>
 			<name>WODC</name>
 		</author>
@@ -6248,14 +6372,9 @@ In deze aflevering ook het indringende verhaal van een vader en zijn dochter ove
 		<updated>2025-03-05T07:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Ex-Gedetineerden</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-ex-gedetineerden/id1724937331?i=1000697651015&amp;uo=4" rel="alternate" />
-		<summary>De vijfde editie van Dossier WODC Live heeft plaatsgevonden op de Universiteit Leiden en ging over Dossier Ex-Gedetineerden: Van bajes naar buiten. In deze editie spreekt host Sanne Noyon met onderzoekers Jennifer Doekhie en Anouk den Besten van de Universiteit Leiden over de terugkeer van ex-gedetineerden in de maatschappij.
-De kans op herhaling van crimineel gedrag na detentie is groot: bijna de helft van ex-gedetineerde personen komt binnen twee jaar weer met justitie in aanraking. Om recidive te verminderen wordt al geruime tijd ingezet op adequate re-integratie van ex-gedetineerde personen. Maar hoe verloopt deze begeleiding van mensen van binnen de gevangenis naar buiten?
-Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Ben je benieuwd naar hetgeen waarop wordt ingezet bij re-integratie? Of wil je weten wat er nou met wetenschappelijk onderzoek gebeurt naderhand? Luister dan snel naar deze vijfde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.
-Meer weten over dit onderzoek? Lees hier het volledige rapport.
-Voor meer onderzoek naar straffen en maatregelen, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nl
-Opnames op locatie verzorgd door NFGD.</summary>
+		<title>Dossier WODC - Dossier WODC Live: Ex-Gedetineerden</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-ex-gedetineerden/id1724937331?i=1000697651015&amp;uo=4" rel="alternate" />
+		<summary>De vijfde editie van Dossier WODC Live heeft plaatsgevonden op de Universiteit Leiden en ging over ex-gedetineerden: Van bajes naar buiten. In deze editie spreekt host Sanne Noyon met onderzoekers Jennifer Doekhie en Anouk den Besten van de Universiteit Leiden over de terugkeer van ex-gedetineerden in de maatschappij.De kans op herhaling van crimineel gedrag na detentie is groot: bijna de helft van ex-gedetineerde personen komt binnen twee jaar weer met justitie in aanraking. Om recidive te verminderen wordt al geruime tijd ingezet op adequate re-integratie van ex-gedetineerde personen. Maar hoe verloopt deze begeleiding van mensen van binnen de gevangenis naar buiten?Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Ben je benieuwd naar hetgeen waarop wordt ingezet bij re-integratie? Of wil je weten wat er nou met wetenschappelijk onderzoek gebeurt naderhand? Luister dan snel naar deze vijfde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees hier het volledige rapport.Voor meer onderzoek naar straffen en maatregelen, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nlOpnames op locatie verzorgd door NFGD.</summary>
 		<author>
 			<name>WODC</name>
 		</author>
@@ -14024,13 +14143,9 @@ Wil je meer weten over deze handreikingen of deze toepassen in je eigen gemeente
 		<updated>2024-06-28T10:09:05Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Lensvelt</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-lensvelt/id1724937331?i=1000660440514&amp;uo=4" rel="alternate" />
-		<summary>De vierde editie van Dossier WODC Live heeft niet plaatsgevonden op een universiteit, maar in het Babylon Hotel te Den Haag en ging over Dossier Lensvelt: Vijf jaar WODC. In deze editie spreekt host Sacha de Boer met scheidend WODC-directeur Gerty Lensvelt over haar tijd bij het WODC.
-Gerty trad aan als directeur vlak na de afloop van de Nieuwsuur-affaire en onder haar leiderschap heeft het instituut zichzelf heruitgevonden als kennisinstituut voor de rechtsstaat. Meer willen weten over hoe Gerty deze transitie heeft aangepakt? Of welke uitdagingen Gerty en het WODC hierbij tegenkwamen? Of meer willen weten over Gerty als persoon? Het komt allemaal aan de orde in deze aflevering van Dossier WODC Live!
-Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.
-Voor meer onderzoek naar onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nl
-Opnames op locatie verzorgd door NFGD.</summary>
+		<title>Dossier WODC - Dossier WODC Live: Lensvelt</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-lensvelt/id1724937331?i=1000660440514&amp;uo=4" rel="alternate" />
+		<summary>De vierde editie van Dossier WODC Live heeft niet plaatsgevonden op een universiteit, maar in het Babylon Hotel te Den Haag en ging over Gerty Lensvelt: vijf jaar WODC. In deze editie spreekt host Sacha de Boer met scheidend WODC-directeur Gerty Lensvelt over haar tijd bij het WODC.Gerty trad aan als directeur vlak na de afloop van de Nieuwsuur-affaire en onder haar leiderschap heeft het instituut zichzelf heruitgevonden als kennisinstituut voor de rechtsstaat. Meer willen weten over hoe Gerty deze transitie heeft aangepakt? Of welke uitdagingen Gerty en het WODC hierbij tegenkwamen? Of meer willen weten over Gerty als persoon? Het komt allemaal aan de orde in deze aflevering van Dossier WODC Live!Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Voor meer onderzoek naar onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nlOpnames op locatie verzorgd door NFGD.</summary>
 		<author>
 			<name>WODC</name>
 		</author>
@@ -15007,14 +15122,9 @@ In de podcast vertelt Maryam over haar ervaringen en eigen rol in de ontwikkelin
 		<updated>2024-05-29T02:01:00Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Straffen</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-straffen/id1724937331?i=1000657021867&amp;uo=4" rel="alternate" />
-		<summary>De derde editie van Dossier WODC Live heeft plaatsgevonden op de Radboud Universiteit Nijmegen en ging over Dossier Straffen: Nieuwe kansen, of strenger straffen bij recidive? In deze editie spreekt host Olivier Hendriks met onderzoekers Sonja Meijers en Masja van Meeteren van de Radboud Universiteit Nijmegen over strafoplegging door de rechter bij recidive.
-Het opnieuw in de fout gaan nadat je al een ernstige gewelds- of zedenmisdrijf hebt gepleegd, leidt meestal tot zwaardere bestraffing. Maar dit hoeft niet altijd zo te zijn. De rechter dient de persoonlijke situatie van de dader mee te wegen bij het bepalen van zowel de zwaarte als de duur van de straf. Het kan daardoor leiden tot anders straffen in plaats van zwaarder of langer. Daarnaast is het ethisch gezien nog maar de vraag of langer straffen na recidive wel gewenst is. Hoe komt de strafoplegging van een rechter tot stand? En waarom is het zo belangrijk om aan alle procespartijen en de samenleving uit te leggen welke factoren een rol hebben gespeeld?
-Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Ben je benieuwd naar welke overwegingen de rechter afweegt bij het opleggen van een straf? Of wil je weten wat er nou eigenlijk met onderzoek naar dit onderwerp gebeurt naderhand? Luister dan snel naar deze derde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.
-Meer weten over dit onderzoek? Lees hier het volledige rapport.
-Voor meer onderzoek naar straffen en maatregelen, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nl
-Opnames op locatie verzorgd door NFGD.</summary>
+		<title>Dossier WODC - Dossier WODC Live: Straffen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-straffen/id1724937331?i=1000657021867&amp;uo=4" rel="alternate" />
+		<summary>De derde editie van Dossier WODC Live heeft plaatsgevonden op de Radboud Universiteit Nijmegen en ging over straffen: nieuwe kansen, of strenger straffen bij recidive? In deze editie spreekt host Olivier Hendriks met onderzoekers Sonja Meijers en Masja van Meeteren van de Radboud Universiteit Nijmegen over strafoplegging door de rechter bij recidive.Het opnieuw in de fout gaan nadat je al een ernstige gewelds- of zedenmisdrijf hebt gepleegd, leidt meestal tot zwaardere bestraffing. Maar dit hoeft niet altijd zo te zijn. De rechter dient de persoonlijke situatie van de dader mee te wegen bij het bepalen van zowel de zwaarte als de duur van de straf. Het kan daardoor leiden tot anders straffen in plaats van zwaarder of langer. Daarnaast is het ethisch gezien nog maar de vraag of langer straffen na recidive wel gewenst is. Hoe komt de strafoplegging van een rechter tot stand? En waarom is het zo belangrijk om aan alle procespartijen en de samenleving uit te leggen welke factoren een rol hebben gespeeld?Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Ben je benieuwd naar welke overwegingen de rechter afweegt bij het opleggen van een straf? Of wil je weten wat er nou eigenlijk met onderzoek naar dit onderwerp gebeurt naderhand? Luister dan snel naar deze derde editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees hier het volledige rapport.Voor meer onderzoek naar straffen en maatregelen, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nlOpnames op locatie verzorgd door NFGD.</summary>
 		<author>
 			<name>WODC</name>
 		</author>
@@ -16336,14 +16446,9 @@ https://www.ftm.nl/artikelen/italiaanse-witwasbank-met-amsterdamse-contacten-ond
 		<updated>2024-04-19T13:49:47Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Top600</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-top600/id1724937331?i=1000652743557&amp;uo=4" rel="alternate" />
-		<summary>De tweede editie van Dossier WODC Live heeft plaatsgevonden bij de Vrije Universiteit Amsterdam en ging over Dossier Top600: Een effectieve aanpak? In deze editie spreekt host Sanne Noyon met onderzoeker Gijs Weijters van de WODC kennislijn Straffen en Maatregelen over de effectiviteit van de Amsterdamse Top600-aanpak. 
-Sinds 2011 krijgen ongeveer 600 veelplegers van zogeheten high impact crimes in de regio Amsterdam-Amstelland een persoonsgerichte en integrale aanpak. Bij deze Top600 is het terugdringen van recidive één van de drie doelstellingen. Het WODC onderzocht in hoeverre deze doelstelling behaald wordt. Tijdens deze editie van Dossier WODC Live gaan we dieper in op hoe je zo’n aanpak evalueert en wat dat vervolgens kan betekenen voor beleid. Spoiler alert: het blijkt dat de Top600-veelplegers niet minder recidiveren dan vergelijkbare veelplegers.
-Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Ben je benieuwd naar welke moeilijkheden er zijn bij het evalueren van de effectiviteit van interventies? Of wil je weten wat er nou eigenlijk met zo’n onderzoek gebeurt naderhand? Luister dan snel naar deze tweede editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.
-Meer weten over dit onderzoek? Lees hier het volledige rapport.
-Voor meer onderzoek naar straffen en maatregelen, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nl
-Opnames op locatie verzorgd door NFGD.</summary>
+		<title>Dossier WODC - Dossier WODC Live: Top600</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-top600/id1724937331?i=1000652743557&amp;uo=4" rel="alternate" />
+		<summary>De tweede editie van Dossier WODC Live heeft plaatsgevonden bij de Vrije Universiteit Amsterdam en ging over de Top600: een effectieve aanpak? In deze editie spreekt host Sanne Noyon met onderzoeker Gijs Weijters van de WODC kennislijn Straffen en Maatregelen over de effectiviteit van de Amsterdamse Top600-aanpak. Sinds 2011 krijgen ongeveer 600 veelplegers van zogeheten high impact crimes in de regio Amsterdam-Amstelland een persoonsgerichte en integrale aanpak. Bij deze Top600 is het terugdringen van recidive één van de drie doelstellingen. Het WODC onderzocht in hoeverre deze doelstelling behaald wordt. Tijdens deze editie van Dossier WODC Live gaan we dieper in op hoe je zo’n aanpak evalueert en wat dat vervolgens kan betekenen voor beleid. Spoiler alert: het blijkt dat de Top600-veelplegers niet minder recidiveren dan vergelijkbare veelplegers.Wil jij op de volgende kringverjaardag met leuke weetjes kunnen komen over dit onderwerp? Ben je benieuwd naar welke moeilijkheden er zijn bij het evalueren van de effectiviteit van interventies? Of wil je weten wat er nou eigenlijk met zo’n onderzoek gebeurt naderhand? Luister dan snel naar deze tweede editie van Dossier WODC Live! Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees hier het volledige rapport.Voor meer onderzoek naar straffen en maatregelen, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nlOpnames op locatie verzorgd door NFGD.</summary>
 		<author>
 			<name>WODC</name>
 		</author>
@@ -20184,14 +20289,9 @@ Ook agent worden? Kijk op kombijdepolitie.nl</summary>
 		<updated>2023-11-10T05:00:00Z</updated>
 	</entry>
 	<entry>
-		<title>Dossier WODC - Dossier WODC Live: Dossier Asiel</title>
-		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-dossier-asiel/id1724937331?i=1000641018856&amp;uo=4" rel="alternate" />
-		<summary>De eerste editie van Dossier WODC Live heeft plaatsgevonden bij de Universiteit Leiden en ging over Dossier Asiel: Van incident tot misdrijf? In deze editie spreekt host Olivier Hendriks met onderzoeker Sanne Noyon van de WODC kennislijn Asiel en Migratie over betrokkenheid bij incidenten en misdrijven onder COA-bewoners in de afgelopen vijf jaar. 
-Wat voor incidenten zijn het? Hoeveel misdrijven worden door deze groep nou echt gepleegd? En: hoe verhoudt dit zich tot de ervaringen in de maatschappij? Kleine spoiler alert: het onderzoek heeft nogal wat teweeggebracht. Samen met Sanne zullen we je meenemen door de belangrijkste resultaten en leggen we de link met wat vrijwel dagelijks speelt in de media en de maatschappij.
-Wil jij op de volgende kringverjaardag met feiten kunnen komen over dit beladen onderwerp? Wil je weten hoe beleidsonderzoek wordt uitgevoerd? Of wil je weten wat er nou eigenlijk met zo’n onderzoek gebeurt? Luister dan snel naar deze eerste editie van Dossier WODC Live! Of zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.
-Meer weten over dit onderzoek? Lees hier het volledige rapport.
-Voor meer onderzoek naar asiel en migratie, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nl
-Opnames op locatie verzorgd door NFGD.</summary>
+		<title>Dossier WODC - Dossier WODC Live: Asiel</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-asiel/id1724937331?i=1000641018856&amp;uo=4" rel="alternate" />
+		<summary>De eerste editie van Dossier WODC Live heeft plaatsgevonden bij de Universiteit Leiden en ging over onderzoek naar asielzoekers: van incident tot misdrijf? In deze editie spreekt host Olivier Hendriks met onderzoeker Sanne Noyon van de WODC kennislijn Asiel en Migratie over betrokkenheid bij incidenten en misdrijven onder COA-bewoners in de afgelopen vijf jaar. Wat voor incidenten zijn het? Hoeveel misdrijven worden door deze groep nou echt gepleegd? En: hoe verhoudt dit zich tot de ervaringen in de maatschappij? Kleine spoiler alert: het onderzoek heeft nogal wat teweeggebracht. Samen met Sanne zullen we je meenemen door de belangrijkste resultaten en leggen we de link met wat vrijwel dagelijks speelt in de media en de maatschappij.Wil jij op de volgende kringverjaardag met feiten kunnen komen over dit beladen onderwerp? Wil je weten hoe beleidsonderzoek wordt uitgevoerd? Of wil je weten wat er nou eigenlijk met zo’n onderzoek gebeurt? Luister dan snel naar deze eerste editie van Dossier WODC Live! Of zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van Dossier WODC Live en kijk wanneer we bij jouw in de buurt komen.Meer weten over dit onderzoek? Lees hier het volledige rapport.Voor meer onderzoek naar asiel en migratie, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nlOpnames op locatie verzorgd door NFGD.</summary>
 		<author>
 			<name>WODC</name>
 		</author>
