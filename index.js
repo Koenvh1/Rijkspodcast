@@ -96,7 +96,14 @@ async function render(podcasts, sorting) {
             // These results come pre-sorted
             return 0;
         } else {
-            return nlBaseCompare(p1.spotify_data.name.trim(), p2.spotify_data.name.trim());
+            let isApple1 = !!p1.apple_data;
+            let name1 = isApple1 ? p1.apple_data[0].collectionName : p1.spotify_data.name;
+            let isApple2 = !!p2.apple_data;
+            let name2 = isApple2 ? p2.apple_data[0].collectionName : p2.spotify_data.name;
+            name1 = name1.trim();
+            name2 = name2.trim();
+            
+            return nlBaseCompare(name1, name2);
         }
     });
 
