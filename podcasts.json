@@ -97437,16 +97437,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Onderwijs",
-        "releaseDate": "2026-03-05T08:54:00Z",
+        "releaseDate": "2026-04-17T12:55:00Z",
         "trackCensoredName": "Leren verbeteren podcasts",
-        "trackCount": 20,
+        "trackCount": 21,
         "trackExplicitness": "cleaned",
         "trackId": 1562352812,
         "trackName": "Leren verbeteren podcasts",
         "trackPrice": 0.0,
-        "trackTimeMillis": 2808,
+        "trackTimeMillis": 2788,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/leren-verbeteren-podcasts/id1562352812?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/d2/ca/e4d2cabb-208d-a927-74c8-46b48428fc8b/mza_1788039247518176850.jpeg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/d2/ca/e4d2cabb-208d-a927-74c8-46b48428fc8b/mza_1788039247518176850.jpeg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/d2/ca/e4d2cabb-208d-a927-74c8-46b48428fc8b/mza_1788039247518176850.jpeg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1562352812,
+        "collectionName": "Leren verbeteren podcasts",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/leren-verbeteren-podcasts/id1562352812?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "De kwaliteitsmedewerker is de afgelopen jaren een vaste waarde geworden binnen scholen en schoolbesturen. Tegelijkertijd is de rol sterk in ontwikkeling: van dataverzamelaar naar strateeg, verbinder en kritische gesprekspartner. Wat doet een kwaliteitsmedewerker precies? Welke positie is nodig om werkelijk bij te dragen aan beter onderwijs? En hoe organiseer je de kwaliteitszorg zo dat het van iedereen wordt?",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "tag:soundcloud,2010:tracks/2304327017",
+        "episodeUrl": "https://feeds.soundcloud.com/stream/2304327017-lerenverbeteren-21-ode-aan-de.mp3",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:955351393/sounds.rss",
+        "genres": [
+          {
+            "name": "Education",
+            "id": "1304"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://feeds.soundcloud.com/stream/2304327017-lerenverbeteren-21-ode-aan-de.mp3",
+        "releaseDate": "2026-04-17T12:55:13Z",
+        "shortDescription": "De kwaliteitsmedewerker is de afgelopen jaren een vaste waarde geworden binnen scholen en schoolbesturen. Tegelijkertijd is de rol sterk in ontwikkeling: van dataverzamelaar naar strateeg, verbinder en kritische gesprekspartner. Wat doet een kwaliteitsm",
+        "trackId": 1000761996671,
+        "trackName": "#21 Ode aan de kwaliteitsmedewerker",
+        "trackTimeMillis": 2788000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/21-ode-aan-de-kwaliteitsmedewerker/id1562352812?i=1000761996671&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -108532,9 +108565,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/8a/96/c18a964f-be19-8571-0999-82208fdcaca4/mza_1547779226706867005.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/8a/96/c18a964f-be19-8571-0999-82208fdcaca4/mza_1547779226706867005.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/8a/96/c18a964f-be19-8571-0999-82208fdcaca4/mza_1547779226706867005.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/64/c5/be64c555-d2f0-8818-be88-d8096044a848/mza_15217259184489053859.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/64/c5/be64c555-d2f0-8818-be88-d8096044a848/mza_15217259184489053859.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/64/c5/be64c555-d2f0-8818-be88-d8096044a848/mza_15217259184489053859.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -109027,9 +109060,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/74/6f/95746f06-a75b-8f04-4748-2331c4c48fe0/mza_6625104873619749575.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/74/6f/95746f06-a75b-8f04-4748-2331c4c48fe0/mza_6625104873619749575.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/74/6f/95746f06-a75b-8f04-4748-2331c4c48fe0/mza_6625104873619749575.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/d8/be/60d8be5d-95b0-20b2-3512-be0ac3123c88/mza_2336930736423368565.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/d8/be/60d8be5d-95b0-20b2-3512-be0ac3123c88/mza_2336930736423368565.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/d8/be/60d8be5d-95b0-20b2-3512-be0ac3123c88/mza_2336930736423368565.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -123257,7 +123290,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "bbcf7be2-bc1d-4967-9aef-4c3eb21b6420",
-        "episodeUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_06_12_12_29_21_e9f7f3c8-e6f1-4daf-8518-2498579804ab.mp3",
+        "episodeUrl": "https://content.rss.com/episodes/321830/2070249/de-noordzee-in-beweging/2025_06_12_12_29_21_e9f7f3c8-e6f1-4daf-8518-2498579804ab.mp3",
         "feedUrl": "https://media.rss.com/de-noordzee-in-beweging/feed.xml",
         "genres": [
           {
@@ -123266,7 +123299,7 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_06_12_12_29_21_e9f7f3c8-e6f1-4daf-8518-2498579804ab.mp3",
+        "previewUrl": "https://content.rss.com/episodes/321830/2070249/de-noordzee-in-beweging/2025_06_12_12_29_21_e9f7f3c8-e6f1-4daf-8518-2498579804ab.mp3",
         "releaseDate": "2025-06-19T02:00:12Z",
         "shortDescription": "In deze 4e aflevering van de podcast van de CoP Noordzee spreken we met Caroline Verwijs. Zij is directeur bij Krijn Verwijs Yerseke B.V. Sinds 1880 gespecialiseerd in het kweken van oesters en mosselen. Nog weer later werden schaaldieren zoals kreeften",
         "trackId": 1000713512464,
@@ -123290,7 +123323,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "24ccc42d-c913-43b8-90a9-cb0d38c1cb77",
-        "episodeUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_05_14_09_07_56_a7811c13-2d61-497a-9d5a-64603786e61d.mp3",
+        "episodeUrl": "https://content.rss.com/episodes/321830/2028008/de-noordzee-in-beweging/2025_05_14_09_07_56_a7811c13-2d61-497a-9d5a-64603786e61d.mp3",
         "feedUrl": "https://media.rss.com/de-noordzee-in-beweging/feed.xml",
         "genres": [
           {
@@ -123299,7 +123332,7 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_05_14_09_07_56_a7811c13-2d61-497a-9d5a-64603786e61d.mp3",
+        "previewUrl": "https://content.rss.com/episodes/321830/2028008/de-noordzee-in-beweging/2025_05_14_09_07_56_a7811c13-2d61-497a-9d5a-64603786e61d.mp3",
         "releaseDate": "2025-05-22T03:00:29Z",
         "shortDescription": "In deze 3e aflevering van de podcast van de CoP Noordzee spreken we met Christiaan van Sluis. Hij is senior projectleider en marien ecoloog bij Stichting De Noordzee, hij werkt aan het programma De Rijke Noordzee en aan Natuurversterking Noordzee.\nHij h",
         "trackId": 1000709362880,
@@ -123323,7 +123356,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "a80f2bf9-37f5-4379-811a-ae09659fec15",
-        "episodeUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_04_18_08_22_23_ca7feb4b-f591-4560-ba51-c7f2f981dbd8.mp3",
+        "episodeUrl": "https://content.rss.com/episodes/321830/1992323/de-noordzee-in-beweging/2025_04_18_08_22_23_ca7feb4b-f591-4560-ba51-c7f2f981dbd8.mp3",
         "feedUrl": "https://media.rss.com/de-noordzee-in-beweging/feed.xml",
         "genres": [
           {
@@ -123332,7 +123365,7 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_04_18_08_22_23_ca7feb4b-f591-4560-ba51-c7f2f981dbd8.mp3",
+        "previewUrl": "https://content.rss.com/episodes/321830/1992323/de-noordzee-in-beweging/2025_04_18_08_22_23_ca7feb4b-f591-4560-ba51-c7f2f981dbd8.mp3",
         "releaseDate": "2025-04-24T03:00:21Z",
         "shortDescription": "",
         "trackId": 1000704668669,
@@ -123356,7 +123389,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "3a47770a-6089-4258-bb12-01c37732ee4c",
-        "episodeUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_03_20_13_09_19_08b62e25-1ac0-47ed-b460-d2ba97486cb6.mp3",
+        "episodeUrl": "https://content.rss.com/episodes/321830/1949720/de-noordzee-in-beweging/2025_03_20_13_09_19_08b62e25-1ac0-47ed-b460-d2ba97486cb6.mp3",
         "feedUrl": "https://media.rss.com/de-noordzee-in-beweging/feed.xml",
         "genres": [
           {
@@ -123365,7 +123398,7 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://media.rss.com/de-noordzee-in-beweging/2025_03_20_13_09_19_08b62e25-1ac0-47ed-b460-d2ba97486cb6.mp3",
+        "previewUrl": "https://content.rss.com/episodes/321830/1949720/de-noordzee-in-beweging/2025_03_20_13_09_19_08b62e25-1ac0-47ed-b460-d2ba97486cb6.mp3",
         "releaseDate": "2025-03-27T04:00:42Z",
         "shortDescription": "",
         "trackId": 1000701007180,

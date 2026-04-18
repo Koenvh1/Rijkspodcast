@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-17T22:41:08Z</updated>
+	<updated>2026-04-18T10:42:20Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Leren verbeteren podcasts - #21 Ode aan de kwaliteitsmedewerker</title>
+		<link href="https://podcasts.apple.com/nl/podcast/21-ode-aan-de-kwaliteitsmedewerker/id1562352812?i=1000761996671&amp;uo=4" rel="alternate" />
+		<summary>De kwaliteitsmedewerker is de afgelopen jaren een vaste waarde geworden binnen scholen en schoolbesturen. Tegelijkertijd is de rol sterk in ontwikkeling: van dataverzamelaar naar strateeg, verbinder en kritische gesprekspartner. Wat doet een kwaliteitsmedewerker precies? Welke positie is nodig om werkelijk bij te dragen aan beter onderwijs? En hoe organiseer je de kwaliteitszorg zo dat het van iedereen wordt?</summary>
+		<author>
+			<name>Leren verbeteren</name>
+		</author>
+		<link href="https://feeds.soundcloud.com/stream/2304327017-lerenverbeteren-21-ode-aan-de.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000761996671</id>
+		<updated>2026-04-17T12:55:13Z</updated>
+	</entry>
 	<entry>
 		<title>De top kijkt om - Ik heb altijd geprobeerd het zo straight en zo transparant mogelijk te doen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-heb-altijd-geprobeerd-het-zo-straight-en-zo-transparant/id1570437574?i=1000761964922&amp;uo=4" rel="alternate" />
@@ -4071,7 +4082,7 @@ Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze z
 		<author>
 			<name>Rijksdienst voor Ondernemend Nederland (RVO)</name>
 		</author>
-		<link href="https://media.rss.com/de-noordzee-in-beweging/2025_06_12_12_29_21_e9f7f3c8-e6f1-4daf-8518-2498579804ab.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://content.rss.com/episodes/321830/2070249/de-noordzee-in-beweging/2025_06_12_12_29_21_e9f7f3c8-e6f1-4daf-8518-2498579804ab.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000713512464</id>
 		<updated>2025-06-19T02:00:12Z</updated>
 	</entry>
@@ -4693,7 +4704,7 @@ De CoP Noordzee heeft geholpen met het creëren van onderling begrip en het spre
 		<author>
 			<name>Rijksdienst voor Ondernemend Nederland (RVO)</name>
 		</author>
-		<link href="https://media.rss.com/de-noordzee-in-beweging/2025_05_14_09_07_56_a7811c13-2d61-497a-9d5a-64603786e61d.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://content.rss.com/episodes/321830/2028008/de-noordzee-in-beweging/2025_05_14_09_07_56_a7811c13-2d61-497a-9d5a-64603786e61d.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000709362880</id>
 		<updated>2025-05-22T03:00:29Z</updated>
 	</entry>
@@ -5436,7 +5447,7 @@ Link naar ons platform.</summary>
 		<author>
 			<name>Rijksdienst voor Ondernemend Nederland (RVO)</name>
 		</author>
-		<link href="https://media.rss.com/de-noordzee-in-beweging/2025_04_18_08_22_23_ca7feb4b-f591-4560-ba51-c7f2f981dbd8.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://content.rss.com/episodes/321830/1992323/de-noordzee-in-beweging/2025_04_18_08_22_23_ca7feb4b-f591-4560-ba51-c7f2f981dbd8.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000704668669</id>
 		<updated>2025-04-24T03:00:21Z</updated>
 	</entry>
@@ -5922,7 +5933,7 @@ Link naar ons platform.</summary>
 		<author>
 			<name>Rijksdienst voor Ondernemend Nederland (RVO)</name>
 		</author>
-		<link href="https://media.rss.com/de-noordzee-in-beweging/2025_03_20_13_09_19_08b62e25-1ac0-47ed-b460-d2ba97486cb6.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://content.rss.com/episodes/321830/1949720/de-noordzee-in-beweging/2025_03_20_13_09_19_08b62e25-1ac0-47ed-b460-d2ba97486cb6.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000701007180</id>
 		<updated>2025-03-27T04:00:42Z</updated>
 	</entry>
