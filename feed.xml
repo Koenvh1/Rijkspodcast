@@ -3,11 +3,27 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-20T22:45:16Z</updated>
+	<updated>2026-04-21T07:53:47Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Dossier WODC - Dossier WODC Live: Demonstratierecht (2/3)</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-demonstratierecht-2-3/id1724937331?i=1000762484261&amp;uo=4" rel="alternate" />
+		<summary>De negende editie van Dossier WODC Live heeft plaatsgevonden bij het Ministerie van Justitie en Veiligheid en ging over het demonstratierecht in Nederland. Deze editie is georganiseerd samen met het wetenschappelijk tijdschrift Justitiële Verkenningen. De bijeenkomst duurde zo lang, dat de podcast in drie delen opgeknipt moest worden. In deze tweede aflevering spreekt host Sanne Noyon met Merel Driessen van de Erasmus Universiteit Rotterdam over haar onderzoek naar het demonstratierecht.
+Moeten protesten altijd verstorend zijn? Of kunnen ze ook effectief zijn als (vreedzame) opschudding ontbreekt? En waar ligt de grens tussen burgerlijke ongehoorzaamheid en ordinair crimineel gedrag? Benieuwd naar wat Merel hierover te zeggen heeft? Luister dan snel naar deze negende editie van Dossier WODC Live!
+Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van ⁠Dossier WODC Live⁠ en kijk wanneer we bij jouw in de buurt komen.
+Meer weten over dit onderwerp? Lees ⁠hier⁠ het themanummer van Justitiële Verkenningen. 
+Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar ⁠⁠www.wodc.nl⁠
+Opnames op locatie verzorgd door NFGD.</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<link href="https://anchor.fm/s/e9f55368/podcast/play/118737063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2Fcc36338a-e432-850b-aed2-3597db6ec850.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000762484261</id>
+		<updated>2026-04-20T22:05:00Z</updated>
+	</entry>
 	<entry>
 		<title>Leren verbeteren podcasts - #21 Ode aan de kwaliteitsmedewerker</title>
 		<link href="https://podcasts.apple.com/nl/podcast/21-ode-aan-de-kwaliteitsmedewerker/id1562352812?i=1000761996671&amp;uo=4" rel="alternate" />
