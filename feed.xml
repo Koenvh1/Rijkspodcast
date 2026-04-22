@@ -3,11 +3,26 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-22T16:10:24Z</updated>
+	<updated>2026-04-22T22:51:00Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>AMLC podcast - 109. De strafbeschikking voor Louis Vuitton</title>
+		<link href="https://podcasts.apple.com/nl/podcast/109-de-strafbeschikking-voor-louis-vuitton/id1565172628?i=1000763101035&amp;uo=4" rel="alternate" />
+		<summary>In februari 2026 maakte het OM bekend dat de Nederlandse tak van Louis Vuitton een boete van een half miljoen euro kreeg voor het niet voldoen aan Wwft verplichtingen.
+In deze podcast duiken we in de zaak: hoe kon een vrouw uit Lelystad 2 miljoen euro aan crimineel geld omzetten in luxe tassen, die vervolgens naar China werden verzonden? Wat was de rol van Louis Vuitton, en waarom koos het OM voor een strafbeschikking? Met Tessa van Roomen (officier van justitie) en Inge (financieel rechercheur) bespreken we de witwasmethoden, de rol van daigou handel, en de lessen voor professionals in de witwasbestrijding.
+Belangrijkste onderwerpen:
+De witwasroute: Hoe crimineel geld via luxe aankopen en daigou handel naar China verdwijnt.De rol van Louis Vuitton: Waarom het bedrijf onvoldoende cliëntenonderzoek deed en wat de gevolgen zijn.Strafbeschikking vs. transactie: Waarom het OM koos voor een strafbeschikking en wat dat betekent voor de rechtsgang.Lessons learned: Wat professionals in de witwasbestrijding kunnen leren van deze zaak, met name over KYC, risicoprofielen, en compliance.Gasten:
+Tessa van Roomen, officier van justitie bij het Functioneel Pakket, gespecialiseerd in complexe witwas- en corruptieonderzoeken.Inge, financieel rechercheur bij de eenheid Landelijke Opsporing en Interventies – domein SOC-FinEc (Serious Organized Crime Financieel Economische Criminaliteit)</summary>
+		<author>
+			<name>AMLC/FIOD</name>
+		</author>
+		<link href="https://anchor.fm/s/56d70950/podcast/play/118569728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-17%2Fadd65db1-1738-18c9-f74c-a8482982184f.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000763101035</id>
+		<updated>2026-04-22T14:44:24Z</updated>
+	</entry>
 	<entry>
 		<title>Podcast #ONDERMIJNING - #41 - Marina Jongenotter over Dealbreakers</title>
 		<link href="https://podcasts.apple.com/nl/podcast/41-marina-jongenotter-over-dealbreakers/id1658801107?i=1000763043791&amp;uo=4" rel="alternate" />
