@@ -3,11 +3,34 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-22T22:51:00Z</updated>
+	<updated>2026-04-23T07:57:01Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Echte politieverhalen - ‘Dit was zo bizar, ik word er nog steeds stil van’</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dit-was-zo-bizar-ik-word-er-nog-steeds-stil-van/id1751266358?i=1000763194099&amp;uo=4" rel="alternate" />
+		<summary>Tuncay ziet vanuit de politiewagen een jongen druk naar hem zwaaien. Als hij aankomt ziet hij de vader van de jongen lijkbleek in een auto liggen. Tuncay begint direct met reanimeren. Samen met zijn collega gaat hij door totdat de ambulance arriveert. Zijn enige gedachte: hopelijk overleeft de man het.
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<author>
+			<name>Politie Nederland</name>
+		</author>
+		<link href="https://app.springcast.fm/download/189303/BLyhV18fe0NAhQci0DotnJAG1Lg49xi0.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000763194099</id>
+		<updated>2026-04-23T05:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>AMLC podcast - 109. De strafbeschikking voor Louis Vuitton</title>
 		<link href="https://podcasts.apple.com/nl/podcast/109-de-strafbeschikking-voor-louis-vuitton/id1565172628?i=1000763101035&amp;uo=4" rel="alternate" />
