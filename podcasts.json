@@ -218446,7 +218446,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-04-17T08:41:00Z",
         "trackCensoredName": "De top kijkt om",
-        "trackCount": 49,
+        "trackCount": 50,
         "trackExplicitness": "cleaned",
         "trackId": 1570437574,
         "trackName": "De top kijkt om",
@@ -218454,6 +218454,39 @@
         "trackTimeMillis": 4581,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-top-kijkt-om/id1570437574?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/48/88/174888e7-0091-ef15-f477-dc1e2b9ba774/mza_16487727409460286820.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/48/88/174888e7-0091-ef15-f477-dc1e2b9ba774/mza_16487727409460286820.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/48/88/174888e7-0091-ef15-f477-dc1e2b9ba774/mza_16487727409460286820.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1570437574,
+        "collectionName": "De top kijkt om",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-top-kijkt-om/id1570437574?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Frank de Grave was Eerste en Tweede Kamerlid, wethouder van Financi\u00ebn en locoburgemeester in Amsterdam, staatssecretaris, minister, voorzitter van de NZa en lid van de Afdeling advisering van de Raad van State. Als sociaal-liberaal stond hij aan de wieg van het eerste paarse kabinet. Als minister van Defensie in Paars II werkte hij aan de maatschappelijke sensitiviteit van het ministerie, nadat hij merkte dat die antenne niet goed werkte. \u201cTypisch Defensie is: \u2018Er is een probleem en wij gaan het oplossen.\u2019\u201d Besturen is een vak dat je alleen in de praktijk kunt leren, stelt hij: \u201cUiteindelijk gaat het om ervaring.\u201d",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "ef6662a0-33ae-4cc0-a768-21bcac4587ba",
+        "episodeUrl": "https://anchor.fm/s/59362d70/podcast/play/118967350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-24%2F422758962-44100-2-4c8870a8b7e55.mp3",
+        "feedUrl": "https://anchor.fm/s/59362d70/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/59362d70/podcast/play/118967350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-24%2F422758962-44100-2-4c8870a8b7e55.mp3",
+        "releaseDate": "2026-04-24T07:58:34Z",
+        "shortDescription": "Frank de Grave was Eerste en Tweede Kamerlid, wethouder van Financi\u00ebn en locoburgemeester in Amsterdam, staatssecretaris, minister, voorzitter van de NZa en lid van de Afdeling advisering van de Raad van State. Als sociaal-liberaal stond hij aan de wie",
+        "trackId": 1000763389572,
+        "trackName": "Uiteindelijk gaat het om ervaring",
+        "trackTimeMillis": 5144000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/uiteindelijk-gaat-het-om-ervaring/id1570437574?i=1000763389572&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
