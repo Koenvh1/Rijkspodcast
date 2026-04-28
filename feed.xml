@@ -3,11 +3,26 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-26T15:43:46Z</updated>
+	<updated>2026-04-28T11:47:04Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Publieke Ruimte - Maatschappelijke weerbaarheid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/maatschappelijke-weerbaarheid/id1568120402?i=1000763992493&amp;uo=4" rel="alternate" />
+		<summary>Wat betekent het voor de publieke dienstverlening als systemen uitvallen en verstoringen langer duren dan waar we op voorbereid zijn?  Over welke rampen hebben we het eigenlik? Waar ligt het kantelpunt tussen risico en crisis? Hoe bereid je een organisatie voor op langdurige ontwrichting? Wie bepaalt dan wat er in de keten prioriteit krijgt als iedereen wordt geraakt? Wat is de rol van oefeningen hierbij?
+
+Otto en Martijn spreken hierover met Don O’Floinn, hoofd van het Nationaal Crisiscentrum, die dagelijks werkt aan het duiden van dreigingen en scenario’s. Ook is Patricia Zorko te gast. Zij is plaatsvervangend directeur-generaal bij Rijkswaterstaat, verantwoordelijk voor het beheer van vitale infrastructuur. En we spreken met Remco Bakker, bestuurder bij het CIZ en voorzitter van de Rijksbrede Benchmarkgroep.
+
+Interessante inzichten over de wendbaarheid van organisaties, de mogelijkheid om van online weer terug te vallen op offline dienstverlening en de uitdaging om centrale organisaties om te klappen naar een decentrale hulpstructuur. Zaken waar niet iedereen dagelijks over nadenkt, maar dat eigenlijk wel vaker zou moeten doen. Wees voorbereid!</summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<link href="https://mcdn.podbean.com/mf/web/d6fakvz78qyyd4y3/Weerbare_Overheid_defao1ux.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000763992493</id>
+		<updated>2026-04-28T08:11:23Z</updated>
+	</entry>
 	<entry>
 		<title>De top kijkt om - Uiteindelijk gaat het om ervaring</title>
 		<link href="https://podcasts.apple.com/nl/podcast/uiteindelijk-gaat-het-om-ervaring/id1570437574?i=1000763389572&amp;uo=4" rel="alternate" />
