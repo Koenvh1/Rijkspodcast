@@ -3,11 +3,48 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-04-30T22:54:55Z</updated>
+	<updated>2026-05-01T08:13:43Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Klapmok met Thee - #118 Samen eindigen op de compound</title>
+		<link href="https://podcasts.apple.com/nl/podcast/118-samen-eindigen-op-de-compound/id1566819266?i=1000765042412&amp;uo=4" rel="alternate" />
+		<summary>Denk jij wel eens na over je laatste rustplaats? Deborah en Anne-Marij gaan in deze aflevering in gesprek met Generaal-majoor bd Nico Geerts en Brigadegeneraal Dick van Broekhoven over de Nationale Veteranenbegraafplaats. Maar uiteraard pas nadat ze zelf een rondje hebben gedaan in Loenen. Hebben ze alvast een plekje uitgezocht? 
+Alle ins en outs van de Veteranenbegraafplaats komen aan bod in deze aflevering, waaronder natuurlijk wat deze plek anders maakt dan een gewone begraafplaats. Een uitgebreide aflevering over een bijzonder onderwerp.</summary>
+		<author>
+			<name>Koninklijke Landmacht</name>
+		</author>
+		<link href="https://rss.springcast.app/nQPuGd/NPuQJtee5/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnQPuGd%2Fitems%2FNPuQJtee5%2F69f3685caee785.52062166.wav?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000765042412</id>
+		<updated>2026-05-01T04:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Delta en Duiten - Jellie Banga van Invest-NL en Margot d’Ancona van de Rabobank</title>
+		<link href="https://podcasts.apple.com/nl/podcast/jellie-banga-van-invest-nl-en-margot-dancona-van-de-rabobank/id1810408656?i=1000764636421&amp;uo=4" rel="alternate" />
+		<summary>De financiering van klimaatadaptatie is geen eenvoudig vraagstuk. Want hoewel de noodzaak breed wordt erkend, is het vaak lastig om projecten ook echt van de grond te krijgen. Wie betaalt, wie profiteert - en hoe maak je daar een sluitende businesscase van?
+In deze aflevering van Delta &amp; Duiten gaat presentator Maarten Bouwhuis in gesprek met Jellie Banga, lid van de Raad van Bestuur van Invest-NL, en Margot d’Ancona, verantwoordelijk voor water bij Rabobank. Zij praten over hoe publieke en private partijen kunnen samenwerken om investeringen in klimaat en water mogelijk te maken. Van innovatieve technologiebedrijven tot grote infrastructurele opgaven: wat is er nodig om geld in beweging te krijgen, en welke rol spelen beleid en regelgeving daarin?
+Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financiële experts, over klimaatadaptatie en over de fysieke en de financiële gevolgen hiervan.</summary>
+		<author>
+			<name>Bureau Scherpte Diepte</name>
+		</author>
+		<link href="https://media.transistor.fm/3cd791d7/65638865.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000764636421</id>
+		<updated>2026-04-30T05:15:31Z</updated>
+	</entry>
+	<entry>
+		<title>De veranderende rol van een informatieprofessional - Aflevering #53 met als gast Lars Punt en Thijs Verhagen - SZW</title>
+		<link href="https://podcasts.apple.com/nl/podcast/aflevering-53-met-als-gast-lars-punt-en-thijs-verhagen-szw/id1695522129?i=1000764634309&amp;uo=4" rel="alternate" />
+		<summary>Hoe ziet de rol van de informatieprofessional eruit in een organisatie die steeds volwassener wordt in informatiehuishouding? In deze aflevering gaat Sebo in gesprek met Lars Punt van SZW over de ontwikkeling van het vak in de praktijk. Van bewustwording naar eigenaarschap, van focus op het DMS naar een bredere blik op informatie in de hele organisatie.
+Ze bespreken hoe je informatiebeheer structureel borgt, wat er verandert nu programma’s stoppen en waarom juist nu de volgende stap begint: verankeren, verbinden en vooruitkijken.</summary>
+		<author>
+			<name>Leerhuis Informatiehuishouding</name>
+		</author>
+		<link href="https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/4e4ec351-a595-4251-b6a5-4971b9fcf227.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000764634309</id>
+		<updated>2026-04-30T05:03:00Z</updated>
+	</entry>
 	<entry>
 		<title>Digitale Zaken op tafel - De ontdekkingsreis van RDW: hoe directie en ICT samen succesvol op weg gaan</title>
 		<link href="https://podcasts.apple.com/nl/podcast/de-ontdekkingsreis-van-rdw-hoe-directie-en-ict-samen/id1720910530?i=1000764252264&amp;uo=4" rel="alternate" />
