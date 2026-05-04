@@ -3,11 +3,27 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-05-04T08:31:52Z</updated>
+	<updated>2026-05-04T22:58:20Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Dossier WODC - Dossier WODC Live: Demonstratierecht (3/3)</title>
+		<link href="https://podcasts.apple.com/nl/podcast/dossier-wodc-live-demonstratierecht-3-3/id1724937331?i=1000766126315&amp;uo=4" rel="alternate" />
+		<summary>De negende editie van Dossier WODC Live heeft plaatsgevonden bij het Ministerie van Justitie en Veiligheid en ging over het demonstratierecht in Nederland. Deze editie is georganiseerd samen met het wetenschappelijk tijdschrift Justitiële Verkenningen. De bijeenkomst duurde zo lang, dat de podcast in drie delen opgeknipt moest worden. In deze derde aflevering spreekt host Sanne Noyon met Laura Keesman van de Vrije Universiteit Amsterdam over haar onderzoek naar het demonstratierecht.
+Wist je dat er vaak vooraf overleg is tussen de politie en organisatoren van protesten? En dat dat eigenlijk in heel Europa gebeurd? Benieuwd naar wat Laura hierover te vertellen heeft? Luister dan snel naar deze negende editie van Dossier WODC Live!
+Zelf een keer aanwezig zijn bij de opnames? Ga dan naar de pagina van ⁠Dossier WODC Live⁠ en kijk wanneer we bij jouw in de buurt komen.
+Meer weten over dit onderwerp? Lees ⁠hier⁠ het themanummer van Justitiële Verkenningen. 
+Voor meer onderzoek naar dit en andere onderwerpen binnen de rechtsstaat, ga naar ⁠⁠www.wodc.nl⁠
+Opnames op locatie verzorgd door NFGD.</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<link href="https://anchor.fm/s/e9f55368/podcast/play/119459531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-4%2Fb2c2991c-e766-7280-2113-8238f607e66e.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000766126315</id>
+		<updated>2026-05-04T22:05:00Z</updated>
+	</entry>
 	<entry>
 		<title>Klapmok met Thee - #118 Samen eindigen op de compound</title>
 		<link href="https://podcasts.apple.com/nl/podcast/118-samen-eindigen-op-de-compound/id1566819266?i=1000765042412&amp;uo=4" rel="alternate" />
