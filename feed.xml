@@ -3,11 +3,29 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-05-12T17:13:02Z</updated>
+	<updated>2026-05-13T08:46:37Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Voeten in de Aarde - #11 Autonome tractors</title>
+		<link href="https://podcasts.apple.com/nl/podcast/11-autonome-tractors/id1785659013?i=1000767514542&amp;uo=4" rel="alternate" />
+		<summary>In ‘Voeten in de aarde’ hoor je over vernieuwingen in de landbouw, waarmee jij je eigen agrarische bedrijf meer toekomstbestendig kunt maken. 
+
+In deze aflevering duiken we in de wereld van autonome tractors en precisielandbouw. Om deze innovatie in de praktijk te ervaren, reist Marijke Roskam af naar Andijk, waar ze op bezoek gaat bij bloemengroothandel Ruiter-Wever. Eigenaar Stef Ruiter vertelt hoe hij met succes gebruikmaakt van zelfrijdende tractors op zijn bedrijf en welke voordelen deze technologie biedt voor zijn bedrijf!
+
+Ook spreekt Marijke met Watze van der Zee, beleidsmedewerker bij het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur. Hij legt uit hoe de overheid via de Nationale Proeftuin Precisie Landbouw inzet op het stimuleren van dit soort innovaties en wat dat betekent voor de toekomst van de sector.
+
+Wil je meer weten over autonome tractors of andere innovaties in de landbouw? Ga dan naar groeiennaarmorgen.nl
+In deze aflevering ging het onder meer over de Nationale Proeftuin Precisielandbouw. Meer hierover lees je op: proeftuinprecisielandbouw.nl </summary>
+		<author>
+			<name>Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN)</name>
+		</author>
+		<link href="https://media.transistor.fm/56e71723/d5b10043.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000767514542</id>
+		<updated>2026-05-13T04:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Fiscaal Wijzer - Internationale sociale zekerheid en belastingheffing in de aangifte IB</title>
 		<link href="https://podcasts.apple.com/nl/podcast/internationale-sociale-zekerheid-en-belastingheffing/id1779274214?i=1000767398893&amp;uo=4" rel="alternate" />
@@ -391,7 +409,7 @@ Opnames op locatie verzorgd door NFGD.</summary>
 		<author>
 			<name>WODC</name>
 		</author>
-		<link href="https://anchor.fm/s/e9f55368/podcast/play/118375146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2F8bd7bc68-bce8-ce39-c1a3-29c0694b19ac.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://anchor.fm/s/e9f55368/podcast/play/118375146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-13%2F738798a9-aa39-4f2a-db5a-7bc8ae63c4df.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000761193087</id>
 		<updated>2026-04-13T22:05:00Z</updated>
 	</entry>
