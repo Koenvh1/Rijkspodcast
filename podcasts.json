@@ -225968,7 +225968,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-04-16T10:47:00Z",
         "trackCensoredName": "De kunst van transparantie",
-        "trackCount": 3,
+        "trackCount": 4,
         "trackExplicitness": "cleaned",
         "trackId": 1843394489,
         "trackName": "De kunst van transparantie",
@@ -225976,6 +225976,39 @@
         "trackTimeMillis": 2558,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-kunst-van-transparantie/id1843394489?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/4f/26/c14f26a9-a71c-f050-ba05-d5fe150ae5be/mza_2116676375925934787.png/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/4f/26/c14f26a9-a71c-f050-ba05-d5fe150ae5be/mza_2116676375925934787.png/60x60bb.png",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/4f/26/c14f26a9-a71c-f050-ba05-d5fe150ae5be/mza_2116676375925934787.png/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1843394489,
+        "collectionName": "De kunst van transparantie",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-kunst-van-transparantie/id1843394489?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In een tijd waarin wantrouwen groeit en desinformatie zich razendsnel verspreidt, lijkt transparantie vaak het antwoord. Maar is dat wel terecht? Kan openheid vertrouwen herstellen, of werkt het soms juist averechts?\nIn deze aflevering onderzoeken we hoe informatie wordt gevormd, vervormd en ingezet. Wat betekent het als zelfs ogenschijnlijk betrouwbare bronnen onder druk staan? En wat vraagt dat van ons \u2013 en van de overheid?\nTe gast zijn Peter Burger (Universiteit Leiden), expert in journalistiek, nepnieuws en broodje-aapverhalen, en Marije Adense (TwijnstraGudde), adviseur op het gebied van strategische weerbaarheid tegen desinformatie. Samen verkennen we hoe vertrouwen ontstaat, onder druk komt te staan en misschien ook weer kan worden hersteld.\n\nVragen of suggesties? Mail naar info@publiekdenken.nl.\nPresentatie: Asha Narain en Manuela Fun\nProductie: Lucinda do Rosario en Morris de Moor\nMixage: Studiolijn14",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "6fb267e2-f5f0-448d-9979-4b778d044b73",
+        "episodeUrl": "https://content.rss.com/episodes/349283/2846109/de-kunst-van-transparantie/2026_05_21_11_58_17_cabad1c8-00f5-41aa-a6ec-3def735e0d7f.mp3",
+        "feedUrl": "https://media.rss.com/de-kunst-van-transparantie/feed.xml",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://content.rss.com/episodes/349283/2846109/de-kunst-van-transparantie/2026_05_21_11_58_17_cabad1c8-00f5-41aa-a6ec-3def735e0d7f.mp3",
+        "releaseDate": "2026-05-21T11:59:04Z",
+        "shortDescription": "In een tijd waarin wantrouwen groeit en desinformatie zich razendsnel verspreidt, lijkt transparantie vaak het antwoord. Maar is dat wel terecht? Kan openheid vertrouwen herstellen, of werkt het soms juist averechts?\nIn deze aflevering onderzoeken we ho",
+        "trackId": 1000768919245,
+        "trackName": "Aflevering 4: Vertrouwen in een tijd van wantrouwen",
+        "trackTimeMillis": 2375000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/aflevering-4-vertrouwen-in-een-tijd-van-wantrouwen/id1843394489?i=1000768919245&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],

@@ -3,11 +3,29 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-05-15T08:51:14Z</updated>
+	<updated>2026-05-21T14:27:10Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De kunst van transparantie - Aflevering 4: Vertrouwen in een tijd van wantrouwen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/aflevering-4-vertrouwen-in-een-tijd-van-wantrouwen/id1843394489?i=1000768919245&amp;uo=4" rel="alternate" />
+		<summary>In een tijd waarin wantrouwen groeit en desinformatie zich razendsnel verspreidt, lijkt transparantie vaak het antwoord. Maar is dat wel terecht? Kan openheid vertrouwen herstellen, of werkt het soms juist averechts?
+In deze aflevering onderzoeken we hoe informatie wordt gevormd, vervormd en ingezet. Wat betekent het als zelfs ogenschijnlijk betrouwbare bronnen onder druk staan? En wat vraagt dat van ons – en van de overheid?
+Te gast zijn Peter Burger (Universiteit Leiden), expert in journalistiek, nepnieuws en broodje-aapverhalen, en Marije Adense (TwijnstraGudde), adviseur op het gebied van strategische weerbaarheid tegen desinformatie. Samen verkennen we hoe vertrouwen ontstaat, onder druk komt te staan en misschien ook weer kan worden hersteld.
+
+Vragen of suggesties? Mail naar info@publiekdenken.nl.
+Presentatie: Asha Narain en Manuela Fun
+Productie: Lucinda do Rosario en Morris de Moor
+Mixage: Studiolijn14</summary>
+		<author>
+			<name>Publiek Denken</name>
+		</author>
+		<link href="https://content.rss.com/episodes/349283/2846109/de-kunst-van-transparantie/2026_05_21_11_58_17_cabad1c8-00f5-41aa-a6ec-3def735e0d7f.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000768919245</id>
+		<updated>2026-05-21T11:59:04Z</updated>
+	</entry>
 	<entry>
 		<title>Klapmok met Thee - #119: Transformatie van de landmachtstaf</title>
 		<link href="https://podcasts.apple.com/nl/podcast/119-transformatie-van-de-landmachtstaf/id1566819266?i=1000767914993&amp;uo=4" rel="alternate" />
