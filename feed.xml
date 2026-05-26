@@ -3,11 +3,28 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-05-25T10:09:02Z</updated>
+	<updated>2026-05-26T13:06:37Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Publieke Ruimte - Samenwerken in de jeugdstrafrechtketen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/samenwerken-in-de-jeugdstrafrechtketen/id1568120402?i=1000769562359&amp;uo=4" rel="alternate" />
+		<summary>De jeugdstrafrechtketen, dan gaat over opsporing, afdoening, advies, berechting, uitvoering en begeleiding van jongeren die met het strafrecht te maken krijgen. Soms al vanaf hun 12e jaar. In die keten komen we partijen tegen zoals de politie, Halt, het Openbaar Ministerie, de Raad voor de Kinderbescherming, de rechtspraak, het CJIB, de jeugdreclassering en de Dienst Justitiële Inrichtingen. Tegelijkertijd is een goede samenwerking niet altijd vanzelfsprekend. 
+
+Hoe kan dit beter en hoe kunnen jongeren hierdoor beter geholpen worden? Martijn en Otto bespreken het met  Heleen Rutgers, hoofdofficier van justitie van parket Midden-Nederland, Julia Mendlik, president van de rechtbank Rotterdam en ervaringsdeskundige Mohamed Hedi.
+
+Mohamed kwam tussen z'n 12e en 24e veel in aanraking met de jeugdstrafrechtketen en zet zijn ervaring nu in om jongeren en de keten te helpen.
+
+ </summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<link href="https://mcdn.podbean.com/mf/web/sdn4zc2apqdzrrf7/Edit_PR_Jeugdstrafrechtketen_DEFboxxa.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000769562359</id>
+		<updated>2026-05-26T00:48:00Z</updated>
+	</entry>
 	<entry>
 		<title>De kunst van transparantie - Aflevering 4: Vertrouwen in een tijd van wantrouwen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/aflevering-4-vertrouwen-in-een-tijd-van-wantrouwen/id1843394489?i=1000768919245&amp;uo=4" rel="alternate" />
@@ -29,7 +46,7 @@ Mixage: Studiolijn14</summary>
 	<entry>
 		<title>Klapmok met Thee - #119: Transformatie van de landmachtstaf</title>
 		<link href="https://podcasts.apple.com/nl/podcast/119-transformatie-van-de-landmachtstaf/id1566819266?i=1000767914993&amp;uo=4" rel="alternate" />
-		<summary>De landmacht beweegt mee met de verschillende ontwikkelingen en maakt zich op voor een mogelijk grootschalig conflict. Om de Landmacht goed aan te kunnen sturen en de eenheden waar nodig te ondersteunen is ook een transitie van de landmachtstaf nodig. Maar hoe pak je zoiets aan? Wat is er voor nodig? Anne Marij en Deborah gaan hierover in gesprek met de transitiemanager brigadegeneraal Jacco Brozsky. Hij neemt ons mee in de ontwikkelingen en de keuzes die zijn gemaakt. Luister mee, naar weer een nieuwe aflevering Klapmok met Thee.</summary>
+		<summary>De landmacht beweegt mee met de verschillende ontwikkelingen en maakt zich op voor een mogelijk grootschalig conflict. Om de Landmacht goed aan te kunnen sturen en de eenheden waar nodig te ondersteunen is ook een transitie van de landmachtstaf nodig. Maar hoe pak je zoiets aan? Wat is er voor nodig? Anne Marij en Deborah gaan hierover in gesprek met de transitiemanager brigadegeneraal Jaco Brosky. Hij neemt ons mee in de ontwikkelingen en de keuzes die zijn gemaakt. Luister mee, naar weer een nieuwe aflevering Klapmok met Thee.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
