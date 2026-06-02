@@ -3,11 +3,61 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-05-29T18:13:54Z</updated>
+	<updated>2026-06-02T18:40:37Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Van Datagedreven naar Databedreven werken: Bart Schellekens</title>
+		<link href="https://podcasts.apple.com/nl/podcast/van-datagedreven-naar-databedreven-werken-bart-schellekens/id1554063582?i=1000770768235&amp;uo=4" rel="alternate" />
+		<summary>​​Het gebruik en delen van gegevens (data) groeit sterk, ook binnen de overheid. In drie podcastafleveringen onderzoekt Walter van Wijk (CIP) hoe organisaties privacy en data-ethiek borgen bij datagedreven werken. 
+Hij spreekt met drie experts Ronald Damhof, Bart Schellekens en Christian Verhagen over onder meer de rollen van CPO’s en CDO’s, de privacyaspecten van dataprojecten, en vraagstukken rond bescherming, preventie, opsporing en ethiek.
+​In aflevering 2 wordt gepleit voor een ‘belangen-officer’ in plaats van een privacy officer, wordt de noodzaak van begrip van data bij bestuurders uitgelegd. Daarnaast komt de mogelijke spraakverwarring tussen juristen en niet-juristen aan de orde. Te gast is Bart Schellekens, vanuit het ministerie van BZK onder meer betrokken als adviseur bij de dienst Ontwikkeling, Digitalisering en Innovatie en bij het programma IBDS. </summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<link href="https://www.buzzsprout.com/1696126/episodes/19280069-van-datagedreven-naar-databedreven-werken-bart-schellekens.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000770768235</id>
+		<updated>2026-06-02T12:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Van Datagedreven naar Databedreven werken: Christian Verhagen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/van-datagedreven-naar-databedreven-werken-christian/id1554063582?i=1000770768353&amp;uo=4" rel="alternate" />
+		<summary>​​Het gebruik en delen van gegevens (data) groeit sterk, ook binnen de overheid. In drie podcastafleveringen onderzoekt Walter van Wijk (CIP) hoe organisaties privacy en data-ethiek borgen bij datagedreven werken. 
+Hij spreekt met drie experts Ronald Damhof, Bart Schellekens en Christian Verhagen over onder meer de rollen van CPO’s en CDO’s, de privacyaspecten van dataprojecten, en vraagstukken rond bescherming, preventie, opsporing en ethiek. 
+​In aflevering 3 heeft Christian Verhagen (partner en adviseur bij Highberg op terreinen als AI, data governance en data-ethiek) het over de ethische kant van data-projecten. Hoe volwassen zijn we, wanneer is het goed genoeg en hoe komen we daar? Wat is de rol van leiderschap daarbij? En hoever kan de overheid gaan in proactieve dienstverlening? </summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<link href="https://www.buzzsprout.com/1696126/episodes/19280073-van-datagedreven-naar-databedreven-werken-christian-verhagen.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000770768353</id>
+		<updated>2026-06-02T12:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Van Datagedreven naar Databedreven werken: Ronald Damhof</title>
+		<link href="https://podcasts.apple.com/nl/podcast/van-datagedreven-naar-databedreven-werken-ronald-damhof/id1554063582?i=1000770768411&amp;uo=4" rel="alternate" />
+		<summary>​​Het gebruik en delen van gegevens (data) groeit sterk, ook binnen de overheid. In drie podcastafleveringen onderzoekt Walter van Wijk (CIP) hoe organisaties privacy en data-ethiek borgen bij datagedreven werken. 
+Hij spreekt met drie experts Ronald Damhof, Bart Schellekens en Christian Verhagen over onder meer de rollen van CPO’s en CDO’s, de privacyaspecten van dataprojecten, en vraagstukken rond bescherming, preventie, opsporing en ethiek.
+In aflevering 1 wordt met Ronald Damhof (Chief Data Officer bij het ministerie van JenV en voorzitter van de Taskforce Gegevensdeling) gesproken over de kansen én de risico’s bij data-projecten, ook als het gaat over opsporing. En over de relatie tussen de CDO en de CPO en de mens-kant van dit werk. </summary>
+		<author>
+			<name>CIP - Centrum Informatiebeveiliging en Privacybescherming</name>
+		</author>
+		<link href="https://www.buzzsprout.com/1696126/episodes/19280059-van-datagedreven-naar-databedreven-werken-ronald-damhof.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000770768411</id>
+		<updated>2026-06-02T12:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>Dossier WODC - Feiten en hun verhaal</title>
+		<link href="https://podcasts.apple.com/nl/podcast/feiten-en-hun-verhaal/id1724937331?i=1000770742288&amp;uo=4" rel="alternate" />
+		<summary>We blikken deze aflevering terug op een jaar lang onderzoek doen op het gebied van justitie en veiligheid. Welke WODC-onderzoeken vielen op? Welke waren extra gevoelig? Wat was de impact op de samenleving? Maar natuurlijk ook: staan de feiten van wetenschap in deze maatschappij nog steeds onder druk?In deze aflevering spreekt host Carlissa Remmerswaal met WODC-directeur Ivo Giesen over feiten en hun verhaal in het kader van het WODC Magazine 2025.Meer weten over het onderzoek dat het WODC doet? Ga naar ⁠www.wodc.nlOpname en montage gedaan in eigen beheer WODC.</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<link href="https://anchor.fm/s/e9f55368/podcast/play/120884808/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F3cc43c3e-594e-0fe5-d610-c6916df39dcf.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000770742288</id>
+		<updated>2026-06-02T08:39:42Z</updated>
+	</entry>
 	<entry>
 		<title>Klapmok met Thee - #120 Sander de Mega Infanterist</title>
 		<link href="https://podcasts.apple.com/nl/podcast/120-sander-de-mega-infanterist/id1566819266?i=1000770112840&amp;uo=4" rel="alternate" />
