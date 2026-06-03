@@ -177,7 +177,11 @@ def update_podcasts():
     podcasts = json.load(open("podcasts.json"))
     for podcast in podcasts:
         if podcast["apple"]:
-            podcast["apple_data"] = get_apple_podcast_info(podcast["apple"])
+            apple_data = get_apple_podcast_info(podcast["apple"])
+            if not apple_data:
+                print("BROKEN", podcast["apple"])
+                continue
+            podcast["apple_data"] = apple_data
             print(podcast["apple_data"][0]["collectionName"])
             time.sleep(0.5)
 

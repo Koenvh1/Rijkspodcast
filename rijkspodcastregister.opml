@@ -43,7 +43,7 @@
 		<outline type="rss" text="Blauw Geboren" title="Blauw Geboren" xmlUrl="https://rss.buzzsprout.com/1909083.rss" />
 		<outline type="rss" text="Onbeperkt Meedoen" title="Onbeperkt Meedoen" xmlUrl="https://rss.springcast.app/n0kuEo" />
 		<outline type="rss" text="Slobcast" title="Slobcast" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:501293985/sounds.rss" />
-		<outline type="rss" text="IK WORD AGENT" title="IK WORD AGENT" xmlUrl="https://app.springcast.fm/podcast-xml/19167" />
+		<outline type="rss" text="IK WORD AGENT" title="IK WORD AGENT" xmlUrl="https://rss.springcast.app/mVZuAq" />
 		<outline type="rss" text="Podium voor Goed Politiewerk" title="Podium voor Goed Politiewerk" xmlUrl="https://feeds.transistor.fm/podium-voor-goed-politiewerk-podcast" />
 		<outline type="rss" text="De agent, de wet en de opsporing" title="De agent, de wet en de opsporing" xmlUrl="https://app.springcast.fm/podcast-xml/21641" />
 		<outline type="rss" text="FIODcast | Jaarverslag 2023" title="FIODcast | Jaarverslag 2023" xmlUrl="https://rss.springcast.app/ld6uNm" />
@@ -64,7 +64,6 @@
 		<outline type="rss" text="Wereldvrouwen" title="Wereldvrouwen" xmlUrl="https://feeds.transistor.fm/werken-bij-defensie" />
 		<outline type="rss" text="Klapmok met Thee" title="Klapmok met Thee" xmlUrl="https://rss.springcast.app/nQPuGd" />
 		<outline type="rss" text="Boots on the Ground" title="Boots on the Ground" xmlUrl="https://rss.springcast.app/loVueW" />
-		<outline type="rss" text="Slim Inkopen, Slim Afvoeren" title="Slim Inkopen, Slim Afvoeren" xmlUrl="https://feeds.transistor.fm/slim-inkopen-slim-afvoeren" />
 		<outline type="rss" text="De veranderende rol van een informatieprofessional" title="De veranderende rol van een informatieprofessional" xmlUrl="https://channels.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/feed.xml" />
 		<outline type="rss" text="Zwarte Muisjes" title="Zwarte Muisjes" xmlUrl="https://anchor.fm/s/530d5c34/podcast/rss" />
 		<outline type="rss" text="Sociaal en Cultureel Planbureau" title="Sociaal en Cultureel Planbureau" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:1387288245/sounds.rss" />
@@ -128,5 +127,6 @@
 		<outline type="rss" text="De Commandant" title="De Commandant" xmlUrl="https://rss.springcast.app/loVuod" />
 		<outline type="rss" text="De kunst van transparantie" title="De kunst van transparantie" xmlUrl="https://media.rss.com/de-kunst-van-transparantie/feed.xml" />
 		<outline type="rss" text="ONE Podcast - Beyond the conference" title="ONE Podcast - Beyond the conference" xmlUrl="https://anchor.fm/s/102ffe4e0/podcast/rss" />
+		<outline type="rss" text="Slim Inkopen, Slim Afvoeren" title="Slim Inkopen, Slim Afvoeren" xmlUrl="https://feeds.transistor.fm/slim-inkopen-slim-afvoeren" />
 	</body>
 </opml>

@@ -3,11 +3,42 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-02T18:40:37Z</updated>
+	<updated>2026-06-03T20:01:46Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Podcast #ONDERMIJNING - #43 Jolanda van Weerd en Stefan de Haan over de Meldkamer</title>
+		<link href="https://podcasts.apple.com/nl/podcast/43-jolanda-van-weerd-en-stefan-de-haan-over-de-meldkamer/id1658801107?i=1000770951185&amp;uo=4" rel="alternate" />
+		<summary>Van een steekpartij tot een reanimatie. Van een simpele overlastmelding tot een
+ernstig verkeersongeval. Dit zijn de incidenten waar collega’s van de noodhulp
+dagelijks naartoe racen. Maar hun werk begint niet op straat. Het begint op één plek:
+de meldkamer. Daar zitten de centralisten klaar om de 112lijn op te nemen, vaak
+midden in. Zij stellen de juiste vragen, houden het hoofd koel en sturen ondertussen
+de collega’s op straat aan. Ze bewaken het overzicht: Wie is er ter plaatse? Wat is er
+nodig? Moet de ambulance of brandweer worden opgeschaald?
+In deze aflevering vertellen Jolanda (OvD-OC) en Stefan (Generalist meldkamer)
+over het werk op de meldkamer. Wat doet de meldkamer precies? Hoe dragen zij bij
+aan het politiewerk zoals we dit kennen? En hoe verloopt zo’n 112 gesprek nu
+precies? Deze aflevering geeft antwoord op deze vragen!
+Aan tafel zitten twee leden van Team #ONDERMIJNING: Alain Meijer en BOOST-
+student Thomas. Samen stellen zij Jolanda en Stefan vragen over het werk als
+collega op de meldkamer.
+Volg ons op:
+LinkedIn⁠⁠
+YouTube⁠⁠
+Relevante afleveringen:
+#16 – Willem de Keijzer over Team Criminele Inlichtingen (TCI)
+#10 - Maryam El Rahmouni over Preventie met Gezag
+#39 – Chrissie van der Meijden over Online Wereld</summary>
+		<author>
+			<name>Politie Nederland</name>
+		</author>
+		<link href="https://anchor.fm/s/d45234f4/podcast/play/120894324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425362383-44100-2-f4487297caa6c.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000770951185</id>
+		<updated>2026-06-03T10:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming - Van Datagedreven naar Databedreven werken: Bart Schellekens</title>
 		<link href="https://podcasts.apple.com/nl/podcast/van-datagedreven-naar-databedreven-werken-bart-schellekens/id1554063582?i=1000770768235&amp;uo=4" rel="alternate" />

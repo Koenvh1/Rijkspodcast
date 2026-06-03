@@ -85210,16 +85210,49 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
-        "releaseDate": "2026-04-22T10:00:00Z",
+        "releaseDate": "2026-05-14T10:00:00Z",
         "trackCensoredName": "Podcast #ONDERMIJNING",
-        "trackCount": 43,
+        "trackCount": 44,
         "trackExplicitness": "cleaned",
         "trackId": 1658801107,
         "trackName": "Podcast #ONDERMIJNING",
         "trackPrice": 0.0,
-        "trackTimeMillis": 2711,
+        "trackTimeMillis": 2964,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/podcast-ondermijning/id1658801107?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/6c/4e/b76c4e34-2ed0-4b54-5dfd-1fabf3763788/mza_6739846578288739210.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/6c/4e/b76c4e34-2ed0-4b54-5dfd-1fabf3763788/mza_6739846578288739210.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/6c/4e/b76c4e34-2ed0-4b54-5dfd-1fabf3763788/mza_6739846578288739210.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1658801107,
+        "collectionName": "Podcast #ONDERMIJNING",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/podcast-ondermijning/id1658801107?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Van een steekpartij tot een reanimatie. Van een simpele overlastmelding tot een\nernstig verkeersongeval. Dit zijn de incidenten waar collega\u2019s van de noodhulp\ndagelijks naartoe racen. Maar hun werk begint niet op straat. Het begint op \u00e9\u00e9n plek:\nde meldkamer. Daar zitten de centralisten klaar om de 112lijn op te nemen, vaak\nmidden in. Zij stellen de juiste vragen, houden het hoofd koel en sturen ondertussen\nde collega\u2019s op straat aan. Ze bewaken het overzicht: Wie is er ter plaatse? Wat is er\nnodig? Moet de ambulance of brandweer worden opgeschaald?\nIn deze aflevering vertellen Jolanda (OvD-OC) en Stefan (Generalist meldkamer)\nover het werk op de meldkamer. Wat doet de meldkamer precies? Hoe dragen zij bij\naan het politiewerk zoals we dit kennen? En hoe verloopt zo\u2019n 112 gesprek nu\nprecies? Deze aflevering geeft antwoord op deze vragen!\nAan tafel zitten twee leden van Team #ONDERMIJNING: Alain Meijer en BOOST-\nstudent Thomas. Samen stellen zij Jolanda en Stefan vragen over het werk als\ncollega op de meldkamer.\nVolg ons op:\nLinkedIn\u2060\u2060\nYouTube\u2060\u2060\nRelevante afleveringen:\n#16 \u2013 Willem de Keijzer over Team Criminele Inlichtingen (TCI)\n#10 - Maryam El Rahmouni over Preventie met Gezag\n#39 \u2013 Chrissie van der Meijden over Online Wereld",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "3dd6cd16-ec79-44df-9ae9-108d2c60245a",
+        "episodeUrl": "https://anchor.fm/s/d45234f4/podcast/play/120894324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425362383-44100-2-f4487297caa6c.mp3",
+        "feedUrl": "https://anchor.fm/s/d45234f4/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/d45234f4/podcast/play/120894324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425362383-44100-2-f4487297caa6c.mp3",
+        "releaseDate": "2026-06-03T10:00:00Z",
+        "shortDescription": "Van een steekpartij tot een reanimatie. Van een simpele overlastmelding tot een\nernstig verkeersongeval. Dit zijn de incidenten waar collega\u2019s van de noodhulp\ndagelijks naartoe racen. Maar hun werk begint niet op straat. Het begint op \u00e9\u00e9n plek:\nde m",
+        "trackId": 1000770951185,
+        "trackName": "#43 Jolanda van Weerd en Stefan de Haan over de Meldkamer",
+        "trackTimeMillis": 2984000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/43-jolanda-van-weerd-en-stefan-de-haan-over-de-meldkamer/id1658801107?i=1000770951185&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -106354,9 +106387,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/38/8a/93388adc-20e4-2113-fee4-6012969ae092/mza_4280751256518870805.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/38/8a/93388adc-20e4-2113-fee4-6012969ae092/mza_4280751256518870805.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/38/8a/93388adc-20e4-2113-fee4-6012969ae092/mza_4280751256518870805.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8e/79/57/8e795762-675d-9152-f08c-2d2d7582d9c7/mza_2494225027116261409.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8e/79/57/8e795762-675d-9152-f08c-2d2d7582d9c7/mza_2494225027116261409.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8e/79/57/8e795762-675d-9152-f08c-2d2d7582d9c7/mza_2494225027116261409.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -113050,640 +113083,6 @@
     },
     "provider": "spotify",
     "apple": ""
-  },
-  {
-    "spotify": "https://open.spotify.com/show/7EGvskhHjcWrdrQ1yLb6vG",
-    "spotify_data": {
-      "available_markets": [
-        "AD",
-        "AE",
-        "AG",
-        "AL",
-        "AM",
-        "AO",
-        "AR",
-        "AT",
-        "AU",
-        "AZ",
-        "BA",
-        "BB",
-        "BE",
-        "BF",
-        "BG",
-        "BH",
-        "BI",
-        "BJ",
-        "BN",
-        "BO",
-        "BR",
-        "BS",
-        "BT",
-        "BW",
-        "BZ",
-        "CA",
-        "CH",
-        "CI",
-        "CL",
-        "CM",
-        "CO",
-        "CR",
-        "CV",
-        "CW",
-        "CY",
-        "CZ",
-        "DE",
-        "DJ",
-        "DK",
-        "DM",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FJ",
-        "FM",
-        "FR",
-        "GA",
-        "GB",
-        "GD",
-        "GE",
-        "GH",
-        "GM",
-        "GN",
-        "GQ",
-        "GR",
-        "GT",
-        "GW",
-        "GY",
-        "HK",
-        "HN",
-        "HR",
-        "HT",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JM",
-        "JO",
-        "JP",
-        "KE",
-        "KH",
-        "KI",
-        "KM",
-        "KN",
-        "KR",
-        "KW",
-        "LA",
-        "LB",
-        "LC",
-        "LI",
-        "LR",
-        "LS",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "ME",
-        "MG",
-        "MH",
-        "MK",
-        "ML",
-        "MN",
-        "MO",
-        "MR",
-        "MT",
-        "MU",
-        "MV",
-        "MW",
-        "MX",
-        "MY",
-        "MZ",
-        "NA",
-        "NE",
-        "NG",
-        "NI",
-        "NL",
-        "NO",
-        "NP",
-        "NR",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PG",
-        "PH",
-        "PL",
-        "PR",
-        "PS",
-        "PT",
-        "PW",
-        "PY",
-        "QA",
-        "RO",
-        "RS",
-        "RW",
-        "SA",
-        "SB",
-        "SC",
-        "SE",
-        "SG",
-        "SI",
-        "SK",
-        "SL",
-        "SM",
-        "SN",
-        "SR",
-        "ST",
-        "SV",
-        "SZ",
-        "TD",
-        "TG",
-        "TH",
-        "TL",
-        "TN",
-        "TO",
-        "TR",
-        "TT",
-        "TV",
-        "TW",
-        "TZ",
-        "UA",
-        "US",
-        "UY",
-        "UZ",
-        "VC",
-        "VN",
-        "VU",
-        "WS",
-        "XK",
-        "ZA",
-        "ZM",
-        "ZW"
-      ],
-      "copyrights": [],
-      "description": "Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0                 Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.",
-      "html_description": "Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0<br/>                Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.",
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/show/7EGvskhHjcWrdrQ1yLb6vG"
-      },
-      "href": "https://api.spotify.com/v1/shows/7EGvskhHjcWrdrQ1yLb6vG",
-      "id": "7EGvskhHjcWrdrQ1yLb6vG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "languages": [
-        "nl"
-      ],
-      "media_type": "audio",
-      "name": "Slim Inkopen, Slim Afvoeren",
-      "publisher": "VANG BH",
-      "type": "show",
-      "uri": "spotify:show:7EGvskhHjcWrdrQ1yLb6vG",
-      "total_episodes": 5,
-      "episodes": {
-        "href": "https://api.spotify.com/v1/shows/7EGvskhHjcWrdrQ1yLb6vG/episodes?offset=0&limit=50",
-        "limit": 50,
-        "next": null,
-        "offset": 0,
-        "previous": null,
-        "total": 5,
-        "items": [
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6js8ikJmNW8X0674zSUQVS/clip_8829_68829.mp3",
-            "description": "Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.",
-            "html_description": "<p>Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0</p><p><br /></p><p>Slim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.</p><p><br /></p>",
-            "duration_ms": 112031,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/1P1VadQ5y8je8W9I8w5HVy"
-            },
-            "href": "https://api.spotify.com/v1/episodes/1P1VadQ5y8je8W9I8w5HVy",
-            "id": "1P1VadQ5y8je8W9I8w5HVy",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a5db83ba0a3c604b4d60a71b7",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f5db83ba0a3c604b4d60a71b7",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d5db83ba0a3c604b4d60a71b7",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "Trailer Slim Inkopen, Slim Afvoeren",
-            "release_date": "2024-11-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:1P1VadQ5y8je8W9I8w5HVy"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2peTlUQGgavBQWmLSH8tzP/clip_317977_377977.mp3",
-            "description": "In deze eerste aflevering gaat Dide Vonk in gesprek met Nina van den Berg, projectmanager bij de Green Business Club. Nina deelt inspirerende voorbeelden van afvalbewustzijn en scheidingsinitiatieven op de Zuidas, waar ze zich al jaren inzet voor een groenere werkomgeving.Daarnaast vertelt Wilbrand Kuijt, facilitair manager bij advocatenkantoor Baker & McKenzie, over zijn ervaring met het verduurzamen van een kantoorpand. Hoe motiveer je mensen, wat werkt er wel en niet, en wat zijn de belangrijkste lessen die hij leerde?Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-            "html_description": "<p>In deze eerste aflevering gaat Dide Vonk in gesprek met Nina van den Berg, projectmanager bij de Green Business Club. Nina deelt inspirerende voorbeelden van afvalbewustzijn en scheidingsinitiatieven op de Zuidas, waar ze zich al jaren inzet voor een groenere werkomgeving.</p><p><br /></p><p>Daarnaast vertelt Wilbrand Kuijt, facilitair manager bij advocatenkantoor Baker &amp; McKenzie, over zijn ervaring met het verduurzamen van een kantoorpand. Hoe motiveer je mensen, wat werkt er wel en niet, en wat zijn de belangrijkste lessen die hij leerde?</p><p><br /></p><p>Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.</p><p><br /></p>",
-            "duration_ms": 1219896,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/2kcgczq27hl3GeY5YHvw9T"
-            },
-            "href": "https://api.spotify.com/v1/episodes/2kcgczq27hl3GeY5YHvw9T",
-            "id": "2kcgczq27hl3GeY5YHvw9T",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a22216c72145273f70af22f97",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f22216c72145273f70af22f97",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d22216c72145273f70af22f97",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "#1 Green Business Club",
-            "release_date": "2024-11-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:2kcgczq27hl3GeY5YHvw9T"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1mQogf9F6HohVzmzwEBAut/clip_369821_429821.mp3",
-            "description": "Dide Vonk spreekt Marleen Strien, citymarketeer bij De Nieuwe Winkelstraat. Marleen vertelt hoe winkelstraten duurzamer kunnen worden via samenwerkingen tussen gemeenten, vastgoedondernemers en winkeliers. Van innovatieve afvaloplossingen tot uitdagingen rondom lokale regels.\u2028Ook horen we Elizabeth Wemmenhoven, van Oscar Circulair. Zij verteld over hun streven om alle steden afvalvrij te maken.Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-            "html_description": "<p>Dide Vonk spreekt Marleen Strien, citymarketeer bij De Nieuwe Winkelstraat. Marleen vertelt hoe winkelstraten duurzamer kunnen worden via samenwerkingen tussen gemeenten, vastgoedondernemers en winkeliers. Van innovatieve afvaloplossingen tot uitdagingen rondom lokale regels.\u2028</p><p>Ook horen we Elizabeth Wemmenhoven, van Oscar Circulair. Zij verteld over hun streven om alle steden afvalvrij te maken.</p><p><br /></p><p>Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.</p><p><br /></p>",
-            "duration_ms": 1220880,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/3awRRHEqnGn1zhlveKPNLz"
-            },
-            "href": "https://api.spotify.com/v1/episodes/3awRRHEqnGn1zhlveKPNLz",
-            "id": "3awRRHEqnGn1zhlveKPNLz",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "#2 De Nieuwe Winkelstraat",
-            "release_date": "2024-11-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:3awRRHEqnGn1zhlveKPNLz"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5jSqdT5jEb2den5O2MGall/clip_312603_372603.mp3",
-            "description": "Dide Vonk gaat in gesprek met Rebekka de Koning van het Kenniscentrum Sport & Bewegen. Rebekka vertelt hoe sportverenigingen stappen kunnen zetten in duurzaamheid, van afvalscheiding tot het verminderen van plasticgebruik in kantines.\u2028Ook schuift Leonie Boon aan. Zij vertelt over hoe 5 sportverenigingen in Hendrik-Ido-Ambacht hun afvalscheiding willen co\u00f6rdineren.Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-            "html_description": "<p>Dide Vonk gaat in gesprek met Rebekka de Koning van het Kenniscentrum Sport &amp; Bewegen. Rebekka vertelt hoe sportverenigingen stappen kunnen zetten in duurzaamheid, van afvalscheiding tot het verminderen van plasticgebruik in kantines.\u2028</p><p>Ook schuift Leonie Boon aan. Zij vertelt over hoe 5 sportverenigingen in Hendrik-Ido-Ambacht hun afvalscheiding willen co\u00f6rdineren.</p><p><br /></p><p>Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.</p>",
-            "duration_ms": 1047839,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/5vKZA54ize3Fk113irdhm9"
-            },
-            "href": "https://api.spotify.com/v1/episodes/5vKZA54ize3Fk113irdhm9",
-            "id": "5vKZA54ize3Fk113irdhm9",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "#3 Kenniscentrum Sport & Bewegen",
-            "release_date": "2024-11-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:5vKZA54ize3Fk113irdhm9"
-          },
-          {
-            "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3HNhkbPF7fLQVXmvrVnuAJ/clip_124421_184421.mp3",
-            "description": "Dide Vonk duikt in de verduurzaming van de cultuursector. Ze spreekt met Denise Derksen van het ministerie van OCenW en Johanna Minnaard van VANG Buitenshuis over hun gezamenlijke missie om afval te verminderen en circulariteit te bevorderen binnen musea, theaters, festivals en andere culturele instellingen.Ook schuift Ryanne de Boer van de NAPK (brancheorganisatie voor podiumkunsten) aan, om te vertellen over het hergebruik van decorstukken en het werken met tweedehands materialen. Van inspirerende voorbeelden uit de festivalwereld tot duurzame producties in het theater; deze aflevering toont de kracht van samenwerking en kennisdeling binnen de cultuursector.Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-            "html_description": "<p>Dide Vonk duikt in de verduurzaming van de cultuursector. Ze spreekt met Denise Derksen van het ministerie van OCenW en Johanna Minnaard van VANG Buitenshuis over hun gezamenlijke missie om afval te verminderen en circulariteit te bevorderen binnen musea, theaters, festivals en andere culturele instellingen.</p><p><br /></p><p>Ook schuift Ryanne de Boer van de NAPK (brancheorganisatie voor podiumkunsten) aan, om te vertellen over het hergebruik van decorstukken en het werken met tweedehands materialen. Van inspirerende voorbeelden uit de festivalwereld tot duurzame producties in het theater; deze aflevering toont de kracht van samenwerking en kennisdeling binnen de cultuursector.</p><p><br /></p><p>Wil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.</p><p><br /></p>",
-            "duration_ms": 1257888,
-            "explicit": false,
-            "external_urls": {
-              "spotify": "https://open.spotify.com/episode/5gcrntMvFhULXJpoiVTxFI"
-            },
-            "href": "https://api.spotify.com/v1/episodes/5gcrntMvFhULXJpoiVTxFI",
-            "id": "5gcrntMvFhULXJpoiVTxFI",
-            "images": [
-              {
-                "url": "https://i.scdn.co/image/ab6765630000ba8a14dc90996d6605c5a96765ad",
-                "height": 640,
-                "width": 640
-              },
-              {
-                "url": "https://i.scdn.co/image/ab67656300005f1f14dc90996d6605c5a96765ad",
-                "height": 300,
-                "width": 300
-              },
-              {
-                "url": "https://i.scdn.co/image/ab6765630000f68d14dc90996d6605c5a96765ad",
-                "height": 64,
-                "width": 64
-              }
-            ],
-            "is_externally_hosted": true,
-            "is_playable": true,
-            "language": "nl",
-            "languages": [
-              "nl"
-            ],
-            "name": "#4 De Cultuursector",
-            "release_date": "2024-11-11",
-            "release_date_precision": "day",
-            "type": "episode",
-            "uri": "spotify:episode:5gcrntMvFhULXJpoiVTxFI"
-          }
-        ]
-      }
-    },
-    "provider": "spotify",
-    "apple": "https://podcasts.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508",
-    "apple_data": [
-      {
-        "artistName": "VANG BH",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/40/f4/7140f49b-e862-f4b9-195e-520feb5f7307/mza_9942989805042237027.jpg/100x100bb.jpg",
-        "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/40/f4/7140f49b-e862-f4b9-195e-520feb5f7307/mza_9942989805042237027.jpg/30x30bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/40/f4/7140f49b-e862-f4b9-195e-520feb5f7307/mza_9942989805042237027.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/40/f4/7140f49b-e862-f4b9-195e-520feb5f7307/mza_9942989805042237027.jpg/600x600bb.jpg",
-        "collectionCensoredName": "Slim Inkopen, Slim Afvoeren",
-        "collectionExplicitness": "notExplicit",
-        "collectionHdPrice": 0,
-        "collectionId": 1788315508,
-        "collectionName": "Slim Inkopen, Slim Afvoeren",
-        "collectionPrice": 0.0,
-        "collectionViewUrl": "https://podcasts.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508?uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "currency": "EUR",
-        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
-        "genreIds": [
-          "1511",
-          "26",
-          "1321",
-          "1494"
-        ],
-        "genres": [
-          "Overheid",
-          "Podcasts",
-          "Zakelijk",
-          "Non-profit"
-        ],
-        "kind": "podcast",
-        "primaryGenreName": "Overheid",
-        "releaseDate": "2024-11-11T11:00:00Z",
-        "trackCensoredName": "Slim Inkopen, Slim Afvoeren",
-        "trackCount": 5,
-        "trackExplicitness": "cleaned",
-        "trackId": 1788315508,
-        "trackName": "Slim Inkopen, Slim Afvoeren",
-        "trackPrice": 0.0,
-        "trackTimeMillis": 1220,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508?uo=4",
-        "wrapperType": "track"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/60x60bb.png",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1788315508,
-        "collectionName": "Slim Inkopen, Slim Afvoeren",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "Dide Vonk duikt in de verduurzaming van de cultuursector. Ze spreekt met Denise Derksen van het ministerie van OCenW en Johanna Minnaard van VANG Buitenshuis over hun gezamenlijke missie om afval te verminderen en circulariteit te bevorderen binnen musea, theaters, festivals en andere culturele instellingen.\n\nOok schuift Ryanne de Boer van de NAPK (brancheorganisatie voor podiumkunsten) aan, om te vertellen over het hergebruik van decorstukken en het werken met tweedehands materialen. Van inspirerende voorbeelden uit de festivalwereld tot duurzame producties in het theater; deze aflevering toont de kracht van samenwerking en kennisdeling binnen de cultuursector.\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "https://app.springcast.fm/21364/4-de-cultuursector",
-        "episodeUrl": "https://media.transistor.fm/1886093b/73c92a8f.mp3",
-        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
-        "genres": [
-          {
-            "name": "Government",
-            "id": "1511"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://media.transistor.fm/1886093b/73c92a8f.mp3",
-        "releaseDate": "2024-11-11T11:00:00Z",
-        "shortDescription": "",
-        "trackId": 1000682401105,
-        "trackName": "#4 De Cultuursector",
-        "trackTimeMillis": 1258000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/4-de-cultuursector/id1788315508?i=1000682401105&uo=4",
-        "wrapperType": "podcastEpisode"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/60x60bb.png",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1788315508,
-        "collectionName": "Slim Inkopen, Slim Afvoeren",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "Dide Vonk gaat in gesprek met Rebekka de Koning van het Kenniscentrum Sport & Bewegen. Rebekka vertelt hoe sportverenigingen stappen kunnen zetten in duurzaamheid, van afvalscheiding tot het verminderen van plasticgebruik in kantines.\u2028\nOok schuift Leonie Boon aan. Zij vertelt over hoe 5 sportverenigingen in Hendrik-Ido-Ambacht hun afvalscheiding willen co\u00f6rdineren.\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "https://app.springcast.fm/21364/3-kenniscentrum-sport-bewegen",
-        "episodeUrl": "https://media.transistor.fm/5d8eb32b/e6aecef5.mp3",
-        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
-        "genres": [
-          {
-            "name": "Government",
-            "id": "1511"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://media.transistor.fm/5d8eb32b/e6aecef5.mp3",
-        "releaseDate": "2024-11-11T11:00:00Z",
-        "shortDescription": "",
-        "trackId": 1000682401183,
-        "trackName": "#3 Kenniscentrum Sport & Bewegen",
-        "trackTimeMillis": 1048000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/3-kenniscentrum-sport-bewegen/id1788315508?i=1000682401183&uo=4",
-        "wrapperType": "podcastEpisode"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/60x60bb.png",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f3/f2/a1f3f2b1-cfdc-6ac0-ac48-b05e78fedcfa/mza_7201148349200240518.png/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1788315508,
-        "collectionName": "Slim Inkopen, Slim Afvoeren",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "Dide Vonk spreekt Marleen Strien, citymarketeer bij De Nieuwe Winkelstraat. Marleen vertelt hoe winkelstraten duurzamer kunnen worden via samenwerkingen tussen gemeenten, vastgoedondernemers en winkeliers. Van innovatieve afvaloplossingen tot uitdagingen rondom lokale regels.\u2028\nOok horen we Elizabeth Wemmenhoven, van Oscar Circulair. Zij verteld over hun streven om alle steden afvalvrij te maken.\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "https://app.springcast.fm/21364/2-de-nieuwe-winkelstraat",
-        "episodeUrl": "https://media.transistor.fm/51545abc/0035cd4f.mp3",
-        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
-        "genres": [
-          {
-            "name": "Government",
-            "id": "1511"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://media.transistor.fm/51545abc/0035cd4f.mp3",
-        "releaseDate": "2024-11-11T11:00:00Z",
-        "shortDescription": "",
-        "trackId": 1000682401106,
-        "trackName": "#2 De Nieuwe Winkelstraat",
-        "trackTimeMillis": 1221000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/2-de-nieuwe-winkelstraat/id1788315508?i=1000682401106&uo=4",
-        "wrapperType": "podcastEpisode"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b4/a6/68/b4a6682e-75bb-0de6-2309-42f963d87beb/mza_9280323562663340371.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b4/a6/68/b4a6682e-75bb-0de6-2309-42f963d87beb/mza_9280323562663340371.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b4/a6/68/b4a6682e-75bb-0de6-2309-42f963d87beb/mza_9280323562663340371.jpg/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1788315508,
-        "collectionName": "Slim Inkopen, Slim Afvoeren",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "In deze eerste aflevering gaat Dide Vonk in gesprek met Nina van den Berg, projectmanager bij de Green Business Club. Nina deelt inspirerende voorbeelden van afvalbewustzijn en scheidingsinitiatieven op de Zuidas, waar ze zich al jaren inzet voor een groenere werkomgeving.\n\nDaarnaast vertelt Wilbrand Kuijt, facilitair manager bij advocatenkantoor Baker & McKenzie, over zijn ervaring met het verduurzamen van een kantoorpand. Hoe motiveer je mensen, wat werkt er wel en niet, en wat zijn de belangrijkste lessen die hij leerde?\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "https://app.springcast.fm/21364/1",
-        "episodeUrl": "https://media.transistor.fm/ba396909/59cfefa4.mp3",
-        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
-        "genres": [
-          {
-            "name": "Government",
-            "id": "1511"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://media.transistor.fm/ba396909/59cfefa4.mp3",
-        "releaseDate": "2024-11-11T11:00:00Z",
-        "shortDescription": "",
-        "trackId": 1000682401241,
-        "trackName": "#1 Green Business Club",
-        "trackTimeMillis": 1220000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/1-green-business-club/id1788315508?i=1000682401241&uo=4",
-        "wrapperType": "podcastEpisode"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/ed/e6/46ede6fe-3036-fb04-51c7-9c45afe4f73f/mza_10624589952787659453.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/ed/e6/46ede6fe-3036-fb04-51c7-9c45afe4f73f/mza_10624589952787659453.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/ed/e6/46ede6fe-3036-fb04-51c7-9c45afe4f73f/mza_10624589952787659453.jpg/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1788315508,
-        "collectionName": "Slim Inkopen, Slim Afvoeren",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1788315508?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0\n\nSlim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "https://app.springcast.fm/21364/trailer-slim-inkopen-slim-afvoeren",
-        "episodeUrl": "https://media.transistor.fm/2abc1c45/7ca6111f.mp3",
-        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
-        "genres": [
-          {
-            "name": "Government",
-            "id": "1511"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://media.transistor.fm/2abc1c45/7ca6111f.mp3",
-        "releaseDate": "2024-11-11T11:00:00Z",
-        "shortDescription": "",
-        "trackId": 1000682400931,
-        "trackName": "Trailer Slim Inkopen, Slim Afvoeren",
-        "trackTimeMillis": 113000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/trailer-slim-inkopen-slim-afvoeren/id1788315508?i=1000682400931&uo=4",
-        "wrapperType": "podcastEpisode"
-      }
-    ]
   },
   {
     "spotify": "https://open.spotify.com/show/6oJsjZsAiunyNsDK1g9QzK",
@@ -227360,6 +226759,221 @@
         "trackName": "Get to know your host | Trailer | ONE Podcast",
         "trackTimeMillis": 83000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/get-to-know-your-host-trailer-one-podcast/id1834627264?i=1000722932479&uo=4",
+        "wrapperType": "podcastEpisode"
+      }
+    ]
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/7EGvskhHjcWrdrQ1yLb6vG",
+    "spotify_data": null,
+    "apple": "https://podcasts.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546",
+    "apple_data": [
+      {
+        "artistName": "VANG BH",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/f1/dd/35f1dd99-8fce-eaf4-0558-f88ae327bad7/mza_2996195546994458558.jpg/100x100bb.jpg",
+        "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/f1/dd/35f1dd99-8fce-eaf4-0558-f88ae327bad7/mza_2996195546994458558.jpg/30x30bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/f1/dd/35f1dd99-8fce-eaf4-0558-f88ae327bad7/mza_2996195546994458558.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/f1/dd/35f1dd99-8fce-eaf4-0558-f88ae327bad7/mza_2996195546994458558.jpg/600x600bb.jpg",
+        "collectionCensoredName": "Slim Inkopen, Slim Afvoeren",
+        "collectionExplicitness": "notExplicit",
+        "collectionHdPrice": 0,
+        "collectionId": 1779138546,
+        "collectionName": "Slim Inkopen, Slim Afvoeren",
+        "collectionPrice": 0.0,
+        "collectionViewUrl": "https://podcasts.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546?uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "currency": "EUR",
+        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
+        "genreIds": [
+          "1511",
+          "26",
+          "1321",
+          "1494"
+        ],
+        "genres": [
+          "Overheid",
+          "Podcasts",
+          "Zakelijk",
+          "Non-profit"
+        ],
+        "kind": "podcast",
+        "primaryGenreName": "Overheid",
+        "releaseDate": "2024-11-11T11:00:00Z",
+        "trackCensoredName": "Slim Inkopen, Slim Afvoeren",
+        "trackCount": 5,
+        "trackExplicitness": "cleaned",
+        "trackId": 1779138546,
+        "trackName": "Slim Inkopen, Slim Afvoeren",
+        "trackPrice": 0.0,
+        "trackTimeMillis": 113,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546?uo=4",
+        "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1779138546,
+        "collectionName": "Slim Inkopen, Slim Afvoeren",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Dide Vonk duikt in de verduurzaming van de cultuursector. Ze spreekt met Denise Derksen van het ministerie van OCenW en Johanna Minnaard van VANG Buitenshuis over hun gezamenlijke missie om afval te verminderen en circulariteit te bevorderen binnen musea, theaters, festivals en andere culturele instellingen.\n\nOok schuift Ryanne de Boer van de NAPK (brancheorganisatie voor podiumkunsten) aan, om te vertellen over het hergebruik van decorstukken en het werken met tweedehands materialen. Van inspirerende voorbeelden uit de festivalwereld tot duurzame producties in het theater; deze aflevering toont de kracht van samenwerking en kennisdeling binnen de cultuursector.\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/21364/4-de-cultuursector",
+        "episodeUrl": "https://media.transistor.fm/1886093b/73c92a8f.mp3",
+        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://media.transistor.fm/1886093b/73c92a8f.mp3",
+        "releaseDate": "2024-11-11T11:00:00Z",
+        "shortDescription": "",
+        "trackId": 1000676543818,
+        "trackName": "#4 De Cultuursector",
+        "trackTimeMillis": 1258000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/4-de-cultuursector/id1779138546?i=1000676543818&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1779138546,
+        "collectionName": "Slim Inkopen, Slim Afvoeren",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Dide Vonk gaat in gesprek met Rebekka de Koning van het Kenniscentrum Sport & Bewegen. Rebekka vertelt hoe sportverenigingen stappen kunnen zetten in duurzaamheid, van afvalscheiding tot het verminderen van plasticgebruik in kantines.\u2028\nOok schuift Leonie Boon aan. Zij vertelt over hoe 5 sportverenigingen in Hendrik-Ido-Ambacht hun afvalscheiding willen co\u00f6rdineren.\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/21364/3-kenniscentrum-sport-bewegen",
+        "episodeUrl": "https://media.transistor.fm/5d8eb32b/e6aecef5.mp3",
+        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://media.transistor.fm/5d8eb32b/e6aecef5.mp3",
+        "releaseDate": "2024-11-11T11:00:00Z",
+        "shortDescription": "",
+        "trackId": 1000676543756,
+        "trackName": "#3 Kenniscentrum Sport & Bewegen",
+        "trackTimeMillis": 1048000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/3-kenniscentrum-sport-bewegen/id1779138546?i=1000676543756&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/b6/e5/3db6e540-47d3-e52f-dd00-af23313c0b8a/mza_5328351714129017698.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1779138546,
+        "collectionName": "Slim Inkopen, Slim Afvoeren",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Dide Vonk spreekt Marleen Strien, citymarketeer bij De Nieuwe Winkelstraat. Marleen vertelt hoe winkelstraten duurzamer kunnen worden via samenwerkingen tussen gemeenten, vastgoedondernemers en winkeliers. Van innovatieve afvaloplossingen tot uitdagingen rondom lokale regels.\u2028\nOok horen we Elizabeth Wemmenhoven, van Oscar Circulair. Zij verteld over hun streven om alle steden afvalvrij te maken.\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/21364/2-de-nieuwe-winkelstraat",
+        "episodeUrl": "https://media.transistor.fm/51545abc/0035cd4f.mp3",
+        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://media.transistor.fm/51545abc/0035cd4f.mp3",
+        "releaseDate": "2024-11-11T11:00:00Z",
+        "shortDescription": "",
+        "trackId": 1000676543793,
+        "trackName": "#2 De Nieuwe Winkelstraat",
+        "trackTimeMillis": 1221000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/2-de-nieuwe-winkelstraat/id1779138546?i=1000676543793&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/13/76/0c1376f8-a1b0-f10a-a6b4-0006abd7be4a/mza_18391987968276014083.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/13/76/0c1376f8-a1b0-f10a-a6b4-0006abd7be4a/mza_18391987968276014083.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/13/76/0c1376f8-a1b0-f10a-a6b4-0006abd7be4a/mza_18391987968276014083.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1779138546,
+        "collectionName": "Slim Inkopen, Slim Afvoeren",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In deze eerste aflevering gaat Dide Vonk in gesprek met Nina van den Berg, projectmanager bij de Green Business Club. Nina deelt inspirerende voorbeelden van afvalbewustzijn en scheidingsinitiatieven op de Zuidas, waar ze zich al jaren inzet voor een groenere werkomgeving.\n\nDaarnaast vertelt Wilbrand Kuijt, facilitair manager bij advocatenkantoor Baker & McKenzie, over zijn ervaring met het verduurzamen van een kantoorpand. Hoe motiveer je mensen, wat werkt er wel en niet, en wat zijn de belangrijkste lessen die hij leerde?\n\nWil je meer weten over de initiatieven van VANG Buitenshuis en hoe bedrijven kunnen bijdragen aan een schonere toekomst? Luister naar de andere afleveringen en bezoek de website van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/21364/1",
+        "episodeUrl": "https://media.transistor.fm/ba396909/59cfefa4.mp3",
+        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://media.transistor.fm/ba396909/59cfefa4.mp3",
+        "releaseDate": "2024-11-11T11:00:00Z",
+        "shortDescription": "",
+        "trackId": 1000676538990,
+        "trackName": "#1 Green Business Club",
+        "trackTimeMillis": 1220000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/1-green-business-club/id1779138546?i=1000676538990&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/49/15/62491583-06b4-59f0-07ec-621f980d85b2/mza_16332808817878050827.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/49/15/62491583-06b4-59f0-07ec-621f980d85b2/mza_16332808817878050827.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/49/15/62491583-06b4-59f0-07ec-621f980d85b2/mza_16332808817878050827.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1779138546,
+        "collectionName": "Slim Inkopen, Slim Afvoeren",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/slim-inkopen-slim-afvoeren/id1779138546?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Van plastic bekers tot kantoormeubels, en van tissues tot sportkleding: bedrijfsafval is er in vele vormen. Hoe zorgen organisaties dat ze minder afval produceren? In de podcast Slim Inkopen, Slim Afvoeren bespreken we afvalproblemen, maar vooral ook afvaloplossingen.\u00a0\n\nSlim Inkopen, Slim Afvoeren is een productie van VANG Buitenshuis, een programma van het ministerie van Infrastructuur en Waterstaat. Meer weten? Ga naar vangbuitenshuis.nl en kijk hoe jouw bedrijf kan bijdragen aan een circulaire economie. Je vindt daar ook de andere afleveringen van de podcast.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/21364/trailer-slim-inkopen-slim-afvoeren",
+        "episodeUrl": "https://media.transistor.fm/2abc1c45/7ca6111f.mp3",
+        "feedUrl": "https://feeds.transistor.fm/slim-inkopen-slim-afvoeren",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://media.transistor.fm/2abc1c45/7ca6111f.mp3",
+        "releaseDate": "2024-11-11T11:00:00Z",
+        "shortDescription": "",
+        "trackId": 1000676539127,
+        "trackName": "Trailer Slim Inkopen, Slim Afvoeren",
+        "trackTimeMillis": 113000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/trailer-slim-inkopen-slim-afvoeren/id1779138546?i=1000676539127&uo=4",
         "wrapperType": "podcastEpisode"
       }
     ]
