@@ -106849,9 +106849,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/f5/1d/68f51d04-0730-abf9-902a-7710692c2691/mza_1787613990096026594.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/f5/1d/68f51d04-0730-abf9-902a-7710692c2691/mza_1787613990096026594.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/f5/1d/68f51d04-0730-abf9-902a-7710692c2691/mza_1787613990096026594.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/c4/39/08c43918-2244-f6b6-a4ef-8ea369a91f46/mza_5052831734278644485.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/c4/39/08c43918-2244-f6b6-a4ef-8ea369a91f46/mza_5052831734278644485.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/c4/39/08c43918-2244-f6b6-a4ef-8ea369a91f46/mza_5052831734278644485.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -144350,7 +144350,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-04-10T14:59:00Z",
         "trackCensoredName": "De Innovatie Ambtenaar",
-        "trackCount": 46,
+        "trackCount": 47,
         "trackExplicitness": "cleaned",
         "trackId": 1502281387,
         "trackName": "De Innovatie Ambtenaar",
@@ -144358,6 +144358,39 @@
         "trackTimeMillis": 4272,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-innovatie-ambtenaar/id1502281387?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b6/32/32/b6323263-d43f-b0fa-380e-727756cae06d/mza_12461820988522480397.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b6/32/32/b6323263-d43f-b0fa-380e-727756cae06d/mza_12461820988522480397.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b6/32/32/b6323263-d43f-b0fa-380e-727756cae06d/mza_12461820988522480397.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1502281387,
+        "collectionName": "De Innovatie Ambtenaar",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-innovatie-ambtenaar/id1502281387?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In deze aflevering neemt Jeroen je mee in editie twee van het SVB Innovatieprogramma \u2013 officieel omgedoopt van het Novum Innovatieprogramma naar het SVB Innovatieprogramma. Hij praat met Sofie, innovation designer en bedenker van het programma, en Claire, die voor het eerst als co-facilitator aanhaakte.\nZe bespreken:\nWat er is veranderd tussen editie \u00e9\u00e9n en twee (go/no-go-momenten, teamgrootte, vaste structuur)Hoe je opdrachtgevers \u00e9cht betrekt in een innovatietrajectHet verschil tussen coachen en faciliteren \u2013 en waar die grens zitWaarom het programma nu herhaalbaarbaar is, maar een facilitator altijd nodig blijftPraktische tips voor andere organisaties die zoiets willen opzettenWanneer je kiest voor \u00e9\u00e9n innovatietraject versus een innovatieprogramma\ud83d\udce9 Interesse in het model of meer informatie? Mail naar innovatie@svb.nl\n\ud83c\udf10 Tools en materialen: svb.nl/innovatie\nGasten: Sofie (innovation designer, extern - Sofie Lievens | LinkedIn) & Claire (innovation designer, Novum)\nHost: Jeroen (innovation designer, Novum)\nHoofdstukmarkeringen :\n> - 0:00 \u2013 Introductie & wie zijn Sophie en Claire?> - 12:00 \u2013 Van pilot naar herhaalbaar model: wat is er veranderd?> - 22:00 \u2013 Go/no-go-momenten en betrokkenheid van opdrachtgevers> - 35:00 \u2013 Coachen vs. faciliteren: de balans bewaken> - 46:00 \u2013 Interviews met eindgebruikers: wat gaat er vaak mis?> - 54:00 \u2013 Editie drie en de toekomst van het programma> - 61:00 \u2013 Tips voor andere organisaties> - 67:00 \u2013 Reflectie en grappigste momenten",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "fa9079c2-5c18-4af1-8422-60e171a5a741",
+        "episodeUrl": "https://anchor.fm/s/1192d0e0/podcast/play/121049492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2F50ba67bc-69db-be63-a45f-0b173b0d6a2e.mp3",
+        "feedUrl": "https://anchor.fm/s/1192d0e0/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/1192d0e0/podcast/play/121049492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2F50ba67bc-69db-be63-a45f-0b173b0d6a2e.mp3",
+        "releaseDate": "2026-06-05T14:05:00Z",
+        "shortDescription": "In deze aflevering neemt Jeroen je mee in editie twee van het SVB Innovatieprogramma \u2013 officieel omgedoopt van het Novum Innovatieprogramma naar het SVB Innovatieprogramma. Hij praat met Sofie, innovation designer en bedenker van het programma, en Cla",
+        "trackId": 1000771328423,
+        "trackName": "Editie 2 van het SVB Innovatieprogramma: van pilot naar herhaalbaar model",
+        "trackTimeMillis": 4183000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/editie-2-van-het-svb-innovatieprogramma-van-pilot-naar/id1502281387?i=1000771328423&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
