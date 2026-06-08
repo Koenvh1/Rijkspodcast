@@ -130876,7 +130876,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-01-28T09:52:00Z",
         "trackCensoredName": "Rijkswaterstaat",
-        "trackCount": 43,
+        "trackCount": 44,
         "trackExplicitness": "cleaned",
         "trackId": 1388334689,
         "trackName": "Rijkswaterstaat",
@@ -130884,6 +130884,39 @@
         "trackTimeMillis": 1421,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/rijkswaterstaat/id1388334689?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/54/34/a55434a2-901a-0e38-9995-d0f2b3e7bffb/mza_2300361666093242077.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/54/34/a55434a2-901a-0e38-9995-d0f2b3e7bffb/mza_2300361666093242077.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/54/34/a55434a2-901a-0e38-9995-d0f2b3e7bffb/mza_2300361666093242077.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1388334689,
+        "collectionName": "Rijkswaterstaat",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/rijkswaterstaat/id1388334689?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In 1876 werd het Noordzeekanaal geopend. Het aanleggen van dit kanaal was voor die tijd een gedurfde onderneming, want het kanaal ging, en gaat, dwars door de duinen. Het nieuwe Noordzeekanaal gaf de haven van Amsterdam de mogelijkheid om bereikbaar te blijven voor de steeds groter wordende schepen. En voor Amsterdamse om het vieze water uit haar grachten weg te laten stromen richting zee.\n\nNu, 150 jaar later, heeft het Noordzeekanaal gezorgd voor de geboorte van IJmuiden, speelt het een belangrijke rol in de waterhuishouding van Noord-Nederland en begint het kanaal bij de grootste zeesluis ter wereld. En als gevolg van klimaatontwikkelingen staat het kanaal constant voor nieuwe uitdagingen. \n\nBotte Jellema viert de verjaardag van het Noorzeekanaal met Cor Oudendijk, directeur van het IJmuider zee en havenmuseum, Hij vertelt over de roemruchte geschiedenis van het kanaal. Rijkswaterstaat-omgevingsmanager Jan Rienstra deelt voor welke technische uitdagingen we nu en in de toekomst met het kanaal staan. Luister mee naar 150 jaar Noordzeekanaal.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "tag:soundcloud,2010:tracks/2335396328",
+        "episodeUrl": "https://feeds.soundcloud.com/stream/2335396328-rijkswaterstaat-noordzeekanaal-150jaar.mp3",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:419451510/sounds.rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://feeds.soundcloud.com/stream/2335396328-rijkswaterstaat-noordzeekanaal-150jaar.mp3",
+        "releaseDate": "2026-06-08T13:50:07Z",
+        "shortDescription": "In 1876 werd het Noordzeekanaal geopend. Het aanleggen van dit kanaal was voor die tijd een gedurfde onderneming, want het kanaal ging, en gaat, dwars door de duinen. Het nieuwe Noordzeekanaal gaf de haven van Amsterdam de mogelijkheid om bereikbaar te",
+        "trackId": 1000771696013,
+        "trackName": "#44  Dwars door de duinen: 150 jaar Noordzeekanaal",
+        "trackTimeMillis": 1477000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/44-dwars-door-de-duinen-150-jaar-noordzeekanaal/id1388334689?i=1000771696013&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],

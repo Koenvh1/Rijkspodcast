@@ -3,11 +3,26 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-06T11:28:24Z</updated>
+	<updated>2026-06-08T23:13:26Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Rijkswaterstaat - #44  Dwars door de duinen: 150 jaar Noordzeekanaal</title>
+		<link href="https://podcasts.apple.com/nl/podcast/44-dwars-door-de-duinen-150-jaar-noordzeekanaal/id1388334689?i=1000771696013&amp;uo=4" rel="alternate" />
+		<summary>In 1876 werd het Noordzeekanaal geopend. Het aanleggen van dit kanaal was voor die tijd een gedurfde onderneming, want het kanaal ging, en gaat, dwars door de duinen. Het nieuwe Noordzeekanaal gaf de haven van Amsterdam de mogelijkheid om bereikbaar te blijven voor de steeds groter wordende schepen. En voor Amsterdamse om het vieze water uit haar grachten weg te laten stromen richting zee.
+
+Nu, 150 jaar later, heeft het Noordzeekanaal gezorgd voor de geboorte van IJmuiden, speelt het een belangrijke rol in de waterhuishouding van Noord-Nederland en begint het kanaal bij de grootste zeesluis ter wereld. En als gevolg van klimaatontwikkelingen staat het kanaal constant voor nieuwe uitdagingen. 
+
+Botte Jellema viert de verjaardag van het Noorzeekanaal met Cor Oudendijk, directeur van het IJmuider zee en havenmuseum, Hij vertelt over de roemruchte geschiedenis van het kanaal. Rijkswaterstaat-omgevingsmanager Jan Rienstra deelt voor welke technische uitdagingen we nu en in de toekomst met het kanaal staan. Luister mee naar 150 jaar Noordzeekanaal.</summary>
+		<author>
+			<name>Rijkswaterstaat podcast</name>
+		</author>
+		<link href="https://feeds.soundcloud.com/stream/2335396328-rijkswaterstaat-noordzeekanaal-150jaar.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000771696013</id>
+		<updated>2026-06-08T13:50:07Z</updated>
+	</entry>
 	<entry>
 		<title>De Innovatie Ambtenaar - Editie 2 van het SVB Innovatieprogramma: van pilot naar herhaalbaar model</title>
 		<link href="https://podcasts.apple.com/nl/podcast/editie-2-van-het-svb-innovatieprogramma-van-pilot-naar/id1502281387?i=1000771328423&amp;uo=4" rel="alternate" />
