@@ -3,11 +3,26 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-08T23:13:26Z</updated>
+	<updated>2026-06-09T09:46:21Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Publieke Ruimte - Een digitaal autonome cloud: luchtfietserij?</title>
+		<link href="https://podcasts.apple.com/nl/podcast/een-digitaal-autonome-cloud-luchtfietserij/id1568120402?i=1000771783398&amp;uo=4" rel="alternate" />
+		<summary>De overheid wil meer regie over haar eigen digitale infrastructuur. Niet alleen om minder afhankelijk te zijn van Amerikaanse Big Tech. Maar ook omdat digitale autonomie een democratische randvoorwaarde is. Toch besteden overheden cloudvoorzieningen vooralsnog individueel aan zonder daarbij samen te werken. Dat kan toch anders? Hoogste tijd voor een overheidsbrede soevereine cloudvoorziening en een centrale marktplaats voor cloudtechnologieën.
+
+Martijn en Otto gaan hierover in gesprek met Ron Kolkman, voorzitter van het aanjaagteam Cloud binnen de Nederlandse Digitaliseringsstrategie (NDS) en hoofdingenieur-directeur bij Rijkswaterstaat. Over de collectieve inzet van gemeenten spreken ze met Jacco Brouwer, beleidscoördinator Cloud en Digitalisering bij de VNG.  En ook de Waterschappen zitten niet stil. Zo blijkt uit het verhaal van Rozemarijn ter Horst, programmamanager Collectieve Thema's bij het Waterschapshuis. Dat is de gemeenschappelijke regeling waarin 21 waterschappen werken aan een digitale agenda.
+
+Een simpel gesprek over complexe onderwerpen zoals de meerwaarde van een autonome werkplek, het nut van dataportabiliteit, de kracht van Europese jurisdictie en de uitdaging om een Toyota Prius te verkopen aan BMW-rijders.</summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<link href="https://mcdn.podbean.com/mf/web/6rrk9pw96aixmxvf/Edit_NDS_Cloud_DEF_DEF8g2yh.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000771783398</id>
+		<updated>2026-06-09T01:02:00Z</updated>
+	</entry>
 	<entry>
 		<title>Rijkswaterstaat - #44  Dwars door de duinen: 150 jaar Noordzeekanaal</title>
 		<link href="https://podcasts.apple.com/nl/podcast/44-dwars-door-de-duinen-150-jaar-noordzeekanaal/id1388334689?i=1000771696013&amp;uo=4" rel="alternate" />
