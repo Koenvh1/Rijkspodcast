@@ -3,11 +3,25 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-10T10:02:52Z</updated>
+	<updated>2026-06-10T23:26:49Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Voeten in de Aarde - #13 Biobased gewassen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/13-biobased-gewassen/id1785659013?i=1000772017326&amp;uo=4" rel="alternate" />
+		<summary>In ‘Voeten in de aarde’ hoor je over vernieuwingen in de landbouw, waarmee jij je eigen agrarische bedrijf meer toekomstbestendig kunt maken. 
+In deze aflevering verdiepen we ons in stro als biobased gewas. Om deze ontwikkeling in de praktijk te ervaren, reist Marijke Roskam af naar Haarlo in de Achterhoek. Daar gaat ze op bezoek bij melkveehouder Arjan Prinsen, die op zijn melkveebedrijf ook tarwe verbouwt. Die tarwe levert niet alleen veevoer op, maar het stro ervan kan ook worden ingezet als duurzaam bouwmateriaal. Arjan vertelt welke kansen dit soort biobased gewassen bieden voor agrariërs en hoe deze teelt kan zorgen voor een extra inkomstenbron.
+Daarnaast spreekt Marijke met Arne Eindhoven, marktmeester en ketenregisseur in de Achterhoek. Hij legt uit waarom een goed georganiseerde keten noodzakelijk is voor het succes van biobased gewassen en hoe hij bouwbedrijven en agrariërs met elkaar verbindt. Zo ontstaat meer zekerheid voor boeren die willen investeren in deze nieuwe markt.
+Wil je meer weten over biobased gewassen of andere innovaties in de landbouw? Ga dan naar groeiennaarmorgen.nl.</summary>
+		<author>
+			<name>Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN)</name>
+		</author>
+		<link href="https://media.transistor.fm/98fc5da9/4d5a96d5.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000772017326</id>
+		<updated>2026-06-10T10:56:21Z</updated>
+	</entry>
 	<entry>
 		<title>De Publieke Ruimte - Een digitaal autonome cloud: luchtfietserij?</title>
 		<link href="https://podcasts.apple.com/nl/podcast/een-digitaal-autonome-cloud-luchtfietserij/id1568120402?i=1000771783398&amp;uo=4" rel="alternate" />
