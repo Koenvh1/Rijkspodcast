@@ -3,11 +3,33 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-17T23:26:11Z</updated>
+	<updated>2026-06-18T10:22:46Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>WRR Vogelvlucht - #36 WRR Een tegenstrijdig evenwicht</title>
+		<link href="https://podcasts.apple.com/nl/podcast/36-wrr-een-tegenstrijdig-evenwicht/id1518310158?i=1000773235849&amp;uo=4" rel="alternate" />
+		<summary>#36 WRR Een tegenstrijdig evenwicht by WRR</summary>
+		<author>
+			<name>WRR</name>
+		</author>
+		<link href="https://feeds.soundcloud.com/stream/2341576877-wrr-den-haag-36-wrr-een-tegenstrijdig.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000773235849</id>
+		<updated>2026-06-18T06:57:42Z</updated>
+	</entry>
+	<entry>
+		<title>WRR Vogelvlucht - Podcast WRR Drugsbeleid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/podcast-wrr-drugsbeleid/id1518310158?i=1000773230370&amp;uo=4" rel="alternate" />
+		<summary>Podcast WRR Drugsbeleid by WRR</summary>
+		<author>
+			<name>WRR</name>
+		</author>
+		<link href="https://feeds.soundcloud.com/stream/2341572911-wrr-den-haag-podcast-wrr-drugsbeleid.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000773230370</id>
+		<updated>2026-06-18T06:44:49Z</updated>
+	</entry>
 	<entry>
 		<title>Echte politieverhalen - ‘Er lag ineens overal bloed, ik schrok me kapot’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/er-lag-ineens-overal-bloed-ik-schrok-me-kapot/id1751266358?i=1000773068512&amp;uo=4" rel="alternate" />
