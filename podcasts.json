@@ -204274,7 +204274,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-05-28T14:43:00Z",
         "trackCensoredName": "AMLC podcast",
-        "trackCount": 110,
+        "trackCount": 111,
         "trackExplicitness": "cleaned",
         "trackId": 1565172628,
         "trackName": "AMLC podcast",
@@ -204282,6 +204282,39 @@
         "trackTimeMillis": 1983,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/amlc-podcast/id1565172628?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cf/df/65/cfdf65b8-e726-d421-3ba3-50bb845b8d2d/mza_7992802507288870698.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1565172628,
+        "collectionName": "AMLC podcast",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/amlc-podcast/id1565172628?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In deze aflevering onderzoeken we of criminelen lease-constructies kunnen gebruiken om criminele geldstromen te verhullen. Met Jules Verlinde (De Lage Landen), Peter-Jan Bentijn (Leasing Nederland) en AML-specialist Paul van het AMLC, bespreken we:\u2705 Sale & Lease Back als witwasroute\u2705 Red flags zoals onlogische aantallen assets, derde partij betalingen en vervroegde aflossingen\u2705 Mitigerende maatregelen en de rol van poortwachter\u2705 Samenwerkingsuitdagingen tussen leasemaatschappijen, banken en opsporingsdiensten\nLuister en leer hoe jij witwasconstructies in de lease-sector kunt herkennen!",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "3342c06f-eba0-40cf-a571-1fd3b591d556",
+        "episodeUrl": "https://anchor.fm/s/56d70950/podcast/play/121722656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F83f8a65a-cbdb-39c8-6575-08927eeae82a.mp3",
+        "feedUrl": "https://anchor.fm/s/56d70950/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/56d70950/podcast/play/121722656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F83f8a65a-cbdb-39c8-6575-08927eeae82a.mp3",
+        "releaseDate": "2026-06-22T07:34:00Z",
+        "shortDescription": "In deze aflevering onderzoeken we of criminelen lease-constructies kunnen gebruiken om criminele geldstromen te verhullen. Met Jules Verlinde (De Lage Landen), Peter-Jan Bentijn (Leasing Nederland) en AML-specialist Paul van het AMLC, bespreken we:\u2705 S",
+        "trackId": 1000773696766,
+        "trackName": "111. Witwasrisico's in de lease sector",
+        "trackTimeMillis": 2087000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/111-witwasrisicos-in-de-lease-sector/id1565172628?i=1000773696766&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
