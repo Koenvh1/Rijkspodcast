@@ -3,11 +3,26 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-22T18:47:34Z</updated>
+	<updated>2026-06-23T09:41:18Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Publieke Ruimte - Een Slagvaardige Overheid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/een-slagvaardige-overheid/id1568120402?i=1000773813724&amp;uo=4" rel="alternate" />
+		<summary>Een slagvaardige overheid gaat complexiteit te lijf met de jaarlijkse Vereenvoudigingswet. Maar beschikt de overheid al over de benodigde veranderinfrastructuur, -filosofie en -rollen om dat waar te maken? Het is vooral een kwestie van doen! Zo bleek tijdens de vijfde editie van de Dag van de Publieke Dienstverlening, georganiseerd door het Programma Werk aan Uitvoering.
+
+Otto en Martijn gaan in gesprek met Bart Snels (kwartiermaker Slagvaardige Overheid bij het ministerie van Binnenlandse Zaken) en Hans Ouwehand (voorzitter van de Raad van Bestuur van het CAK, die zich inspant voor ‘uitstekende (digitale) dienstverlening’, een van de vier actielijnen van de Slagvaardige Overheid). Daarnaast horen we Staatssecretaris Eric van der Burg over de politieke drive achter deze opdracht.
+
+Tijdens de Dag van de Publieke Dienstverlening, voerden professionals uit beleid en uitvoering diverse trialogen met Eerste en Tweede Kamerleden. Hoe dat is bevallen vertellen Mary Fiers, Barbara Kathmann, Joost Sneller en Robin van Leijen. En Sandra van Thiel (professor public management aan de Erasmus Universiteit) legt uit welke Haagse driehoeken er bestaan, en hoe een trialoog kan helpen om  de gesprekscyclus te verbeteren tussen bestuur, beleid en uitvoering.</summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<link href="https://mcdn.podbean.com/mf/web/dgfe8fs3h9pirzw6/DvdPD_edit_mixdown_DEF79bsb.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000773813724</id>
+		<updated>2026-06-23T00:43:00Z</updated>
+	</entry>
 	<entry>
 		<title>AMLC podcast - 111. Witwasrisico's in de lease sector</title>
 		<link href="https://podcasts.apple.com/nl/podcast/111-witwasrisicos-in-de-lease-sector/id1565172628?i=1000773696766&amp;uo=4" rel="alternate" />
