@@ -80501,9 +80501,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/05/48/610548f9-5c29-ee43-6ebd-629932c2f4df/mza_3172213333174343676.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/05/48/610548f9-5c29-ee43-6ebd-629932c2f4df/mza_3172213333174343676.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/61/05/48/610548f9-5c29-ee43-6ebd-629932c2f4df/mza_3172213333174343676.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d1/98/82/d19882bd-7c7b-e1be-3922-d878912f3aa1/mza_3914341936001655799.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d1/98/82/d19882bd-7c7b-e1be-3922-d878912f3aa1/mza_3914341936001655799.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d1/98/82/d19882bd-7c7b-e1be-3922-d878912f3aa1/mza_3914341936001655799.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1779274214,
         "collectionName": "Fiscaal Wijzer",
@@ -197449,7 +197449,7 @@
         "primaryGenreName": "Onderwijs",
         "releaseDate": "2026-05-27T07:00:00Z",
         "trackCensoredName": "SSR Meestervertellers",
-        "trackCount": 81,
+        "trackCount": 80,
         "trackExplicitness": "cleaned",
         "trackId": 1481318192,
         "trackName": "SSR Meestervertellers",
@@ -197457,39 +197457,6 @@
         "trackTimeMillis": 1072,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/ssr-meestervertellers/id1481318192?uo=4",
         "wrapperType": "track"
-      },
-      {
-        "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/600x600bb.jpg",
-        "closedCaptioning": "none",
-        "collectionId": 1481318192,
-        "collectionName": "SSR Meestervertellers",
-        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/ssr-meestervertellers/id1481318192?mt=2&uo=4",
-        "contentAdvisoryRating": "Clean",
-        "country": "NLD",
-        "description": "Bijna 30 jaar lang kregen vrouwelijke rechters (in opleiding) niet hetzelfde betaald als hun mannelijke collega\u2019s voor hetzelfde werk, terwijl ze soms jaren meer werkervaring hadden. Er werd bij de inschaling namelijk gekeken naar het laatstverdiende loon en daar hebben vrouwen meer nadeel van. Zo concludeerde het College voor de rechten van de Mens onlangs (5 maart jl.) dat vrouwelijke rechters jarenlang zijn gediscrimineerd. Sannah H\u00fcbel, rechter in hoger beroep bij het gerechtshof in Amsterdam, zet zich al jarenlang actief in voor deze discussie.\n\n\nSamen met Daan Langkamp gaat ze in gesprek over de ongelijke beloning van rechters en wat er moet veranderen in de rechterlijke organisatie om dit te doorbreken.",
-        "episodeContentType": "audio",
-        "episodeFileExtension": "mp3",
-        "episodeGuid": "627ae96a-6c29-4821-ab60-2e0acd1f3ecc",
-        "episodeUrl": "https://aphid.fireside.fm/d/1437767933/0a88c135-a567-4c20-9eea-2092a570b578/627ae96a-6c29-4821-ab60-2e0acd1f3ecc.mp3",
-        "feedUrl": "https://feeds.fireside.fm/ssr/rss",
-        "genres": [
-          {
-            "name": "Education",
-            "id": "1304"
-          }
-        ],
-        "kind": "podcast-episode",
-        "previewUrl": "https://aphid.fireside.fm/d/1437767933/0a88c135-a567-4c20-9eea-2092a570b578/627ae96a-6c29-4821-ab60-2e0acd1f3ecc.mp3",
-        "releaseDate": "2026-06-25T09:30:00Z",
-        "shortDescription": "Bijna 30 jaar lang kregen vrouwelijke rechters (in opleiding) niet hetzelfde betaald als hun mannelijke collega\u2019s voor hetzelfde werk, terwijl ze soms jaren meer werkervaring hadden. Er werd bij de inschaling namelijk gekeken naar het laatstverdiende",
-        "trackId": 1000774167890,
-        "trackName": "Episode 81: Sannah H\u00fcbel - Gelijke beloning",
-        "trackTimeMillis": 1136000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/episode-81-sannah-h%C3%BCbel-gelijke-beloning/id1481318192?i=1000774167890&uo=4",
-        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
