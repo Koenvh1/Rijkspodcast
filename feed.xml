@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-26T23:08:14Z</updated>
+	<updated>2026-06-27T08:37:55Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De top kijkt om - “De gedroomde ambtenaar kan perspectieven bij elkaar brengen”</title>
+		<link href="https://podcasts.apple.com/nl/podcast/de-gedroomde-ambtenaar-kan-perspectieven-bij-elkaar/id1570437574?i=1000774327850&amp;uo=4" rel="alternate" />
+		<summary>Marjan Hammersma stapte van de publieke omroep over naar het ministerie Onderwijs, Cultuur en Wetenschap (OCW). Ze begon als directeur Media, Letteren en Bibliotheken, werd DG Media en cultuur, en vervolgens SG van hetzelfde ministerie. Snel na haar aantreden als directeur begon de politiek zich te roeren rondom het mediabeleid. “Ik realiseerde me dat de ratio niet altijd overheerst, en er soms echt politieke deals worden gesloten.” Het contact met de buitenwereld vindt ze belangrijk. Als beleidsambtenaar moet je niet in de ivoren toren blijven, maar ook op de werkvloer zichtbaar zijn. “Ik denk dat ambtenaren moeten zien hoe het in de praktijk gaat, en dat kunnen vertalen naar uitvoerbaar beleid.” Luister naar mevrouw Hammersma in gesprek met Guido Rijnja en Erik-Jan van Dorp.</summary>
+		<author>
+			<name>Interviews met oud-bewindspersonen en oud-topambtenaren</name>
+		</author>
+		<link href="https://anchor.fm/s/59362d70/podcast/play/122018242/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2F426864671-44100-2-b4e1d8d420cbc.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000774327850</id>
+		<updated>2026-06-26T09:43:47Z</updated>
+	</entry>
 	<entry>
 		<title>Klapmok met Thee - #122: Bij Bronbeek t(e)huis</title>
 		<link href="https://podcasts.apple.com/nl/podcast/122-bij-bronbeek-t-e-huis/id1566819266?i=1000774277279&amp;uo=4" rel="alternate" />
