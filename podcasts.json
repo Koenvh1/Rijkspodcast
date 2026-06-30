@@ -42966,7 +42966,7 @@
         "primaryGenreName": "Gezondheid en fitness",
         "releaseDate": "2026-06-04T02:33:00Z",
         "trackCensoredName": "Zorgklank - handvatten voor professionals in de zorg",
-        "trackCount": 42,
+        "trackCount": 43,
         "trackExplicitness": "cleaned",
         "trackId": 1780286589,
         "trackName": "Zorgklank - handvatten voor professionals in de zorg",
@@ -42974,6 +42974,39 @@
         "trackTimeMillis": 1896,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/zorgklank-handvatten-voor-professionals-in-de-zorg/id1780286589?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1780286589,
+        "collectionName": "Zorgklank - handvatten voor professionals in de zorg",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/zorgklank-handvatten-voor-professionals-in-de-zorg/id1780286589?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Er worden steeds meer digitale gezondheidsapps ontwikkeld die mensen helpen om zelf aan hun gezondheid te werken. Toch vinden veel van die innovaties de weg naar de dagelijkse praktijk nog niet. Huisartsen zien de mogelijkheden, maar welke apps zijn betrouwbaar? Wanneer zet je ze in? En hoe zorg je ervoor dat ze op het juiste moment onderdeel worden van het zorgproces?\n \u00a0\n In deze aflevering van\u00a0Zorgklank\u00a0praten we daarover met twee initiatiefnemers van DIGA.NL: huisarts\u00a0Mariette Willems\u00a0en\u00a0Ren\u00e9 Bouma, landelijk projectleider DIGA.NL namens Zorgverzekeraars Nederland.\n \u00a0\n We bespreken waarom goede gezondheidsapps nog onvoldoende worden toegepast, welke drempels er zijn op het gebied van financiering, betrouwbaarheid en implementatie, en waarom landelijke samenwerking nodig is om digitale zorg echt op te schalen.\n \u00a0\n Ook gaan we in op de lancering van het nieuwe DIGANL-platform, waarop de eerste bewezen effectieve gezondheidsapps beschikbaar zijn:\n   URinControl\n   Vertigo Training\n   Untire Now\n   \u00a0\n Apps die mensen helpen om zelf meer regie te nemen, onnodige vervolgzorg kunnen voorkomen en zorgprofessionals ondersteunen bij passende zorg.\n \u00a0\n Hoe kies je de juiste app? Hoe zorg je dat digitale ondersteuning een vanzelfsprekend onderdeel wordt van de behandeling? En wat is ervoor nodig om deze nieuwe manier van werken duurzaam in te bedden in de huisartsenzorg?",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "8b9c2428-8adf-52c2-bef2-2fb9cd79ef16",
+        "episodeUrl": "https://rss.springcast.app/nJwuAw/oVueoH2vR/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2FoVueoH2vR%2F6a44224b10abe5.10765400.mp3?source=itms.apple.com",
+        "feedUrl": "https://rss.springcast.app/nJwuAw",
+        "genres": [
+          {
+            "name": "Health & Fitness",
+            "id": "1512"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://rss.springcast.app/nJwuAw/oVueoH2vR/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2FoVueoH2vR%2F6a44224b10abe5.10765400.mp3?source=itms.apple.com",
+        "releaseDate": "2026-06-30T20:01:00Z",
+        "shortDescription": "Er worden steeds meer digitale gezondheidsapps ontwikkeld die mensen helpen om zelf aan hun gezondheid te werken. Toch vinden veel van die innovaties de weg naar de dagelijkse praktijk nog niet. Huisartsen zien de mogelijkheden, maar welke apps zijn bet",
+        "trackId": 1000774898836,
+        "trackName": "S2E19: Digitale gezondheidsapps; van innovatie naar dagelijkse praktijk.",
+        "trackTimeMillis": 2218000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/s2e19-digitale-gezondheidsapps-van-innovatie-naar-dagelijkse/id1780286589?i=1000774898836&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],

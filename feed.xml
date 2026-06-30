@@ -3,11 +3,35 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-06-30T12:10:08Z</updated>
+	<updated>2026-06-30T23:15:21Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Zorgklank - handvatten voor professionals in de zorg - S2E19: Digitale gezondheidsapps; van innovatie naar dagelijkse praktijk.</title>
+		<link href="https://podcasts.apple.com/nl/podcast/s2e19-digitale-gezondheidsapps-van-innovatie-naar-dagelijkse/id1780286589?i=1000774898836&amp;uo=4" rel="alternate" />
+		<summary>Er worden steeds meer digitale gezondheidsapps ontwikkeld die mensen helpen om zelf aan hun gezondheid te werken. Toch vinden veel van die innovaties de weg naar de dagelijkse praktijk nog niet. Huisartsen zien de mogelijkheden, maar welke apps zijn betrouwbaar? Wanneer zet je ze in? En hoe zorg je ervoor dat ze op het juiste moment onderdeel worden van het zorgproces?
+  
+ In deze aflevering van Zorgklank praten we daarover met twee initiatiefnemers van DIGA.NL: huisarts Mariette Willems en René Bouma, landelijk projectleider DIGA.NL namens Zorgverzekeraars Nederland.
+  
+ We bespreken waarom goede gezondheidsapps nog onvoldoende worden toegepast, welke drempels er zijn op het gebied van financiering, betrouwbaarheid en implementatie, en waarom landelijke samenwerking nodig is om digitale zorg echt op te schalen.
+  
+ Ook gaan we in op de lancering van het nieuwe DIGANL-platform, waarop de eerste bewezen effectieve gezondheidsapps beschikbaar zijn:
+   URinControl
+   Vertigo Training
+   Untire Now
+    
+ Apps die mensen helpen om zelf meer regie te nemen, onnodige vervolgzorg kunnen voorkomen en zorgprofessionals ondersteunen bij passende zorg.
+  
+ Hoe kies je de juiste app? Hoe zorg je dat digitale ondersteuning een vanzelfsprekend onderdeel wordt van de behandeling? En wat is ervoor nodig om deze nieuwe manier van werken duurzaam in te bedden in de huisartsenzorg?</summary>
+		<author>
+			<name>Ministerie van VWS</name>
+		</author>
+		<link href="https://rss.springcast.app/nJwuAw/oVueoH2vR/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2FoVueoH2vR%2F6a44224b10abe5.10765400.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000774898836</id>
+		<updated>2026-06-30T20:01:00Z</updated>
+	</entry>
 	<entry>
 		<title>De top kijkt om - “De gedroomde ambtenaar kan perspectieven bij elkaar brengen”</title>
 		<link href="https://podcasts.apple.com/nl/podcast/de-gedroomde-ambtenaar-kan-perspectieven-bij-elkaar/id1570437574?i=1000774327850&amp;uo=4" rel="alternate" />
