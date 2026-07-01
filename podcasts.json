@@ -108235,9 +108235,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/59/50/0a5950f1-d433-ac5d-5744-202e63943e1c/mza_14367827163306593201.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/59/50/0a5950f1-d433-ac5d-5744-202e63943e1c/mza_14367827163306593201.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/59/50/0a5950f1-d433-ac5d-5744-202e63943e1c/mza_14367827163306593201.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/d9/d5/78d9d56c-1288-21b5-6e6b-dbb368969d5d/mza_5982954896456955623.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/d9/d5/78d9d56c-1288-21b5-6e6b-dbb368969d5d/mza_5982954896456955623.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/d9/d5/78d9d56c-1288-21b5-6e6b-dbb368969d5d/mza_5982954896456955623.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",
@@ -186325,7 +186325,7 @@
         "primaryGenreName": "Maatschappij en cultuur",
         "releaseDate": "2025-06-13T05:00:00Z",
         "trackCensoredName": "Ruimte voor de Economie van de toekomst",
-        "trackCount": 10,
+        "trackCount": 11,
         "trackExplicitness": "cleaned",
         "trackId": 1715875557,
         "trackName": "Ruimte voor de Economie van de toekomst",
@@ -186333,6 +186333,39 @@
         "trackTimeMillis": 3267,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/ruimte-voor-de-economie-van-de-toekomst/id1715875557?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f1/93/4c/f1934ca3-ed85-3ff4-fabc-ba3ef02f170f/mza_65045743202329910.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f1/93/4c/f1934ca3-ed85-3ff4-fabc-ba3ef02f170f/mza_65045743202329910.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f1/93/4c/f1934ca3-ed85-3ff4-fabc-ba3ef02f170f/mza_65045743202329910.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1715875557,
+        "collectionName": "Ruimte voor de Economie van de toekomst",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/ruimte-voor-de-economie-van-de-toekomst/id1715875557?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In gesprek met historicus Bas van Bavel kijken Rijksadviseur Thijs van Spaandonk en host Marnix Kluiters terug in de geschiedenis om de mechanismen achter de huidige economie te begrijpen. Hoe zijn de spelregels ontstaan die onze economie vandaag vormgeven? En waarom lijken ze steeds minder goed te werken? Volgens Van Bavel cre\u00ebren markten kansen, maar ook concentraties van macht, bezit en invloed. Vooral grond en kapitaal spelen daarin een cruciale rol. Tegelijk laat de geschiedenis zien dat alternatieven mogelijk zijn. Een gesprek over eigendom, ongelijkheid en de kracht van gemeenschappen, co\u00f6peraties en andere vormen van zelforganisatie. Welke spelregels hebben we nodig voor een economie waarin meer mensen kunnen meedoen?",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://app.springcast.fm/19308/de-grenzen-van-de-markt",
+        "episodeUrl": "https://app.springcast.fm/download/192522/Ag467vt0Qhb6LKO838W0kQjVrJGBxTgW.mp3",
+        "feedUrl": "https://app.springcast.fm/podcast-xml/19308",
+        "genres": [
+          {
+            "name": "Society & Culture",
+            "id": "1324"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://app.springcast.fm/download/192522/Ag467vt0Qhb6LKO838W0kQjVrJGBxTgW.mp3",
+        "releaseDate": "2026-07-01T05:00:00Z",
+        "shortDescription": "In gesprek met historicus Bas van Bavel kijken Rijksadviseur Thijs van Spaandonk en host Marnix Kluiters terug in de geschiedenis om de mechanismen achter de huidige economie te begrijpen. Hoe zijn de spelregels ontstaan die onze economie vandaag vormge",
+        "trackId": 1000774954148,
+        "trackName": "De grenzen van de markt",
+        "trackTimeMillis": 3632000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-grenzen-van-de-markt/id1715875557?i=1000774954148&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
