@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-07-01T17:15:23Z</updated>
+	<updated>2026-07-02T08:58:27Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -43665,6 +43665,17 @@ Het is Politie en het Openbaar Ministerie opnieuw gelukt om vele honderdduizende
 		<link href="https://feeds.soundcloud.com/stream/543864153-rijkswaterstaat-water-onze-eeuwige-strijd.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000425646786</id>
 		<updated>2018-12-12T12:53:14Z</updated>
+	</entry>
+	<entry>
+		<title>De Politiepodcast - S1E7 Dit politieteam komt in actie bij ernstige verkeersongevallen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/s1e7-dit-politieteam-komt-in-actie-bij-ernstige-verkeersongevallen/id1436464301?i=1000616239083&amp;uo=4" rel="alternate" />
+		<summary>Rechercheur Vincent vertelt over de impact van zijn werk en het contact met nabestaanden.</summary>
+		<author>
+			<name>Politie Nederland</name>
+		</author>
+		<link href="https://rss.springcast.app/laAu0b/5duW6TOM4/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FlaAu0b%2Fitems%2F5duW6TOM4%2F6a461e4a1afa67.83861583.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000616239083</id>
+		<updated>2018-12-06T07:04:00Z</updated>
 	</entry>
 	<entry>
 		<title>Openbaar Ministerie - OM Podcast 3: zedenmisdrijven</title>
