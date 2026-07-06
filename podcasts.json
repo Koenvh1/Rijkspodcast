@@ -172658,7 +172658,7 @@
         "primaryGenreName": "Waargebeurde misdaad",
         "releaseDate": "2026-06-15T11:27:00Z",
         "trackCensoredName": "Boeiend de Podcast",
-        "trackCount": 143,
+        "trackCount": 144,
         "trackExplicitness": "cleaned",
         "trackId": 1522926580,
         "trackName": "Boeiend de Podcast",
@@ -172666,6 +172666,39 @@
         "trackTimeMillis": 4105,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/boeiend-de-podcast/id1522926580?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e8/aa/e2/e8aae2c2-d920-467d-5132-c39b80ce17f4/mza_14127577718261420335.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e8/aa/e2/e8aae2c2-d920-467d-5132-c39b80ce17f4/mza_14127577718261420335.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e8/aa/e2/e8aae2c2-d920-467d-5132-c39b80ce17f4/mza_14127577718261420335.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1522926580,
+        "collectionName": "Boeiend de Podcast",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/boeiend-de-podcast/id1522926580?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Hoe maak je politiewerk slimmer, sneller en makkelijker? In deze aflevering duiken we in de wereld van Q-lab Rotterdam: het innovatieteam van de politie dat idee\u00ebn uit de praktijk omzet in concrete oplossingen. We nemen ook een kijkje op de TU Delft die samen met de politie een mooie tool ontwikkelen. Van AI en slimme dashboards tot forensische tools waarmee sporen sneller en nauwkeuriger worden vastgelegd. Vooral minder gedoe en beter politiewerk. Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!Bekijk ook de aflevering over Forensische Opsporing met Lynn: https://youtu.be/DTQg6A0GxwUOp de hoogte blijven van al het podcast-nieuws?Volg Niels op Instagram:https://www.instagram.com/niels_politieWil je meer weten over Forensic BioMechanical Engineering? www.forensicbmeche.nlMeer interesse in het politiewerk? Op het YouTube kanaal @PolitieBoeiend neemt Niels je mee tijdens diensten samen met collega's.https://www.youtube.com/@PolitieBoeiendBekijk ook onze social-media:https://www.instagram.com/politie_eenheid_rotterdamhttps://www.tiktok.com/@politie_rotterdamhttps://www.facebook.com/EenheidRotterdam/https://x.com/POL_Rotterdam#innovatie #qlab #slimmer #sneller #makkelijker #politievandetoekomst #politie #rotterdam #boeiend #politiepodcast #boeienddepodcast00:00 Introductie",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "e06ca57b-0182-4d46-bd45-701c9b410c16",
+        "episodeUrl": "https://anchor.fm/s/2a8edcc4/podcast/play/122292227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-2%2F427230422-44100-2-3cbf5f7c4f8dc.mp3",
+        "feedUrl": "https://anchor.fm/s/2a8edcc4/podcast/rss",
+        "genres": [
+          {
+            "name": "True Crime",
+            "id": "1488"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/2a8edcc4/podcast/play/122292227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-2%2F427230422-44100-2-3cbf5f7c4f8dc.mp3",
+        "releaseDate": "2026-07-06T15:04:19Z",
+        "shortDescription": "Hoe maak je politiewerk slimmer, sneller en makkelijker? In deze aflevering duiken we in de wereld van Q-lab Rotterdam: het innovatieteam van de politie dat idee\u00ebn uit de praktijk omzet in concrete oplossingen. We nemen ook een kijkje op de TU Delft di",
+        "trackId": 1000775664370,
+        "trackName": "Nieuwe tools voor slimmer politiewerk - Boeiend de podcast",
+        "trackTimeMillis": 3505000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/nieuwe-tools-voor-slimmer-politiewerk-boeiend-de-podcast/id1522926580?i=1000775664370&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
