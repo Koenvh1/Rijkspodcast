@@ -3,11 +3,39 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-07-06T17:44:58Z</updated>
+	<updated>2026-07-07T12:28:33Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Digitale Zaken op tafel - De turbulente vlucht van LVNL: Hoe een missiekritiek systeem veilig kan landen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/de-turbulente-vlucht-van-lvnl-hoe-een-missiekritiek/id1720910530?i=1000775782183&amp;uo=4" rel="alternate" />
+		<summary>Het Adviescollege ICT-toetsing (AcICT) adviseert met gezond verstand en helder over de risico’s rond ICT. Hoe proberen betrokkenen die risico’s te voorkomen en sneller beoogde effecten te bereiken? Waar en hoe lukt dat? En waarom? In deze podcastserie bevragen we mensen uit de praktijk van beleid en uitvoering over hun ICT-aanpak en de dilemma’s die ze daarbij tegenkomen. En we gaan op zoek naar goede voorbeelden en de lessen om met elkaar te delen.
+
+In de negende aflevering spreekt Sander van Amerongen (secretaris-directeur AcICT) over de uitdagingen die komen kijken bij het vervangen van een missiekritiek ICT-systeem bij de Luchtverkeersleiding Nederland (LVNL). Hij doet dit met:
+
+Marlou Banning, CFO van LVNLRonald Dubbeldam CIO van LVNLJoris van Gelder, programmadirecteur iCAS van LVNL enMirjam Verhoeven, collegelid AcICT
+Vliegverkeer in veilige handen: dat is waar LVNL dag en nacht aan werkt. ICT speelt daarbij een onmisbare rol. Een van de belangrijkste systemen is Amsterdam Advanced Airtrafficcontrol systeem (AAA) dat de luchtverkeersleiders helpt bij de afhandeling van het vliegverkeer. Dit systeem stamt uit de jaren 90. Sinds 2016 werkt LVNL aan de vernieuwing hiervan. Het nieuwe systeem iCAS wordt de komende jaren stapje voor stapje geïmplementeerd. Tegelijkertijd wordt er ook al gewekt aan de opvolger van iCAS. 
+
+10 jaar geleden was het idee nog de vervanging door iCAS met een big bang te doen. De belangrijkste les van de periode die volgde? Dit doen we nooit meer op deze manier! 
+Hoofdthema van het gesprek is het vervangen van een groot systeem waar 0 tolerantie voor fouten is. Het vraagstuk is extra complex door de Europese samenwerking met 8 landen, de wens zo autonoom mogelijk te bouwen én het belang en de rol van de luchtverkeersleiders die met het systeem moeten gaan werken.
+Meer weten over dit thema?
+Lees ook onze handreiking over ketensamenwerkingLees ook onze handreiking over legacyLees ook onze Jaarrapportage 2025 over bestuurlijke verantwoordelijkheid
+AcICT adviseerde de afgelopen jaren 4 keer over projecten waarbij LVNL betrokken was:
+
+BIT-advies iTEC-based Centre Automation System | Adviescollege ICT-toetsingBIT-advies Electronic Flight Strips | Adviescollege ICT-toetsingBIT-advies Centralised Base Luchtverkeersleiding Nederland | Adviescollege ICT-toetsingBIT-advies project CivMil Voice Communication System | Adviescollege ICT-toetsing
+Adviescollege ICT-toetsingDe algemene website van het Adviescollege ICT-toetsing waar alle informatie te vinden is waaronder het toetskader, handreikingen en alle eerder uitgebrachte adviezen. Home | Adviescollege ICT-toetsing
+
+Credits
+Redactie en productie door Marijn van Starkenburg – Adviescollege ICT-toetsingMuziekcompositie en uitvoering door Marco RaaphorstTechnische realisatie door Wim Brons - VlaklandDe Podcastserie Digitale Zaken is een samenwerking tussen het Adviescollege ICT-toetsing (AcICT) en de RijksAcademie voor Digitalisering en Informatisering Overheid (RADIO)</summary>
+		<author>
+			<name>Adviescollege ICT-toetsing</name>
+		</author>
+		<link href="https://app.springcast.fm/download/192821/RJeCCGP0SV6NHMihigUEgtfVZ6rRZN9d.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000775782183</id>
+		<updated>2026-07-07T11:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Boeiend de Podcast - Nieuwe tools voor slimmer politiewerk - Boeiend de podcast</title>
 		<link href="https://podcasts.apple.com/nl/podcast/nieuwe-tools-voor-slimmer-politiewerk-boeiend-de-podcast/id1522926580?i=1000775664370&amp;uo=4" rel="alternate" />
