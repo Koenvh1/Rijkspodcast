@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-07-17T08:11:02Z</updated>
+	<updated>2026-07-17T11:23:14Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -18,6 +18,17 @@
 		<link href="https://rss.springcast.app/nQPuGd/0kuEpI7Xq/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnQPuGd%2Fitems%2F0kuEpI7Xq%2F6a58eb99d34622.71389525.wav?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000777162722</id>
 		<updated>2026-07-17T04:05:00Z</updated>
+	</entry>
+	<entry>
+		<title>De top kijkt om - “Geen ivoren toren, maar praten en luisteren”</title>
+		<link href="https://podcasts.apple.com/nl/podcast/geen-ivoren-toren-maar-praten-en-luisteren/id1570437574?i=1000777109605&amp;uo=4" rel="alternate" />
+		<summary>Loek Hermans was dertien jaar VVD-Kamerlid, werd burgemeester van Zwolle, Commissaris van de Koningin in Friesland en minister van Onderwijs Cultuur en Wetenschappen (OCW) in het Kabinet-Kok II (Paars II) van 1998 tot 2002. Daarna was hij Eerste Kamerlid en voorzitter van de VVD-fractie in de Eerste Kamer, en vervulde veel nevenfuncties. Als minister kreeg hij te maken met een flink beleidsterrein op een groot departement. Hij stapte daar met een open geest in: “Natuurlijk gaat er wat fout. Maar hoe ga je dat opvangen?” Als minister koesterde hij zijn contacten met de mensen in het veld: “Die contacten zijn belangrijk: geen ivoren toren, maar praten en luisteren.” Luister naar Loek Hermans in gesprek met Anne Bos en Jouke de Vries.</summary>
+		<author>
+			<name>Interviews met oud-bewindspersonen en oud-topambtenaren</name>
+		</author>
+		<link href="https://anchor.fm/s/59362d70/podcast/play/122930360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428088298-44100-2-a7e4ba53c329c.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000777109605</id>
+		<updated>2026-07-16T18:55:36Z</updated>
 	</entry>
 	<entry>
 		<title>Podcast #ONDERMIJNING - #45 Achmed Marcouch over Jonge Aanwas in Arnhem</title>

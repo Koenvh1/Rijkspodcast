@@ -85553,9 +85553,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/6b/11/316b116c-5870-3d75-6a88-cf34e66eeb7f/mza_1998470063327169874.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/6b/11/316b116c-5870-3d75-6a88-cf34e66eeb7f/mza_1998470063327169874.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/6b/11/316b116c-5870-3d75-6a88-cf34e66eeb7f/mza_1998470063327169874.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/15/67/f9156711-4d6e-424c-8b94-2807451d64d9/mza_8713204081691759695.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/15/67/f9156711-4d6e-424c-8b94-2807451d64d9/mza_8713204081691759695.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/15/67/f9156711-4d6e-424c-8b94-2807451d64d9/mza_8713204081691759695.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1658801107,
         "collectionName": "Podcast #ONDERMIJNING",
@@ -219858,7 +219858,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-06-26T09:43:00Z",
         "trackCensoredName": "De top kijkt om",
-        "trackCount": 53,
+        "trackCount": 54,
         "trackExplicitness": "cleaned",
         "trackId": 1570437574,
         "trackName": "De top kijkt om",
@@ -219866,6 +219866,39 @@
         "trackTimeMillis": 3847,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-top-kijkt-om/id1570437574?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/1c/1c/a81c1c72-1d95-3551-040b-ed4a2eb5e1f7/mza_2341319571759552036.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/1c/1c/a81c1c72-1d95-3551-040b-ed4a2eb5e1f7/mza_2341319571759552036.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a8/1c/1c/a81c1c72-1d95-3551-040b-ed4a2eb5e1f7/mza_2341319571759552036.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1570437574,
+        "collectionName": "De top kijkt om",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-top-kijkt-om/id1570437574?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Loek Hermans was dertien jaar VVD-Kamerlid, werd burgemeester van Zwolle, Commissaris van de Koningin in Friesland en minister van Onderwijs Cultuur en Wetenschappen (OCW) in het Kabinet-Kok II (Paars II) van 1998 tot 2002. Daarna was hij Eerste Kamerlid en voorzitter van de VVD-fractie in de Eerste Kamer, en vervulde veel nevenfuncties. Als minister kreeg hij te maken met een flink beleidsterrein op een groot departement. Hij stapte daar met een open geest in: \u201cNatuurlijk gaat er wat fout. Maar hoe ga je dat opvangen?\u201d Als minister koesterde hij zijn contacten met de mensen in het veld: \u201cDie contacten zijn belangrijk: geen ivoren toren, maar praten en luisteren.\u201d Luister naar Loek Hermans in gesprek met Anne Bos en Jouke de Vries.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "99881ecc-b91a-4191-8e26-dd57f9df6503",
+        "episodeUrl": "https://anchor.fm/s/59362d70/podcast/play/122930360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428088298-44100-2-a7e4ba53c329c.mp3",
+        "feedUrl": "https://anchor.fm/s/59362d70/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/59362d70/podcast/play/122930360/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428088298-44100-2-a7e4ba53c329c.mp3",
+        "releaseDate": "2026-07-16T18:55:36Z",
+        "shortDescription": "Loek Hermans was dertien jaar VVD-Kamerlid, werd burgemeester van Zwolle, Commissaris van de Koningin in Friesland en minister van Onderwijs Cultuur en Wetenschappen (OCW) in het Kabinet-Kok II (Paars II) van 1998 tot 2002. Daarna was hij Eerste Kamerli",
+        "trackId": 1000777109605,
+        "trackName": "\u201cGeen ivoren toren, maar praten en luisteren\u201d",
+        "trackTimeMillis": 4106000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/geen-ivoren-toren-maar-praten-en-luisteren/id1570437574?i=1000777109605&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
