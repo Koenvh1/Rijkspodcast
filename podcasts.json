@@ -1003,11 +1003,15 @@
         "feedUrl": "https://app.springcast.fm/podcast-xml/4426/",
         "genreIds": [
           "1511",
-          "26"
+          "26",
+          "1324",
+          "1543"
         ],
         "genres": [
           "Overheid",
-          "Podcasts"
+          "Podcasts",
+          "Maatschappij en cultuur",
+          "Documentaire"
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
@@ -1018,7 +1022,7 @@
         "trackId": 1548268945,
         "trackName": "De Dienst",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1523,
+        "trackTimeMillis": 1639,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-dienst/id1548268945?uo=4",
         "wrapperType": "track"
       },
