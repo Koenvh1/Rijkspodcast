@@ -3,11 +3,25 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-07-25T11:11:26Z</updated>
+	<updated>2026-07-27T09:53:50Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Boeiend de Podcast - Hitte, water en nood: de politie en extreem weer - Boeiend de Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/hitte-water-en-nood-de-politie-en-extreem-weer/id1522926580?i=1000778492425&amp;uo=4" rel="alternate" />
+		<summary>Wat betekenen hittegolven, overstromingen en natuurbranden voor het werk van de politie? Je denkt misschien: wat hebben extreem weer en klimaat met de politie te maken? Maar dit is onlosmakelijk verbonden met het politiewerk. Van veel meer meldingen tijdens extreme hitte, tot plunderingen en ondermijnende criminaliteit bij klimaatrampen, en collega's die zelf slachtoffer worden van een natuurramp.
+Precies 5 jaar na de overstromingen in Limburg, en aan het begin van een zomer waarin we nu al 2 hittegolven hebben gehad, duiken we in deze aflevering van Boeiend de Podcast in de gevolgen van klimaatverandering en extreem weer voor de politie en de samenleving.
+Samen met Maarten, hoofddirecteur van het KNMI en Danny, hoofd Operatie van de Eenheid Limburg, bespreken we hoe extreem weer het politiewerk verandert. 
+Van de overstromingen in Limburg tot extreme hitte, natuurbranden en de impact op hulpverlening: hoe bereidt de politie zich voor op een toekomst waarin extreem weer steeds vaker voorkomt? En welke rol speelt het KNMI daarbij?Vergeet niet om de podcast te liken en je te abonneren op ons kanaal!</summary>
+		<author>
+			<name>Politie</name>
+		</author>
+		<link href="https://anchor.fm/s/2a8edcc4/podcast/play/123218725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-23%2F428480718-44100-2-082aee633f948.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000778492425</id>
+		<updated>2026-07-27T05:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Innovatie Ambtenaar - NIM fase 4 Overdragen: de Vallei van de Dood tussen pilot en praktijk</title>
 		<link href="https://podcasts.apple.com/nl/podcast/nim-fase-4-overdragen-de-vallei-van-de-dood/id1502281387?i=1000778212384&amp;uo=4" rel="alternate" />
