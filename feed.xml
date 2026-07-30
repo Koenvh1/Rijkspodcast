@@ -3,11 +3,28 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-07-30T08:27:37Z</updated>
+	<updated>2026-07-30T11:52:35Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De kunst van transparantie - Aflevering 5: Technologie en de toekomst van transparantie</title>
+		<link href="https://podcasts.apple.com/nl/podcast/aflevering-5-technologie-en-de-toekomst-van-transparantie/id1843394489?i=1000778939110&amp;uo=4" rel="alternate" />
+		<summary>De overheid gebruikt steeds vaker algoritmen en kunstmatige intelligentie. Maar wat gebeurt er met vertrouwen, verantwoordelijkheid en democratische controle?  In deze aflevering bestuurskundige Stefan Grimmelikhuijsen en Open State-directeur Serv Wiemers.
+
+Algemene Disclaimer
+Deze podcast wordt mede mogelijk gemaakt door het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. In deze serie onderzoeken we openheid en transparantie vanuit verschillende perspectieven. De gasten spreken vanuit hun eigen expertise en ervaring; hun opvattingen zijn voor eigen rekening en vertegenwoordigen niet noodzakelijkerwijs het standpunt van betrokken organisaties. 
+Disclaimer Aflevering 5
+In deze aflevering spreken gasten over AI, algoritmes en transparantie bij de overheid. Naar aanleiding van de opname zijn enkele feitelijke verduidelijkingen toegevoegd. Er bestaan inmiddels verschillende wettelijke en beleidsmatige kaders voor AI en algoritmes, waaronder de Europese AI-verordening en rijksbrede documenten over de verantwoorde inzet van generatieve AI.  De registratie van algoritmes is in ontwikkeling; percentages over de volledigheid daarvan zijn afhankelijk van scope, categorie en inventarisatie. Waar voorbeelden als de toeslagenaffaire of WIA worden genoemd, gaat het niet uitsluitend om technologie, maar om de wisselwerking tussen systemen, organisatie, menselijk handelen en bestuurlijke verantwoordelijkheid. 
+Feitelijke verduidelijking bij registratie van algoritmes  In de aflevering wordt gesproken over de registratie van algoritmes. Voor de Rijksoverheid geldt dat in 2024 vijf hoog-risico AI-systemen en 89 impactvolle algoritmes zijn toegevoegd aan het algoritmeregister. Daarmee is ruim 26 procent van de 442 geïnventariseerde hoog-risico AI-systemen en impactvolle algoritmes geregistreerd.  Omdat inventarisatie een continu proces is en aantallen per categorie en bestuurslaag verschillen, zijn algemene percentages over “het aantal geregistreerde algoritmes” afhankelijk van de gehanteerde scope. Naast deze categorieën publiceren departementen ook andere algoritmes, zoals categorie C en D, en zetten zij dit proces voort. Feitelijke verduidelijking bij Helsinki en Amsterdam  In de aflevering wordt verwezen naar Helsinki als voorbeeld van een stad die werkt met een openbaar algoritmeregister. Daarbij is het goed om te verduidelijken dat Helsinki dit niet los van Nederland heeft ontwikkeld. Amsterdam en Helsinki lanceerden in 2020 gezamenlijk hun algoritmeregisters en golden daarmee internationaal als koplopers in het openbaar maken van informatie over algoritmes die door gemeenten worden gebruikt.  De verwijzing naar Helsinki moet dus gelezen worden in samenhang met Amsterdam: beide steden hebben een belangrijke rol gespeeld in de vroege ontwikkeling van publieke algoritmeregisters. Feitelijke verduidelijking bij voorbeelden zoals Toeslagen en UWV/WIA  In de aflevering worden voorbeelden genoemd waarbij burgers te maken kregen met ingrijpende gevolgen van systemen, gegevensverwerking en besluitvorming door de overheid. Daarbij is het belangrijk om te verduidelijken dat deze voorbeelden niet moeten worden begrepen als situaties waarin de oorzaak uitsluitend of primair lag bij AI of algoritmes.  Bij kwesties zoals de toeslagenaffaire en fouten rond WIA-uitkeringen gaat het breder om de wisselwerking tussen systemen, data, uitvoeringspraktijk, organisatiecultuur, menselijk handelen en bestuurlijke verantwoordelijkheid. De kernvraag in deze aflevering is daarom niet alleen of technologie goed of fout werkt, maar vooral hoe verantwoordelijkheid zichtbaar en aanspreekbaar blijft wanneer digitale systemen een rol spelen in besluiten die mensen direct raken.</summary>
+		<author>
+			<name>Publiek Denken</name>
+		</author>
+		<link href="https://content.rss.com/episodes/349283/3032826/de-kunst-van-transparantie/2026_07_29_16_38_14_3403e838-4d64-4141-b009-ad04e6eb9105.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000778939110</id>
+		<updated>2026-07-29T16:38:47Z</updated>
+	</entry>
 	<entry>
 		<title>Boeiend de Podcast - Hitte, water en nood: de politie en extreem weer - Boeiend de Podcast</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hitte-water-en-nood-de-politie-en-extreem-weer/id1522926580?i=1000778492425&amp;uo=4" rel="alternate" />
