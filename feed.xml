@@ -3,11 +3,27 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-07-30T16:27:51Z</updated>
+	<updated>2026-07-31T08:50:57Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Zorgklank - handvatten voor professionals in de zorg - S2E21: Jonge gezanten passende zorg in gesprek met Bertine Lahuis</title>
+		<link href="https://podcasts.apple.com/nl/podcast/s2e21-jonge-gezanten-passende-zorg-in-gesprek-met-bertine/id1780286589?i=1000779146997&amp;uo=4" rel="alternate" />
+		<summary>Hoe zorgen we ervoor dat de zorg ook in de toekomst een aantrekkelijke plek blijft om te werken? En wat kunnen bestuurders leren van de nieuwe generatie zorgprofessionals?
+ In deze speciale aflevering van Zorgklank gaat Bertine Lahuis, voorzitter van de raad van bestuur van het Radboudumc, in gesprek met de Jonge Gezanten passende zorg Daantje Gratama en Max Poppelaars. In een open en eerlijk gesprek delen zij hun kijk op werken in zorg en welzijn. Wat maakt het werk écht leuk? Hoe creëer je een werkomgeving waarin jongeren zich gezien en gewaardeerd voelen? En wat vraagt dat van bestuurders, leidinggevenden en teams?
+  
+ Samen bespreken ze thema’s als passende zorg, gelijkwaardig samenwerken, werk-privébalans, de verwachtingen van jonge professionals en de kloof tussen opleiding en praktijk. Ook gaat het over hoe organisaties kunnen luisteren naar wat medewerkers motiveert en waarom het zo belangrijk is om jonge mensen een volwaardige plek aan tafel te geven.
+  
+ Een inspirerend gesprek over de toekomst van de zorg, waarin niet alleen de jongere generatie iets te leren heeft van de ervaren generatie, maar zeker ook andersom.</summary>
+		<author>
+			<name>Ministerie van VWS</name>
+		</author>
+		<link href="https://rss.springcast.app/nJwuAw/9AuJ3SkgN/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2F9AuJ3SkgN%2F6a6b89b445bd47.68082671.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000779146997</id>
+		<updated>2026-07-30T17:25:00Z</updated>
+	</entry>
 	<entry>
 		<title>De veranderende rol van een informatieprofessional - Aflevering #56 met als gast Yati Kruyt - Rijksdienst voor Ondernemend Nederland</title>
 		<link href="https://podcasts.apple.com/nl/podcast/aflevering-56-met-als-gast-yati-kruyt-rijksdienst-voor/id1695522129?i=1000779047344&amp;uo=4" rel="alternate" />
