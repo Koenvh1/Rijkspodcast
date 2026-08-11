@@ -95882,7 +95882,7 @@
         "primaryGenreName": "Technologie",
         "releaseDate": "2026-08-03T07:00:00Z",
         "trackCensoredName": "Enter",
-        "trackCount": 46,
+        "trackCount": 47,
         "trackExplicitness": "cleaned",
         "trackId": 1648115350,
         "trackName": "Enter",
@@ -95890,6 +95890,39 @@
         "trackTimeMillis": 1299,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/enter/id1648115350?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/36/27/1136278d-6b7c-ba49-2a73-21540fcba991/mza_8329324326195938297.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/36/27/1136278d-6b7c-ba49-2a73-21540fcba991/mza_8329324326195938297.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/36/27/1136278d-6b7c-ba49-2a73-21540fcba991/mza_8329324326195938297.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1648115350,
+        "collectionName": "Enter",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/enter/id1648115350?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In de tweede aflevering van Enter over de Cyberbeveiligingswet (Cbw) gaan we dieper in op de meldplicht: wanneer ben je verplicht een incident te melden, hoe werkt de 72-uursregel in de praktijk en wat levert melden je eigenlijk op? Opnieuw aan tafel: jurist Remon Wiekeraad, senior projectleider Bouke van Laethem en cybersecurity-adviseur Luuk Verdonk van het NCSC. We kijken verder naar de rol van leveranciers in je digitale veiligheid, want ook als een leverancier zelf niet onder de wet valt, ben jij w\u00e9l verantwoordelijk voor de risico's die zij met zich meebrengen. We eindigen met een blik op de toekomst, wat doet de opkomst van AI met het dreigingslandschap en zijn de basismaatregelen van vandaag ook de bescherming van morgen? De boodschap: wees open, hoe eerder je meldt, hoe sneller je uit de problemen bent.\n\nOver deze serie\nDe Cyberbeveiligingswet is de Nederlandse uitwerking van de Europese NIS2-richtlijn en treedt op 15 augustus in werking. Zo'n 8.000 organisaties in Nederland krijgen er direct mee te maken. In deze tweedelige miniserie van Enter duiken we met drie experts van NCSC in de wet: wat staat er precies in, wat betekent dat voor jouw organisatie en hoe zet je de eerste stappen?\n\nPresentatie: Yasmine Abiadh\nGasten: Remon Wiekeraad (jurist, NCSC), Bouke van Laethem (senior projectleider CSIRT, NCSC) en Luuk Verdonk (cybersecurity-adviseur, NCSC)\nRedactie: NCSC & DPI\nMontage en geluid: Practical Media",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "m4a",
+        "episodeGuid": "daa307f0-abc1-44dd-80e4-3f76bf3ff17b",
+        "episodeUrl": "https://anchor.fm/s/bd8e1eb8/podcast/play/123846816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F429324785-44100-2-ed3d9e361eee5.m4a",
+        "feedUrl": "https://anchor.fm/s/bd8e1eb8/podcast/rss",
+        "genres": [
+          {
+            "name": "Technology",
+            "id": "1318"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/bd8e1eb8/podcast/play/123846816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F429324785-44100-2-ed3d9e361eee5.m4a",
+        "releaseDate": "2026-08-10T07:00:00Z",
+        "shortDescription": "In de tweede aflevering van Enter over de Cyberbeveiligingswet (Cbw) gaan we dieper in op de meldplicht: wanneer ben je verplicht een incident te melden, hoe werkt de 72-uursregel in de praktijk en wat levert melden je eigenlijk op? Opnieuw aan tafel: j",
+        "trackId": 1000781907165,
+        "trackName": "#2 Van NIS2 naar Cbw: De meldplicht, leveranciersketen en een blik op de toekomst",
+        "trackTimeMillis": 1308000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/2-van-nis2-naar-cbw-de-meldplicht-leveranciersketen/id1648115350?i=1000781907165&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
