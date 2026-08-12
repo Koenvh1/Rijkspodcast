@@ -220348,7 +220348,7 @@
         "episodeContentType": "audio",
         "episodeFileExtension": "mp3",
         "episodeGuid": "e28b6a2d-0f80-4cea-b51a-f928bc16941e",
-        "episodeUrl": "https://anchor.fm/s/59362d70/podcast/play/121003818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425507789-44100-2-96e6d9007d7bf.mp3",
+        "episodeUrl": "https://anchor.fm/s/59362d70/podcast/play/121003818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-12%2F429698627-44100-2-c308df9b71b21.mp3",
         "feedUrl": "https://anchor.fm/s/59362d70/podcast/rss",
         "genres": [
           {
@@ -220357,12 +220357,12 @@
           }
         ],
         "kind": "podcast-episode",
-        "previewUrl": "https://anchor.fm/s/59362d70/podcast/play/121003818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-4%2F425507789-44100-2-96e6d9007d7bf.mp3",
+        "previewUrl": "https://anchor.fm/s/59362d70/podcast/play/121003818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-12%2F429698627-44100-2-c308df9b71b21.mp3",
         "releaseDate": "2026-06-04T14:12:24Z",
         "shortDescription": "Ank Bijleveld was van 1989 tot 2001 lid van de Tweede Kamer, waarna ze burgemeester van Hof van Twente werd. In 2007 werd ze als staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties in het kabinet-Balkenende IV verantwoordelijk voor de staatsh",
         "trackId": 1000771173553,
         "trackName": "\u201cStrak zijn op de inhoud, zacht op het proces\u201d",
-        "trackTimeMillis": 4060000,
+        "trackTimeMillis": 4024000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/strak-zijn-op-de-inhoud-zacht-op-het-proces/id1570437574?i=1000771173553&uo=4",
         "wrapperType": "podcastEpisode"
       },
