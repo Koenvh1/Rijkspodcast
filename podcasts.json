@@ -85612,7 +85612,7 @@
         "primaryGenreName": "Overheid",
         "releaseDate": "2026-07-15T10:00:00Z",
         "trackCensoredName": "Podcast #ONDERMIJNING",
-        "trackCount": 46,
+        "trackCount": 47,
         "trackExplicitness": "cleaned",
         "trackId": 1658801107,
         "trackName": "Podcast #ONDERMIJNING",
@@ -85620,6 +85620,39 @@
         "trackTimeMillis": 2275,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/podcast-ondermijning/id1658801107?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/35/66/b0/3566b039-ace6-39b1-b167-393aa7715a1e/mza_14317960115393291085.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/35/66/b0/3566b039-ace6-39b1-b167-393aa7715a1e/mza_14317960115393291085.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/35/66/b0/3566b039-ace6-39b1-b167-393aa7715a1e/mza_14317960115393291085.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1658801107,
+        "collectionName": "Podcast #ONDERMIJNING",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/podcast-ondermijning/id1658801107?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Advocaten en notarissen hebben een belangrijke rol in de aanpak van ondermijning. Hun poortwachtersrol vraagt om zorgvuldig cli\u00ebntonderzoek, een goede risicobeoordeling en soms ook het melden van ongebruikelijke transacties. Tegelijkertijd brengt dit in de praktijk lastige afwegingen met zich mee, bijvoorbeeld rond geheimhouding, de relatie met de cli\u00ebnt en commerci\u00eble belangen.\u00a0\nIn deze aflevering vertelt Sonja\u00a0Milovi\u0107, Head of Compliance bij advocatenkantoor Houthoff, over de poortwachtersrol van advocaten. Hoe is compliance en\u00a0Know\u00a0Your\u00a0Cli\u00ebnts\u00a0(KYC)\u00a0binnen een advocatenkantoor georganiseerd? Hoe heeft de aandacht voor de poortwachtersrol zich heeft ontwikkeld? Welke stappen worden gezet bij cli\u00ebntenonderzoek?\u00a0Wanneer wordt\u00a0een transactie als ongebruikelijk gezien?\u00a0\u00a0Verder worden\u00a0ook\u00a0de praktische uitdagingen van deze poortwachtersrol besproken.\u00a0\u00a0\u00a0\u00a0\u00a0\nAan tafel zitten twee leden van Team #ONDERMIJNING: @Christiaan Los en BOOST-student @Oona de Roo. Samen stellen ze Sonja vragen over de poortwachtersrol van advocaten en notarissen in de aanpak van ondermijning.\u00a0\u00a0\nVolg ons op:\u00a0\n\ud83d\udcf1\u00a0\u2060\u2060LinkedIn\u2060\u2060\u00a0\n\ud83d\udcf1\u00a0\u2060\u2060YouTube\u2060\u2060\u00a0\nRelevante afleveringen:\u00a0\n\ud83c\udf99\ufe0f\u00a0#34\u00a0-\u00a0Roy Nanhkoesingh over Afpakken Crimineel Vermogen\u00a0\n\ud83c\udf99\ufe0f\u00a0\u2060\u2060\u2060\u2060#24 - Jeroen\u00a0Poelert\u00a0& Robin de Jager over Crimineel Ondergronds Bankieren\u00a0\n\u00a0",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "eb1c1220-6991-412c-9d6a-fbdfe09a59b4",
+        "episodeUrl": "https://anchor.fm/s/d45234f4/podcast/play/124737399/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430544047-44100-2-d047391882998.mp3",
+        "feedUrl": "https://anchor.fm/s/d45234f4/podcast/rss",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://anchor.fm/s/d45234f4/podcast/play/124737399/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430544047-44100-2-d047391882998.mp3",
+        "releaseDate": "2026-08-26T10:00:00Z",
+        "shortDescription": "Advocaten en notarissen hebben een belangrijke rol in de aanpak van ondermijning. Hun poortwachtersrol vraagt om zorgvuldig cli\u00ebntonderzoek, een goede risicobeoordeling en soms ook het melden van ongebruikelijke transacties. Tegelijkertijd brengt dit i",
+        "trackId": 1000786030332,
+        "trackName": "#46 - Sonja Milovi\u0107 over de Poortwachtersrol van Advocaten",
+        "trackTimeMillis": 3354000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/46-sonja-milovi%C4%87-over-de-poortwachtersrol-van-advocaten/id1658801107?i=1000786030332&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -108965,9 +108998,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/2a/53/1f2a5373-2870-44cf-85c6-45ef3cd7c57f/mza_8075190624946543828.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/2a/53/1f2a5373-2870-44cf-85c6-45ef3cd7c57f/mza_8075190624946543828.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/2a/53/1f2a5373-2870-44cf-85c6-45ef3cd7c57f/mza_8075190624946543828.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/b1/1c/33b11c4d-ba17-e556-59ad-e15bcc7602b8/mza_12247541266234674533.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/b1/1c/33b11c4d-ba17-e556-59ad-e15bcc7602b8/mza_12247541266234674533.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/b1/1c/33b11c4d-ba17-e556-59ad-e15bcc7602b8/mza_12247541266234674533.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1566819266,
         "collectionName": "Klapmok met Thee",

@@ -3,11 +3,31 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-08-25T06:48:55Z</updated>
+	<updated>2026-08-26T10:36:08Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Podcast #ONDERMIJNING - #46 - Sonja Milović over de Poortwachtersrol van Advocaten</title>
+		<link href="https://podcasts.apple.com/nl/podcast/46-sonja-milovi%C4%87-over-de-poortwachtersrol-van-advocaten/id1658801107?i=1000786030332&amp;uo=4" rel="alternate" />
+		<summary>Advocaten en notarissen hebben een belangrijke rol in de aanpak van ondermijning. Hun poortwachtersrol vraagt om zorgvuldig cliëntonderzoek, een goede risicobeoordeling en soms ook het melden van ongebruikelijke transacties. Tegelijkertijd brengt dit in de praktijk lastige afwegingen met zich mee, bijvoorbeeld rond geheimhouding, de relatie met de cliënt en commerciële belangen. 
+In deze aflevering vertelt Sonja Milović, Head of Compliance bij advocatenkantoor Houthoff, over de poortwachtersrol van advocaten. Hoe is compliance en Know Your Cliënts (KYC) binnen een advocatenkantoor georganiseerd? Hoe heeft de aandacht voor de poortwachtersrol zich heeft ontwikkeld? Welke stappen worden gezet bij cliëntenonderzoek? Wanneer wordt een transactie als ongebruikelijk gezien?  Verder worden ook de praktische uitdagingen van deze poortwachtersrol besproken.     
+Aan tafel zitten twee leden van Team #ONDERMIJNING: @Christiaan Los en BOOST-student @Oona de Roo. Samen stellen ze Sonja vragen over de poortwachtersrol van advocaten en notarissen in de aanpak van ondermijning.  
+Volg ons op: 
+📱 ⁠⁠LinkedIn⁠⁠ 
+📱 ⁠⁠YouTube⁠⁠ 
+Relevante afleveringen: 
+🎙️ #34 - Roy Nanhkoesingh over Afpakken Crimineel Vermogen 
+🎙️ ⁠⁠⁠⁠#24 - Jeroen Poelert &amp; Robin de Jager over Crimineel Ondergronds Bankieren 
+ </summary>
+		<author>
+			<name>Politie Nederland</name>
+		</author>
+		<link href="https://anchor.fm/s/d45234f4/podcast/play/124737399/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2F430544047-44100-2-d047391882998.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000786030332</id>
+		<updated>2026-08-26T10:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>SSR Meestervertellers - Episode 84: Bart Klaus - Het Europese asiel- en migratiepact</title>
 		<link href="https://podcasts.apple.com/nl/podcast/episode-84-bart-klaus-het-europese-asiel-en-migratiepact/id1481318192?i=1000784257429&amp;uo=4" rel="alternate" />
