@@ -116224,7 +116224,7 @@
         "primaryGenreName": "Zakelijk",
         "releaseDate": "2026-08-13T05:27:00Z",
         "trackCensoredName": "De veranderende rol van een informatieprofessional",
-        "trackCount": 58,
+        "trackCount": 59,
         "trackExplicitness": "explicit",
         "trackId": 1695522129,
         "trackName": "De veranderende rol van een informatieprofessional",
@@ -116232,6 +116232,39 @@
         "trackTimeMillis": 1996,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-veranderende-rol-van-een-informatieprofessional/id1695522129?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/69/66/336966fc-fc02-e7dc-a9a3-f0ed277af563/mza_3574071488797247414.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/69/66/336966fc-fc02-e7dc-a9a3-f0ed277af563/mza_3574071488797247414.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/69/66/336966fc-fc02-e7dc-a9a3-f0ed277af563/mza_3574071488797247414.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1695522129,
+        "collectionName": "De veranderende rol van een informatieprofessional",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-veranderende-rol-van-een-informatieprofessional/id1695522129?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Wat betekent de nieuwe Archiefwet voor archiefinstellingen? In deze tweede aflevering van onze vierdelige special bespreken Esther van Hofwegen en Robin Lassche onder andere de kortere overbrengingstermijn, veranderingen rond selectie en toezicht en de voorbereiding op 1 januari 2027.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "https://channels.podcastfeed.eu/de-veranderende-rol-van-een-informatieprofessional#b64df4cb-5dfb-4745-a711-b3146b3789be",
+        "episodeUrl": "https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/841ccedf-38ae-4d42-b7e5-04b99cebce39.mp3",
+        "feedUrl": "https://channels.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/feed.xml",
+        "genres": [
+          {
+            "name": "Business",
+            "id": "1321"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/841ccedf-38ae-4d42-b7e5-04b99cebce39.mp3",
+        "releaseDate": "2026-08-27T05:30:00Z",
+        "shortDescription": "Wat betekent de nieuwe Archiefwet voor archiefinstellingen? In deze tweede aflevering van onze vierdelige special bespreken Esther van Hofwegen en Robin Lassche onder andere de kortere overbrengingstermijn, veranderingen rond selectie en toezicht en de",
+        "trackId": 1000786187158,
+        "trackName": "Special over de nieuwe Archiefwet \u2013 aflevering 2: Wat verandert er op de werkvloer?",
+        "trackTimeMillis": 1874000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/special-over-de-nieuwe-archiefwet-aflevering-2-wat/id1695522129?i=1000786187158&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
