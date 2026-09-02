@@ -35037,14 +35037,14 @@
         ],
         "kind": "podcast",
         "primaryGenreName": "Ondernemerschap",
-        "releaseDate": "2026-07-08T05:00:00Z",
+        "releaseDate": "2026-09-02T04:00:00Z",
         "trackCensoredName": "Voeten in de Aarde",
-        "trackCount": 16,
+        "trackCount": 17,
         "trackExplicitness": "cleaned",
         "trackId": 1785659013,
         "trackName": "Voeten in de Aarde",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1629,
+        "trackTimeMillis": 1532,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/voeten-in-de-aarde/id1785659013?uo=4",
         "wrapperType": "track"
       },
@@ -35211,6 +35211,39 @@
         "trackName": "#15 Klimaatadaptief ondernemen",
         "trackTimeMillis": 1629000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/15-klimaatadaptief-ondernemen/id1785659013?i=1000775909462&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/02/c15002fa-34bb-e5d0-62b1-3be7a62ff510/mza_8181863344117715266.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/02/c15002fa-34bb-e5d0-62b1-3be7a62ff510/mza_8181863344117715266.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/02/c15002fa-34bb-e5d0-62b1-3be7a62ff510/mza_8181863344117715266.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1785659013,
+        "collectionName": "Voeten in de Aarde",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/voeten-in-de-aarde/id1785659013?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In \u2018Voeten in de aarde\u2019 hoor je over vernieuwingen in de landbouw, waarmee jij je eigen agrarische bedrijf meer toekomstbestendig kunt maken.\nIn deze aflevering verdiepen we ons in samenwerking over sectoren heen. Om deze innovatie in de praktijk te ervaren, reist Marijke Roskam af naar Heide in Noord-Limburg. Daar gaat ze op bezoek bij Tom Derikx, eigenaar van een gemengd bedrijf met een varkenshouderij en akkerbouw. Tom vertelt hoe hij samenwerkt met agrari\u00ebrs uit andere sectoren door onder meer grond en gewassen uit te wisselen en gezamenlijk te zoeken naar oplossingen voor uitdagingen op het gebied van duurzaamheid en bedrijfsvoering. Ook deelt hij zijn ervaringen als deelnemer aan de experimenteerlocatie Boerderij van de Toekomst Zuidoostelijk Zand.\nDaarnaast spreekt Marijke met Sebastiaan Broere, beleidsmedewerker bij het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur. Hij vertelt hoe experimenteerlocaties bijdragen aan innovatie in de landbouw en welke kansen samenwerking tussen verschillende agrarische sectoren biedt voor een toekomstbestendige bedrijfsvoering.\nWil je meer weten over deelsystemen, klimaatadaptie of andere innovaties in de landbouw? Ga dan naar groeiennaarmorgen.nl.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "6a9da860-12be-4936-bd7f-c2e921825ab7",
+        "episodeUrl": "https://media.transistor.fm/88152602/3f82098d.mp3",
+        "feedUrl": "https://feeds.transistor.fm/voeten-in-de-aarde",
+        "genres": [
+          {
+            "name": "Entrepreneurship",
+            "id": "1493"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://media.transistor.fm/88152602/3f82098d.mp3",
+        "releaseDate": "2026-09-02T04:00:00Z",
+        "shortDescription": "In \u2018Voeten in de aarde\u2019 hoor je over vernieuwingen in de landbouw, waarmee jij je eigen agrarische bedrijf meer toekomstbestendig kunt maken.\nIn deze aflevering verdiepen we ons in samenwerking over sectoren heen. Om deze innovatie in de praktijk te",
+        "trackId": 1000787302614,
+        "trackName": "#16 Deelsystemen",
+        "trackTimeMillis": 1532000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/16-deelsystemen/id1785659013?i=1000787302614&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -198245,7 +198278,7 @@
         "primaryGenreName": "Onderwijs",
         "releaseDate": "2026-08-19T08:00:00Z",
         "trackCensoredName": "SSR Meestervertellers",
-        "trackCount": 84,
+        "trackCount": 85,
         "trackExplicitness": "cleaned",
         "trackId": 1481318192,
         "trackName": "SSR Meestervertellers",
@@ -198253,6 +198286,39 @@
         "trackTimeMillis": 1824,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/ssr-meestervertellers/id1481318192?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/2f/6e/ad2f6e83-881e-552e-7eaf-c77546fab91b/mza_3783590596080767667.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1481318192,
+        "collectionName": "SSR Meestervertellers",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/ssr-meestervertellers/id1481318192?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Een kijkje in de keuken bij Europese collega\u2019s kan enorm leerzaam zijn. Toch zijn veel Nederlandse rechters, officieren van justitie en gerechtsjuristen daar terughoudend in. En dat is jammer volgens Didine van Waesberghe, handelsrechter in hoger beroep in Den Haag en Danielle Bogaerts, jeugdrechter bij de rechtbank Zeeland-West-Brabant.\n\n\nMet Daan Langkamp gaan zij in gesprek over de ervaringen die zij hebben opgedaan tijdens de uitwisselingen van EJTN en waarom andere collega\u2019s ook eens een kijkje moeten nemen bij andere Europese rechtbanken.\n\n\nWil je meer naar aanleiding van deze podcast meer weten over de EJTN-uitwisselingen? Bekijk het aanbod op onze webstie.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "773d4d6c-cecc-48ac-abd6-8e8ae1f138f3",
+        "episodeUrl": "https://aphid.fireside.fm/d/1437767933/0a88c135-a567-4c20-9eea-2092a570b578/773d4d6c-cecc-48ac-abd6-8e8ae1f138f3.mp3",
+        "feedUrl": "https://feeds.fireside.fm/ssr/rss",
+        "genres": [
+          {
+            "name": "Education",
+            "id": "1304"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://aphid.fireside.fm/d/1437767933/0a88c135-a567-4c20-9eea-2092a570b578/773d4d6c-cecc-48ac-abd6-8e8ae1f138f3.mp3",
+        "releaseDate": "2026-09-01T08:00:00Z",
+        "shortDescription": "Een kijkje in de keuken bij Europese collega\u2019s kan enorm leerzaam zijn. Toch zijn veel Nederlandse rechters, officieren van justitie en gerechtsjuristen daar terughoudend in. En dat is jammer volgens Didine van Waesberghe, handelsrechter in hoger bero",
+        "trackId": 1000787197070,
+        "trackName": "Episode 85: Internationale uitwisselingen - Didine van Waesberghe en Danielle Bogaert",
+        "trackTimeMillis": 1570000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/episode-85-internationale-uitwisselingen-didine-van/id1481318192?i=1000787197070&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
@@ -205536,9 +205602,9 @@
         "releaseDate": "2026-07-15T06:37:09Z",
         "shortDescription": "Richard Hoff, toezichthouder bij DNB, vertelt over de samenwerking tussen toezicht en opsporing in de strijd tegen witwassen. Wat is de rol van DNB in het voorkomen van financieel-economische criminaliteit? Hoe werken toezichthouders en opsporingsdienst",
         "trackId": 1000776871411,
-        "trackName": "112. DNB - witwassen - toezicht en opsporing",
+        "trackName": "112. Richard Hoff - DNB toezicht en opsporing witwassen",
         "trackTimeMillis": 2829000,
-        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/112-dnb-witwassen-toezicht-en-opsporing/id1565172628?i=1000776871411&uo=4",
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/112-richard-hoff-dnb-toezicht-en-opsporing-witwassen/id1565172628?i=1000776871411&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
