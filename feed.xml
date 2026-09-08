@@ -3,11 +3,34 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-09-06T23:33:38Z</updated>
+	<updated>2026-09-08T18:23:28Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Zorgklank - handvatten voor professionals in de zorg - S2E23: Passende zorg: van weten wat werkt naar het ook doen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/s2e23-passende-zorg-van-weten-wat-werkt-naar-het-ook-doen/id1780286589?i=1000788475569&amp;uo=4" rel="alternate" />
+		<summary>Hoe komt bewezen effectieve zorg sneller bij patiënten terecht? En wat is ervoor nodig om goede initiatieven niet alleen lokaal te laten werken, maar ook breder toe te passen?
+  
+ In deze aflevering van Zorgklank spreekt Aiko de Raaf met Sjoerd Repping, hoogleraar Zinnige Zorg aan Amsterdam UMC en voorzitter van het programma Zorgevaluatie en Gepast Gebruik.
+  
+ Passende, zinnige, waardegedreven of evidencebased zorg: volgens Repping gaat het in essentie om hetzelfde. Zorg bieden waar patiënten daadwerkelijk iets aan hebben, met oog voor de mensen en middelen die daarvoor beschikbaar zijn.
+  
+ Goede praktijkvoorbeelden spelen daarbij een belangrijke rol. Ze laten zien dat het anders kan en brengen professionals in beweging. Om vervolgens tot brede implementatie te komen, zijn ook onderbouwing, gezamenlijke afspraken en samenwerking met wetenschappelijke verenigingen, zorgaanbieders, verzekeraars en overheid nodig.
+  
+ Die gezamenlijke aanpak krijgt steeds meer vorm. Waar partijen eerder allemaal met hun eigen lijst werkten, is er nu één Landelijke Implementatieagenda Gepast Gebruik. Voor de onderwerpen op deze agenda is duidelijk wat er moet gebeuren en kunnen partijen zich richten op de vraag hoe zij dat in de praktijk voor elkaar krijgen. Volgens Repping is de implementatietijd daardoor teruggebracht van gemiddeld vijftien naar twee jaar.
+  
+ Ook bespreken Aiko en Sjoerd waarom passende zorg niet altijd direct financieel aantrekkelijk is, wat anders werken vraagt van ziekenhuisbestuurders en vakgroepen, en hoe zorginkoop een transitie kan ondersteunen.
+  
+ Zijn oproep aan zorgprofessionals is helder: doe mee. Sluit aan bij onderzoek, werk mee aan de implementatie van richtlijnen en blijf kritisch kijken naar het eigen handelen.</summary>
+		<author>
+			<name>Ministerie van VWS</name>
+		</author>
+		<link href="https://rss.springcast.app/nJwuAw/d6uAdiNAR/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2Fd6uAdiNAR%2F6a9e7cdf0730b8.98857284.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000788475569</id>
+		<updated>2026-09-07T08:58:00Z</updated>
+	</entry>
 	<entry>
 		<title>Voeten in de Aarde - #16 Deelsystemen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/16-deelsystemen/id1785659013?i=1000787302614&amp;uo=4" rel="alternate" />

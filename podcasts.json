@@ -43069,7 +43069,7 @@
         "primaryGenreName": "Gezondheid en fitness",
         "releaseDate": "2026-08-14T05:55:00Z",
         "trackCensoredName": "Zorgklank - handvatten voor professionals in de zorg",
-        "trackCount": 46,
+        "trackCount": 47,
         "trackExplicitness": "cleaned",
         "trackId": 1780286589,
         "trackName": "Zorgklank - handvatten voor professionals in de zorg",
@@ -43077,6 +43077,39 @@
         "trackTimeMillis": 1785,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/zorgklank-handvatten-voor-professionals-in-de-zorg/id1780286589?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1780286589,
+        "collectionName": "Zorgklank - handvatten voor professionals in de zorg",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/zorgklank-handvatten-voor-professionals-in-de-zorg/id1780286589?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Hoe komt bewezen effectieve zorg sneller bij pati\u00ebnten terecht? En wat is ervoor nodig om goede initiatieven niet alleen lokaal te laten werken, maar ook breder toe te passen?\n \u00a0\n In deze aflevering van Zorgklank spreekt Aiko de Raaf met Sjoerd Repping, hoogleraar Zinnige Zorg aan Amsterdam UMC en voorzitter van het programma Zorgevaluatie en Gepast Gebruik.\n \u00a0\n Passende, zinnige, waardegedreven of evidencebased zorg: volgens Repping gaat het in essentie om hetzelfde. Zorg bieden waar pati\u00ebnten daadwerkelijk iets aan hebben, met oog voor de mensen en middelen die daarvoor beschikbaar zijn.\n \u00a0\n Goede praktijkvoorbeelden spelen daarbij een belangrijke rol. Ze laten zien dat het anders kan en brengen professionals in beweging. Om vervolgens tot brede implementatie te komen, zijn ook onderbouwing, gezamenlijke afspraken en samenwerking met wetenschappelijke verenigingen, zorgaanbieders, verzekeraars en overheid nodig.\n \u00a0\n Die gezamenlijke aanpak krijgt steeds meer vorm. Waar partijen eerder allemaal met hun eigen lijst werkten, is er nu \u00e9\u00e9n Landelijke Implementatieagenda Gepast Gebruik. Voor de onderwerpen op deze agenda is duidelijk wat er moet gebeuren en kunnen partijen zich richten op de vraag hoe zij dat in de praktijk voor elkaar krijgen. Volgens Repping is de implementatietijd daardoor teruggebracht van gemiddeld vijftien naar twee jaar.\n \u00a0\n Ook bespreken Aiko en Sjoerd waarom passende zorg niet altijd direct financieel aantrekkelijk is, wat anders werken vraagt van ziekenhuisbestuurders en vakgroepen, en hoe zorginkoop een transitie kan ondersteunen.\n \u00a0\n Zijn oproep aan zorgprofessionals is helder: doe mee. Sluit aan bij onderzoek, werk mee aan de implementatie van richtlijnen en blijf kritisch kijken naar het eigen handelen.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "432aa3fd-533e-5007-bd22-fa5defd9c8f9",
+        "episodeUrl": "https://rss.springcast.app/nJwuAw/d6uAdiNAR/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2Fd6uAdiNAR%2F6a9e7cdf0730b8.98857284.mp3?source=itms.apple.com",
+        "feedUrl": "https://rss.springcast.app/nJwuAw",
+        "genres": [
+          {
+            "name": "Health & Fitness",
+            "id": "1512"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://rss.springcast.app/nJwuAw/d6uAdiNAR/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2Fd6uAdiNAR%2F6a9e7cdf0730b8.98857284.mp3?source=itms.apple.com",
+        "releaseDate": "2026-09-07T08:58:00Z",
+        "shortDescription": "Hoe komt bewezen effectieve zorg sneller bij pati\u00ebnten terecht? En wat is ervoor nodig om goede initiatieven niet alleen lokaal te laten werken, maar ook breder toe te passen?\n \u00a0\n In deze aflevering van Zorgklank spreekt Aiko de Raaf met Sjoerd Reppin",
+        "trackId": 1000788475569,
+        "trackName": "S2E23: Passende zorg: van weten wat werkt naar het ook doen",
+        "trackTimeMillis": 2820000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/s2e23-passende-zorg-van-weten-wat-werkt-naar-het-ook-doen/id1780286589?i=1000788475569&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
