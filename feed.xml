@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-09-09T18:21:15Z</updated>
+	<updated>2026-09-10T10:48:15Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De veranderende rol van een informatieprofessional - Special over de nieuwe Archiefwet – aflevering 3: Hoe bereid je jouw organisatie voor?</title>
+		<link href="https://podcasts.apple.com/nl/podcast/special-over-de-nieuwe-archiefwet-aflevering-3-hoe/id1695522129?i=1000788802524&amp;uo=4" rel="alternate" />
+		<summary>Wat kun je nu al doen om je organisatie voor te bereiden op de nieuwe Archiefwet? In deze derde aflevering van onze vierdelige special bespreken Jack Schuemie en Marcel van Vlaanderen de belangrijkste uitdagingen, de rol van de informatieprofessional en waarom samenwerking en gedragsverandering onmisbaar zijn.</summary>
+		<author>
+			<name>Leerhuis Informatiehuishouding</name>
+		</author>
+		<link href="https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/04440d9a-3158-4f2f-83a2-3265cfe2a3f1.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000788802524</id>
+		<updated>2026-09-10T05:36:00Z</updated>
+	</entry>
 	<entry>
 		<title>Zorgklank - handvatten voor professionals in de zorg - S2E23: Passende zorg: van weten wat werkt naar het ook doen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/s2e23-passende-zorg-van-weten-wat-werkt-naar-het-ook-doen/id1780286589?i=1000788475569&amp;uo=4" rel="alternate" />
