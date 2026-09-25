@@ -3,11 +3,22 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-09-25T00:19:45Z</updated>
+	<updated>2026-09-25T11:20:24Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De top kijkt om - Een intern kompas helpt je stabieler en authentieker te blijven</title>
+		<link href="https://podcasts.apple.com/nl/podcast/een-intern-kompas-helpt-je-stabieler-en-authentieker/id1570437574?i=1000791607997&amp;uo=4" rel="alternate" />
+		<summary>oke Brandt vervulde diverse beleidsfuncties bij het ministerie van Buitenlandse Zaken (BZ), was ambassadeur in Oeganda en Eritrea, werd directeur- en secretaris-generaal bij BZ en uiteindelijk Permanente Vertegenwoordiger bij de VN in New York. Functies waarin ze een sterk commitment voelde, ook als er nieuwe uitdagingen op haar pad kwamen. “Ik kan dan niet alles uit mijn handen laten vallen en met plezier in de spiegel kijken. Dat interne kompas is belangrijk.” Als leidinggevende zijn de mensen haar prioriteit. “Je moet managen, besturen en regelen, zodat het goed is voor je mensen én de doelen die je wilt bereiken.” Luister naar Joke Brandt in gesprek met Caspar van den Berg en Roel Bekker.</summary>
+		<author>
+			<name>Interviews met oud-bewindspersonen en oud-topambtenaren</name>
+		</author>
+		<link href="https://anchor.fm/s/59362d70/podcast/play/126282423/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-25%2F432632682-44100-2-f936d075091a9.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000791607997</id>
+		<updated>2026-09-25T08:34:33Z</updated>
+	</entry>
 	<entry>
 		<title>De veranderende rol van een informatieprofessional - Special over de nieuwe Archiefwet – aflevering 4: Hoe verandert de rol van de informatieprofessional?</title>
 		<link href="https://podcasts.apple.com/nl/podcast/special-over-de-nieuwe-archiefwet-aflevering-4-hoe/id1695522129?i=1000791408951&amp;uo=4" rel="alternate" />
