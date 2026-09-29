@@ -3,11 +3,28 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-09-28T21:07:00Z</updated>
+	<updated>2026-09-29T12:17:14Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>AMLC podcast - 114. Verbergen en verhullen - wat zeggen rechters?</title>
+		<link href="https://podcasts.apple.com/nl/podcast/114-verbergen-en-verhullen-wat-zeggen-rechters/id1565172628?i=1000792150348&amp;uo=4" rel="alternate" />
+		<summary>Dit is de eerste aflevering van een driedelige serie over witwassen in jurisprudentie. We duiken in deze aflevering in het thema verbergen en verhullen, met juristen Manouk en Anne van de FIOD/het AMLC als gasten.
+Centraal staat de vraag hoe verborgen ruimtes een rol spelen in witwaszaken, nu de Hoge Raad heeft geoordeeld dat een verborgen ruimte onder een trap voldoet aan de eisen voor het verbergen van de vindplaats. Verborgen ruimtes worden steeds vaker meegenomen in de onderbouwing van witwasvermoedens, zowel juridisch als praktisch.
+Witwassen kent vier bestanddelen: een witwasvoorwerp, een witwashandeling (zoals verbergen of verhullen), criminele herkomst en wetenschap daarvan. Verbergen en verhullen omvatten handelingen die de werkelijke aard, herkomst of vindplaats van een voorwerp maskeren.
+Praktijkvoorbeelden zijn een verborgen luikje met €75.000 en een auto met €340.000 in een verborgen ruimte, waarbij de rechtbank witwasvermoedens baseert op hoeveelheid geld, verpakkingswijze en ongeloofwaardige verklaringen.
+Sinds 1 januari 2026 is het strafbaar om een verborgen ruimte in een voertuig te hebben (Artikel 189a Wetboek van Strafrecht), met een maximale straf van twee jaar. Deze wet bevestigt de trend dat verborgen ruimtes een sterke aanwijzing zijn voor verhulling, omdat ze specifiek ontworpen zijn om detectie te bemoeilijken. Professionals wordt geadviseerd om bij doorzoeking goed te documenteren hoe een verborgen ruimte eruitziet.
+Luisteraars kunnen het stappenplan witwassen raadplegen op de AMLC-website.
+De volgende aflevering gaat over criminele erfenissen en de vraag of erfgenamen strafbaar zijn voor witwassen, ook als de erflater nooit is veroordeeld. Abonneer je op de podcast in je favoriete app om op de hoogte te blijven.</summary>
+		<author>
+			<name>AMLC/FIOD</name>
+		</author>
+		<link href="https://anchor.fm/s/56d70950/podcast/play/125726663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F4ff14340-17a5-c2c7-aa11-bafdaf90dea2.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000792150348</id>
+		<updated>2026-09-29T06:58:00Z</updated>
+	</entry>
 	<entry>
 		<title>De top kijkt om - Een intern kompas helpt je stabieler en authentieker te blijven</title>
 		<link href="https://podcasts.apple.com/nl/podcast/een-intern-kompas-helpt-je-stabieler-en-authentieker/id1570437574?i=1000791607997&amp;uo=4" rel="alternate" />
