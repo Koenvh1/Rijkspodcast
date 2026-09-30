@@ -227773,5 +227773,152 @@
         "wrapperType": "podcastEpisode"
       }
     ]
+  },
+  {
+    "provider": "spotify",
+    "spotify": "https://open.spotify.com/show/5cdqAmbiL0QeysmEWaxo0q",
+    "spotify_data": null,
+    "apple": "https://podcasts.apple.com/nl/podcast/traag-van-mulligen-de-podcast-van-het-cbs/id6812207088",
+    "apple_data": [
+      {
+        "artistName": "Centraal Bureau voor de Statistiek (CBS)",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/48/78/5c4878b8-93f9-1255-a925-1d641b867c52/mza_12615226804943231561.jpg/100x100bb.jpg",
+        "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/48/78/5c4878b8-93f9-1255-a925-1d641b867c52/mza_12615226804943231561.jpg/30x30bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/48/78/5c4878b8-93f9-1255-a925-1d641b867c52/mza_12615226804943231561.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/48/78/5c4878b8-93f9-1255-a925-1d641b867c52/mza_12615226804943231561.jpg/600x600bb.jpg",
+        "collectionCensoredName": "Traag & Van Mulligen | De podcast van het CBS",
+        "collectionExplicitness": "notExplicit",
+        "collectionHdPrice": 0,
+        "collectionId": 6812207088,
+        "collectionName": "Traag & Van Mulligen | De podcast van het CBS",
+        "collectionPrice": 0.0,
+        "collectionViewUrl": "https://podcasts.apple.com/nl/podcast/traag-van-mulligen-de-podcast-van-het-cbs/id6812207088?uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "currency": "EUR",
+        "feedUrl": "https://media.rss.com/traag-van-mulligen/feed.xml",
+        "genreIds": [
+          "1511",
+          "26",
+          "1489"
+        ],
+        "genres": [
+          "Overheid",
+          "MZGenre.Podcasts",
+          "Nieuws"
+        ],
+        "kind": "podcast",
+        "primaryGenreName": "Overheid",
+        "releaseDate": "2026-09-29T05:00:00Z",
+        "trackCensoredName": "Traag & Van Mulligen | De podcast van het CBS",
+        "trackCount": 3,
+        "trackExplicitness": "cleaned",
+        "trackId": 6812207088,
+        "trackName": "Traag & Van Mulligen | De podcast van het CBS",
+        "trackPrice": 0.0,
+        "trackTimeMillis": 1116,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/traag-van-mulligen-de-podcast-van-het-cbs/id6812207088?uo=4",
+        "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/9e/52/9c9e52bb-5ee3-02cf-a912-c0d9b837d709/mza_4072501167129670606.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/9e/52/9c9e52bb-5ee3-02cf-a912-c0d9b837d709/mza_4072501167129670606.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/9e/52/9c9e52bb-5ee3-02cf-a912-c0d9b837d709/mza_4072501167129670606.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 6812207088,
+        "collectionName": "Traag & Van Mulligen | De podcast van het CBS",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/traag-van-mulligen-de-podcast-van-het-cbs/id6812207088?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "S1E2: Waarom Nederland zo SLECHT scoort op de verschillen tussen mannen en vrouwen?\nNederland is weer gezakt in de internationale Gender Gap Index. Dat we het zo slecht doen heeft veel te maken het grote verschil in werk en inkomen tussen mannen en vrouwen.\nWaar komt dat gat vandaan?\nWe praten erover met Sophie van Gool, econoom en schrijver van het boek Waarom vrouwen minder verdienen.\nGenoemde cijfers & bronnen:\nGlobal Gender Gap Report van het WEF\nGender Equality Index van Eurostat",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "1bad416f-e4e9-4d41-b137-fb0e4f219d97",
+        "episodeUrl": "https://content.rss.com/episodes/402267/3187723/traag-van-mulligen/2026_09_28_12_29_48_4c864abe-31ae-4ed5-bb8f-a0f154c04eb3.mp3",
+        "feedUrl": "https://media.rss.com/traag-van-mulligen/feed.xml",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://content.rss.com/episodes/402267/3187723/traag-van-mulligen/2026_09_28_12_29_48_4c864abe-31ae-4ed5-bb8f-a0f154c04eb3.mp3",
+        "releaseDate": "2026-09-29T05:00:00Z",
+        "shortDescription": "S1E2: Waarom Nederland zo SLECHT scoort op de verschillen tussen mannen en vrouwen?\nNederland is weer gezakt in de internationale Gender Gap Index. Dat we het zo slecht doen heeft veel te maken het grote verschil in werk en inkomen tussen mannen en vrou",
+        "trackId": 1000792134852,
+        "trackName": "Waarom Nederland zo SLECHT scoort op de verschillen tussen mannen en vrouwen?",
+        "trackTimeMillis": 1116000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/waarom-nederland-zo-slecht-scoort-op-de-verschillen/id6812207088?i=1000792134852&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/4d/1d/394d1df2-c019-de7d-d60e-cd9838446686/mza_504871626299319954.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/4d/1d/394d1df2-c019-de7d-d60e-cd9838446686/mza_504871626299319954.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/4d/1d/394d1df2-c019-de7d-d60e-cd9838446686/mza_504871626299319954.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 6812207088,
+        "collectionName": "Traag & Van Mulligen | De podcast van het CBS",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/traag-van-mulligen-de-podcast-van-het-cbs/id6812207088?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Luister nu iedere twee weken naar onze nieuwe podcast: Traag & Van Mulligen.\nBekijk de podcast ook op YouTube: https://youtube.com/playlist?list=PLM_eV930s-k8&si=uBCaq-je1fjC9512\nTraag & Van Mulligen is een serie tweewekelijkse podcasts waarin actuele onderwerpen besproken worden door hoofdeconoom Peter Hein van Mulligen en hoofdsocioloog Tanja Traag van het Centraal Bureau voor de Statistiek (CBS).\nDe nieuwste cijfers, opvallende uitkomsten en de cijfers achter het maatschappelijk debat.\nVoor wat er feitelijk gebeurt.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "eaa09070-0383-4d52-9d2b-6ecf2083cda4",
+        "episodeUrl": "https://content.rss.com/episodes/402267/3160431/traag-van-mulligen/2026_09_17_08_06_08_8e185a6d-9fd7-4adc-a439-1f3c9ab4a7fa.mp3",
+        "feedUrl": "https://media.rss.com/traag-van-mulligen/feed.xml",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://content.rss.com/episodes/402267/3160431/traag-van-mulligen/2026_09_17_08_06_08_8e185a6d-9fd7-4adc-a439-1f3c9ab4a7fa.mp3",
+        "releaseDate": "2026-09-17T08:08:57Z",
+        "shortDescription": "Luister nu iedere twee weken naar onze nieuwe podcast: Traag & Van Mulligen.\nBekijk de podcast ook op YouTube: https://youtube.com/playlist?list=PLM_eV930s-k8&si=uBCaq-je1fjC9512\nTraag & Van Mulligen is een serie tweewekelijkse podcasts waarin actuele o",
+        "trackId": 1000790320993,
+        "trackName": "Trailer: Traag & van Mulligen | De podcast van het CBS",
+        "trackTimeMillis": 20000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/trailer-traag-van-mulligen-de-podcast-van-het-cbs/id6812207088?i=1000790320993&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/52/22/e252220b-29f1-d3db-7ecc-5c4727db8afe/mza_7124800001113234799.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/52/22/e252220b-29f1-d3db-7ecc-5c4727db8afe/mza_7124800001113234799.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/52/22/e252220b-29f1-d3db-7ecc-5c4727db8afe/mza_7124800001113234799.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 6812207088,
+        "collectionName": "Traag & Van Mulligen | De podcast van het CBS",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/traag-van-mulligen-de-podcast-van-het-cbs/id6812207088?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "S1E1: Hoe zit het nu echt met de welvaart van generaties?\nZijn millennials en gen Z nu beter af dan de oudere generaties of is het niet allemaal zo rooskleurig?\nWe duiken in de cijfers en bespreken die met Paul de Beer, emeritus hoogleraar van de UvA en schrijver van het boek De generatiestrijd.\nGenoemde cijfers & bronnen:\nJongere generaties meestal rijker dan hun voorgangers\nVan babyboomers tot gen Z: financi\u00eble welvaart van generaties\nPeter Hein en Tanja zien cijfers; nieuwsbrief CBS",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "0be684b1-4abb-4732-aec9-df2e6685c62d",
+        "episodeUrl": "https://content.rss.com/episodes/402267/3151050/traag-van-mulligen/2026_09_17_07_26_14_fd7ee159-b7e7-43e8-a3bd-dbe375d490ec.mp3",
+        "feedUrl": "https://media.rss.com/traag-van-mulligen/feed.xml",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://content.rss.com/episodes/402267/3151050/traag-van-mulligen/2026_09_17_07_26_14_fd7ee159-b7e7-43e8-a3bd-dbe375d490ec.mp3",
+        "releaseDate": "2026-09-15T05:00:00Z",
+        "shortDescription": "Hoe zit het nu echt met de welvaart van generaties? Zijn millennials en gen Z nu beter af dan de oudere generaties of is het niet allemaal zo rooskleurig? We duiken in de cijfers en bespreken die met Paul de Beer, emeritus hoogleraar van de UvA en schri",
+        "trackId": 1000789722307,
+        "trackName": "Hoe zit het nu ECHT met de welvaart van generaties?",
+        "trackTimeMillis": 1148000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/hoe-zit-het-nu-echt-met-de-welvaart-van-generaties/id6812207088?i=1000789722307&uo=4",
+        "wrapperType": "podcastEpisode"
+      }
+    ]
   }
 ]
