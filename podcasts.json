@@ -2528,12 +2528,12 @@
           "1318"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
-          "Technology"
+          "Technologie"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2023-01-09T04:00:00Z",
         "trackCensoredName": "Werken voor Nederland: De Nieuwe Dijkbewakers",
         "trackCount": 7,
@@ -3746,7 +3746,7 @@
         ],
         "genres": [
           "Maatschappij en cultuur",
-          "MZGenre.Podcasts"
+          "Podcasts"
         ],
         "kind": "podcast",
         "primaryGenreName": "Maatschappij en cultuur",
@@ -4416,12 +4416,12 @@
           "1321"
         ],
         "genres": [
-          "Non-Profit",
+          "Non-profit",
           "Podcasts",
           "Zakelijk"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Non-Profit",
+        "primaryGenreName": "Non-profit",
         "releaseDate": "2023-07-19T10:00:00Z",
         "trackCensoredName": "Innovatie Deep Dive",
         "trackCount": 6,
@@ -5121,12 +5121,12 @@
           "1321"
         ],
         "genres": [
-          "Non-Profit",
+          "Non-profit",
           "Podcasts",
-          "Business"
+          "Zakelijk"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Non-Profit",
+        "primaryGenreName": "Non-profit",
         "releaseDate": "2026-03-11T15:00:00Z",
         "trackCensoredName": "Hallo Hannah",
         "trackCount": 7,
@@ -8299,12 +8299,12 @@
           "1321"
         ],
         "genres": [
-          "MZGenre.Podcasts.NonProfit",
+          "Non-profit",
           "Podcasts",
           "Zakelijk"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.NonProfit",
+        "primaryGenreName": "Non-profit",
         "releaseDate": "2026-06-23T00:43:00Z",
         "trackCensoredName": "De Publieke Ruimte",
         "trackCount": 76,
@@ -11233,12 +11233,12 @@
           "1324"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
-          "Society & Culture"
+          "Maatschappij en cultuur"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2022-09-05T09:00:00Z",
         "trackCensoredName": "Tussen Publiek en Politiek",
         "trackCount": 4,
@@ -13616,7 +13616,7 @@
         "genres": [
           "Overheid",
           "Podcasts",
-          "Technology"
+          "Technologie"
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
@@ -19497,11 +19497,11 @@
           "26"
         ],
         "genres": [
-          "Technology",
+          "Technologie",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Technology",
+        "primaryGenreName": "Technologie",
         "releaseDate": "2026-06-02T12:00:00Z",
         "trackCensoredName": "CIP-podcasts - voor meer kennis over informatiebeveiliging en privacybescherming",
         "trackCount": 89,
@@ -25879,11 +25879,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2023-11-28T12:50:00Z",
         "trackCensoredName": "Tax Talk",
         "trackCount": 26,
@@ -28977,11 +28977,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2025-11-11T07:44:00Z",
         "trackCensoredName": "Gebruiker Centraal",
         "trackCount": 52,
@@ -33412,14 +33412,14 @@
           "1537"
         ],
         "genres": [
-          "Entrepreneurship",
+          "Ondernemerschap",
           "Podcasts",
           "Zakelijk",
-          "MZGenre.Podcasts.Science",
+          "Wetenschap",
           "Natuur"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Entrepreneurship",
+        "primaryGenreName": "Ondernemerschap",
         "releaseDate": "2026-09-02T04:00:00Z",
         "trackCensoredName": "Voeten in de Aarde",
         "trackCount": 18,
@@ -34718,7 +34718,7 @@
         "genres": [
           "Overheid",
           "Podcasts",
-          "MZGenre.Podcasts.SocietyCulture",
+          "Maatschappij en cultuur",
           "Persoonlijke dagboeken"
         ],
         "kind": "podcast",
@@ -39325,12 +39325,12 @@
           "1511"
         ],
         "genres": [
-          "True Crime",
+          "Waargebeurde misdaad",
           "Podcasts",
           "Overheid"
         ],
         "kind": "podcast",
-        "primaryGenreName": "True Crime",
+        "primaryGenreName": "Waargebeurde misdaad",
         "releaseDate": "2023-06-09T06:00:00Z",
         "trackCensoredName": "Het Oordeel van de Officier",
         "trackCount": 11,
@@ -41479,7 +41479,7 @@
           "Gezondheid en fitness",
           "Podcasts",
           "Zakelijk",
-          "Careers"
+          "Carri\u00e8res"
         ],
         "kind": "podcast",
         "primaryGenreName": "Gezondheid en fitness",
@@ -43622,11 +43622,11 @@
           "26"
         ],
         "genres": [
-          "Education",
+          "Onderwijs",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Education",
+        "primaryGenreName": "Onderwijs",
         "releaseDate": "2021-11-10T13:31:00Z",
         "trackCensoredName": "Podcast van het Ministerie van Onderwijs, Cultuur en Wetenschap",
         "trackCount": 2,
@@ -44515,26 +44515,92 @@
         "genres": [
           "Overheid",
           "Podcasts",
-          "MZGenre.Podcasts.Education"
+          "Onderwijs"
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
-        "releaseDate": "2023-07-19T22:00:00Z",
+        "releaseDate": "2026-09-30T20:00:00Z",
         "trackCensoredName": "De Wettenfabriek",
-        "trackCount": 14,
+        "trackCount": 16,
         "trackExplicitness": "cleaned",
         "trackId": 1608202332,
         "trackName": "De Wettenfabriek",
         "trackPrice": 0.0,
-        "trackTimeMillis": 1407,
+        "trackTimeMillis": 75,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-wettenfabriek/id1608202332?uo=4",
         "wrapperType": "track"
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1608202332,
+        "collectionName": "De Wettenfabriek",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-wettenfabriek/id1608202332?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Wanneer heb jij voor het laatst de temperatuur van je koelkast gecontroleerd? In de zorg gebeurt dat elke dag, sinds kwetsbare ouderen ziek werden van een bedorven toetje. Hoe komt zo\u2019n regel tot stand en wordt ze langzaam een hele afvinklijst? In de eerste aflevering van het nieuwe seizoen zoeken we het antwoord in de politiek: bij incidenten, Kamervragen en de \u2018risicoregelreflex\u2019. Aan het woord: onderzoeker Georgina Kuipers (NSOB), Tweede Kamerlid Joost Sneller (D66) en oud-Kamerlid Kees van der Staaij (SGP).\nEen uitgeschreven versie van de aflevering is op\u00a0www.wettenfabriek.nl\u00a0te vinden.\nOverzicht fragmenten:\n2:58 Tweede Kamer der Staten-Generaal, 23 juni 2026\n3:42 Tweede Kamer der Staten-Generaal, 20 juni 2023\n3:55 Yes, Prime Minister, BBC, 1988\n5:54 Tweede Kamer der Staten-Generaal, 12 december 2023\n9:20 Tweede Kamer der Staten-Generaal, 20 juni 2023\n9:27 Tweede Kamer der Staten-Generaal, 20 juni 2023\n11:38 Tweede Kamer der Staten-Generaal, 13 oktober 2016\n11:41 Tweede Kamer der Staten-Generaal, 21 april 2022\n12:40 Troonrede, 15 september 2026\n14:17 NOS Journaal, 29 juni 2019\n14:46 Van Kooten en De Bie, tune van De Tegenpartij\n18:37 Tweede Kamer der Staten-Generaal, 12 oktober 2023\n20:36 KVP-verkiezingsfilm, Beeld & Geluid, 1967\n21:12 Vilans, \u2018Ontregel de langdurige zorg\u2019",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "fe7f6720-03c0-450e-a21c-0b962ad5a569",
+        "episodeUrl": "https://cdn.simplecast.com/media/audio/transcoded/a8fcbddf-cd9b-42c2-978b-f88c26450980/1b7fc897-945f-4c49-8adc-ab213cef6463/episodes/audio/group/9e39fcc1-d644-4ac0-aba6-f07a2619e954/group-item/e7057e6d-fe02-4ad5-8739-1cfa8a5b7060/128_default_tc.mp3?aid=rss_feed&feed=lravBCSq",
+        "feedUrl": "https://feeds.simplecast.com/lravBCSq",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://cdn.simplecast.com/media/audio/transcoded/a8fcbddf-cd9b-42c2-978b-f88c26450980/1b7fc897-945f-4c49-8adc-ab213cef6463/episodes/audio/group/9e39fcc1-d644-4ac0-aba6-f07a2619e954/group-item/e7057e6d-fe02-4ad5-8739-1cfa8a5b7060/128_default_tc.mp3?aid=rss_feed&feed=lravBCSq",
+        "releaseDate": "2026-09-30T22:00:00Z",
+        "shortDescription": "Wanneer heb jij voor het laatst de temperatuur van je koelkast gecontroleerd? In de zorg gebeurt dat elke dag, sinds kwetsbare ouderen ziek werden van een bedorven toetje. Hoe komt zo\u2019n regel tot stand en wordt ze langzaam een hele afvinklijst? In de",
+        "trackId": 1000792471549,
+        "trackName": "Hoe wetten complex worden: een politiek perspectief",
+        "trackTimeMillis": 1326000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/hoe-wetten-complex-worden-een-politiek-perspectief/id1608202332?i=1000792471549&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1608202332,
+        "collectionName": "De Wettenfabriek",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-wettenfabriek/id1608202332?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In de wekelijkse podcast De Wettenfabriek belichten we aan de hand van actuele fragmenten en gesprekken met deskundigen binnen en buiten de Rijksoverheid hoe wetten tot stand komen en werken. In het derde seizoen onderzoeken we hoe wetten complex worden en wat eraan te doen valt.\nVanaf donderdag 1 oktober 2026 verschijnt elke donderdag een nieuwe aflevering.\nDe podcast is een initiatief van de\u00a0Academie voor Wetgeving\u00a0en het\u00a0Kenniscentrum voor beleid en regelgeving\u00a0(ministerie van Justitie en Veiligheid). De podcast is tot stand gekomen in samenwerking met medewerkers van andere ministeries en podcast agency\u00a0Microphone Media.\nGa voor meer informatie naar\u00a0www.wettenfabriek.nl.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "c6e70193-2c34-464c-a340-72f86f7e2d02",
+        "episodeUrl": "https://cdn.simplecast.com/media/audio/transcoded/a8fcbddf-cd9b-42c2-978b-f88c26450980/1b7fc897-945f-4c49-8adc-ab213cef6463/episodes/audio/group/e84497f5-7c5d-4935-98e3-b6d472c3479f/group-item/dacf97dd-d500-4dd3-8482-48a199b7e9f1/128_default_tc.mp3?aid=rss_feed&feed=lravBCSq",
+        "feedUrl": "https://feeds.simplecast.com/lravBCSq",
+        "genres": [
+          {
+            "name": "Government",
+            "id": "1511"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://cdn.simplecast.com/media/audio/transcoded/a8fcbddf-cd9b-42c2-978b-f88c26450980/1b7fc897-945f-4c49-8adc-ab213cef6463/episodes/audio/group/e84497f5-7c5d-4935-98e3-b6d472c3479f/group-item/dacf97dd-d500-4dd3-8482-48a199b7e9f1/128_default_tc.mp3?aid=rss_feed&feed=lravBCSq",
+        "releaseDate": "2026-09-30T20:00:00Z",
+        "shortDescription": "In de wekelijkse podcast De Wettenfabriek belichten we aan de hand van actuele fragmenten en gesprekken met deskundigen binnen en buiten de Rijksoverheid hoe wetten tot stand komen en werken. In het derde seizoen onderzoeken we hoe wetten complex worden",
+        "trackId": 1000792450369,
+        "trackName": "S3 - Trailer",
+        "trackTimeMillis": 75000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/s3-trailer/id1608202332?i=1000792450369&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44565,9 +44631,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44598,9 +44664,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44631,9 +44697,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44664,9 +44730,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44697,9 +44763,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44730,9 +44796,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44763,9 +44829,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44796,9 +44862,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44829,9 +44895,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44862,9 +44928,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44895,9 +44961,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44928,9 +44994,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -44961,9 +45027,9 @@
       },
       {
         "artistIds": [],
-        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/160x160bb.jpg",
-        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/60x60bb.jpg",
-        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/83/69/f8/8369f817-48ec-6e3d-6ddf-bf3e82d3a576/mza_7268128717238299562.jpg/600x600bb.jpg",
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/b9/85/06b98562-ea02-ace2-bef1-c75f86c720d9/mza_17312120311336902040.jpg/600x600bb.jpg",
         "closedCaptioning": "none",
         "collectionId": 1608202332,
         "collectionName": "De Wettenfabriek",
@@ -49096,11 +49162,11 @@
           "26"
         ],
         "genres": [
-          "MZGenre.Podcasts.Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-09-05T03:00:00Z",
         "trackCensoredName": "Samen Sterker Podcast Defensie",
         "trackCount": 96,
@@ -53009,11 +53075,11 @@
           "26"
         ],
         "genres": [
-          "True Crime",
+          "Waargebeurde misdaad",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "True Crime",
+        "primaryGenreName": "Waargebeurde misdaad",
         "releaseDate": "2021-09-14T12:30:00Z",
         "trackCensoredName": "De Politiepodcast: Cold Case",
         "trackCount": 12,
@@ -54151,12 +54217,12 @@
           "1324"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
           "Maatschappij en cultuur"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-03-05T05:00:00Z",
         "trackCensoredName": "Participatiepraat",
         "trackCount": 12,
@@ -56242,13 +56308,13 @@
           "1543"
         ],
         "genres": [
-          "True Crime",
+          "Waargebeurde misdaad",
           "Podcasts",
           "Maatschappij en cultuur",
           "Documentaire"
         ],
         "kind": "podcast",
-        "primaryGenreName": "True Crime",
+        "primaryGenreName": "Waargebeurde misdaad",
         "releaseDate": "2024-07-10T12:25:00Z",
         "trackCensoredName": "De Politie Podcast - MH17",
         "trackCount": 6,
@@ -57656,8 +57722,8 @@
         "genres": [
           "Zakelijk",
           "Podcasts",
-          "MZGenre.Podcasts.Science",
-          "MZGenre.Podcasts.Nature"
+          "Wetenschap",
+          "Natuur"
         ],
         "kind": "podcast",
         "primaryGenreName": "Zakelijk",
@@ -58888,7 +58954,7 @@
         "genres": [
           "Geneeskunde",
           "Podcasts",
-          "Health & Fitness"
+          "Gezondheid en fitness"
         ],
         "kind": "podcast",
         "primaryGenreName": "Geneeskunde",
@@ -62491,12 +62557,12 @@
           "1321"
         ],
         "genres": [
-          "MZGenre.Podcasts.Government",
+          "Overheid",
           "Podcasts",
           "Zakelijk"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-12-04T10:10:00Z",
         "trackCensoredName": "#Beter Aanbesteden",
         "trackCount": 7,
@@ -63483,11 +63549,11 @@
           "26"
         ],
         "genres": [
-          "MZGenre.Podcasts.HealthFitness",
+          "Gezondheid en fitness",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.HealthFitness",
+        "primaryGenreName": "Gezondheid en fitness",
         "releaseDate": "2022-03-29T08:43:00Z",
         "trackCensoredName": "Waardevolle AI voor gezondheid Podcast",
         "trackCount": 13,
@@ -64378,12 +64444,12 @@
           "1310"
         ],
         "genres": [
-          "MZGenre.Podcasts.Education",
+          "Onderwijs",
           "Podcasts",
           "Muziek"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Education",
+        "primaryGenreName": "Onderwijs",
         "releaseDate": "2021-08-03T18:35:00Z",
         "trackCensoredName": "Op het bankje",
         "trackCount": 5,
@@ -66277,11 +66343,11 @@
           "26"
         ],
         "genres": [
-          "MZGenre.Podcasts.TrueCrime",
-          "MZGenre.Podcasts"
+          "Waargebeurde misdaad",
+          "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.TrueCrime",
+        "primaryGenreName": "Waargebeurde misdaad",
         "releaseDate": "2025-05-07T20:00:00Z",
         "trackCensoredName": "Blauw Geboren",
         "trackCount": 27,
@@ -69730,13 +69796,13 @@
           "1499"
         ],
         "genres": [
-          "Courses",
+          "Cursussen",
           "Podcasts",
           "Onderwijs",
-          "How To"
+          "Stap voor stap"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Courses",
+        "primaryGenreName": "Cursussen",
         "releaseDate": "2023-11-20T05:00:00Z",
         "trackCensoredName": "IK WORD AGENT",
         "trackCount": 8,
@@ -74304,7 +74370,7 @@
         "genres": [
           "Overheid",
           "Podcasts",
-          "MZGenre.Podcasts.Education"
+          "Onderwijs"
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
@@ -77813,13 +77879,13 @@
           "1494"
         ],
         "genres": [
-          "MZGenre.Podcasts.Government",
+          "Overheid",
           "Podcasts",
-          "MZGenre.Podcasts.Business",
-          "Non-Profit"
+          "Zakelijk",
+          "Non-profit"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2025-07-22T06:00:00Z",
         "trackCensoredName": "De agent, de wet en de opsporing",
         "trackCount": 6,
@@ -78414,12 +78480,12 @@
           "1321"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
           "Zakelijk"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-06-18T06:15:00Z",
         "trackCensoredName": "FIODcast | Jaarverslag 2023",
         "trackCount": 4,
@@ -84120,11 +84186,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2026-08-26T10:00:00Z",
         "trackCensoredName": "Podcast #ONDERMIJNING",
         "trackCount": 48,
@@ -86292,14 +86358,14 @@
           "1491"
         ],
         "genres": [
-          "MZGenre.Podcasts.Mathematics",
+          "Wiskunde",
           "Podcasts",
           "Wetenschap",
-          "Business",
+          "Zakelijk",
           "Management"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Mathematics",
+        "primaryGenreName": "Wiskunde",
         "releaseDate": "2024-10-28T06:00:00Z",
         "trackCensoredName": "College van Kelder & Teulings",
         "trackCount": 8,
@@ -88079,11 +88145,11 @@
           "26"
         ],
         "genres": [
-          "MZGenre.Podcasts.Business",
+          "Zakelijk",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Business",
+        "primaryGenreName": "Zakelijk",
         "releaseDate": "2026-06-23T14:13:00Z",
         "trackCensoredName": "RVO-podcast",
         "trackCount": 12,
@@ -94489,11 +94555,11 @@
           "26"
         ],
         "genres": [
-          "Technology",
+          "Technologie",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Technology",
+        "primaryGenreName": "Technologie",
         "releaseDate": "2026-08-03T07:00:00Z",
         "trackCensoredName": "Enter",
         "trackCount": 47,
@@ -98526,11 +98592,11 @@
           "26"
         ],
         "genres": [
-          "Business",
+          "Zakelijk",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Business",
+        "primaryGenreName": "Zakelijk",
         "releaseDate": "2021-09-29T00:00:00Z",
         "trackCensoredName": "Never waste a good crisis",
         "trackCount": 3,
@@ -105087,7 +105153,7 @@
           "Overheid",
           "Podcasts",
           "Maatschappij en cultuur",
-          "Personal Journals"
+          "Persoonlijke dagboeken"
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
@@ -114797,12 +114863,12 @@
           "1511"
         ],
         "genres": [
-          "Business",
+          "Zakelijk",
           "Podcasts",
-          "Government"
+          "Overheid"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Business",
+        "primaryGenreName": "Zakelijk",
         "releaseDate": "2026-09-24T05:38:00Z",
         "trackCensoredName": "De veranderende rol van een informatieprofessional",
         "trackCount": 61,
@@ -117334,7 +117400,7 @@
         "genres": [
           "Geestelijke gezondheid",
           "Podcasts",
-          "MZGenre.Podcasts.HealthFitness"
+          "Gezondheid en fitness"
         ],
         "kind": "podcast",
         "primaryGenreName": "Geestelijke gezondheid",
@@ -118691,13 +118757,13 @@
           "1527"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
           "Nieuws",
           "Politiek"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-02-27T14:50:00Z",
         "trackCensoredName": "Algemene Rekenkamer",
         "trackCount": 7,
@@ -119830,12 +119896,12 @@
           "1304"
         ],
         "genres": [
-          "Science",
+          "Wetenschap",
           "Podcasts",
           "Onderwijs"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Science",
+        "primaryGenreName": "Wetenschap",
         "releaseDate": "2026-04-09T16:00:00Z",
         "trackCensoredName": "KNMI",
         "trackCount": 20,
@@ -121594,11 +121660,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-01-03T06:13:00Z",
         "trackCensoredName": "De inspecteur",
         "trackCount": 4,
@@ -122232,12 +122298,12 @@
           "1511"
         ],
         "genres": [
-          "True Crime",
+          "Waargebeurde misdaad",
           "Podcasts",
           "Overheid"
         ],
         "kind": "podcast",
-        "primaryGenreName": "True Crime",
+        "primaryGenreName": "Waargebeurde misdaad",
         "releaseDate": "2022-10-31T06:00:00Z",
         "trackCensoredName": "Roet in het eten",
         "trackCount": 6,
@@ -122860,8 +122926,8 @@
         "genres": [
           "Ondernemerschap",
           "Podcasts",
-          "MZGenre.Podcasts.Business",
-          "Science"
+          "Zakelijk",
+          "Wetenschap"
         ],
         "kind": "podcast",
         "primaryGenreName": "Ondernemerschap",
@@ -123460,7 +123526,7 @@
         "genres": [
           "Non-profit",
           "Podcasts",
-          "Business"
+          "Zakelijk"
         ],
         "kind": "podcast",
         "primaryGenreName": "Non-profit",
@@ -124054,7 +124120,7 @@
           "Fictie",
           "Podcasts",
           "Wetenschap",
-          "Earth Sciences"
+          "Aardwetenschappen"
         ],
         "kind": "podcast",
         "primaryGenreName": "Fictie",
@@ -139969,11 +140035,11 @@
           "26"
         ],
         "genres": [
-          "MZGenre.Podcasts.Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2026-06-18T06:57:00Z",
         "trackCensoredName": "WRR Vogelvlucht",
         "trackCount": 36,
@@ -150653,11 +150719,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-12-26T05:00:00Z",
         "trackCensoredName": "Mijn Missie",
         "trackCount": 109,
@@ -154795,12 +154861,12 @@
           "1488"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
-          "True Crime"
+          "Waargebeurde misdaad"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-06-05T21:59:00Z",
         "trackCensoredName": "Dossier Delict - de podcast van het NIFP",
         "trackCount": 7,
@@ -155431,8 +155497,8 @@
         "genres": [
           "Overheid",
           "Podcasts",
-          "Society & Culture",
-          "Documentary"
+          "Maatschappij en cultuur",
+          "Documentaire"
         ],
         "kind": "podcast",
         "primaryGenreName": "Overheid",
@@ -157304,12 +157370,12 @@
           "1304"
         ],
         "genres": [
-          "History",
+          "Geschiedenis",
           "Podcasts",
           "Onderwijs"
         ],
         "kind": "podcast",
-        "primaryGenreName": "History",
+        "primaryGenreName": "Geschiedenis",
         "releaseDate": "2022-07-15T10:00:00Z",
         "trackCensoredName": "Zij Hielden Koers",
         "trackCount": 6,
@@ -161018,11 +161084,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2025-04-17T15:10:00Z",
         "trackCensoredName": "Podcasts over het Meldpunt Integriteit JenV",
         "trackCount": 6,
@@ -162043,12 +162109,12 @@
           "1511"
         ],
         "genres": [
-          "Science",
+          "Wetenschap",
           "Podcasts",
-          "Government"
+          "Overheid"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Science",
+        "primaryGenreName": "Wetenschap",
         "releaseDate": "2023-11-27T01:00:00Z",
         "trackCensoredName": "120 jaar Gezondheidsraad",
         "trackCount": 5,
@@ -164001,11 +164067,11 @@
           "26"
         ],
         "genres": [
-          "MZGenre.Podcasts.Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2022-12-23T10:09:00Z",
         "trackCensoredName": "Raad voor het Openbaar Bestuur",
         "trackCount": 6,
@@ -165107,7 +165173,7 @@
         "genres": [
           "Waargebeurde misdaad",
           "Podcasts",
-          "Society & Culture"
+          "Maatschappij en cultuur"
         ],
         "kind": "podcast",
         "primaryGenreName": "Waargebeurde misdaad",
@@ -183624,13 +183690,13 @@
           "1310"
         ],
         "genres": [
-          "MZGenre.Podcasts.PersonalJournals",
-          "MZGenre.Podcasts",
-          "MZGenre.Podcasts.SocietyCulture",
-          "MZGenre.Podcasts.Music"
+          "Persoonlijke dagboeken",
+          "Podcasts",
+          "Maatschappij en cultuur",
+          "Muziek"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.PersonalJournals",
+        "primaryGenreName": "Persoonlijke dagboeken",
         "releaseDate": "2022-06-17T08:00:00Z",
         "trackCensoredName": "Vluchtnummers",
         "trackCount": 8,
@@ -185627,13 +185693,13 @@
           "1402"
         ],
         "genres": [
-          "MZGenre.Podcasts.SocietyCulture",
+          "Maatschappij en cultuur",
           "Podcasts",
           "Kunst",
-          "MZGenre.Podcasts.Design"
+          "Ontwerp"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.SocietyCulture",
+        "primaryGenreName": "Maatschappij en cultuur",
         "releaseDate": "2026-07-15T05:00:00Z",
         "trackCensoredName": "Ruimte voor de Economie van de toekomst",
         "trackCount": 14,
@@ -187252,7 +187318,7 @@
         ],
         "genres": [
           "Maatschappij en cultuur",
-          "MZGenre.Podcasts"
+          "Podcasts"
         ],
         "kind": "podcast",
         "primaryGenreName": "Maatschappij en cultuur",
@@ -188876,12 +188942,12 @@
           "1321"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
-          "Business"
+          "Zakelijk"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2026-06-25T05:00:00Z",
         "trackCensoredName": "Delta en Duiten",
         "trackCount": 19,
@@ -190290,12 +190356,12 @@
           "1511"
         ],
         "genres": [
-          "Science",
+          "Wetenschap",
           "Podcasts",
           "Overheid"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Science",
+        "primaryGenreName": "Wetenschap",
         "releaseDate": "2020-11-05T04:00:00Z",
         "trackCensoredName": "Over Water & Klimaat",
         "trackCount": 13,
@@ -191944,12 +192010,12 @@
           "1488"
         ],
         "genres": [
-          "Technology",
+          "Technologie",
           "Podcasts",
-          "True Crime"
+          "Waargebeurde misdaad"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Technology",
+        "primaryGenreName": "Technologie",
         "releaseDate": "2023-12-11T09:05:00Z",
         "trackCensoredName": "Takedown",
         "trackCount": 7,
@@ -193042,12 +193108,12 @@
           "1488"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
           "Waargebeurde misdaad"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-02-06T08:00:00Z",
         "trackCensoredName": "De Staat van het strafrecht",
         "trackCount": 15,
@@ -204205,11 +204271,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2026-09-17T08:50:00Z",
         "trackCensoredName": "AMLC podcast",
         "trackCount": 114,
@@ -208557,7 +208623,7 @@
         "genres": [
           "Filosofie",
           "Podcasts",
-          "Society & Culture",
+          "Maatschappij en cultuur",
           "Wetenschap",
           "Levenswetenschappen"
         ],
@@ -209889,13 +209955,13 @@
           "1487"
         ],
         "genres": [
-          "Places & Travel",
+          "Steden en reizen",
           "Podcasts",
           "Maatschappij en cultuur",
           "Geschiedenis"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Places & Travel",
+        "primaryGenreName": "Steden en reizen",
         "releaseDate": "2023-04-25T23:00:00Z",
         "trackCensoredName": "Verborgen in het volle zicht",
         "trackCount": 20,
@@ -211620,7 +211686,7 @@
         "genres": [
           "Kunst",
           "Podcasts",
-          "Society & Culture",
+          "Maatschappij en cultuur",
           "Documentaire"
         ],
         "kind": "podcast",
@@ -213280,11 +213346,11 @@
           "26"
         ],
         "genres": [
-          "Science",
+          "Wetenschap",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Science",
+        "primaryGenreName": "Wetenschap",
         "releaseDate": "2026-07-13T22:05:00Z",
         "trackCensoredName": "Dossier WODC",
         "trackCount": 27,
@@ -219195,11 +219261,11 @@
           "26"
         ],
         "genres": [
-          "MZGenre.Podcasts.Government",
-          "MZGenre.Podcasts"
+          "Overheid",
+          "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "MZGenre.Podcasts.Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2026-09-25T08:34:00Z",
         "trackCensoredName": "De top kijkt om",
         "trackCount": 56,
@@ -222272,8 +222338,8 @@
         "genres": [
           "Carri\u00e8res",
           "Podcasts",
-          "MZGenre.Podcasts.Business",
-          "MZGenre.Podcasts.Management"
+          "Zakelijk",
+          "Management"
         ],
         "kind": "podcast",
         "primaryGenreName": "Carri\u00e8res",
@@ -223814,8 +223880,8 @@
         "genres": [
           "Documentaire",
           "Podcasts",
-          "Society & Culture",
-          "Business",
+          "Maatschappij en cultuur",
+          "Zakelijk",
           "Carri\u00e8res"
         ],
         "kind": "podcast",
@@ -225492,11 +225558,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2020-01-09T13:20:00Z",
         "trackCensoredName": "De Landmacht Werkt Samen",
         "trackCount": 6,
@@ -226115,11 +226181,11 @@
           "26"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2025-06-12T06:19:00Z",
         "trackCensoredName": "De Commandant",
         "trackCount": 4,
@@ -227589,13 +227655,13 @@
           "1494"
         ],
         "genres": [
-          "Government",
+          "Overheid",
           "Podcasts",
           "Zakelijk",
-          "Non-Profit"
+          "Non-profit"
         ],
         "kind": "podcast",
-        "primaryGenreName": "Government",
+        "primaryGenreName": "Overheid",
         "releaseDate": "2024-11-11T11:00:00Z",
         "trackCensoredName": "Slim Inkopen, Slim Afvoeren",
         "trackCount": 5,
@@ -227804,7 +227870,7 @@
         ],
         "genres": [
           "Overheid",
-          "MZGenre.Podcasts",
+          "Podcasts",
           "Nieuws"
         ],
         "kind": "podcast",
