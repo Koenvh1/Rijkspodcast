@@ -41485,7 +41485,7 @@
         "primaryGenreName": "Gezondheid en fitness",
         "releaseDate": "2026-09-23T14:42:00Z",
         "trackCensoredName": "Zorgklank - handvatten voor professionals in de zorg",
-        "trackCount": 48,
+        "trackCount": 49,
         "trackExplicitness": "cleaned",
         "trackId": 1780286589,
         "trackName": "Zorgklank - handvatten voor professionals in de zorg",
@@ -41493,6 +41493,39 @@
         "trackTimeMillis": 2601,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/zorgklank-handvatten-voor-professionals-in-de-zorg/id1780286589?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/54/fd/6554fde2-30ca-b67c-c132-a374dfdb23bd/mza_9250272186522942131.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1780286589,
+        "collectionName": "Zorgklank - handvatten voor professionals in de zorg",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/zorgklank-handvatten-voor-professionals-in-de-zorg/id1780286589?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "Barbara Goezinne, directeur-generaal Curatieve Zorg, Ad Melkert, voorzitter van de NVZ, Dirk Jan van den Berg voorzitter Zorgverzekeraars Nederland en Sam Schoch, bestuurder Nederlandse GGZ,gingen op 30 september tijdens dit webinar en nu ook als podcast \u00a0\u2018Van plannen naar praktijk: hoe maken we de doorbraak?\u2019 met elkaar in gesprek over de doorbraakmiddelen uit het Aanvullend Zorg- en Welzijnsakkoord (AZWA).\n \u00a0\n Dit webinar is een vervolg op het eerdere webinar over het AZWA. Nu staan de doorbraakmiddelen centraal. Inmiddels is een belangrijke volgende stap gezet: voor verschillende bewezen opschaalbare toepassingen zijn modelplannen vastgesteld.\n \u00a0\n De doorbraakmiddelen zijn bedoeld om toepassingen die hun waarde in de praktijk al hebben bewezen, sneller en op grotere schaal beschikbaar te maken. Denk aan spraakgestuurd rapporteren, tele- en thuismonitoring, capaciteitsplanning, digitale triage en het Mentaal Schakelpunt.\n \u00a0\n Om die opschaling te versnellen, wordt gewerkt met modelplannen. Zorgorganisaties hoeven daardoor niet zelf een volledig plan te ontwikkelen. De toepassingen, voorwaarden, KPI\u2019s en beschikbare bedragen zijn vooraf uitgewerkt. Dat maakt het aanvraagproces eenvoudiger en zorgt ervoor dat de aandacht vooral kan gaan naar waar het uiteindelijk om draait: samen anders gaan werken in de praktijk.\n \u00a0\n We kijken daarom vooruit. Wat betekent deze aanpak voor zorgorganisaties die met een modelplan aan de slag willen? Welke rol speelt samenwerking bij landelijke opschaling? Wat vraagt dit van bestuurders en professionals? En hoe dragen de doorbraakmiddelen bij aan de bredere ambities van het AZWA?\n \u00a0\n Barbara Goezinne, Ad Melkert, Dirk Jan van den Berg en Sam Schoch bespreken de kansen, aandachtspunten en de stappen die de komende periode nodig zijn om van bewezen toepassingen ook daadwerkelijk een doorbraak te maken.\n \u00a0\n Meer informatie over de doorbraakmiddelen, de modelplannen en het webinar vind je op\u00a0zorgakkoorden.nl.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "16595393-e494-578e-a9fc-475dad273baf",
+        "episodeUrl": "https://rss.springcast.app/nJwuAw/RYuapcP9x/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2FRYuapcP9x%2F6abfcf72a26468.93910276.mp3?source=itms.apple.com",
+        "feedUrl": "https://rss.springcast.app/nJwuAw",
+        "genres": [
+          {
+            "name": "Health & Fitness",
+            "id": "1512"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://rss.springcast.app/nJwuAw/RYuapcP9x/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2FRYuapcP9x%2F6abfcf72a26468.93910276.mp3?source=itms.apple.com",
+        "releaseDate": "2026-10-02T15:36:00Z",
+        "shortDescription": "Barbara Goezinne, directeur-generaal Curatieve Zorg, Ad Melkert, voorzitter van de NVZ, Dirk Jan van den Berg voorzitter Zorgverzekeraars Nederland en Sam Schoch, bestuurder Nederlandse GGZ,gingen op 30 september tijdens dit webinar en nu ook als podcas",
+        "trackId": 1000792858669,
+        "trackName": "S2E25 Van plannen naar praktijk: hoe maken we de doorbraak?",
+        "trackTimeMillis": 3617000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/s2e25-van-plannen-naar-praktijk-hoe-maken-we-de-doorbraak/id1780286589?i=1000792858669&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
