@@ -3,11 +3,38 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-01T20:11:31Z</updated>
+	<updated>2026-10-02T01:20:43Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>WRR Vogelvlucht - #37 De toekomst in beleid</title>
+		<link href="https://podcasts.apple.com/nl/podcast/37-de-toekomst-in-beleid/id1518310158?i=1000792579654&amp;uo=4" rel="alternate" />
+		<summary>#37 De toekomst in beleid by WRR</summary>
+		<author>
+			<name>WRR</name>
+		</author>
+		<link href="https://feeds.soundcloud.com/stream/2411079186-wrr-den-haag-37-de-toekomst-in-beleid.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000792579654</id>
+		<updated>2026-10-01T13:43:05Z</updated>
+	</entry>
+	<entry>
+		<title>Echte politieverhalen - Vliegtuig crasht in een grote woonflat in de Bijlmer.</title>
+		<link href="https://podcasts.apple.com/nl/podcast/vliegtuig-crasht-in-een-grote-woonflat-in-de-bijlmer/id1751266358?i=1000792510772&amp;uo=4" rel="alternate" />
+		<summary>Een vliegtuig crasht middenin een enorme woonflat. Agent Hans is een van de eersten die op de rokende puinhoop van de Bijlmerramp staat. Wat hij hier ziet zal hij nooit vergeten.   
+ 
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
+ 
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie </summary>
+		<author>
+			<name>Politie Nederland</name>
+		</author>
+		<link href="https://rss.springcast.app/ykWuaV/Ljuk8I1Qx/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FykWuaV%2Fitems%2FLjuk8I1Qx%2F6ab39ce7ad6399.34160059.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000792510772</id>
+		<updated>2026-10-01T05:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Wettenfabriek - Hoe wetten complex worden: een politiek perspectief</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hoe-wetten-complex-worden-een-politiek-perspectief/id1608202332?i=1000792471549&amp;uo=4" rel="alternate" />
@@ -885,12 +912,9 @@ In deze aflevering gaat Sebo in gesprek met Romee en Boyke van het ministerie va
 		<title>Echte politieverhalen - ‘Ik moet zorgen dat ik niet opval’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-moet-zorgen-dat-ik-niet-opval/id1751266358?i=1000774143281&amp;uo=4" rel="alternate" />
 		<summary>Onderweg naar het bureau komt Mike erachter dat hij in de trein zit met een overvaller. De man heeft veel geld in zijn zakken en is zenuwachtig. Gaan Mike en zijn collega’s op tijd zijn voordat de overvaller uit de trein stapt?  
-
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
-
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1014,9 +1038,9 @@ Luister en leer hoe jij witwasconstructies in de lease-sector kunt herkennen!</s
 		<title>Echte politieverhalen - ‘Er lag ineens overal bloed, ik schrok me kapot’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/er-lag-ineens-overal-bloed-ik-schrok-me-kapot/id1751266358?i=1000773068512&amp;uo=4" rel="alternate" />
 		<summary>Na een vechtpartij bij een café houdt Tuncay een man aan die dronken in een auto ervandaan lijkt te komen. Als de man mee moet voor verhoor, heeft hij in de cel moeite met opstaan. “Die is wel heel dronken”, denkt Tuncay. Maar dan blijkt er iets anders aan de hand.  
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1066,10 +1090,16 @@ Luister en leer hoe jij witwasconstructies in de lease-sector kunt herkennen!</s
 	<entry>
 		<title>Echte politieverhalen - ‘Hij schreeuwde en pakte een mes uit de keuken’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-schreeuwde-en-pakte-een-mes-uit-de-keuken/id1751266358?i=1000772155030&amp;uo=4" rel="alternate" />
-		<summary>Een man met verward gedrag schreeuwt thuis al uren en zwaait met een keukenmes. Agent Melvin sluipt zijn woning binnen om hem te kalmeren. Buiten houden Melvin's collega's de man in de gaten. Dan zijn ze hem ineens kwijt. Melvin staat binnen, maar waar is de man met het mes?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>Een man met verward gedrag schreeuwt thuis al uren en zwaait met een keukenmes. Agent Melvin sluipt zijn woning binnen om hem te kalmeren. Buiten houden Melvin's collega's de man in de gaten. Dan zijn ze hem ineens kwijt.  Melvin staat binnen, maar waar is de man met het mes?
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1153,10 +1183,19 @@ Hoofdstukmarkeringen :
 	<entry>
 		<title>Echte politieverhalen - ‘Ik hoorde geschreeuw uit de ontspoorde trein’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-hoorde-geschreeuw-uit-de-ontspoorde-trein/id1751266358?i=1000771109523&amp;uo=4" rel="alternate" />
-		<summary>Als Floor deze melding via de portofoon hoort, weet ze meteen dat het foute boel is. Samen met haar collega’s is zij als eerste ter plaatse bij een enorm treinongeluk. Het is donker en ze hoort geschreeuw uit de trein komen. Hoe gaat ze iedereen zo snel mogelijk eruit krijgen?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>Als Floor deze melding via de portofoon hoort, weet ze meteen dat het foute boel is. Samen met haar collega’s is zij als eerste ter plaatse bij een enorm treinongeluk. Het is donker en ze hoort geschreeuw uit de trein komen. Hoe gaat ze iedereen zo snel mogelijk eruit krijgen?  
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1326,9 +1365,18 @@ In deze aflevering gaat het Leerhuis in gesprek met Amber Blewanus en Nathalie d
 		<title>Echte politieverhalen - ‘Ik gaf een overvaller een lift’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-gaf-een-overvaller-een-lift/id1751266358?i=1000769946912&amp;uo=4" rel="alternate" />
 		<summary>Barry ziet midden in de nacht een man met een koffertje over de weg lopen. Het regent en zijn bestemming is nog ver weg. Hij besluit de man een lift te geven. Niet veel later vragen mensen Barry om hulp. Ze zijn beroofd door een man met een koffer. Dan komt bij Barry het besef…
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+
+  
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1683,9 +1731,18 @@ Interessante inzichten over de wendbaarheid van organisaties, de mogelijkheid om
 		<title>Echte politieverhalen - ‘Dit was zo bizar, ik word er nog steeds stil van’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/dit-was-zo-bizar-ik-word-er-nog-steeds-stil-van/id1751266358?i=1000763194099&amp;uo=4" rel="alternate" />
 		<summary>Tuncay ziet vanuit de politiewagen een jongen druk naar hem zwaaien. Als hij aankomt ziet hij de vader van de jongen lijkbleek in een auto liggen. Tuncay begint direct met reanimeren. Samen met zijn collega gaat hij door totdat de ambulance arriveert. Zijn enige gedachte: hopelijk overleeft de man het.
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1801,9 +1858,18 @@ Deze podcast wordt mede mogelijk gemaakt door het ministerie van Binnenlandse Za
 		<title>Echte politieverhalen - ‘Hij raakt een verkeerspaal vol in de zijkant’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-raakt-een-verkeerspaal-vol-in-de-zijkant/id1751266358?i=1000761736273&amp;uo=4" rel="alternate" />
 		<summary>Melvin staat tijdens zijn nachtdienst te posten in de wijk als hij via de porto hoort dat collega’s een achtervolging starten. Hij hoort dat ze zijn kant op komen. Dan staat Melvin voor een keuze: zet hij zijn auto ervoor?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1885,10 +1951,19 @@ De Innovatieambtenaar is de podcast van Novum, het innovatieteam van SVB. We nem
 	<entry>
 		<title>Echte politieverhalen - ‘Ik dacht dat ze dood was’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-dacht-dat-ze-dood-was/id1751266358?i=1000760400475&amp;uo=4" rel="alternate" />
-		<summary>Fietje gaat naar een adres waar een buurvrouw al een tijdje niet meer is gezien. Ze doet de brievenbus open en herkent meteen de geur van een overleden persoon. De buren openen de deur en dan blijkt al snel: niet alles is zoals het soms lijkt.
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>Fietje gaat naar een adres waar een buurvrouw al een tijdje niet meer is gezien. Ze doet de brievenbus open en herkent meteen de geur van een overleden persoon. De buren openen de deur en dan blijkt al snel: niet alles is zoals het soms lijkt. 
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1911,11 +1986,23 @@ Daarbij bespreken ze de consequenties van het korter opleiden in het trainingsve
 	<entry>
 		<title>Echte politieverhalen - ‘Hij had een blik die ik nooit meer zal vergeten’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-had-een-blik-die-ik-nooit-meer-zal-vergeten/id1751266358?i=1000758782785&amp;uo=4" rel="alternate" />
-		<summary>David krijgt een melding van een jongen die op grote hoogte staat. Vanaf de grond probeert hij contact met hem te maken, maar dat gaat moeilijk. Dan ziet David dat de jongen een stap achteruit doet en niet meer op de rand staat. Wat is nu het juiste om te zeggen?
- Denk je aan zelfdoding? Neem dan 24/7 gratis en anoniem contact op met 0800-0113 of chat op 113.nl
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>David krijgt een melding van een jongen die op grote hoogte staat. Vanaf de grond probeert hij contact met hem te maken, maar dat gaat moeilijk. Dan ziet David dat de jongen een stap achteruit doet en niet meer op de rand staat. Wat is nu het juiste om te zeggen?   
+
+
+
+Denk je aan zelfdoding? Neem dan 24/7 gratis en anoniem contact op met 0800-0113 of chat op 113.nl
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2032,10 +2119,19 @@ Bekijk de video van de achtervolging met Nick hier: https://www.youtube.com/watc
 	<entry>
 		<title>Echte politieverhalen - ‘Ze had geen idee dat ze zwanger was’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ze-had-geen-idee-dat-ze-zwanger-was/id1751266358?i=1000757433264&amp;uo=4" rel="alternate" />
-		<summary>Barry gaat met spoed naar een bevalling waarbij het niet goed gaat met de baby en de moeder. Hij komt binnen en overal ligt bloed. Dan krijgt hij te horen dat de moeder geen idee had dat ze zwanger was.
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal: @politie</summary>
+		<summary>Barry gaat met spoed naar een bevalling waarbij het niet goed gaat met de baby en de moeder. Hij komt binnen en overal ligt bloed. Dan krijgt hij te horen dat de moeder geen idee had dat ze zwanger was. 
+
+ 
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal: @politie</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2117,12 +2213,21 @@ Deze podcast wordt mede mogelijk gemaakt door het ministerie van Binnenlandse Za
 		<title>Echte politieverhalen - 'Ze werd met haar gezicht onder water gehouden’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ze-werd-met-haar-gezicht-onder-water-gehouden/id1751266358?i=1000756090982&amp;uo=4" rel="alternate" />
 		<summary>LET OP : Deze podcast bevat expliciete inhoud over mensenhandel. Sommige luisteraars kunnen dit als heftig ervaren.
- Cher probeert een jonge vrouw te helpen die gedwongen in de prostitutie zit. Ze geeft niet toe dat ze misbruikt wordt, maar heeft ernstige verwondingen. Cher laat het er niet bij zitten en blijft terugkomen. Ze krijgt steeds mee informatie. Lukt het haar de vrouw hieruit te krijgen?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie.
- Copyright: Politie Nederland
- Productie: Politie Nederland</summary>
+Cher probeert een jonge vrouw te helpen die gedwongen in de prostitutie zit. Ze geeft niet toe dat ze misbruikt wordt, maar heeft ernstige verwondingen. Cher laat het er niet bij zitten en blijft terugkomen. Ze krijgt steeds mee informatie. Lukt het haar de vrouw hieruit te krijgen?  
+
+  
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie.
+Copyright: Politie Nederland
+Productie: Politie Nederland</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2959,9 +3064,9 @@ We gebruiken dit soort verhalen bewust als opening van de podcast. Ze helpen om 
 		<title>Klapmok met Thee - #110: Militair juridisch blokje – de ins en outs van de MJDKL</title>
 		<link href="https://podcasts.apple.com/nl/podcast/110-militair-juridisch-blokje-de-ins-en-outs-van-de-mjdkl/id1566819266?i=1000744394034&amp;uo=4" rel="alternate" />
 		<summary>Na een juridische aflevering over de oorlogswet kon een aflevering over de Militair Juridische Dienst KL niet langer uitblijven. Waarom hebben we eigenlijk een Militair Juridische Dienst en wat doet een militair jurist allemaal? Helpt de jurist bij de scheiding van de OPC 😉?
-Anne-Marij en Deborah gaan in gesprek met Hoofd Juridische Zaken van de Landmachtstaf Kolonel Robin Zegers. Alles komt voorbij. Van het planbord naar de militaire rechtbank te velde, het gebruik van mijnen en van Rules of Engagements naar advies in een operationeel conflict. 
-Zeer interessant vakgebied waar ze nog niet over uitgepraat zijn…
-Luister je mee, naar weer een nieuwe aflevering Klapmok met Thee!</summary>
+ Anne-Marij en Deborah gaan in gesprek met Hoofd Juridische Zaken van de Landmachtstaf Kolonel Robin Zegers. Alles komt voorbij. Van het planbord naar de militaire rechtbank te velde, het gebruik van mijnen en van Rules of Engagements naar advies in een operationeel conflict.
+ Zeer interessant vakgebied waar ze nog niet over uitgepraat zijn…
+ Luister je mee, naar weer een nieuwe aflevering Klapmok met Thee!</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -4166,7 +4271,7 @@ Zie voor meer informatie: https://aofondsrijk.nl/menstruatie-overgang/</summary>
 	<entry>
 		<title>Klapmok met Thee - #105: Explainer Oorlogswet</title>
 		<link href="https://podcasts.apple.com/nl/podcast/105-explainer-oorlogswet/id1566819266?i=1000733254726&amp;uo=4" rel="alternate" />
-		<summary>Maarten Stokhof (senior beleidsmedewerker bij het ministerie van Justitie en Veiligheid) en Rob Lenssen (clusterhoofd bij de Directie Juridische Zaken van Defensie) nemen Deborah en Anne-Marij in deze aflevering helemaal mee in de Oorlogswet, maar ook breder in het staatsnoodrecht. Wat gebeurt of verandert er juridisch in Nederland als we in oorlog zijn?   Daarvoor kijken ze natuurlijk ook naar hoe Nederland in vredestijd is georganiseerd en wat de rol is van lokaal bestuur. Verandert er eigenlijk iets als we in een art. 5 situatie komen? En hoe zit het nu precies met militair gezag? Alles wordt duidelijk uitgelegd en hangt soms - zoals het hoort bij een juridisch onderwerp - af van de omstandigheden van het geval.</summary>
+		<summary>Maarten Stokhof (senior beleidsmedewerker bij het ministerie van Justitie en Veiligheid) en Rob Lenssen (clusterhoofd bij de Directie Juridische Zaken van Defensie) nemen Deborah en Anne-Marij in deze aflevering helemaal mee in de Oorlogswet, maar ook breder in het staatsnoodrecht. Wat gebeurt of verandert er juridisch in Nederland als we in oorlog zijn? Daarvoor kijken ze natuurlijk ook naar hoe Nederland in vredestijd is georganiseerd en wat de rol is van lokaal bestuur. Verandert er eigenlijk iets als we in een art. 5 situatie komen? En hoe zit het nu precies met militair gezag? Alles wordt duidelijk uitgelegd en hangt soms - zoals het hoort bij een juridisch onderwerp - af van de omstandigheden van het geval.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -4624,11 +4729,11 @@ Martijn en Otto blikken terug op deze dag aan de hand van de inzichten van Mari�
 	<entry>
 		<title>Klapmok met Thee - #103: COID: Boots on the ground meets Science</title>
 		<link href="https://podcasts.apple.com/nl/podcast/103-coid-boots-on-the-ground-meets-science/id1566819266?i=1000728501724&amp;uo=4" rel="alternate" />
-		<summary>Alvast voor in de agenda: 19 november vindt het COID congres plaats. Anne-Marij en Deborah gaan in gesprek met de keynote speaker, Sofie van der Maarel. Zij is universitair docent Militaire Ethiek &amp; Leiderschap op de NLDA en vertelt over haar onderzoek naar moral injury in relatie tot technologie &amp; innovatie. De nieuwe morele dilemma’s die komen kijken bij operationele integriteit in context. Wat betekent dit voor de militair van de toekomst. Wie is dat en wil ik die zijn? Belangrijk is het creëren van de juiste verwachtingen. 
-Leestip: Het handboek moral injury in context 
-https://www.boom.nl/criminologie/100-19551_Handboek-moral-injury-in-context
-Luistertip: Buitenland met Boswijk afl 46: de Politieke motieven achter de Nederlandse missie in Uruzgan. 
-Werk je bij Defensie: vragen over het congres kun je stellen door een mail te sturen naar Info.coid@mindef.nl. 19 november in Stroe.</summary>
+		<summary>Alvast voor in de agenda: 19 november vindt het COID congres plaats. Anne-Marij en Deborah gaan in gesprek met de keynote speaker, Sofie van der Maarel. Zij is universitair docent Militaire Ethiek &amp; Leiderschap op de NLDA en vertelt over haar onderzoek naar moral injury in relatie tot technologie &amp; innovatie. De nieuwe morele dilemma’s die komen kijken bij operationele integriteit in context. Wat betekent dit voor de militair van de toekomst. Wie is dat en wil ik die zijn? Belangrijk is het creëren van de juiste verwachtingen.
+ Leestip: Het handboek moral injury in context
+  https://www.boom.nl/criminologie/100-19551_Handboek-moral-injury-in-context
+ Luistertip: Buitenland met Boswijk afl 46: de Politieke motieven achter de Nederlandse missie in Uruzgan.
+ Werk je bij Defensie: vragen over het congres kun je stellen door een mail te sturen naar Info.coid@mindef.nl. 19 november in Stroe.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -4651,9 +4756,18 @@ Werk je bij Defensie: vragen over het congres kun je stellen door een mail te st
 		<title>Echte politieverhalen - 'Slangen vangen'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/slangen-vangen/id1751266358?i=1000728338662&amp;uo=4" rel="alternate" />
 		<summary>Als een vrouw een slang in haar woning ziet, gaat wijkagent Peter er naartoe. Niemand weet of het beest giftig is. En hoe groot is het ding eigenlijk? Dat wordt al gauw duidelijk...
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -4754,10 +4868,19 @@ Ook de politiek in Nederland is op zoek naar een betere balans tussen beleid en 
 	<entry>
 		<title>Echte politieverhalen - 'Wel of niet schieten?'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/wel-of-niet-schieten/id1751266358?i=1000726012384&amp;uo=4" rel="alternate" />
-		<summary>Een man met verward gedrag en een mes komt op Frans en zijn collega af. Ze proberen van alles om hem stoppen. Maar de man lijkt helemaal niks te voelen. Hoe kunnen ze hem tegenhouden?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Een man met verward gedrag en een mes komt op Frans en zijn collega af. Ze proberen van alles om hem stoppen. Maar de man lijkt helemaal niks te voelen. Hoe kunnen ze hem tegenhouden? 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -4768,8 +4891,8 @@ Ook de politiek in Nederland is op zoek naar een betere balans tussen beleid en 
 	<entry>
 		<title>Klapmok met Thee - #102: Pak je kans met ODA!</title>
 		<link href="https://podcasts.apple.com/nl/podcast/102-pak-je-kans-met-oda/id1566819266?i=1000726458237&amp;uo=4" rel="alternate" />
-		<summary>De vakantie is voorbij, dus tijd voor Anne-Marij en Deborah om kansen te pakken. In deze aflevering verkennen zij de open defence academy, de ODA, samen met Marielle van der Berg, adviseur leren en ontwikkelen en Ralph Spijker, onderwijskundig adviseur. Beide zijn werkzaam bij de NLDA en houden zich bezig met het bedenken van oplossingen op leervraagstukken. Welke kansen ODA biedt voor jou, je eenheid of je community hoor je in deze aflevering. 
-Luister je mee, naar de nieuwe aflevering Klapmok met thee.</summary>
+		<summary>De vakantie is voorbij, dus tijd voor Anne-Marij en Deborah om kansen te pakken. In deze aflevering verkennen zij de open defence academy, de ODA, samen met Marielle van der Berg, adviseur leren en ontwikkelen en Ralph Spijker, onderwijskundig adviseur. Beide zijn werkzaam bij de NLDA en houden zich bezig met het bedenken van oplossingen op leervraagstukken. Welke kansen ODA biedt voor jou, je eenheid of je community hoor je in deze aflevering.
+ Luister je mee, naar de nieuwe aflevering Klapmok met thee.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -4871,9 +4994,18 @@ Opname en montage gedaan in eigen beheer WODC.</summary>
 		<title>Echte politieverhalen - ‘Hij bleef maar tikken’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-bleef-maar-tikken/id1751266358?i=1000723832820&amp;uo=4" rel="alternate" />
 		<summary>Een man steekt op klaarlichte dag drie mensen neer die hij niet kent. Ze zijn zwaargewond. David gaat achter de dader aan. Als hij zijn wapen trekt vraagt hij zich af: kom ik nog wel thuis vanavond?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -4914,9 +5046,18 @@ Volgende aflevering: Fase 2 - Begrijpen.</summary>
 		<title>Echte politieverhalen - 'Ik zag de vlammen uit het wapen komen’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-zag-de-vlammen-uit-het-wapen-komen/id1751266358?i=1000721902421&amp;uo=4" rel="alternate" />
 		<summary>Jan Willem sprint achter een inbreker aan die hij op heterdaad betrapt. Een gezin hoorde vanuit hun bed de insluiper. ‘De vader stond al met een mes klaar bovenaan de trap om zijn gezin te beschermen.’
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5127,10 +5268,19 @@ Logo: Aron Vellekoop León</summary>
 	<entry>
 		<title>Echte politieverhalen - ‘Ik zag heel, heel veel bloed’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-zag-heel-heel-veel-bloed/id1751266358?i=1000719950227&amp;uo=4" rel="alternate" />
-		<summary>Rechercheur Iris gaat naar een melding waar een man van het balkon is gevallen. Is er sprake van een ongeluk, of was het moord? Ze gaat op onderzoek uit.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Rechercheur Iris gaat naar een melding waar een man van het balkon is gevallen. Is er sprake van een ongeluk, of was het moord? Ze gaat op onderzoek uit. 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5319,9 +5469,17 @@ Redactie en productie door Judith Wouters – Adviescollege ICT-toetsingMuziekco
 		<title>Echte politieverhalen - 'Hij was heel bang en lag te klappertanden'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-was-heel-bang-en-lag-te-klappertanden/id1751266358?i=1000717625107&amp;uo=4" rel="alternate" />
 		<summary>Als een straatrover met gestolen tasjes op de vlucht gaat, sprint Peter er met zijn collega achteraan. De dief loopt zichzelf in de val op een verlaten terrein met oude gebouwen. Maar hij laat zich niet zomaar vangen.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie of op ons TikTok kanaal @politie.
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie of op ons TikTok kanaal @politie.
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5474,10 +5632,19 @@ We schetsen een profiel voor publieke leiders in de uitvoering en bespreken zake
 	<entry>
 		<title>Echte politieverhalen - 'Elke seconde telt: Agent Cindy haalt mensen uit auto te water'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/elke-seconde-telt-agent-cindy-haalt-mensen-uit-auto-te-water/id1751266358?i=1000715595988&amp;uo=4" rel="alternate" />
-		<summary>Een auto belandt op z’n kop in een sloot en twee mensen zitten erin vast. Cindy en haar collega springen meteen in het water en proberen met een hamer de autoramen in te slaan.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Een auto belandt op z’n kop in een sloot en twee mensen zitten erin vast. Cindy en haar collega springen meteen in het water en proberen met een hamer de autoramen in te slaan. 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het  Youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5689,7 +5856,7 @@ Redactie en productie door Judith Wouters – Adviescollege ICT-toetsingmuziekco
 		<title>Klapmok met Thee - #100: De Landmacht, het draait om de mensen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/100-de-landmacht-het-draait-om-de-mensen/id1566819266?i=1000713694935&amp;uo=4" rel="alternate" />
 		<summary>Record… en daar is de 100ste aflevering!
-Met niemand minder dan de commandant van de Landmacht, de luitenant-generaal Jan Swillens, gaan Anne-Marij en Deborah in gesprek over de Landmacht. Een half jaar na het uitkomen van zijn Command Message zijn ze benieuwd hoe het nu gaat met de Landmacht. Bij de Landmacht draait het altijd om de mens, moeten we leren van de geschiedenis en draait het om goed leiderschap. Wat hierin de constante is, is dat we altijd moeten veranderen. Verder neemt hij ons mee in zijn legervorming. Waar loopt een commandant tegenaan en wat is nodig voor de Landmacht van nu en in de toekomst? Hij wordt hierin bijgestaan door zijn rechterhand luitenant-kolonel Mariska Kroon. Wat is haar rol hierin en hoe houdt zij de commandant scherp?</summary>
+ Met niemand minder dan de commandant van de Landmacht, de luitenant-generaal Jan Swillens, gaan Anne-Marij en Deborah in gesprek over de Landmacht. Een half jaar na het uitkomen van zijn Command Message zijn ze benieuwd hoe het nu gaat met de Landmacht. Bij de Landmacht draait het altijd om de mens, moeten we leren van de geschiedenis en draait het om goed leiderschap. Wat hierin de constante is, is dat we altijd moeten veranderen. Verder neemt hij ons mee in zijn legervorming. Waar loopt een commandant tegenaan en wat is nodig voor de Landmacht van nu en in de toekomst? Hij wordt hierin bijgestaan door zijn rechterhand luitenant-kolonel Mariska Kroon. Wat is haar rol hierin en hoe houdt zij de commandant scherp?</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -5700,10 +5867,14 @@ Met niemand minder dan de commandant van de Landmacht, de luitenant-generaal Jan
 	<entry>
 		<title>Echte politieverhalen - ‘Als ik de autodeur opendoe, zie ik het ineens..’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/als-ik-de-autodeur-opendoe-zie-ik-het-ineens/id1751266358?i=1000713588499&amp;uo=4" rel="alternate" />
-		<summary>Als agent Frans naar een grote vechtpartij gaat, wil hij zijn politiehond Noppes meenemen. Een grote groep mannen gaat met elkaar op de vuist, ze hebben zelfs honkbalknuppels bij zich. Dan beseft Frans dat hij iets heel belangrijks is vergeten...
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur.
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Als agent Frans naar een grote vechtpartij gaat, wil hij zijn politiehond Noppes meenemen. Een grote groep mannen gaat met elkaar op de vuist, ze hebben zelfs honkbalknuppels bij zich. Dan beseft Frans dat hij iets heel belangrijks is vergeten... 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube kanaal van de politie: youtube.com/@politie
+
+Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur.
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -8164,214 +8335,282 @@ Otto en Martijn vragen het aan Serv Wiemers (directeur van de Open State Foundat
 	<entry>
 		<title>Klapmok met Thee - #92: Met beide benen in de weerbare samenleving</title>
 		<link href="https://podcasts.apple.com/nl/podcast/92-met-beide-benen-in-de-weerbare-samenleving/id1566819266?i=1000696712672&amp;uo=4" rel="alternate" />
-		<summary>Hoe weerbaar is jouw omgeving? Welke rol kan jij daarin spelen als militair? En voor welke opgave staat de samenleving? Dat en meer bespreken Deborah en Anne-Marij met  de burgemeester van Oudewater, Danny de Vries, en gemeenteraadslid en Defensie collega Lkol Ronald Gabriëls. Niet alleen Defensie is bezig met de voorbereiding op hybride en militaire dreigingen, maar ook andere departementen, Veiligheidsregio’s, gemeenten en bedrijven zijn hiermee bezig. Naast uiteraard de burger waar zelf- en samenredzaamheid van verwacht wordt, bijvoorbeeld bij een langdurige stroomstoring. Heb jij je noodpakket al klaarstaan?
-Transcriptie:
-00:00:00 - 00:00:01
-Anne-Marij: Heb jij je klapmok al in de aanslag?
+		<summary>Hoe weerbaar is jouw omgeving? Welke rol kan jij daarin spelen als militair? En voor welke opgave staat de samenleving? Dat en meer bespreken Deborah en Anne-Marij met de burgemeester van Oudewater, Danny de Vries, en gemeenteraadslid en Defensie collega Lkol Ronald Gabriëls. Niet alleen Defensie is bezig met de voorbereiding op hybride en militaire dreigingen, maar ook andere departementen, Veiligheidsregio’s, gemeenten en bedrijven zijn hiermee bezig. Naast uiteraard de burger waar zelf- en samenredzaamheid van verwacht wordt, bijvoorbeeld bij een langdurige stroomstoring. Heb jij je noodpakket al klaarstaan?
+ Transcriptie:
+ 00:00:00 - 00:00:01
+ Anne-Marij: Heb jij je klapmok al in de aanslag?
+ 
+
+ 00:00:01 - 00:00:02
+ Deborah: Altijd.
+ 
+
+ 00:00:02 - 00:00:02
+ Anne-Marij: Hier heb je de thee.
+ 
+
+ 00:00:03 - 00:00:04
+ Deborah: Welk vooroordeel willen we gaan bespreken?
+ 
+
+ 00:00:04 - 00:00:05
+ Anne-Marij: Hebben we er zoveel.
+ 
+
+ 00:00:05 - 00:00:06
+ Deborah: Hebben we er ook al een afkorting bij bedacht?
+ 
+
+ 00:00:06 - 00:00:07
+ Anne-Marij: Hebben we al een gast?
+ 
+
+ 00:00:07 - 00:00:12
+ Deborah: Koning, keizer, admiraal. Uit de klapmok drinken we allemaal. Ik ben Deborah.
+ 
+
+ 00:00:12 - 00:00:13
+ Anne-Marij: Ik ben Anne-Marij.
+ 
+
+ 00:00:13 - 00:00:13
+ Deborah: Luister je mee?
+ 
+
+ 00:00:14 - 00:00:15
+ Anne-Marij: Naar Klapmok met Thee. Hé, Deborah.
+ 
+
+ 00:00:15 - 00:00:16
+ Deborah: Hé, Anne-Marij.
+ 
+
+ 00:00:16 - 00:00:17
+ Anne-Marij: Hoi.
+ 
+
+ 00:00:17 - 00:00:18
+ Deborah: Zijn we weer met een nieuwe aflevering.
+ 
+
+ 00:00:18 - 00:00:19
+ Anne-Marij: Op locatie.
+ 
+
+ 00:00:19 - 00:00:22
+ Deborah: Jazeker. Je kan wel zeggen een hele mooie locatie
+ 
+
+ 00:00:22 - 00:00:23
+ Anne-Marij: Hele bijzondere.
+ 
+
+ 00:00:23 - 00:00:23
+ Deborah: Toch?
+ 
+
+ 00:00:23 - 00:00:24
+ Anne-Marij: In een trouwzaal.
+ 
+
+ 00:00:26 - 00:00:34
+ Deborah: Wie kan er nou zeggen dat hij een podcast opgenomen in de trouwzaal? Dan weliswaar in de trouwzaal van het stadhuis van Oudewater. Hoe leuk, hè?
+ 
+
+ 00:00:34 - 00:00:36
+ Anne-Marij: Had jij al wel eens van Oudewater gehoord?
+ 
+
+ 00:00:36 - 00:00:37
+ Deborah: Jazeker.
+ 
+
+ 00:00:37 - 00:00:37
+ Anne-Marij: Van de Heksenwaag, natuurlijk.
+ 
+
+ 00:00:37 - 00:00:41
+ Deborah: Ik ken het van de Heksenwaag. Ga je weer?
+ 
+
+ 00:00:42 - 00:00:42
+ Anne-Marij: Bedankt.
+ 
+
+ 00:00:44 - 00:00:45
+ Deborah: Vrienden van ons wonen hier.
+ 
+
+ 00:00:45 - 00:00:46
+ Anne-Marij: O, dat is toevallig.
+ 
+
+ 00:00:46 - 00:00:47
+ Deborah: Wat leuk, hè?
+ 
+
+ 00:00:47 - 00:00:51
+ Anne-Marij: [crosstalk 00:00:47] Heksenwaag.
+ 
+
+ 00:00:51 - 00:00:53
+ Deborah: Je blijft er in hangen. Je ziet het al voor je?
+ 
+
+ 00:00:53 - 00:00:54
+ Anne-Marij: Ja.
+ 
+
+ 00:00:54 - 00:01:09
+ Deborah: Sinds wanneer ben jij een beelddenker? Het is toch niet te doen? Het is niet te doen. Het is een hele mooie zaal. Ik zit met mijn rug nu naar de Moord van Oudewater. Het is echt een megagroot schilderij waarin eigenlijk...
+ 
+
+ 00:01:09 - 00:01:11
+ Anne-Marij: Het is ons net helemaal uitgelegd door de burgemeester.
+ 
+
+ 00:01:11 - 00:01:14
+ Deborah: Doe je even een recap? Neem je onze luisteraars even mee?
+ 
+
+ 00:01:15 - 00:01:22
+ Anne-Marij: Spanjaarden, stad overgenomen, stad in brand gestoken en burgers uitgemoord. Ongeveer, toch?
+ 
+
+ 00:01:22 - 00:01:26
+ Deborah: Ja, precies. Dat ongeveer - wat is het? - vijf bij drie, vijf bij twee.
+ 
+
+ 00:01:26 - 00:01:27
+ Anne-Marij: Ongeveer.
+ 
+
+ 00:01:28 - 00:01:29
+ Deborah: Ik vind het wel indrukwekkend.
+ 
+
+ 00:01:29 - 00:01:29
+ Anne-Marij: Zeker.
+ 
+
+ 00:01:30 - 00:01:32
+ Deborah: Hoort ook wel een beetje bij zo'n oud pand.
+ 
+
+ 00:01:32 - 00:01:35
+ Anne-Marij: Heel oud pand. Hele mooie, karakteristieke binnenstad.
+ 
+
+ 00:01:35 - 00:02:10
+ Deborah: Jazeker. Het is heel leuk, dus absoluut de moeite waard. We zijn vandaag hier om met de burgemeester in gesprek te gaan. Die gaat zeker nog zijn stad promoten, dus dat komt helemaal goed. De reden waarom we hier zitten is natuurlijk wel een hele interessante, want we hebben onze mond vol van the whole of society en een weerbare samenleving. Wat is dan een weerbare samenleving? Is onze samenleving niet al weerbaar? Wat zijn we dan eigenlijk aan het doen? Wij bij Defensie hebben dan altijd een beeld: o, dat moet er dan zo uitzien of dat moeten we op deze manier regelen.
+ 
+
+ 00:02:11 - 00:02:14
+ Anne-Marij: Wij vanuit Den Haag hebben daar ook een beeld bij, maar hoe is het in het echt?
+ 
+
+ 00:02:15 - 00:02:27
+ Deborah: Precies. Hoe ervaren zij die dreiging? Is het nog steeds een defensieprobleem of eigenlijk allang niet meer? Hoe gaat zo'n gemeente daarmee om? Superinteressant.
+ 
 
-00:00:01 - 00:00:02
-Deborah: Altijd.
+ 00:02:28 - 00:02:28
+ Anne-Marij: Absoluut.
+ 
 
-00:00:02 - 00:00:02
-Anne-Marij: Hier heb je de thee.
+ 00:02:29 - 00:02:30
+ Deborah: Laten we gaan luisteren.
+ 
 
-00:00:03 - 00:00:04
-Deborah: Welk vooroordeel willen we gaan bespreken?
+ 00:02:31 - 00:02:31
+ Anne-Marij: Daar komen ze.
+ 
 
-00:00:04 - 00:00:05
-Anne-Marij: Hebben we er zoveel.
+ 00:02:33 - 00:02:57
+ Deborah: Hier zitten we dan, Anne-Marij. Ik heb me daar toch een hele waslijst aan uitleg van onze gasten vandaag. Allereerst zitten we hier in de stad Oudewater. We hebben het genoegen om vandaag met de burgemeester van Oudewater... Dat is tevens de bestuurlijk ambassadeur Veerkracht en Weerbaarheid van de Veiligheidsregio Utrecht. Wat fijn dat we hier mogen zijn.
+ 
 
-00:00:05 - 00:00:06
-Deborah: Hebben we er ook al een afkorting bij bedacht?
+ 00:02:58 - 00:02:59
+ Danny: En dat je gewoon Danny mag zeggen.
+ 
 
-00:00:06 - 00:00:07
-Anne-Marij: Hebben we al een gast?
+ 00:03:00 - 00:03:01
+ Anne-Marij: Danny de Vries. Je bent gewoon zijn naam vergeten.
+ 
 
-00:00:07 - 00:00:12
-Deborah: Koning, keizer, admiraal. Uit de klapmok drinken we allemaal. Ik ben Deborah.
+ 00:03:02 - 00:03:10
+ Deborah: Dat is waar. [onhoorbaar 00:03:03] kort gezegd... Dat klopt. Danny, wat goed dat we hier op het stadhuis aanwezig mogen zijn.
+ 
 
-00:00:12 - 00:00:13
-Anne-Marij: Ik ben Anne-Marij.
+ 00:03:10 - 00:03:11
+ Danny: Welkom!
+ 
 
-00:00:13 - 00:00:13
-Deborah: Luister je mee?
+ 00:03:11 - 00:03:24
+ Deborah: Heel fijn. Daarnaast hebben we ook een van uw - ik zeg toch de uwe, komt wel goed - gemeenteraadsleden en tevens bewoners van Oudewater, de overste Ronald Gabriëls van de luchtverdediging.
+ 
 
-00:00:14 - 00:00:15
-Anne-Marij: Naar Klapmok met Thee. Hé, Deborah.
+ 00:03:25 - 00:03:25
+ Ronald Gabriëls: Dank je wel.
+ 
 
-00:00:15 - 00:00:16
-Deborah: Hé, Anne-Marij.
+ 00:03:25 - 00:03:26
+ Anne-Marij: Collega van ons.
+ 
 
-00:00:16 - 00:00:17
-Anne-Marij: Hoi.
+ 00:03:26 - 00:03:30
+ Ronald Gabriëls: Welkom in Oudewater, toch wel de mooiste stad van het Groene Hart en misschien wel heel Nederland.
+ 
 
-00:00:17 - 00:00:18
-Deborah: Zijn we weer met een nieuwe aflevering.
+ 00:03:31 - 00:03:35
+ Anne-Marij: Dat is gelijk een heel reclame [crosstalk 00:03:34].
+ 
 
-00:00:18 - 00:00:19
-Anne-Marij: Op locatie.
+ 00:03:35 - 00:03:35
+ Ronald Gabriëls: Niet de laatste keer.
+ 
 
-00:00:19 - 00:00:22
-Deborah: Jazeker. Je kan wel zeggen een hele mooie locatie
+ 00:03:38 - 00:03:51
+ Anne-Marij: We gaan zien dan hoe dit gaat lopen. We zitten hier in de gemeente Oudewater. Wat is de gemeente Oudewater? Wat voor mensen wonen er in de gemeente Oudewater? Hoe is het met de weerbaarheid van deze mensen?
+ 
 
-00:00:22 - 00:00:23
-Anne-Marij: Hele bijzondere.
+ 00:03:52 - 00:04:40
+ Danny: Dat kan ik heel makkelijk uitleggen met onze drie belangrijkste kernwoorden: natuurlijk, historisch, kleurrijk. Dat is de magie van Oudewater. Voor de mensen die niet weten waar Oudewater ligt. Het ligt midden in het Groene Hart. Ik ben blij om te horen dat Ronald zegt dat het ook het mooiste stadje van het Groene Hart is. Sterker nog, het is zelfs het oudste stadje van het Groene Hart. Als je heel goed naar de kaart kijkt, dan zie je dat we een soort eiland zijn tussen de weilanden. Je kan hier lekker genieten van het buitengebied, we hebben prachtige streekproducten, lekker fietsen, wandelen, varen... Het is echt een genot om hier naar toe te komen. Jullie zijn nu in de binnenstad, dus jullie hebben het zelf ook al mogen ervaren. Oudewater is natuurlijk een en al historie.
+ 
 
-00:00:23 - 00:00:23
-Deborah: Toch?
+ 00:04:40 - 00:04:57
+ Danny: Ik zeg wel eens gekscherend: als je hier een schop in de grond stopt, dan komt er altijd wel wat uit. Dat is op zich ook wel. Hoogste monumentendichtheid van het land, rijk geworden door de touwindustrie en internationaal bekend van de Heksenwaag.
+ 
 
-00:00:23 - 00:00:24
-Anne-Marij: In een trouwzaal.
+ 00:04:58 - 00:05:00
+ Anne-Marij: Dat is waar ik het van ken.
+ 
 
-00:00:26 - 00:00:34
-Deborah: Wie kan er nou zeggen dat hij een podcast opgenomen in de trouwzaal? Dan weliswaar in de trouwzaal van het stadhuis van Oudewater. Hoe leuk, hè?
+ 00:05:00 - 00:05:00
+ Danny: Zeker.
+ 
 
-00:00:34 - 00:00:36
-Anne-Marij: Had jij al wel eens van Oudewater gehoord?
+ 00:05:01 - 00:05:01
+ Deborah: Dat zegt ook genoeg, hè?
+ 
 
-00:00:36 - 00:00:37
-Deborah: Jazeker.
+ 00:05:02 - 00:05:02
+ Anne-Marij: Dank je.
+ 
 
-00:00:37 - 00:00:37
-Anne-Marij: Van de Heksenwaag, natuurlijk.
+ 00:05:04 - 00:05:05
+ Danny: Gaan we het straks ook wel over hebben.
+ 
 
-00:00:37 - 00:00:41
-Deborah: Ik ken het van de Heksenwaag. Ga je weer?
+ 00:05:06 - 00:05:06
+ Anne-Marij: Heel goed.
+ 
 
-00:00:42 - 00:00:42
-Anne-Marij: Bedankt.
+ 00:05:07 - 00:06:00
+ Deborah: Oudewater is heel kleurrijk en dat heeft te maken met het feit dat hier mensen wonen die lekker eigenwijs zijn, een eigen karakter hebben. Het is een bruisende binnenstad met een levendige kunst- en cultuursector, horeca en evenementen. Ik zeg ook wel eens gekscherend: Oudewater is groen, geschiedenis en gezellig. Dat kan je maar op één manier ontdekken. Dat is door gewoon hiernaartoe te komen en die magie van Oudewater zelf te ontdekken. Hoe weerbaar is Oudewater dan? Dat vind ik een mooie vraag. Ik denk dat Oudewater net zo weerbaar is als - denk ik - elke andere stad in Nederland. We hebben wel een klein voordeel. Ik heb jarenlang in Twente gewoond, dus het Twentse noaberschap is jullie - denk ik - wel bekend.
+ 
 
-00:00:44 - 00:00:45
-Deborah: Vrienden van ons wonen hier.
-
-00:00:45 - 00:00:46
-Anne-Marij: O, dat is toevallig.
-
-00:00:46 - 00:00:47
-Deborah: Wat leuk, hè?
-
-00:00:47 - 00:00:51
-Anne-Marij: [crosstalk 00:00:47] Heksenwaag.
-
-00:00:51 - 00:00:53
-Deborah: Je blijft er in hangen. Je ziet het al voor je?
-
-00:00:53 - 00:00:54
-Anne-Marij: Ja.
-
-00:00:54 - 00:01:09
-Deborah: Sinds wanneer ben jij een beelddenker? Het is toch niet te doen? Het is niet te doen. Het is een hele mooie zaal. Ik zit met mijn rug nu naar de Moord van Oudewater. Het is echt een megagroot schilderij waarin eigenlijk...
-
-00:01:09 - 00:01:11
-Anne-Marij: Het is ons net helemaal uitgelegd door de burgemeester.
-
-00:01:11 - 00:01:14
-Deborah: Doe je even een recap? Neem je onze luisteraars even mee?
-
-00:01:15 - 00:01:22
-Anne-Marij: Spanjaarden, stad overgenomen, stad in brand gestoken en burgers uitgemoord. Ongeveer, toch?
-
-00:01:22 - 00:01:26
-Deborah: Ja, precies. Dat ongeveer - wat is het? - vijf bij drie, vijf bij twee.
-
-00:01:26 - 00:01:27
-Anne-Marij: Ongeveer.
-
-00:01:28 - 00:01:29
-Deborah: Ik vind het wel indrukwekkend.
-
-00:01:29 - 00:01:29
-Anne-Marij: Zeker.
-
-00:01:30 - 00:01:32
-Deborah: Hoort ook wel een beetje bij zo'n oud pand.
-
-00:01:32 - 00:01:35
-Anne-Marij: Heel oud pand. Hele mooie, karakteristieke binnenstad.
-
-00:01:35 - 00:02:10
-Deborah: Jazeker. Het is heel leuk, dus absoluut de moeite waard. We zijn vandaag hier om met de burgemeester in gesprek te gaan. Die gaat zeker nog zijn stad promoten, dus dat komt helemaal goed. De reden waarom we hier zitten is natuurlijk wel een hele interessante, want we hebben onze mond vol van the whole of society en een weerbare samenleving. Wat is dan een weerbare samenleving? Is onze samenleving niet al weerbaar? Wat zijn we dan eigenlijk aan het doen? Wij bij Defensie hebben dan altijd een beeld: o, dat moet er dan zo uitzien of dat moeten we op deze manier regelen.
-
-00:02:11 - 00:02:14
-Anne-Marij: Wij vanuit Den Haag hebben daar ook een beeld bij, maar hoe is het in het echt?
-
-00:02:15 - 00:02:27
-Deborah: Precies. Hoe ervaren zij die dreiging? Is het nog steeds een defensieprobleem of eigenlijk allang niet meer? Hoe gaat zo'n gemeente daarmee om? Superinteressant.
-
-00:02:28 - 00:02:28
-Anne-Marij: Absoluut.
-
-00:02:29 - 00:02:30
-Deborah: Laten we gaan luisteren.
-
-00:02:31 - 00:02:31
-Anne-Marij: Daar komen ze.
-
-00:02:33 - 00:02:57
-Deborah: Hier zitten we dan, Anne-Marij. Ik heb me daar toch een hele waslijst aan uitleg van onze gasten vandaag. Allereerst zitten we hier in de stad Oudewater. We hebben het genoegen om vandaag met de burgemeester van Oudewater... Dat is tevens de bestuurlijk ambassadeur Veerkracht en Weerbaarheid van de Veiligheidsregio Utrecht. Wat fijn dat we hier mogen zijn.
-
-00:02:58 - 00:02:59
-Danny: En dat je gewoon Danny mag zeggen.
-
-00:03:00 - 00:03:01
-Anne-Marij: Danny de Vries. Je bent gewoon zijn naam vergeten.
-
-00:03:02 - 00:03:10
-Deborah: Dat is waar. [onhoorbaar 00:03:03] kort gezegd... Dat klopt. Danny, wat goed dat we hier op het stadhuis aanwezig mogen zijn.
-
-00:03:10 - 00:03:11
-Danny: Welkom!
-
-00:03:11 - 00:03:24
-Deborah: Heel fijn. Daarnaast hebben we ook een van uw - ik zeg toch de uwe, komt wel goed - gemeenteraadsleden en tevens bewoners van Oudewater, de overste Ronald Gabriëls van de luchtverdediging.
-
-00:03:25 - 00:03:25
-Ronald Gabriëls: Dank je wel.
-
-00:03:25 - 00:03:26
-Anne-Marij: Collega van ons.
-
-00:03:26 - 00:03:30
-Ronald Gabriëls: Welkom in Oudewater, toch wel de mooiste stad van het Groene Hart en misschien wel heel Nederland.
-
-00:03:31 - 00:03:35
-Anne-Marij: Dat is gelijk een heel reclame [crosstalk 00:03:34].
-
-00:03:35 - 00:03:35
-Ronald Gabriëls: Niet de laatste keer.
-
-00:03:38 - 00:03:51
-Anne-Marij: We gaan zien dan hoe dit gaat lopen. We zitten hier in de gemeente Oudewater. Wat is de gemeente Oudewater? Wat voor mensen wonen er in de gemeente Oudewater? Hoe is het met de weerbaarheid van deze mensen?
-
-00:03:52 - 00:04:40
-Danny: Dat kan ik heel makkelijk uitleggen met onze drie belangrijkste kernwoorden: natuurlijk, historisch, kleurrijk. Dat is de magie van Oudewater. Voor de mensen die niet weten waar Oudewater ligt. Het ligt midden in het Groene Hart. Ik ben blij om te horen dat Ronald zegt dat het ook het mooiste stadje van het Groene Hart is. Sterker nog, het is zelfs het oudste stadje van het Groene Hart. Als je heel goed naar de kaart kijkt, dan zie je dat we een soort eiland zijn tussen de weilanden. Je kan hier lekker genieten van het buitengebied, we hebben prachtige streekproducten, lekker fietsen, wandelen, varen... Het is echt een genot om hier naar toe te komen. Jullie zijn nu in de binnenstad, dus jullie hebben het zelf ook al mogen ervaren. Oudewater is natuurlijk een en al historie.
-
-00:04:40 - 00:04:57
-Danny: Ik zeg wel eens gekscherend: als je hier een schop in de grond stopt, dan komt er altijd wel wat uit. Dat is op zich ook wel. Hoogste monumentendichtheid van het land, rijk geworden door de touwindustrie en internationaal bekend van de Heksenwaag.
-
-00:04:58 - 00:05:00
-Anne-Marij: Dat is waar ik het van ken.
-
-00:05:00 - 00:05:00
-Danny: Zeker.
-
-00:05:01 - 00:05:01
-Deborah: Dat zegt ook genoeg, hè?
-
-00:05:02 - 00:05:02
-Anne-Marij: Dank je.
-
-00:05:04 - 00:05:05
-Danny: Gaan we het straks ook wel over hebben.
-
-00:05:06 - 00:05:06
-Anne-Marij: Heel goed.
-
-00:05:07 - 00:06:00
-Deborah: Oudewater is heel kleurrijk en dat heeft te maken met het feit dat hier mensen wonen die lekker eigenwijs zijn, een eigen karakter hebben. Het is een bruisende binnenstad met een levendige kunst- en cultuursector, horeca en evenementen. Ik zeg ook wel eens gekscherend: Oudewater is groen, geschiedenis en gezellig. Dat kan je maar op één manier ontdekken. Dat is door gewoon hiernaartoe te komen en die magie van Oudewater zelf te ontdekken. Hoe weerbaar is Oudewater dan? Dat vind ik een mooie vraag. Ik denk dat Oudewater net zo weerbaar is als - denk ik - elke andere stad in Nederland. We hebben wel een klein voordeel. Ik heb jarenlang in Twente gewoond, dus het Twentse noaberschap is jullie - denk ik - wel bekend.
-
-00:06:00 - 00:06:24
-Deborah: Dat noaberschapgevoel, dus omzien naar elkaar, dat gevoel zit hier in Oudewater. Het is wel een hechte gemeenschap. Mensen letten ook wel op elkaar, dus niet alle...</summary>
+ 00:06:00 - 00:06:24
+ Deborah: Dat noaberschapgevoel, dus omzien naar elkaar, dat gevoel zit hier in Oudewater. Het is wel een hechte gemeenschap. Mensen letten ook wel op elkaar, dus niet alle...</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -9045,7 +9284,7 @@ We bespreken onder andere:✅ De rol van Eurojust en Europol in grensoverschrijd
 		<title>Klapmok met Thee - #90: Wat moeten we met Economische Veiligheid?</title>
 		<link href="https://podcasts.apple.com/nl/podcast/90-wat-moeten-we-met-economische-veiligheid/id1566819266?i=1000687376737&amp;uo=4" rel="alternate" />
 		<summary>Al eens gehoord van Economische Veiligheid? Misschien niet bewust, maar sla de krant open en de kans is groot dat je er iets over tegenkomt. Lkol Marc Reumer van de Counter-Hybrid Unit en Rianne van de NCTV weten er alles van en nemen Deborah en Anne-Marij mee in de wereld van bedrijfsovernames, militaire en dual-use goederen, investeringen, strategische voorraden en nog veel meer. Belangrijk voor Defensie en belangrijk voor onze maatschappelijke weerbaarheid.
-In deze aflevering bespreekt de Commandant Landstrijdkrachten, luitenant-generaal Jan Swillens, zijn visie op de landmacht. Dit doet hij samen met twee belangrijke onderofficieren binnen de landmacht: de landmachtadjudant en de adjudant Human Resources. Zij worden hierin geassisteerd door presentator Thomas Weemaes.</summary>
+ In deze aflevering bespreekt de Commandant Landstrijdkrachten, luitenant-generaal Jan Swillens, zijn visie op de landmacht. Dit doet hij samen met twee belangrijke onderofficieren binnen de landmacht: de landmachtadjudant en de adjudant Human Resources. Zij worden hierin geassisteerd door presentator Thomas Weemaes.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -10870,206 +11109,272 @@ In deze podcast vertellen rijksrechercheurs over een wel heel bijzondere corrupt
 		<title>Klapmok met Thee - #87: De koning van het slagveld is weer terug</title>
 		<link href="https://podcasts.apple.com/nl/podcast/87-de-koning-van-het-slagveld-is-weer-terug/id1566819266?i=1000679445765&amp;uo=4" rel="alternate" />
 		<summary>De koning en de koningin zijn weer samen, het is zelfs een hele familie die weer compleet is. We krijgen namelijk weer tanks! Deborah en Anne-Marij gaan hierover in gesprek met Lkol Bas Schillemans, commandant 414 Tankbataljon en nu commandant van de eFP Battlegroup in Litouwen. Wat krijgen we er nu precies bij? Wat hebben we eigenlijk aan de tank? Hoe zit het met drones? En hoe zit het ook alweer met dat tafelzilver? Alles komt voorbij. 
-Transcriptie:
-00:00:00 - 00:00:01
-Anne-Marij: Heb jij je klapmok al in de aanslag?
+ Transcriptie:
+ 00:00:00 - 00:00:01
+ Anne-Marij: Heb jij je klapmok al in de aanslag?
+ 
+
+ 00:00:01 - 00:00:02
+ Deborah: Altijd.
+ 
+
+ 00:00:02 - 00:00:02
+ Anne-Marij: Heb je de thee?
+ 
+
+ 00:00:02 - 00:00:04
+ Deborah: Voordeel willen we gaan bespreken...
+ 
+
+ 00:00:04 - 00:00:05
+ Anne-Marij: Hebben we zoveel...
+ 
+
+ 00:00:05 - 00:00:06
+ Deborah: Hebben we er al een afkorting bij bedacht?
+ 
+
+ 00:00:06 - 00:00:07
+ Anne-Marij: Hebben we al een gast?
+ 
+
+ 00:00:07 - 00:00:12
+ Deborah: Koning, keizer, admiraal. Uit de klapmok drinken we allemaal. Ik ben Deborah.
+ 
+
+ 00:00:12 - 00:00:13
+ Anne-Marij: Ik ben Anne-Marij. Luister je mee?
+ 
+
+ 00:00:13 - 00:00:14
+ Deborah: Naar klapmok met thee.
+ 
+
+ 00:00:15 - 00:00:15
+ Anne-Marij: Hoi Deborah.
+ 
+
+ 00:00:16 - 00:00:17
+ Deborah: Hoi Anne-Marij.
+ 
+
+ 00:00:18 - 00:00:19
+ Anne-Marij: We zitten helemaal niet bij elkaar.
+ 
+
+ 00:00:23 - 00:00:29
+ Deborah: We gaan weer terug naar de tijd dat jij in Mali zat toen hadden we ook veel podcast online opgenomen.
+ 
+
+ 00:00:29 - 00:00:32
+ Anne-Marij: Met het verschil dat we nu allebei thuis zitten.
+ 
+
+ 00:00:32 - 00:00:33
+ Deborah: Dat is waar.
+ 
+
+ 00:00:34 - 00:00:35
+ Anne-Marij: Een stuk leuker.
+ 
+
+ 00:00:35 - 00:00:59
+ Deborah: Onze gast niet, want onze gast voor vandaag halen we uit het buitenland. Het blijft weliswaar een Nederlandstalige podcast. Onze gast is een Nederlander in het buitenland op dit moment. We hebben hele mooie ontwikkelingen gehad. De Defensienota 24 is uitgekomen. Dat is groot nieuws, want de koning van het slagveld is terug.
+ 
+
+ 00:01:00 - 00:01:01
+ Anne-Marij: De tank.
+ 
+
+ 00:01:01 - 00:01:12
+ Deborah: We gaan 46 tanks aanschaffen, dat is wat ik heb gelezen, met 500 man. Met andere woorden: er wordt weer een heel tankbataljon opgericht.
+ 
+
+ 00:01:13 - 00:01:13
+ Anne-Marij: Heftig.
+ 
+
+ 00:01:13 - 00:01:16
+ Deborah: Zeker.
+ 
+
+ 00:01:16 - 00:01:18
+ Anne-Marij: Zie jij al een carrièreswitch voor jezelf?
+ 
+
+ 00:01:19 - 00:01:27
+ Deborah: Nee. Toen ik bij Defensie begon was er al zoiets als de tank.
+ 
+
+ 00:01:27 - 00:01:29
+ Anne-Marij: Toen heb je er ook niet voor gekozen?
+ 
+
+ 00:01:29 - 00:01:42
+ Deborah: Nee, dus ik heb nog niet de motivatie om te zeggen van: dit is mijn ding. Dat zegt niks over de tank, want dat zegt iets over mijn interesses.
+ 
 
-00:00:01 - 00:00:02
-Deborah: Altijd.
+ 00:01:42 - 00:01:43
+ Anne-Marij: Precies.
+ 
 
-00:00:02 - 00:00:02
-Anne-Marij: Heb je de thee?
+ 00:01:43 - 00:01:59
+ Deborah: Dus laat je er vooral niet door misleiden. Ik heb gekozen voor de verbindingsdienst en dat is een fantastisch wapen, maar ik kan me voorstellen dat een ander denkt van: dat dacht ik niet.
+ 
 
-00:00:02 - 00:00:04
-Deborah: Voordeel willen we gaan bespreken...
+ 00:01:59 - 00:02:02
+ Anne-Marij: Die laat ik aan me voorbij gaan. Doe mij die tank maar.
+ 
 
-00:00:04 - 00:00:05
-Anne-Marij: Hebben we zoveel...
+ 00:02:02 - 00:02:18
+ Deborah: Dat is goed, want als we allemaal naar de verbindingsdienst toe willen dan redden we het niet. Daarom ieder z'n ding, maar desalniettemin heeft zo'n tank wel wat.
+ 
 
-00:00:05 - 00:00:06
-Deborah: Hebben we er al een afkorting bij bedacht?
+ 00:02:18 - 00:02:19
+ Anne-Marij: Absoluut.
+ 
 
-00:00:06 - 00:00:07
-Anne-Marij: Hebben we al een gast?
+ 00:02:20 - 00:02:20
+ Deborah: Het is wel een ding.
+ 
 
-00:00:07 - 00:00:12
-Deborah: Koning, keizer, admiraal. Uit de klapmok drinken we allemaal. Ik ben Deborah.
+ 00:02:22 - 00:02:45
+ Anne-Marij: Ik ben wel eens mee geweest ergens op een oefenterrein in Duitsland. Toen hadden we zo'n show. Ze lieten allemaal zien wat ze kunnen met verschillende eenheden en systemen. Toen kwamen even een paar van die tanks voorbij razen. Dat is zeer indrukwekkend.
+ 
 
-00:00:12 - 00:00:13
-Anne-Marij: Ik ben Anne-Marij. Luister je mee?
+ 00:02:45 - 00:02:56
+ Deborah: Precies, dus het heeft wel wat. Het is een tijd geleden dat we als Nederland zelf tanks hebben, want we leasen ze nu.
+ 
 
-00:00:13 - 00:00:14
-Deborah: Naar klapmok met thee.
+ 00:02:57 - 00:03:00
+ Anne-Marij: Door de samenwerking en integratie met Duitsland.
+ 
 
-00:00:15 - 00:00:15
-Anne-Marij: Hoi Deborah.
+ 00:03:00 - 00:03:16
+ Deborah: Precies. Ik denk dat het goed is als we ons laten onderdompelen in de wereld van de tank. Daar hebben we maar één gast voor en er is niemand beter op dit moment die dat ons kan vertellen.
+ 
 
-00:00:16 - 00:00:17
-Deborah: Hoi Anne-Marij.
+ 00:03:16 - 00:03:19
+ Anne-Marij: Dat denk ik ook. Daar gaan we lekker nu naar luisteren. Hier komt hij.
+ 
 
-00:00:18 - 00:00:19
-Anne-Marij: We zitten helemaal niet bij elkaar.
+ 00:03:19 - 00:03:28
+ Deborah: Anne-Marij, zoals we net al zeiden, is het dit keer een hele bijzondere aflevering. We zijn niet op locatie.
+ 
 
-00:00:23 - 00:00:29
-Deborah: We gaan weer terug naar de tijd dat jij in Mali zat toen hadden we ook veel podcast online opgenomen.
+ 00:03:29 - 00:03:29
+ Anne-Marij: Dat zou wel leuk zijn.
+ 
 
-00:00:29 - 00:00:32
-Anne-Marij: Met het verschil dat we nu allebei thuis zitten.
+ 00:03:29 - 00:03:29
+ Deborah: Zeker.
+ 
 
-00:00:32 - 00:00:33
-Deborah: Dat is waar.
+ 00:03:29 - 00:03:56
+ Anne-Marij: We hebben een verre gast. Vandaag in de podcast hebben we de overste Bas Schillemans. Op dit moment is hij de commandant van de Battle Group in Litouwen. In het dagelijks leven wanneer hij weer thuis is, is hij Commandant van het Duits Nederlands Tank Bataljon. Bas, hoe gaat het?
+ 
 
-00:00:34 - 00:00:35
-Anne-Marij: Een stuk leuker.
+ 00:03:57 - 00:03:58
+ Bas Schillemans : Heel goed.
+ 
 
-00:00:35 - 00:00:59
-Deborah: Onze gast niet, want onze gast voor vandaag halen we uit het buitenland. Het blijft weliswaar een Nederlandstalige podcast. Onze gast is een Nederlander in het buitenland op dit moment. We hebben hele mooie ontwikkelingen gehad. De Defensienota 24 is uitgekomen. Dat is groot nieuws, want de koning van het slagveld is terug.
+ 00:03:58 - 00:03:59
+ Anne-Marij: Dat was de eerste vraag.
+ 
 
-00:01:00 - 00:01:01
-Anne-Marij: De tank.
+ 00:03:59 - 00:04:13
+ Bas Schillemans : Inderdaad. Het gaat heel goed zelfs. Ik heb een unieke situatie en kans om hier bataljonscommandant slash pelotonscommandant te zijn van een hele grote groep multinationale eenheid. Dat is erg leuk.
+ 
 
-00:01:01 - 00:01:12
-Deborah: We gaan 46 tanks aanschaffen, dat is wat ik heb gelezen, met 500 man. Met andere woorden: er wordt weer een heel tankbataljon opgericht.
+ 00:04:14 - 00:04:15
+ Deborah: Leuk.
+ 
 
-00:01:13 - 00:01:13
-Anne-Marij: Heftig.
+ 00:04:15 - 00:04:19
+ Anne-Marij: Multinationaal betekent dat nog meer dan Duitse Nederlanders?
+ 
 
-00:01:13 - 00:01:16
-Deborah: Zeker.
+ 00:04:20 - 00:04:31
+ Bas Schillemans : We zitten hier met zes verschillende landen bij elkaar, dus we hebben Noren, Tsjechen, Luxemburg en België. We zitten met een gemixt gezelschap hier in Litouwen.
+ 
 
-00:01:16 - 00:01:18
-Anne-Marij: Zie jij al een carrièreswitch voor jezelf?
+ 00:04:31 - 00:04:33
+ Deborah: Zijn dat allemaal tank eenheden?
+ 
 
-00:01:19 - 00:01:27
-Deborah: Nee. Toen ik bij Defensie begon was er al zoiets als de tank.
+ 00:04:38 - 00:04:53
+ Bas Schillemans : Er zitten hier inderdaad tank eenheden. We hebben hier een Duits tank peloton. We hebben hier een Duitse tank copie zelfs. We hebben daarin een Nederlands tank peloton en de Noren hebben ook een eigen tank peloton mee. Als we het hebben over de koning van het slagveld dan is die hier voldoende vertegenwoordigd.
+ 
 
-00:01:27 - 00:01:29
-Anne-Marij: Toen heb je er ook niet voor gekozen?
+ 00:04:55 - 00:05:07
+ Deborah: Dat moet het hart van de tanker sneller doen slaan, denk ik. Hoe lang geleden is het dat je zo grootschalig iets met tanks hebt kunnen doen?
+ 
 
-00:01:29 - 00:01:42
-Deborah: Nee, dus ik heb nog niet de motivatie om te zeggen van: dit is mijn ding. Dat zegt niks over de tank, want dat zegt iets over mijn interesses.
+ 00:05:07 - 00:05:40
+ Bas Schillemans : Dat is echt fantastisch. Dat zie je ook terug in de oefeningen die we doen: dat we het al lang niet meer gedaan hebben. Daarom is het goed dat we weer samen oefenen. Het is niet alleen de koning, maar de koningin en de koning zijn nu weer samen, dus we hebben weer een bruidspaar. Dat zie je terug in de oefeningen. Met name aan beide kanten overigens, want de tanker leert weer wat van de infanterist en de infanterist leert wat van de tanker. Dat doen we zelfs in multinationale setting, dus de Noorse tanker leert wat van de Nederlandse tanker en Nederlandse tanker wat van de Duitse tanker. Wat dat betreft is dat niet meer dan prima.
+ 
 
-00:01:42 - 00:01:43
-Anne-Marij: Precies.
+ 00:05:40 - 00:06:02
+ Bas Schillemans : Het is een grote goede setting wat we hier hebben in Litouwen om die samenwerking op te zoeken. Daar zie je ook het enthousiasme terug bij de soldaat. Ik zeg altijd dat de soldaat, de tanker in dit geval, bewust kiest voor het wapen, dus het platform, de tank om zijn werk te kunnen doen. Dat straalt hij ook uit in de oefeningen, want die zijn laaiend enthousiast hier.
+ 
 
-00:01:43 - 00:01:59
-Deborah: Dus laat je er vooral niet door misleiden. Ik heb gekozen voor de verbindingsdienst en dat is een fantastisch wapen, maar ik kan me voorstellen dat een ander denkt van: dat dacht ik niet.
+ 00:06:03 - 00:06:03
+ Anne-Marij: Wat mooi!
+ 
 
-00:01:59 - 00:02:02
-Anne-Marij: Die laat ik aan me voorbij gaan. Doe mij die tank maar.
+ 00:06:03 - 00:06:11
+ Deborah: Wat goed. Je hebt het over de soldaat, maar bij de cavalerie heet een soldaat toch geen soldaat?
+ 
 
-00:02:02 - 00:02:18
-Deborah: Dat is goed, want als we allemaal naar de verbindingsdienst toe willen dan redden we het niet. Daarom ieder z'n ding, maar desalniettemin heeft zo'n tank wel wat.
+ 00:06:12 - 00:06:13
+ Bas Schillemans : Dat is een hele goede.
+ 
 
-00:02:18 - 00:02:19
-Anne-Marij: Absoluut.
+ 00:06:13 - 00:06:15
+ Deborah: Of is dat niet meer?
+ 
 
-00:02:20 - 00:02:20
-Deborah: Het is wel een ding.
+ 00:06:15 - 00:06:34
+ Bas Schillemans : Dat is scherp. Het is inderdaad de huzaar. We noemen de soldaat in onze eenheid de huzaar. Een lange traditie van huzaren en overgeleverd in de loop der tijd. Uiteindelijk hebben we geen kapiteins in ons bestand, maar ritmeesters. Dat geeft een klein beetje het unieke aan van de cavalerie.
+ 
 
-00:02:22 - 00:02:45
-Anne-Marij: Ik ben wel eens mee geweest ergens op een oefenterrein in Duitsland. Toen hadden we zo'n show. Ze lieten allemaal zien wat ze kunnen met verschillende eenheden en systemen. Toen kwamen even een paar van die tanks voorbij razen. Dat is zeer indrukwekkend.
+ 00:06:35 - 00:06:37
+ Anne-Marij: Ik heb direct een liedje in mijn hoofd Deborah.
+ 
 
-00:02:45 - 00:02:56
-Deborah: Precies, dus het heeft wel wat. Het is een tijd geleden dat we als Nederland zelf tanks hebben, want we leasen ze nu.
+ 00:06:37 - 00:06:37
+ Deborah: [onhoorbaar 00:06:38-00:06:40]
+ 
 
-00:02:57 - 00:03:00
-Anne-Marij: Door de samenwerking en integratie met Duitsland.
+ 00:06:42 - 00:06:44
+ Anne-Marij: Er is een andere Bas die dat goed kan zingen.
+ 
 
-00:03:00 - 00:03:16
-Deborah: Precies. Ik denk dat het goed is als we ons laten onderdompelen in de wereld van de tank. Daar hebben we maar één gast voor en er is niemand beter op dit moment die dat ons kan vertellen.
+ 00:06:45 - 00:06:47
+ Bas Schillemans : Hebben we het over ritmeesters of over huzaren?
+ 
 
-00:03:16 - 00:03:19
-Anne-Marij: Dat denk ik ook. Daar gaan we lekker nu naar luisteren. Hier komt hij.
+ 00:06:47 - 00:06:48
+ Anne-Marij: Huzaren van Boreel.
+ 
 
-00:03:19 - 00:03:28
-Deborah: Anne-Marij, zoals we net al zeiden, is het dit keer een hele bijzondere aflevering. We zijn niet op locatie.
+ 00:06:48 - 00:06:49
+ Deborah: Huzaren.
+ 
 
-00:03:29 - 00:03:29
-Anne-Marij: Dat zou wel leuk zijn.
+ 00:06:49 - 00:06:50
+ Bas Schillemans : Ja.
+ 
 
-00:03:29 - 00:03:29
-Deborah: Zeker.
+ 00:06:51 - 00:07:24
+ Deborah: We gaan zo meteen nog door op de tank en op het gevechtsveld. Even een beetje historie, want de cavalerie is een bijzonder wapen. Het heeft een beetje een dipje gekend nadat we onze tanks hebben moeten afstoten. Nu met de komst van het nieuwe tank gaan al die regimenten die we nog een beetje hebben allemaal weer van stal. Hoe zit dat precies in elkaar bij jullie?
+ 
 
-00:03:29 - 00:03:56
-Anne-Marij: We hebben een verre gast. Vandaag in de podcast hebben we de overste Bas Schillemans. Op dit moment is hij de commandant van de Battle Group in Litouwen. In het dagelijks leven wanneer hij weer thuis is, is hij Commandant van het Duits Nederlands Tank Bataljon. Bas, hoe gaat het?
+ 00:07:24 - 00:07:27
+ Bas Schillemans : Dat was een leuke woordspeling: van stal. Heel scherp.
+ 
 
-00:03:57 - 00:03:58
-Bas Schillemans : Heel goed.
-
-00:03:58 - 00:03:59
-Anne-Marij: Dat was de eerste vraag.
-
-00:03:59 - 00:04:13
-Bas Schillemans : Inderdaad. Het gaat heel goed zelfs. Ik heb een unieke situatie en kans om hier bataljonscommandant slash pelotonscommandant te zijn van een hele grote groep multinationale eenheid. Dat is erg leuk.
-
-00:04:14 - 00:04:15
-Deborah: Leuk.
-
-00:04:15 - 00:04:19
-Anne-Marij: Multinationaal betekent dat nog meer dan Duitse Nederlanders?
-
-00:04:20 - 00:04:31
-Bas Schillemans : We zitten hier met zes verschillende landen bij elkaar, dus we hebben Noren, Tsjechen, Luxemburg en België. We zitten met een gemixt gezelschap hier in Litouwen.
-
-00:04:31 - 00:04:33
-Deborah: Zijn dat allemaal tank eenheden?
-
-00:04:38 - 00:04:53
-Bas Schillemans : Er zitten hier inderdaad tank eenheden. We hebben hier een Duits tank peloton. We hebben hier een Duitse tank copie zelfs. We hebben daarin een Nederlands tank peloton en de Noren hebben ook een eigen tank peloton mee. Als we het hebben over de koning van het slagveld dan is die hier voldoende vertegenwoordigd.
-
-00:04:55 - 00:05:07
-Deborah: Dat moet het hart van de tanker sneller doen slaan, denk ik. Hoe lang geleden is het dat je zo grootschalig iets met tanks hebt kunnen doen?
-
-00:05:07 - 00:05:40
-Bas Schillemans : Dat is echt fantastisch. Dat zie je ook terug in de oefeningen die we doen: dat we het al lang niet meer gedaan hebben. Daarom is het goed dat we weer samen oefenen. Het is niet alleen de koning, maar de koningin en de koning zijn nu weer samen, dus we hebben weer een bruidspaar. Dat zie je terug in de oefeningen. Met name aan beide kanten overigens, want de tanker leert weer wat van de infanterist en de infanterist leert wat van de tanker. Dat doen we zelfs in multinationale setting, dus de Noorse tanker leert wat van de Nederlandse tanker en Nederlandse tanker wat van de Duitse tanker. Wat dat betreft is dat niet meer dan prima.
-
-00:05:40 - 00:06:02
-Bas Schillemans : Het is een grote goede setting wat we hier hebben in Litouwen om die samenwerking op te zoeken. Daar zie je ook het enthousiasme terug bij de soldaat. Ik zeg altijd dat de soldaat, de tanker in dit geval, bewust kiest voor het wapen, dus het platform, de tank om zijn werk te kunnen doen. Dat straalt hij ook uit in de oefeningen, want die zijn laaiend enthousiast hier.
-
-00:06:03 - 00:06:03
-Anne-Marij: Wat mooi!
-
-00:06:03 - 00:06:11
-Deborah: Wat goed. Je hebt het over de soldaat, maar bij de cavalerie heet een soldaat toch geen soldaat?
-
-00:06:12 - 00:06:13
-Bas Schillemans : Dat is een hele goede.
-
-00:06:13 - 00:06:15
-Deborah: Of is dat niet meer?
-
-00:06:15 - 00:06:34
-Bas Schillemans : Dat is scherp. Het is inderdaad de huzaar. We noemen de soldaat in onze eenheid de huzaar. Een lange traditie van huzaren en overgeleverd in de loop der tijd. Uiteindelijk hebben we geen kapiteins in ons bestand, maar ritmeesters. Dat geeft een klein beetje het unieke aan van de cavalerie.
-
-00:06:35 - 00:06:37
-Anne-Marij: Ik heb direct een liedje in mijn hoofd Deborah.
-
-00:06:37 - 00:06:37
-Deborah: [onhoorbaar 00:06:38-00:06:40]
-
-00:06:42 - 00:06:44
-Anne-Marij: Er is een andere Bas die dat goed kan zingen.
-
-00:06:45 - 00:06:47
-Bas Schillemans : Hebben we het over ritmeesters of over huzaren?
-
-00:06:47 - 00:06:48
-Anne-Marij: Huzaren van Boreel.
-
-00:06:48 - 00:06:49
-Deborah: Huzaren.
-
-00:06:49 - 00:06:50
-Bas Schillemans : Ja.
-
-00:06:51 - 00:07:24
-Deborah: We gaan zo meteen nog door op de tank en op het gevechtsveld. Even een beetje historie, want de cavalerie is een bijzonder wapen. Het heeft een beetje een dipje gekend nadat we onze tanks hebben moeten afstoten. Nu met de komst van het nieuwe tank gaan al die regimenten die we nog een beetje hebben allemaal weer van stal. Hoe zit dat precies in elkaar bij jullie?
-
-00:07:24 - 00:07:27
-Bas Schillemans : Dat was een leuke woordspeling: van stal. Heel scherp.
-
-...</summary>
+ ...</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -11614,211 +11919,278 @@ Aan vrouwenmoord, femicide, gaat in de meeste gevallen een periode van huiselijk
 		<title>Klapmok met Thee - #86: Operatie Interflex</title>
 		<link href="https://podcasts.apple.com/nl/podcast/86-operatie-interflex/id1566819266?i=1000677858954&amp;uo=4" rel="alternate" />
 		<summary>Gereed zijn om te vechten voor je land betekent ook dat je basisvaardigheden moet leren en getraind moet zijn voor het gevecht dat je te wachten staat. In Oekraïne is uiteraard de nood hoog om voldoende mensen in te kunnen zetten. Voor Oekraïense rekruten is in het Verenigd Koninkrijk het multinationale opleidingsprogramma Operatie Interflex opgericht. Nederland levert hier sinds september 2022 een bijdrage aan. Majoor Remy Vlake (commandant van 42 Brigade Verkenningseskadron) heeft eerder dit jaar met zijn eenheid gedurende een aantal maanden deze opleiding gegeven, aan lichtingen van 200 Oekraïners. In deze aflevering vertelt hij hierover en hij neemt Deborah en Anne-Marij ook mee in de impact die dit heeft gehad op hem en zijn mensen.
----
-Transcriptie
-00:00:00 - 00:00:00
-Anne-Marij: Heb jij je klapmok in de aanslag?
+ ---
+ Transcriptie
+ 00:00:00 - 00:00:00
+ Anne-Marij: Heb jij je klapmok in de aanslag?
+ 
+
+ 00:00:00 - 00:00:00
+ Deborah: Altijd.
+ 
+
+ 00:00:00 - 00:00:02
+ Anne-Marij: Hippie de thee.
+ 
+
+ 00:00:03 - 00:00:04
+ Deborah: Het voordeel willen we gaan bespreken.
+ 
+
+ 00:00:04 - 00:00:05
+ Anne-Marij: We hebben er zoveel.
+ 
+
+ 00:00:05 - 00:00:06
+ Deborah: Hebben we er ook al een afkorting bij bedacht?
+ 
+
+ 00:00:06 - 00:00:07
+ Anne-Marij: Hebben we al een gast?
+ 
+
+ 00:00:07 - 00:00:11
+ Deborah: Koning, keizer, admiraal, uit de klapmok drinken we allemaal! Ik ben Deborah.
+ 
+
+ 00:00:11 - 00:00:13
+ Anne-Marij: En ik ben Anne-Marij.
+ 
+
+ 00:00:13 - 00:00:13
+ Deborah: Luister je mee?
+ 
+
+ 00:00:13 - 00:00:16
+ Anne-Marij: Naar Klapmok met Thee ? Hey, Deborah!
+ 
+
+ 00:00:16 - 00:00:18
+ Deborah: Hey, Anne-Marij! Daar zijn we weer.
+ 
+
+ 00:00:18 - 00:00:20
+ Anne-Marij: Daar zijn we zeker weer.
+ 
+
+ 00:00:20 - 00:00:23
+ Deborah: Een nieuwe aflevering. Er staat weer op het punt te beginnen.
+ 
+
+ 00:00:23 - 00:00:24
+ Anne-Marij: Klapmok met Thee.
+ 
+
+ 00:00:24 - 00:00:24
+ Deborah: Hoppaké!
+ 
+
+ 00:00:24 - 00:00:24
+ Anne-Marij: Dat rijmt. Gaat ze weer, hoor.
+ 
+
+ 00:00:24 - 00:00:36
+ Deborah: Dat was niet expres. Dat sowieso. Nu begint het alweer lacherig, we zijn in de giechelmodus.
+ 
+
+ 00:00:36 - 00:00:37
+ Anne-Marij: Het is geen lacherig onderwerp.
+ 
+
+ 00:00:37 - 00:00:41
+ Deborah: Het is geen lacherig onderwerp. Ik denk wel dat het een heel belangrijk onderwerp is.
+ 
+
+ 00:00:41 - 00:01:09
+ Anne-Marij: Het staat ook allang op de planning, want op één augustus stond er een artikel in de krant in NRC over een Oekraïense militair die normaal in de marketing of iets dergelijks werkt, maar nu dus aan het vechten is aan het front. Hij deed online marketing. Het heette: "Oekraïense militair Jimmy vecht aan het oostfront", en dan een quote: "Je verliest jezelf in deze oorlog." Dat maakte op ons heel veel indruk toen we dat lazen.
+ 
+
+ 00:01:09 - 00:01:59
+ Deborah: Mocht je het nog niet hebben kunnen zien, het is een artikel van het NRC. Zoek het op, en kijk even of je erbij kan, want het is wel een betaald artikel. Maar dat is een artikel wat ontzettend veel indruk achterlaat, niet alleen om dat het voor ons vaktechnisch een interessant artikel is om te zien hoe die oorlog in Oekraïne verloopt, en hoe dat gaat en hoe mensen dat ervaren. Ik vond het vooral intens, omdat de mentale component die hier naar voren komt heel sterk beschreven wordt. Want ga er maar aanstaan. Er staat ook: "Jimmy is geen beroepsmilitair." Wat jij net hebt gezegd, hij zat in de online marketing. Hij is nu wel compagniescommandant, en hij geeft dus leiding aan een grote groep mensen.
+ 
+
+ 00:02:00 - 00:02:02
+ Anne-Marij: Die hij om zich heen ziet sneuvelen.
+ 
+
+ 00:02:02 - 00:02:11
+ Deborah: Ja, en wat dat met hem doet en vooral niet, en wat dat voor keuzes met zich meebrengt. De keuzes die hij maakt richting zijn gezin.
+ 
+
+ 00:02:11 - 00:02:14
+ Anne-Marij: Zijn gezin die hij helemaal niet kan zien.
+ 
+
+ 00:02:14 - 00:02:31
+ Deborah: Nee, dat soort dingen. Ik zeg keuzes, want ze kunnen ervoor kiezen om weg te gaan. Hij geeft zelf aan dat hij dat liever niet doet, omdat die dan weer uit de wereld is. Het is een soort van surreal. Is dat het woord?
+ 
+
+ 00:02:32 - 00:02:32
+ Anne-Marij: Surreëel.
+ 
+
+ 00:02:34 - 00:02:34
+ Deborah: Het Nederlands woord. De leefwereld waarin hij zit.
+ 
+
+ 00:02:34 - 00:03:34
+ Anne-Marij: Maar wat hij beschrijft: dagen geen eten, onder vuur liggen, een vijand die maar blijft komen. Gewoon een hele heftige situatie. Letterlijk midden in het oorlogsgebied en daar wordt over geschreven. Dat raakt ons wel heel erg, en toen gingen we ook nadenken over... We hebben het al langer over de focus op hoofdtaak één, en dat is een mindset-verandering. Dat hebben jullie ook kunnen horen in de aflevering met de SG en de CDS over hoofdtaak één. Als we het dan even concreet maken en hier verder op in willen gaan, hebben we zo'n Interflex Operatie, inzet, trainingsmissie, - hoe je het wil noemen - waarbij wij Oekraïense militairen zoals deze Jimmy, klaarmaken voor dit gevecht. Dus wij waren wel heel benieuwd. Wij weten zelf verder weinig over Interflex, maar om daar nog...
+ 
+
+ 00:03:34 - 00:03:35
+ Deborah: Je ziet het voorbijkomen.
+ 
+
+ 00:03:35 - 00:03:50
+ Anne-Marij: Je hoort de term, maar wat is dat dan nu precies? Wat houdt het dan in? Wat komen we daar dan tegen? Wat doen we daar? Daar willen we wel eens wat meer over weten, ook om die link te leggen naar wat dat met ons doet en wat we daaruit meenemen.
+ 
+
+ 00:03:50 - 00:03:54
+ Deborah: Ja, exact. We hebben iemand gevonden die daarover met ons in gesprek wilde gaan.
+ 
+
+ 00:03:55 - 00:03:56
+ Anne-Marij: Daar gaan we naar luisteren.
+ 
+
+ 00:03:56 - 00:03:56
+ Deborah: Precies.
+ 
+
+ 00:03:56 - 00:04:01
+ Anne-Marij: We zitten hier vandaag met de majoor Remy Vlake. Welkom!
+ 
+
+ 00:04:01 - 00:04:01
+ Remy Vlake: Dank je wel.
+ 
+
+ 00:04:02 - 00:04:05
+ Anne-Marij: Commandant 42BVE.
+ 
+
+ 00:04:05 - 00:04:07
+ Remy Vlake: Ja, brigadeverkenningseskadron in Oirschot.
+ 
+
+ 00:04:07 - 00:04:07
+ Deborah: Dank je wel.
+ 
+
+ 00:04:07 - 00:04:10
+ Anne-Marij: In Oirschot. Fijn dat je er bent!
+ 
+
+ 00:04:10 - 00:04:10
+ Deborah: Hoppaké.
+ 
+
+ 00:04:10 - 00:04:11
+ Remy Vlake: Dank je wel, fijn om hier te zijn.
+ 
+
+ 00:04:11 - 00:04:17
+ Anne-Marij: Helemaal afgereisd vanuit het diepe zuiden om met ons te praten over Interflex.
+ 
 
-00:00:00 - 00:00:00
-Deborah: Altijd.
+ 00:04:17 - 00:04:17
+ Remy Vlake: Ja.
+ 
 
-00:00:00 - 00:00:02
-Anne-Marij: Hippie de thee.
+ 00:04:18 - 00:04:20
+ Anne-Marij: Hier zit allemaal flex bij Interflex.
+ 
 
-00:00:03 - 00:00:04
-Deborah: Het voordeel willen we gaan bespreken.
+ 00:04:20 - 00:04:21
+ Remy Vlake: Het is allemaal flex bij Interflex, denk ik.
+ 
 
-00:00:04 - 00:00:05
-Anne-Marij: We hebben er zoveel.
+ 00:04:21 - 00:04:31
+ Anne-Marij: Ik moest hem even maken. Vertel. Jij zit nu in Oirschot.
+ 
 
-00:00:05 - 00:00:06
-Deborah: Hebben we er ook al een afkorting bij bedacht?
+ 00:04:31 - 00:04:31
+ Remy Vlake: Ja.
+ 
 
-00:00:06 - 00:00:07
-Anne-Marij: Hebben we al een gast?
+ 00:04:31 - 00:04:31
+ Anne-Marij: Maar jij was?
+ 
 
-00:00:07 - 00:00:11
-Deborah: Koning, keizer, admiraal, uit de klapmok drinken we allemaal! Ik ben Deborah.
+ 00:04:32 - 00:04:45
+ Remy Vlake: Ik ben eenheidscommandant van 42 brigadeverkenningseskadron, en wij hebben dit jaar van april tot en met juli deelgenomen aan de Operatie Interflex met de hele eenheid.
+ 
 
-00:00:11 - 00:00:13
-Anne-Marij: En ik ben Anne-Marij.
+ 00:04:45 - 00:04:47
+ Anne-Marij: Precies, je zei dat jij de commandant was net zoals je nu bent voor die mensen.
+ 
 
-00:00:13 - 00:00:13
-Deborah: Luister je mee?
+ 00:04:48 - 00:04:48
+ Remy Vlake: De commandant maar ook de SNR, Senior National...
+ 
 
-00:00:13 - 00:00:16
-Anne-Marij: Naar Klapmok met Thee ? Hey, Deborah!
+ 00:04:48 - 00:04:52
+ Anne-Marij: Representative.
+ 
 
-00:00:16 - 00:00:18
-Deborah: Hey, Anne-Marij! Daar zijn we weer.
+ 00:04:52 - 00:04:55
+ Remy Vlake: Dat was hem. Die zocht ik.
+ 
 
-00:00:18 - 00:00:20
-Anne-Marij: Daar zijn we zeker weer.
+ 00:04:56 - 00:05:02
+ Anne-Marij: Oké. Maar goed, we horen wel eens wat over de term Interflex.
+ 
 
-00:00:20 - 00:00:23
-Deborah: Een nieuwe aflevering. Er staat weer op het punt te beginnen.
+ 00:05:02 - 00:05:02
+ Deborah: Precies.
+ 
 
-00:00:23 - 00:00:24
-Anne-Marij: Klapmok met Thee.
+ 00:05:02 - 00:05:05
+ Anne-Marij: Maar eigenlijk hebben we geen idee wat het precies inhoudt.
+ 
 
-00:00:24 - 00:00:24
-Deborah: Hoppaké!
+ 00:05:05 - 00:05:16
+ Remy Vlake: De Operatie Interflex is een multinationale trainingsmissie van Oekraïners, en die staat onder leiding van het Verenigd Koninkrijk en vindt ook plaats in het Verenigd Koninkrijk .
+ 
 
-00:00:24 - 00:00:24
-Anne-Marij: Dat rijmt. Gaat ze weer, hoor.
+ 00:05:16 - 00:05:16
+ Anne-Marij: Oké.
+ 
 
-00:00:24 - 00:00:36
-Deborah: Dat was niet expres. Dat sowieso. Nu begint het alweer lacherig, we zijn in de giechelmodus.
+ 00:05:16 - 00:05:43
+ Remy Vlake: Het is een voortzetting van de operatie Orbital. Dat is vanaf 2015 tot 2022 door de annexering van de Krim opgesteld door het Verenigd Koninkrijk, en nadat de Russen Oekraïne binnenvielen is dat overgegaan naar Interflex. Volgens mij vanaf september 2022 hebben wij daar een bijdrage aan.
+ 
 
-00:00:36 - 00:00:37
-Anne-Marij: Het is geen lacherig onderwerp.
+ 00:05:43 - 00:05:46
+ Anne-Marij: Oké, dus er gaat eigenlijk steeds een rotatie? Zo moet ik dat zien.
+ 
 
-00:00:37 - 00:00:41
-Deborah: Het is geen lacherig onderwerp. Ik denk wel dat het een heel belangrijk onderwerp is.
+ 00:05:46 - 00:06:05
+ Remy Vlake: Ja, dat gaat steeds een rotatie. 42BVE valt onder de dertiende brigade in Oirschot, en wij zijn als dertiende brigade aangewezen als de formerende en gereedstellende en leverende eenheid voor deze inzet. Ik meen dat de eerste rotatie werd geleverd door mariniers. Of één van de eerste.
+ 
 
-00:00:41 - 00:01:09
-Anne-Marij: Het staat ook allang op de planning, want op één augustus stond er een artikel in de krant in NRC over een Oekraïense militair die normaal in de marketing of iets dergelijks werkt, maar nu dus aan het vechten is aan het front. Hij deed online marketing. Het heette: "Oekraïense militair Jimmy vecht aan het oostfront", en dan een quote: "Je verliest jezelf in deze oorlog." Dat maakte op ons heel veel indruk toen we dat lazen.
+ 00:06:05 - 00:06:05
+ Anne-Marij: Oké.
+ 
 
-00:01:09 - 00:01:59
-Deborah: Mocht je het nog niet hebben kunnen zien, het is een artikel van het NRC. Zoek het op, en kijk even of je erbij kan, want het is wel een betaald artikel. Maar dat is een artikel wat ontzettend veel indruk achterlaat, niet alleen om dat het voor ons vaktechnisch een interessant artikel is om te zien hoe die oorlog in Oekraïne verloopt, en hoe dat gaat en hoe mensen dat ervaren. Ik vond het vooral intens, omdat de mentale component die hier naar voren komt heel sterk beschreven wordt. Want ga er maar aanstaan. Er staat ook: "Jimmy is geen beroepsmilitair." Wat jij net hebt gezegd, hij zat in de online marketing. Hij is nu wel compagniescommandant, en hij geeft dus leiding aan een grote groep mensen.
+ 00:06:05 - 00:06:13
+ Remy Vlake: Ik wil er een beetje bij wegblijven. Ik weet het niet exact, maar sinds '23 draaien wij vanuit Oirschot deze missie, deze inzet.
+ 
 
-00:02:00 - 00:02:02
-Anne-Marij: Die hij om zich heen ziet sneuvelen.
+ 00:06:13 - 00:06:16
+ Deborah: Je zegt: multinationaal.
+ 
 
-00:02:02 - 00:02:11
-Deborah: Ja, en wat dat met hem doet en vooral niet, en wat dat voor keuzes met zich meebrengt. De keuzes die hij maakt richting zijn gezin.
+ 00:06:16 - 00:06:16
+ Remy Vlake: Ja.
+ 
 
-00:02:11 - 00:02:14
-Anne-Marij: Zijn gezin die hij helemaal niet kan zien.
+ 00:06:16 - 00:06:19
+ Deborah: Welke landen doen er allemaal mee? Het Verenigd koninkrijk natuurlijk en wij.
+ 
 
-00:02:14 - 00:02:31
-Deborah: Nee, dat soort dingen. Ik zeg keuzes, want ze kunnen ervoor kiezen om weg te gaan. Hij geeft zelf aan dat hij dat liever niet doet, omdat die dan weer uit de wereld is. Het is een soort van surreal. Is dat het woord?
-
-00:02:32 - 00:02:32
-Anne-Marij: Surreëel.
-
-00:02:34 - 00:02:34
-Deborah: Het Nederlands woord. De leefwereld waarin hij zit.
-
-00:02:34 - 00:03:34
-Anne-Marij: Maar wat hij beschrijft: dagen geen eten, onder vuur liggen, een vijand die maar blijft komen. Gewoon een hele heftige situatie. Letterlijk midden in het oorlogsgebied en daar wordt over geschreven. Dat raakt ons wel heel erg, en toen gingen we ook nadenken over... We hebben het al langer over de focus op hoofdtaak één, en dat is een mindset-verandering. Dat hebben jullie ook kunnen horen in de aflevering met de SG en de CDS over hoofdtaak één. Als we het dan even concreet maken en hier verder op in willen gaan, hebben we zo'n Interflex Operatie, inzet, trainingsmissie, - hoe je het wil noemen - waarbij wij Oekraïense militairen zoals deze Jimmy, klaarmaken voor dit gevecht. Dus wij waren wel heel benieuwd. Wij weten zelf verder weinig over Interflex, maar om daar nog...
-
-00:03:34 - 00:03:35
-Deborah: Je ziet het voorbijkomen.
-
-00:03:35 - 00:03:50
-Anne-Marij: Je hoort de term, maar wat is dat dan nu precies? Wat houdt het dan in? Wat komen we daar dan tegen? Wat doen we daar? Daar willen we wel eens wat meer over weten, ook om die link te leggen naar wat dat met ons doet en wat we daaruit meenemen.
-
-00:03:50 - 00:03:54
-Deborah: Ja, exact. We hebben iemand gevonden die daarover met ons in gesprek wilde gaan.
-
-00:03:55 - 00:03:56
-Anne-Marij: Daar gaan we naar luisteren.
-
-00:03:56 - 00:03:56
-Deborah: Precies.
-
-00:03:56 - 00:04:01
-Anne-Marij: We zitten hier vandaag met de majoor Remy Vlake. Welkom!
-
-00:04:01 - 00:04:01
-Remy Vlake: Dank je wel.
-
-00:04:02 - 00:04:05
-Anne-Marij: Commandant 42BVE.
-
-00:04:05 - 00:04:07
-Remy Vlake: Ja, brigadeverkenningseskadron in Oirschot.
-
-00:04:07 - 00:04:07
-Deborah: Dank je wel.
-
-00:04:07 - 00:04:10
-Anne-Marij: In Oirschot. Fijn dat je er bent!
-
-00:04:10 - 00:04:10
-Deborah: Hoppaké.
-
-00:04:10 - 00:04:11
-Remy Vlake: Dank je wel, fijn om hier te zijn.
-
-00:04:11 - 00:04:17
-Anne-Marij: Helemaal afgereisd vanuit het diepe zuiden om met ons te praten over Interflex.
-
-00:04:17 - 00:04:17
-Remy Vlake: Ja.
-
-00:04:18 - 00:04:20
-Anne-Marij: Hier zit allemaal flex bij Interflex.
-
-00:04:20 - 00:04:21
-Remy Vlake: Het is allemaal flex bij Interflex, denk ik.
-
-00:04:21 - 00:04:31
-Anne-Marij: Ik moest hem even maken. Vertel. Jij zit nu in Oirschot.
-
-00:04:31 - 00:04:31
-Remy Vlake: Ja.
-
-00:04:31 - 00:04:31
-Anne-Marij: Maar jij was?
-
-00:04:32 - 00:04:45
-Remy Vlake: Ik ben eenheidscommandant van 42 brigadeverkenningseskadron, en wij hebben dit jaar van april tot en met juli deelgenomen aan de Operatie Interflex met de hele eenheid.
-
-00:04:45 - 00:04:47
-Anne-Marij: Precies, je zei dat jij de commandant was net zoals je nu bent voor die mensen.
-
-00:04:48 - 00:04:48
-Remy Vlake: De commandant maar ook de SNR, Senior National...
-
-00:04:48 - 00:04:52
-Anne-Marij: Representative.
-
-00:04:52 - 00:04:55
-Remy Vlake: Dat was hem. Die zocht ik.
-
-00:04:56 - 00:05:02
-Anne-Marij: Oké. Maar goed, we horen wel eens wat over de term Interflex.
-
-00:05:02 - 00:05:02
-Deborah: Precies.
-
-00:05:02 - 00:05:05
-Anne-Marij: Maar eigenlijk hebben we geen idee wat het precies inhoudt.
-
-00:05:05 - 00:05:16
-Remy Vlake: De Operatie Interflex is een multinationale trainingsmissie van Oekraïners, en die staat onder leiding van het Verenigd Koninkrijk en vindt ook plaats in het Verenigd Koninkrijk .
-
-00:05:16 - 00:05:16
-Anne-Marij: Oké.
-
-00:05:16 - 00:05:43
-Remy Vlake: Het is een voortzetting van de operatie Orbital. Dat is vanaf 2015 tot 2022 door de annexering van de Krim opgesteld door het Verenigd Koninkrijk, en nadat de Russen Oekraïne binnenvielen is dat overgegaan naar Interflex. Volgens mij vanaf september 2022 hebben wij daar een bijdrage aan.
-
-00:05:43 - 00:05:46
-Anne-Marij: Oké, dus er gaat eigenlijk steeds een rotatie? Zo moet ik dat zien.
-
-00:05:46 - 00:06:05
-Remy Vlake: Ja, dat gaat steeds een rotatie. 42BVE valt onder de dertiende brigade in Oirschot, en wij zijn als dertiende brigade aangewezen als de formerende en gereedstellende en leverende eenheid voor deze inzet. Ik meen dat de eerste rotatie werd geleverd door mariniers. Of één van de eerste.
-
-00:06:05 - 00:06:05
-Anne-Marij: Oké.
-
-00:06:05 - 00:06:13
-Remy Vlake: Ik wil er een beetje bij wegblijven. Ik weet het niet exact, maar sinds '23 draaien wij vanuit Oirschot deze missie, deze inzet.
-
-00:06:13 - 00:06:16
-Deborah: Je zegt: multinationaal.
-
-00:06:16 - 00:06:16
-Remy Vlake: Ja.
-
-00:06:16 - 00:06:19
-Deborah: Welke landen doen er allemaal mee? Het Verenigd koninkrijk natuurlijk en wij.
-
-00:06:20 - 00:06:28
-Remy Vlake: Dat zijn wat Scandi...</summary>
+ 00:06:20 - 00:06:28
+ Remy Vlake: Dat zijn wat Scandi...</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -14933,9 +15305,9 @@ Dit en meer in deze aflevering van Podium voor Goed Politiewerk. Volg ons nu voo
 		<title>Echte politieverhalen - 'Ik dacht: hij gooit haar overboord'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-dacht-hij-gooit-haar-overboord/id1751266358?i=1000663256673&amp;uo=4" rel="alternate" />
 		<summary>112-centralist Romy krijgt een jonge vrouw aan de telefoon die wordt vastgehouden op een boot. Op de achtergrond schreeuwt haar bedreiger hard: ‘Ik gooi je overboord!’ Romy voelt zich verantwoordelijk voor haar en hangt niet op.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -14993,9 +15365,9 @@ Gaandeweg het gesprek wordt steeds duidelijker dat een analyse van beschikbare d
 		<title>Echte politieverhalen - 'Ik schoot bijna, toen hoorde ik een kinderstem'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-schoot-bijna-toen-hoorde-ik-een-kinderstem/id1751266358?i=1000662566870&amp;uo=4" rel="alternate" />
 		<summary>Agent Hicham wordt beschoten op een vakantiepark terwijl hij een man probeert te helpen. Als hij terug wil schieten, hoort hij ineens kinderstemmen. Hicham haalt snel zijn vinger van zijn trekker. Wat nu? 
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -15149,10 +15521,9 @@ Logo: Aron Vellekoop León</summary>
 		<title>Echte politieverhalen - ‘Waar is de schutter?!'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/waar-is-de-schutter/id1751266358?i=1000661839638&amp;uo=4" rel="alternate" />
 		<summary>Een man wordt door zijn hoofd geschoten op een groot illegaal feest. Agent Wesley en zijn collega’s zijn als eerste bij het slachtoffer. De schutter kan dan nog steeds in de buurt zijn…
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -15700,9 +16071,9 @@ Het loont voor opspoorders (en iedereen mag natuurlijk mee luisteren) om te begr
 		<title>Echte politieverhalen - 'We doken de vechtpartij in'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/we-doken-de-vechtpartij-in/id1751266358?i=1000661082124&amp;uo=4" rel="alternate" />
 		<summary>Als er rellen uitbreken na een voetbalwedstrijd, springen agent Joyce en haar collega in de vechtpartij. Dat hadden ze beter niet kunnen doen. Asbakken, glazen en zelfs picknicktafels vliegen door de lucht. Er is versterking onderweg, maar het loopt al compleet uit de hand. Dan wordt Joyce’ collega geraakt en hij gaat tegen de grond. Hoe komen ze hier weer uit? 
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -15866,10 +16237,9 @@ Opnames op locatie verzorgd door NFGD.</summary>
 		<title>Echte politieverhalen - 'Hij appte: ik heb haar vermoord'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-appte-ik-heb-haar-vermoord/id1751266358?i=1000660366626&amp;uo=4" rel="alternate" />
 		<summary>Als Melvin aan het werk is, komt een groep vrienden nerveus lachend het politiebureau binnen. ‘Onze vriend zegt dat hij zijn vrouw heeft vermoord’. Ze hebben een gek appje van hem gekregen. ‘Is dit een grap?’, denkt Melvin. Maar dan slaat de stemming om. Ze gaan plankgas naar het huis van de vriend. Deze melding vergeet Melvin nooit meer.
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16221,9 +16591,9 @@ In gesprek met Daan Langkamp plaats professor Marc Schuilenburg kritische kantte
 		<title>Echte politieverhalen - 'We dachten dat hij dood was, tot hij ineens ging staan'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/we-dachten-dat-hij-dood-was-tot-hij-ineens-ging-staan/id1751266358?i=1000659565945&amp;uo=4" rel="alternate" />
 		<summary>Agent Britt krijgt een melding van een naakte man in een plas bloed in zijn huis. Ze heeft nog nooit zoveel bloed gezien. En het bizarre is: de man leeft nog. Britt wil hem helpen, maar is er nog een dader in huis? Als Britt ontdekt wat er met de man gebeurd is, kan ze het bijna niet geloven. 
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16235,10 +16605,9 @@ In gesprek met Daan Langkamp plaats professor Marc Schuilenburg kritische kantte
 		<title>Echte politieverhalen - 'Haar ogen zeiden: verraad me niet'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/haar-ogen-zeiden-verraad-me-niet/id1751266358?i=1000659565968&amp;uo=4" rel="alternate" />
 		<summary>Bij de meldkamer komt een melding binnen van een meisje dat zich verstopt heeft in een kledingkast. Ze vreest voor haar gewelddadige vader. Agent Peter en zijn team sluipen haar huis binnen, ze mogen haar niet verraden. Wat doen ze om het meisje in veiligheid te brengen? 
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16371,9 +16740,9 @@ In de podcast legt David uit wat hij met deze analogie precies bedoelt. Inspirer
 		<title>Echte politieverhalen - Trailer</title>
 		<link href="https://podcasts.apple.com/nl/podcast/trailer/id1751266358?i=1000658448502&amp;uo=4" rel="alternate" />
 		<summary>In de 7-delige podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie
- Iedere donderdag een nieuwe aflevering om 16:00 uur</summary>
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie
+Iedere donderdag een nieuwe aflevering om 16:00 uur</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -26446,7 +26815,7 @@ Moderator van het gesprek is Lykle de Vries en ditmaal zit Mark Meinema, co-foun
 	<entry>
 		<title>Klapmok met Thee - #46: Wat weet jij van de HR Transitie?</title>
 		<link href="https://podcasts.apple.com/nl/podcast/46-wat-weet-jij-van-de-hr-transitie/id1566819266?i=1000601376109&amp;uo=4" rel="alternate" />
-		<summary>Er wordt veel over gezegd, maar Deborah en Anne-Marij weten er eigenlijk nog niet veel van: de HR Transitie. Daarom deze keer geen vooroordeel, maar gewoon de vraag: wat weet jij ervan? Ze gaan in gesprek met  Brigadegeneraal Peter van der Tuin, directeur HR bij de Koninklijke Landmacht over een HR dashboard, formatiebudgetten, decentrale bevoegdheden, personeelsextensief werken en flexibele capaciteit in vier schillen.</summary>
+		<summary>Er wordt veel over gezegd, maar Deborah en Anne-Marij weten er eigenlijk nog niet veel van: de HR Transitie. Daarom deze keer geen vooroordeel, maar gewoon de vraag: wat weet jij ervan? Ze gaan in gesprek met Brigadegeneraal Peter van der Tuin, directeur HR bij de Koninklijke Landmacht over een HR dashboard, formatiebudgetten, decentrale bevoegdheden, personeelsextensief werken en flexibele capaciteit in vier schillen.</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -27035,7 +27404,7 @@ We vroegen Margreet Blaisse en Remco van Tooren, rector en conrector van SSR, om
 		<title>Klapmok met Thee - #44: BSB, meer dan mooie mannen</title>
 		<link href="https://podcasts.apple.com/nl/podcast/44-bsb-meer-dan-mooie-mannen/id1566819266?i=1000596854889&amp;uo=4" rel="alternate" />
 		<summary>Terwijl Anne-Marij langzaam de eindstreep van haar uitzending nadert, reist ze met de generaal mee op een tour door het gebied. Daar ziet ze de mannen en vrouwen van de BSB nog eens aan het werk, de Brigade Speciale Beveiligingsopdrachten. In Mali verzorgen zij de persoonsbeveiliging van de commandant.
-Deborah en Anne-Marij gaan in gesprek met Tom. Wat voor mensen zijn geschikt voor de BSB? Wat doet de BSB nog meer? En… zijn het echt alleen maar mooie mannen en vrouwen, of zit er meer achter?</summary>
+ Deborah en Anne-Marij gaan in gesprek met Tom. Wat voor mensen zijn geschikt voor de BSB? Wat doet de BSB nog meer? En… zijn het echt alleen maar mooie mannen en vrouwen, of zit er meer achter?</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -27180,8 +27549,8 @@ Seizoen 2 van deze podcast wordt gesponsord door de Rijksacademie voor Digitalis
 		<title>Klapmok met Thee - #43: Onze leiders gaan niet mee naar 2035</title>
 		<link href="https://podcasts.apple.com/nl/podcast/43-onze-leiders-gaan-niet-mee-naar-2035/id1566819266?i=1000594184667&amp;uo=4" rel="alternate" />
 		<summary>Hoe bezorgen we onze leiders meer zelfreflectie? Past dat wel bij Defensie met alle haantjes, baasjes en egos? En hoe kijken de huidige senior leaders terug op de fouten van hun loopbaan?
-Anne-Marij en Deborah gaan in gesprek met kolonel Bert Stam, die onderzoek deed naar virtuous leadership in relatie tot de VUCA wereld waarin we leven.
-VUCA: Volatility, Uncertainty, Complexity, and Ambiguity</summary>
+ Anne-Marij en Deborah gaan in gesprek met kolonel Bert Stam, die onderzoek deed naar virtuous leadership in relatie tot de VUCA wereld waarin we leven.
+ VUCA: Volatility, Uncertainty, Complexity, and Ambiguity</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -33356,8 +33725,8 @@ Volg Niels op Instagram: @niels_politie en volg ook zeker @Scherpschutters!</sum
 		<title>Klapmok met Thee - 🎄🎅 De Kerstwens - Klapmok met Glühwein</title>
 		<link href="https://podcasts.apple.com/nl/podcast/de-kerstwens-klapmok-met-gl%C3%BChwein/id1566819266?i=1000582255954&amp;uo=4" rel="alternate" />
 		<summary>De kerst komt eraan, en dan het nieuwe jaar... Iemand heeft Deborah en Anne-Marij aanbevolen geen aflevering rond de kerst te lanceren: "dan luistert er toch niemand". Dus dan maar een gezellige kerstwens.
-
-Fijne feestdagen!</summary>
+ 
+ Fijne feestdagen!</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
@@ -34957,7 +35326,7 @@ Ons laatste wetgevingsadvies; https://www.rechtspraak.nl/SiteCollectionDocuments
 		<title>Klapmok met Thee - #8: Machocultuur Deel 2</title>
 		<link href="https://podcasts.apple.com/nl/podcast/8-machocultuur-deel-2/id1566819266?i=1000582255952&amp;uo=4" rel="alternate" />
 		<summary>In deze tweede aflevering over de machocultuur binnen Defensie gaan Anne-Marij en Deborah in gesprek met vice-admiraal Boudewijn Boots, de Plaatsvervangend Commandant der Strijdkrachten (PCDS). Wat is volgens hem die machocultuur? En hoe ga je die te lijf?
-“Kijk even om je heen, er is geen vrouwelijke Commandant der Strijdkrachten, geen vrouwelijke PCDS. Maar het gaat veel verder dan alleen mannen en vrouwen. Het gaat ook over anders-denkenden, anders-levenden.”</summary>
+ “Kijk even om je heen, er is geen vrouwelijke Commandant der Strijdkrachten, geen vrouwelijke PCDS. Maar het gaat veel verder dan alleen mannen en vrouwen. Het gaat ook over anders-denkenden, anders-levenden.”</summary>
 		<author>
 			<name>Koninklijke Landmacht</name>
 		</author>
