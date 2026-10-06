@@ -3,11 +3,41 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-06T12:54:24Z</updated>
+	<updated>2026-10-06T20:01:18Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Dossier WODC - Mediation: beter dan een rechtszaak?</title>
+		<link href="https://podcasts.apple.com/nl/podcast/mediation-beter-dan-een-rechtszaak/id1724937331?i=1000793330546&amp;uo=4" rel="alternate" />
+		<summary>Ga je scheiden of heb je een ruzie met de buren? Steeds vaker gaan mensen hiervoor in mediation. Bij mediation proberen mensen of bedrijven die een conflict hebben er samen met de andere partij uit te komen. Ze doen dat met begeleiding van een onafhankelijke derde, de mediator.
+In de podcast van vandaag gaat host Petra Merckx in gesprek met WODC-onderzoekers Willem-Jan Verhoeven en Vanja Ljujic. Zij hebben samen met Teun Geurts onderzocht hoe het staat met de kwaliteit van mediation in Nederland en kunnen je daar alles over vertellen.
+Meer weten over dit onderzoek? Lees hier het volledige rapport.
+Voor meer onderzoek naar mediation, en andere onderwerpen binnen de rechtsstaat, ga naar ⁠www.wodc.nl
+Opname en montage gedaan in eigen beheer WODC.</summary>
+		<author>
+			<name>WODC</name>
+		</author>
+		<link href="https://anchor.fm/s/e9f55368/podcast/play/126418473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-28%2Fb7ee12d9-9305-e4f8-ff7a-ff324627fa56.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000793330546</id>
+		<updated>2026-10-05T22:05:00Z</updated>
+	</entry>
+	<entry>
+		<title>Wie Wat Bewaart - Het Elisabeth Samsonhuis</title>
+		<link href="https://podcasts.apple.com/nl/podcast/het-elisabeth-samsonhuis/id1621472951?i=1000793466005&amp;uo=4" rel="alternate" />
+		<summary>Deze aflevering is de eerste in een drieluik over grensverleggende bruikleen van de RCE. Samen met Cynthia Mc Leod, conservator Nathalie en meubelrestaurator Stephan lopen podcastmakers Corinne &amp; Joost door het depot van de RCE en wanen we ons in het Elisabeth Samsonhuis in Paramaribo, Suriname.
+ Elisabeth Samson (1715–1771) was een vrije, rijke Surinaamse vrouw van Afrikaanse afkomst. Ze werd een succesvolle ondernemer met plantages en huizen, en zette een juridisch precedent toen ze vocht voor haar recht om met een witte man te trouwen. Ze geldt als een symbool van onafhankelijkheid in de koloniale samenleving.
+ Cynthia Mc Leod (1936) is een Surinaamse schrijver en historisch onderzoeker, vooral bekend door haar romans over het koloniale Suriname, zoals Hoe duur was de suiker? Met haar werk brengt ze vergeten verhalen en perspectieven uit de Surinaamse geschiedenis tot leven voor een breed publiek.
+ Cynthia Mc Leod, initiatiefneemster van de restauratie van het Elisabeth Samsonhuis, neemt ons in deze aflevering mee door het voor velen onbekende en ongekende verhaal van Elisabeth Samson en haar huis dat nu in ere wordt hersteld.
+ Wie Wat Bewaart is een audioproductie van Horens in samenwerking met de Rijksdienst voor het Cultureel Erfgoed.  Deze aflevering werd gemaakt door: Corinne Heyrman en Joost van Pagée. De eindredactie was van Marieke van de Ven. Floris van Bergeijk is verantwoordelijk voor de muziek, het Sound Design en de mixage. Joeri van Putten maakte het artwork.  Veel dank aan: Cynthia Mc Leod, Nathalie Menke, Stephan de Vries, Jules Emanuelsen en Adinda van Wely</summary>
+		<author>
+			<name>Horens i.s.m. de Rijksdienst voor Cultureel Erfgoed</name>
+		</author>
+		<link href="https://rss.springcast.app/yRYuY6/WNuaOfbLM/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FyRYuY6%2Fitems%2FWNuaOfbLM%2F6ac4fe10832a91.83854526.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000793466005</id>
+		<updated>2026-10-04T06:56:00Z</updated>
+	</entry>
 	<entry>
 		<title>Zorgklank - handvatten voor professionals in de zorg - S2E25 Van plannen naar praktijk: hoe maken we de doorbraak?</title>
 		<link href="https://podcasts.apple.com/nl/podcast/s2e25-van-plannen-naar-praktijk-hoe-maken-we-de-doorbraak/id1780286589?i=1000792858669&amp;uo=4" rel="alternate" />
@@ -855,7 +885,7 @@ Redactie en productie door Marijn van Starkenburg – Adviescollege ICT-toetsing
 		<author>
 			<name>College van Rijksbouwmeester en Rijksadviseurs</name>
 		</author>
-		<link href="https://app.springcast.fm/download/192522/Ag467vt0Qhb6LKO838W0kQjVrJGBxTgW.mp3" type="audio/mpeg" rel="enclosure" />
+		<link href="https://app.springcast.fm/download/192522/7DHspDtqVhZGAZuRJSnmEznUPI0TMsW2.mp3" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000774954148</id>
 		<updated>2026-07-01T05:00:00Z</updated>
 	</entry>
