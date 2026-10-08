@@ -3,7 +3,7 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-08T12:57:21Z</updated>
+	<updated>2026-10-08T20:32:45Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
@@ -22,6 +22,29 @@ Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijk
 		<link href="https://rss.springcast.app/ykWuaV/NPu3JSp80/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FykWuaV%2Fitems%2FNPu3JSp80%2F6ab39dde9d7f93.18580588.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
 		<id>https://rijkspodcast.koenvh.nl/appleid/1000793807303</id>
 		<updated>2026-10-08T05:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>De Wettenfabriek - Eenvoudiger voor wie? Over de lusten en lasten van regels</title>
+		<link href="https://podcasts.apple.com/nl/podcast/eenvoudiger-voor-wie-over-de-lusten-en-lasten-van-regels/id1608202332?i=1000793733686&amp;uo=4" rel="alternate" />
+		<summary>Wie een huis wil bouwen, krijgt te maken met regels over natuur, energie, veiligheid en nog veel meer. Achter elke regel zit een goede reden en een eigen fanclub. Maar wie houdt de optelsom in de gaten? En als we vereenvoudigen: eenvoudiger voor wie? Aan het woord: John Morijn (Adviescollege toetsing regeldruk), Arno Visser (Bouwend Nederland) en Friso de Zeeuw (adviesgroep STOER).
+Een uitgeschreven versie van de aflevering is op www.wettenfabriek.nl te vinden.
+Overzicht fragmenten:
+0:00 Nieuwsuur, 23 augustus 2025
+2:11 Tweede Kamer der Staten-Generaal, 28 mei 2026
+2:17 Tweede Kamer der Staten-Generaal, 20 september 2023
+2:32 Tweede Kamer der Staten-Generaal, 28 mei 2026
+4:53 NOS, 16 oktober 2025
+8:02 Even tot hier, BNNVARA, 2022
+11:32 KVP-verkiezingsfilm, Beeld &amp; Geluid, 1967
+13:03 VVD-filmpje, 14 februari 2026
+13:17 Tweede Kamer der Staten-Generaal, 3 februari 2026
+17:07 Tweede Kamer der Staten-Generaal, 28 mei 2026</summary>
+		<author>
+			<name>Ministerie van Justitie en Veiligheid</name>
+		</author>
+		<link href="https://cdn.simplecast.com/media/audio/transcoded/a8fcbddf-cd9b-42c2-978b-f88c26450980/1b7fc897-945f-4c49-8adc-ab213cef6463/episodes/audio/group/6ba50ed8-8a59-4e7d-9329-c3db2dab764f/group-item/7157e88b-b136-456b-90b9-f3cd7a5a3c07/128_default_tc.mp3?aid=rss_feed&amp;feed=lravBCSq" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000793733686</id>
+		<updated>2026-10-07T22:00:00Z</updated>
 	</entry>
 	<entry>
 		<title>Podcast #ONDERMIJNING - #48- Jan Janse over Zeehavenpolitie Deel 1</title>
