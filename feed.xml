@@ -3,11 +3,24 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-09T20:01:51Z</updated>
+	<updated>2026-10-10T12:02:12Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Militaire Geschiedenis van Nederland - Frits Snapper: De man die niet wilde afwachten</title>
+		<link href="https://podcasts.apple.com/nl/podcast/frits-snapper-de-man-die-niet-wilde-afwachten/id1726796069?i=1000794550303&amp;uo=4" rel="alternate" />
+		<summary>Dit is het verhaal van Frits Snapper. Een Nederlandse officier die ontsnapt. Een man die door besneeuwde bergen trekt op zoek naar partizanen. Een buitenstaander die eerst wordt aangezien voor een spion. En uiteindelijk een belangrijke schakel wordt tussen Italiaanse verzetsstrijders en de geallieerden. Een verhaal over oorlog. Maar vooral: over de vraag hoeveel risico je durft te nemen voor vrijheid. Met vandaag in aflevering één: de man die niet wilde afwachten in zijn vlucht naar vrijheid.
+Militaire Geschiedenis van Nederland is een productie van het Nederlands Instituut voor Militaire Historie. Deze podcast is gemaakt door Tessa Mulders, Emma Kathmann en Erwin van Loo. 
+Benieuwd naar meer informatie over het militair verleden van Nederland? Kijk ook eens op nimh.nl.</summary>
+		<author>
+			<name>Nederlands Instituut voor Militaire Historie</name>
+		</author>
+		<link href="https://app.springcast.fm/download/195698/M7NqaHVD4kP0NgV7RTxe317RmbHbRyh5.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000794550303</id>
+		<updated>2026-10-09T22:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Echte politieverhalen - Agent Yusuf is als eerste bij een verschrikkelijk verkeersongeluk</title>
 		<link href="https://podcasts.apple.com/nl/podcast/agent-yusuf-is-als-eerste-bij-een-verschrikkelijk-verkeersongeluk/id1751266358?i=1000793807303&amp;uo=4" rel="alternate" />
