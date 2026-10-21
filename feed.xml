@@ -3,11 +3,25 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-20T18:59:29Z</updated>
+	<updated>2026-10-21T11:18:48Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Voeten in de Aarde - #19 Managementmaatregelen voor bedrijfsspecifieke emissienormen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/19-managementmaatregelen-voor-bedrijfsspecifieke-emissienormen/id1785659013?i=1000797376191&amp;uo=4" rel="alternate" />
+		<summary>In ‘Voeten in de aarde’ hoor je over vernieuwingen in de landbouw, waarmee jij je eigen agrarische bedrijf meer toekomstbestendig kunt maken.
+In deze aflevering verdiepen we ons in managementmaatregelen die bijdragen aan bedrijfsspecifieke emissienormen. Om deze innovatie in de praktijk te ervaren, reist Marijke Roskam af naar Maren-Kessel. Daar gaat ze op bezoek bij melkveehouder Maurice van Erp. Hij groeide op op de boerderij van zijn ouders, waar toen honderd koeien liepen. Nu houdt hij er zelf zo’n 150. Maurice past verschillende managementmaatregelen toe om de uitstoot van stikstof en broeikasgassen te verlagen, zoals het sturen op ureumgehaltes. Daarmee is hij in de praktijk al bezig met doelsturing. Hij vertelt hoe hij dit aanpakt en wat het hem oplevert.
+Daarnaast spreekt Marijke met Laurens van Sterkenburg, manager van het programma Bedrijfsgerichte Doelsturing bij het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur. Dit programma richt zich op de invoering van doelsturing op bedrijfsniveau, met als doel de agrarische sector toekomstbestendig te maken. Laurens legt uit welke rol het ministerie hierin speelt en wat dit in de praktijk betekent voor Maurice en andere boeren.
+Wil je meer weten over ureumreducties, doelsturing of andere innovaties in de landbouw? Ga dan naar groeiennaarmorgen.nl.</summary>
+		<author>
+			<name>Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN)</name>
+		</author>
+		<link href="https://media.transistor.fm/4101e5af/9e57d467.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000797376191</id>
+		<updated>2026-10-21T04:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Dienst - 80 jaar dreiging: trailer</title>
 		<link href="https://podcasts.apple.com/nl/podcast/80-jaar-dreiging-trailer/id1548268945?i=1000797093015&amp;uo=4" rel="alternate" />

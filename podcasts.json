@@ -33620,7 +33620,7 @@
         "primaryGenreName": "Ondernemerschap",
         "releaseDate": "2026-10-07T05:00:00Z",
         "trackCensoredName": "Voeten in de Aarde",
-        "trackCount": 19,
+        "trackCount": 20,
         "trackExplicitness": "cleaned",
         "trackId": 1785659013,
         "trackName": "Voeten in de Aarde",
@@ -33891,6 +33891,39 @@
         "trackName": "#18 Continue stalmetingen",
         "trackTimeMillis": 1464000,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/18-continue-stalmetingen/id1785659013?i=1000793594250&uo=4",
+        "wrapperType": "podcastEpisode"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/02/c15002fa-34bb-e5d0-62b1-3be7a62ff510/mza_8181863344117715266.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/02/c15002fa-34bb-e5d0-62b1-3be7a62ff510/mza_8181863344117715266.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/02/c15002fa-34bb-e5d0-62b1-3be7a62ff510/mza_8181863344117715266.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1785659013,
+        "collectionName": "Voeten in de Aarde",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/voeten-in-de-aarde/id1785659013?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In \u2018Voeten in de aarde\u2019 hoor je over vernieuwingen in de landbouw, waarmee jij je eigen agrarische bedrijf meer toekomstbestendig kunt maken.\nIn deze aflevering verdiepen we ons in managementmaatregelen die bijdragen aan bedrijfsspecifieke emissienormen. Om deze innovatie in de praktijk te ervaren, reist Marijke Roskam af naar Maren-Kessel. Daar gaat ze op bezoek bij melkveehouder Maurice van Erp. Hij groeide op op de boerderij van zijn ouders, waar toen honderd koeien liepen. Nu houdt hij er zelf zo\u2019n 150. Maurice past verschillende managementmaatregelen toe om de uitstoot van stikstof en broeikasgassen te verlagen, zoals het sturen op ureumgehaltes. Daarmee is hij in de praktijk al bezig met doelsturing. Hij vertelt hoe hij dit aanpakt en wat het hem oplevert.\nDaarnaast spreekt Marijke met Laurens van Sterkenburg, manager van het programma Bedrijfsgerichte Doelsturing bij het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur. Dit programma richt zich op de invoering van doelsturing op bedrijfsniveau, met als doel de agrarische sector toekomstbestendig te maken. Laurens legt uit welke rol het ministerie hierin speelt en wat dit in de praktijk betekent voor Maurice en andere boeren.\nWil je meer weten over ureumreducties, doelsturing of andere innovaties in de landbouw? Ga dan naar groeiennaarmorgen.nl.",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "94ef3bb0-3a5d-4504-904b-96ac9488b079",
+        "episodeUrl": "https://media.transistor.fm/4101e5af/9e57d467.mp3",
+        "feedUrl": "https://feeds.transistor.fm/voeten-in-de-aarde",
+        "genres": [
+          {
+            "name": "Entrepreneurship",
+            "id": "1493"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://media.transistor.fm/4101e5af/9e57d467.mp3",
+        "releaseDate": "2026-10-21T04:00:00Z",
+        "shortDescription": "In \u2018Voeten in de aarde\u2019 hoor je over vernieuwingen in de landbouw, waarmee jij je eigen agrarische bedrijf meer toekomstbestendig kunt maken.\nIn deze aflevering verdiepen we ons in managementmaatregelen die bijdragen aan bedrijfsspecifieke emissieno",
+        "trackId": 1000797376191,
+        "trackName": "#19 Managementmaatregelen voor bedrijfsspecifieke emissienormen",
+        "trackTimeMillis": 1658000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/19-managementmaatregelen-voor-bedrijfsspecifieke-emissienormen/id1785659013?i=1000797376191&uo=4",
         "wrapperType": "podcastEpisode"
       },
       {
@@ -67497,7 +67530,7 @@
         "episodeFileExtension": "mp3",
         "episodeGuid": "Buzzsprout-9935568",
         "episodeUrl": "https://www.buzzsprout.com/1909083/episodes/9935568-aflevering-4-trots-op-onze-tijd.mp3",
-        "feedUrl": "https://feeds.buzzsprout.com/1909083.rss",
+        "feedUrl": "https://rss.buzzsprout.com/1909083.rss",
         "genres": [
           {
             "name": "True Crime",
