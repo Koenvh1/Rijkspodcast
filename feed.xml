@@ -3,11 +3,25 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-21T19:09:43Z</updated>
+	<updated>2026-10-22T00:28:32Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Wettenfabriek - De prijs van precisie</title>
+		<link href="https://podcasts.apple.com/nl/podcast/de-prijs-van-precisie/id1608202332?i=1000797512120&amp;uo=4" rel="alternate" />
+		<summary>Nederland wil precies weten waar iedere euro terechtkomt. Daarom regelen we belastingen en toeslagen tot op de cent. Maar al die precisie maakt het stelsel zo ingewikkeld dat bijna niemand het nog overziet. Wat is de prijs van precisie, wie betaalt die – en hoe kan het eenvoudiger? Aan het woord: Ditte Hak (CIZ, eerder Dienst Toeslagen), hoogleraar Sigrid Hemels en Bart Snels (Slagvaardige Overheid).
+Een uitgeschreven versie van de aflevering is op https://www.wettenfabriek.nl te vinden.
+Overzicht fragmenten
+Kassa, BNNVARA, 21 oktober 2017 – vanaf het begin en vanaf 1 min 30 sKVP-verkiezingsfilm, Beeld &amp; Geluid, 1967 – vanaf 7 min 55 sBelastingdienst Toeslagen, tv-spot, 2013 – vanaf 11 min 39 sKVP-verkiezingsfilm, Beeld &amp; Geluid, 1967 – vanaf 12 min 22 s</summary>
+		<author>
+			<name>Ministerie van Justitie en Veiligheid</name>
+		</author>
+		<link href="https://cdn.simplecast.com/media/audio/transcoded/a8fcbddf-cd9b-42c2-978b-f88c26450980/1b7fc897-945f-4c49-8adc-ab213cef6463/episodes/audio/group/e31201a5-0120-4ea2-8523-fab0799aeb97/group-item/84065aa1-d944-49a0-a5d4-619d57eb9929/128_default_tc.mp3?aid=rss_feed&amp;feed=lravBCSq" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000797512120</id>
+		<updated>2026-10-21T22:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>SSR Meestervertellers - Episode 87: Lilian Marijnissen - Gelijke toegang tot het recht</title>
 		<link href="https://podcasts.apple.com/nl/podcast/episode-87-lilian-marijnissen-gelijke-toegang-tot-het/id1481318192?i=1000797400933&amp;uo=4" rel="alternate" />
