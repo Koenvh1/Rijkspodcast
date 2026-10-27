@@ -8472,7 +8472,7 @@
         "primaryGenreName": "Non-profit",
         "releaseDate": "2026-10-12T23:11:00Z",
         "trackCensoredName": "De Publieke Ruimte",
-        "trackCount": 77,
+        "trackCount": 78,
         "trackExplicitness": "cleaned",
         "trackId": 1568120402,
         "trackName": "De Publieke Ruimte",
@@ -8480,6 +8480,39 @@
         "trackTimeMillis": 2536,
         "trackViewUrl": "https://podcasts.apple.com/nl/podcast/de-publieke-ruimte/id1568120402?uo=4",
         "wrapperType": "track"
+      },
+      {
+        "artistIds": [],
+        "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/91/7a/5e/917a5eb6-b7fd-4f5d-180a-11944fef800c/mza_5533460574613672735.jpg/160x160bb.jpg",
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/91/7a/5e/917a5eb6-b7fd-4f5d-180a-11944fef800c/mza_5533460574613672735.jpg/60x60bb.jpg",
+        "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/91/7a/5e/917a5eb6-b7fd-4f5d-180a-11944fef800c/mza_5533460574613672735.jpg/600x600bb.jpg",
+        "closedCaptioning": "none",
+        "collectionId": 1568120402,
+        "collectionName": "De Publieke Ruimte",
+        "collectionViewUrl": "https://itunes.apple.com/nl/podcast/de-publieke-ruimte/id1568120402?mt=2&uo=4",
+        "contentAdvisoryRating": "Clean",
+        "country": "NLD",
+        "description": "In deze aflevering van podcast De Publieke Ruimte spreken we over de omkering van de verantwoordingsrelatie tussen beleid en uitvoering. Centraal staat het essay \u2018Zullen we het eens andersom doen?\u2019 dat Wiljan Hendrikx, senior onderzoeker bij de Nederlandse School voor Openbaar Bestuur (NSOB) samen schreef met Mark Van Twist, Jesse Dusseljee, Quirine Ganzeboom en Laura Schr\u00f6er.\n\nEen gesprek over signalen uit de praktijk, de kracht van knelpuntenbrieven en het verschil tussen een losse \u2018fix\u2019 en een structurele \u2018solve\u2019. Ook een gedachte experiment: Wat gebeurt er als beleidsmakers en bestuurders zich moeten verantwoorden aan de uitvoering over de kwaliteit, uitvoerbaarheid en randvoorwaarden van hun beleid? Kunnen we door een omkering van rollen komen tot een eerlijker en meer wederkerig gesprek?\n\nOtto en Martijn voeren hierover een verhitte discussie met Wiljan Hendrikx. Ook horen we reflecties van Agnes Rutgers van het programma Slagvaardige Overheid, Arjan Widlak, directeur van de Kafkabrigade, en Hans Verweij, directeur projecten bij ICTU.\n\n\u00a0",
+        "episodeContentType": "audio",
+        "episodeFileExtension": "mp3",
+        "episodeGuid": "depubliekeruimte.podbean.com/777882c7-1ff6-370b-9df9-37b9e664479f",
+        "episodeUrl": "https://mcdn.podbean.com/mf/web/zbiyut86hii77ctd/07-10-2026_-_DPR_De_Omkering618q0.mp3",
+        "feedUrl": "https://feed.podbean.com/depubliekeruimte/feed.xml",
+        "genres": [
+          {
+            "name": "Non-Profit",
+            "id": "1494"
+          }
+        ],
+        "kind": "podcast-episode",
+        "previewUrl": "https://mcdn.podbean.com/mf/web/zbiyut86hii77ctd/07-10-2026_-_DPR_De_Omkering618q0.mp3",
+        "releaseDate": "2026-10-27T00:11:00Z",
+        "shortDescription": "In deze aflevering van podcast De Publieke Ruimte spreken we over de omkering van de verantwoordingsrelatie tussen beleid en uitvoering. Centraal staat het essay \u2018Zullen we het eens andersom doen?\u2019 dat Wiljan Hendrikx, senior onderzoeker bij de Nede",
+        "trackId": 1000798272877,
+        "trackName": "Omgekeerde Verantwoording",
+        "trackTimeMillis": 2174000,
+        "trackViewUrl": "https://podcasts.apple.com/nl/podcast/omgekeerde-verantwoording/id1568120402?i=1000798272877&uo=4",
+        "wrapperType": "podcastEpisode"
       },
       {
         "artistIds": [],
