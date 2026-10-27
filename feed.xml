@@ -3,43 +3,27 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-27T11:43:28Z</updated>
+	<updated>2026-10-27T19:52:18Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
 	<entry>
-		<title>AMLC podcast - 116. Vermenging van vermogen - wat zegt de rechter?</title>
-		<link href="https://podcasts.apple.com/nl/podcast/116-vermenging-van-vermogen-wat-zegt-de-rechter/id1565172628?i=1000798317598&amp;uo=4" rel="alternate" />
-		<summary>In deze (voorlopig) laatste aflevering van de serie over witwassen en jurisprudentie staat vermenging van vermogen centraal. Wat gebeurt er als crimineel en legaal vermogen zo sterk met elkaar vermengd raken dat ze niet meer te onderscheiden zijn? Hoe beoordeelt de rechter dergelijke situaties, en wat zijn de juridische gevolgen als het gehele vermogen daardoor als gedeeltelijk uit misdrijf afkomstig wordt aangemerkt?
-De wet stelt dat een voorwerp niet volledig uit misdrijf afkomstig hoeft te zijn om onder de witwasbepalingen te vallen. Maar hoe pas je dit toe als vermogen zo vermengd is dat de herkomst niet meer te traceren is? Wat betekent dit voor betalingen die uit dit vermogen worden gedaan?
-Deze aflevering sluit de driedelige serie af, waarin jurisprudentie over verhullen en verbergen, criminele erfenissen en vermenging is besproken. Meer weten? Bezoek de website van het AMLC, volg het AMLC op LinkedIn. en abonneer je op de podcast in je favoriete app om op de hoogte te blijven.
-Vermenging
-https://www.amlc.nl/witwassen-en-belastingfraude-in-internationale-structuren/</summary>
-		<author>
-			<name>AMLC/FIOD</name>
-		</author>
-		<link href="https://anchor.fm/s/56d70950/podcast/play/125726715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2F68faf311-cb38-2332-6465-cd8114ce5c20.mp3" type="audio/mpeg" rel="enclosure" />
-		<id>https://rijkspodcast.koenvh.nl/appleid/1000798317598</id>
-		<updated>2026-10-27T08:03:00Z</updated>
-	</entry>
-	<entry>
-		<title>Traag &amp; Van Mulligen | De podcast van het CBS - Word je ooit een KWARTJE als je voor een DUBBELTJE geboren bent?</title>
-		<link href="https://podcasts.apple.com/nl/podcast/word-je-ooit-een-kwartje-als-je-voor-een-dubbeltje/id6812207088?i=1000798304432&amp;uo=4" rel="alternate" />
-		<summary>S1E4: Word je ooit een KWARTJE als je voor een DUBBELTJE geboren bent?
-Nederland is een egalitair land.
-Tenminste, dat geloven we graag. Toch zijn er behoorlijke verschillen tussen bevolkingsgroepen en heeft niet iedereen dezelfde kansen. Mensen die tijdens hun jeugd opgroeiden in een bijstandsgezin hebben zelf ook vaker een uitkering en minder vaak werk dan mensen van wie de ouders nooit in de bijstand zaten.
-Hoe werkt dat precies? We praten erover met Ineke Maas, hoogleraar sociologie aan de Universiteit Utrecht.
+		<title>De Publieke Ruimte - Omgekeerde Verantwoording</title>
+		<link href="https://podcasts.apple.com/nl/podcast/omgekeerde-verantwoording/id1568120402?i=1000798272877&amp;uo=4" rel="alternate" />
+		<summary>In deze aflevering van podcast De Publieke Ruimte spreken we over de omkering van de verantwoordingsrelatie tussen beleid en uitvoering. Centraal staat het essay ‘Zullen we het eens andersom doen?’ dat Wiljan Hendrikx, senior onderzoeker bij de Nederlandse School voor Openbaar Bestuur (NSOB) samen schreef met Mark Van Twist, Jesse Dusseljee, Quirine Ganzeboom en Laura Schröer.
 
-Genoemde cijfers &amp; bronnen:
-CBS-artikel: Jongeren die deels opgroeiden in een huishouden met bijstand hebben minder vaak werk | CBS
-Onderzoek Ineke Maas et al.: Intergenerationele overdracht van uitkeringsontvangst: Waarom de appel niet ver van de boom valt</summary>
+Een gesprek over signalen uit de praktijk, de kracht van knelpuntenbrieven en het verschil tussen een losse ‘fix’ en een structurele ‘solve’. Ook een gedachte experiment: Wat gebeurt er als beleidsmakers en bestuurders zich moeten verantwoorden aan de uitvoering over de kwaliteit, uitvoerbaarheid en randvoorwaarden van hun beleid? Kunnen we door een omkering van rollen komen tot een eerlijker en meer wederkerig gesprek?
+
+Otto en Martijn voeren hierover een verhitte discussie met Wiljan Hendrikx. Ook horen we reflecties van Agnes Rutgers van het programma Slagvaardige Overheid, Arjan Widlak, directeur van de Kafkabrigade, en Hans Verweij, directeur projecten bij ICTU.
+
+ </summary>
 		<author>
-			<name>Centraal Bureau voor de Statistiek (CBS)</name>
+			<name>De Publieke Ruimte</name>
 		</author>
-		<link href="https://content.rss.com/episodes/402267/3266179/traag-van-mulligen/2026_10_26_15_03_29_8a385e8f-401b-42bf-8eab-507e8d23baef.mp3" type="audio/mpeg" rel="enclosure" />
-		<id>https://rijkspodcast.koenvh.nl/appleid/1000798304432</id>
-		<updated>2026-10-27T06:00:00Z</updated>
+		<link href="https://mcdn.podbean.com/mf/web/zbiyut86hii77ctd/07-10-2026_-_DPR_De_Omkering618q0.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000798272877</id>
+		<updated>2026-10-27T00:11:00Z</updated>
 	</entry>
 	<entry>
 		<title>Fiscaal Wijzer - Toeslagen</title>
