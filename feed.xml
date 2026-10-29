@@ -3,11 +3,40 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-29T01:36:51Z</updated>
+	<updated>2026-10-29T12:25:52Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De veranderende rol van een informatieprofessional - Special over de nieuwe Archiefwet – aflevering 5: - Toezicht volgens de Archiefwet 2026</title>
+		<link href="https://podcasts.apple.com/nl/podcast/special-over-de-nieuwe-archiefwet-aflevering-5/id1695522129?i=1000798671100&amp;uo=4" rel="alternate" />
+		<summary>Wat betekent de Archiefwet 2026 voor het toezicht op overheidsinformatie? In deze aflevering gaan we in gesprek met Nicole van Weringh en Miel Jacobs van de Inspectie Overheidsinformatie en Erfgoed. Hoe verloopt een inspectie, wat verandert er met de nieuwe wet en hoe helpt toezicht om informatiehuishouding op de bestuurstafel te krijgen?
+Het gesprek maakt duidelijk waarom overzicht over je informatie de basis is. En waarom je vandaag al kunt beginnen met verbeteren.</summary>
+		<author>
+			<name>Leerhuis Informatiehuishouding</name>
+		</author>
+		<link href="https://cdn.podcastfeed.eu/56b740db-d8c0-4555-9a6a-cd617d0fb8a1/52e7cfc4-7de4-42d9-929b-70b0a9969c51.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000798671100</id>
+		<updated>2026-10-29T08:36:00Z</updated>
+	</entry>
+	<entry>
+		<title>Echte politieverhalen - Man dreigt huis op te blazen met zijn vrouw en baby</title>
+		<link href="https://podcasts.apple.com/nl/podcast/man-dreigt-huis-op-te-blazen-met-zijn-vrouw-en-baby/id1751266358?i=1000798653870&amp;uo=4" rel="alternate" />
+		<summary>Agent Gregory krijgt een melding van een vrouw met een jonge baby. Ze is volledig in paniek. De meldkamer hoort op de achtergrond geschreeuw en dat er dingen kapotgaan. Gregory bereidt zich voor op het ergste 
+ 
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
+ 
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie 
+ </summary>
+		<author>
+			<name>Politie Nederland</name>
+		</author>
+		<link href="https://rss.springcast.app/ykWuaV/KXuLxUdBr/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FykWuaV%2Fitems%2FKXuLxUdBr%2F6ae1b4dd3d7ec7.57370140.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000798653870</id>
+		<updated>2026-10-29T06:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Wettenfabriek - Terug naar de tekentafel</title>
 		<link href="https://podcasts.apple.com/nl/podcast/terug-naar-de-tekentafel/id1608202332?i=1000798606996&amp;uo=4" rel="alternate" />
@@ -174,12 +203,12 @@ https://studio.recaphub.co/share/0b73afc1-e90c-4fd4-9972-f83844e1e20e/3158de9a-6
 		<title>Echte politieverhalen - Demonstratie loopt volledig uit de hand</title>
 		<link href="https://podcasts.apple.com/nl/podcast/demonstratie-loopt-volledig-uit-de-hand/id1751266358?i=1000797560180&amp;uo=4" rel="alternate" />
 		<summary>Verf, eieren en stenen vliegen over haar hoofd. Agent Sharon staat middenin een uit de hand gelopen demonstratie. Dan wordt er een fles naar haar gegooid. Haar ogen beginnen te branden en al gauw ziet ze bijna niks meer... 
-  
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
-  
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie 
-  </summary>
+ 
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
+ 
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie 
+ </summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -293,11 +322,11 @@ In de vierde aflevering van ‘80 jaar dreiging’ vertellen Alwin en Tamara ove
 		<title>Echte politieverhalen - Crimineel netwerk opgerolt in vakantiehuisje</title>
 		<link href="https://podcasts.apple.com/nl/podcast/crimineel-netwerk-opgerolt-in-vakantiehuisje/id1751266358?i=1000796433033&amp;uo=4" rel="alternate" />
 		<summary>Twee zussen lijken achter een grote oplichtingstruc te zitten. Rechercheur Leonie spoort ze op. Ze plant een gewapende inval in het vakantiehuisje waar de zussen stiekem werken. Als de deur opengaat weet ze niet wat ze ziet. 
-  
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
-  
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie </summary>
+ 
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
+ 
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie </summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -581,11 +610,11 @@ https://onderzoeksraad.nl/onderzoek/fataal-ongeval-met-militair/</summary>
 		<title>Echte politieverhalen - Vliegtuig crasht in een grote woonflat in de Bijlmer.</title>
 		<link href="https://podcasts.apple.com/nl/podcast/vliegtuig-crasht-in-een-grote-woonflat-in-de-bijlmer/id1751266358?i=1000792510772&amp;uo=4" rel="alternate" />
 		<summary>Een vliegtuig crasht middenin een enorme woonflat. Agent Hans is een van de eersten die op de rokende puinhoop van de Bijlmerramp staat. Wat hij hier ziet zal hij nooit vergeten.   
-  
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
-  
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie </summary>
+ 
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven? 
+ 
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op TikTok: @politie </summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1468,12 +1497,9 @@ In deze aflevering gaat Sebo in gesprek met Romee en Boyke van het ministerie va
 		<title>Echte politieverhalen - ‘Ik moet zorgen dat ik niet opval’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-moet-zorgen-dat-ik-niet-opval/id1751266358?i=1000774143281&amp;uo=4" rel="alternate" />
 		<summary>Onderweg naar het bureau komt Mike erachter dat hij in de trein zit met een overvaller. De man heeft veel geld in zijn zakken en is zenuwachtig. Gaan Mike en zijn collega’s op tijd zijn voordat de overvaller uit de trein stapt?  
-
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
-
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1597,9 +1623,9 @@ Luister en leer hoe jij witwasconstructies in de lease-sector kunt herkennen!</s
 		<title>Echte politieverhalen - ‘Er lag ineens overal bloed, ik schrok me kapot’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/er-lag-ineens-overal-bloed-ik-schrok-me-kapot/id1751266358?i=1000773068512&amp;uo=4" rel="alternate" />
 		<summary>Na een vechtpartij bij een café houdt Tuncay een man aan die dronken in een auto ervandaan lijkt te komen. Als de man mee moet voor verhoor, heeft hij in de cel moeite met opstaan. “Die is wel heel dronken”, denkt Tuncay. Maar dan blijkt er iets anders aan de hand.  
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.  
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?   
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.  </summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1649,10 +1675,16 @@ Luister en leer hoe jij witwasconstructies in de lease-sector kunt herkennen!</s
 	<entry>
 		<title>Echte politieverhalen - ‘Hij schreeuwde en pakte een mes uit de keuken’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-schreeuwde-en-pakte-een-mes-uit-de-keuken/id1751266358?i=1000772155030&amp;uo=4" rel="alternate" />
-		<summary>Een man met verward gedrag schreeuwt thuis al uren en zwaait met een keukenmes. Agent Melvin sluipt zijn woning binnen om hem te kalmeren. Buiten houden Melvin's collega's de man in de gaten. Dan zijn ze hem ineens kwijt. Melvin staat binnen, maar waar is de man met het mes?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>Een man met verward gedrag schreeuwt thuis al uren en zwaait met een keukenmes. Agent Melvin sluipt zijn woning binnen om hem te kalmeren. Buiten houden Melvin's collega's de man in de gaten. Dan zijn ze hem ineens kwijt.  Melvin staat binnen, maar waar is de man met het mes?
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1736,10 +1768,19 @@ Hoofdstukmarkeringen :
 	<entry>
 		<title>Echte politieverhalen - ‘Ik hoorde geschreeuw uit de ontspoorde trein’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-hoorde-geschreeuw-uit-de-ontspoorde-trein/id1751266358?i=1000771109523&amp;uo=4" rel="alternate" />
-		<summary>Als Floor deze melding via de portofoon hoort, weet ze meteen dat het foute boel is. Samen met haar collega’s is zij als eerste ter plaatse bij een enorm treinongeluk. Het is donker en ze hoort geschreeuw uit de trein komen. Hoe gaat ze iedereen zo snel mogelijk eruit krijgen?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>Als Floor deze melding via de portofoon hoort, weet ze meteen dat het foute boel is. Samen met haar collega’s is zij als eerste ter plaatse bij een enorm treinongeluk. Het is donker en ze hoort geschreeuw uit de trein komen. Hoe gaat ze iedereen zo snel mogelijk eruit krijgen?  
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -1909,9 +1950,18 @@ In deze aflevering gaat het Leerhuis in gesprek met Amber Blewanus en Nathalie d
 		<title>Echte politieverhalen - ‘Ik gaf een overvaller een lift’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-gaf-een-overvaller-een-lift/id1751266358?i=1000769946912&amp;uo=4" rel="alternate" />
 		<summary>Barry ziet midden in de nacht een man met een koffertje over de weg lopen. Het regent en zijn bestemming is nog ver weg. Hij besluit de man een lift te geven. Niet veel later vragen mensen Barry om hulp. Ze zijn beroofd door een man met een koffer. Dan komt bij Barry het besef…
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+
+  
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2266,9 +2316,18 @@ Interessante inzichten over de wendbaarheid van organisaties, de mogelijkheid om
 		<title>Echte politieverhalen - ‘Dit was zo bizar, ik word er nog steeds stil van’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/dit-was-zo-bizar-ik-word-er-nog-steeds-stil-van/id1751266358?i=1000763194099&amp;uo=4" rel="alternate" />
 		<summary>Tuncay ziet vanuit de politiewagen een jongen druk naar hem zwaaien. Als hij aankomt ziet hij de vader van de jongen lijkbleek in een auto liggen. Tuncay begint direct met reanimeren. Samen met zijn collega gaat hij door totdat de ambulance arriveert. Zijn enige gedachte: hopelijk overleeft de man het.
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2384,9 +2443,18 @@ Deze podcast wordt mede mogelijk gemaakt door het ministerie van Binnenlandse Za
 		<title>Echte politieverhalen - ‘Hij raakt een verkeerspaal vol in de zijkant’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-raakt-een-verkeerspaal-vol-in-de-zijkant/id1751266358?i=1000761736273&amp;uo=4" rel="alternate" />
 		<summary>Melvin staat tijdens zijn nachtdienst te posten in de wijk als hij via de porto hoort dat collega’s een achtervolging starten. Hij hoort dat ze zijn kant op komen. Dan staat Melvin voor een keuze: zet hij zijn auto ervoor?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2468,10 +2536,19 @@ De Innovatieambtenaar is de podcast van Novum, het innovatieteam van SVB. We nem
 	<entry>
 		<title>Echte politieverhalen - ‘Ik dacht dat ze dood was’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-dacht-dat-ze-dood-was/id1751266358?i=1000760400475&amp;uo=4" rel="alternate" />
-		<summary>Fietje gaat naar een adres waar een buurvrouw al een tijdje niet meer is gezien. Ze doet de brievenbus open en herkent meteen de geur van een overleden persoon. De buren openen de deur en dan blijkt al snel: niet alles is zoals het soms lijkt.
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>Fietje gaat naar een adres waar een buurvrouw al een tijdje niet meer is gezien. Ze doet de brievenbus open en herkent meteen de geur van een overleden persoon. De buren openen de deur en dan blijkt al snel: niet alles is zoals het soms lijkt. 
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2494,11 +2571,23 @@ Daarbij bespreken ze de consequenties van het korter opleiden in het trainingsve
 	<entry>
 		<title>Echte politieverhalen - ‘Hij had een blik die ik nooit meer zal vergeten’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-had-een-blik-die-ik-nooit-meer-zal-vergeten/id1751266358?i=1000758782785&amp;uo=4" rel="alternate" />
-		<summary>David krijgt een melding van een jongen die op grote hoogte staat. Vanaf de grond probeert hij contact met hem te maken, maar dat gaat moeilijk. Dan ziet David dat de jongen een stap achteruit doet en niet meer op de rand staat. Wat is nu het juiste om te zeggen?
- Denk je aan zelfdoding? Neem dan 24/7 gratis en anoniem contact op met 0800-0113 of chat op 113.nl
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
+		<summary>David krijgt een melding van een jongen die op grote hoogte staat. Vanaf de grond probeert hij contact met hem te maken, maar dat gaat moeilijk. Dan ziet David dat de jongen een stap achteruit doet en niet meer op de rand staat. Wat is nu het juiste om te zeggen?   
+
+
+
+Denk je aan zelfdoding? Neem dan 24/7 gratis en anoniem contact op met 0800-0113 of chat op 113.nl
+
+
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2615,10 +2704,19 @@ Bekijk de video van de achtervolging met Nick hier: https://www.youtube.com/watc
 	<entry>
 		<title>Echte politieverhalen - ‘Ze had geen idee dat ze zwanger was’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ze-had-geen-idee-dat-ze-zwanger-was/id1751266358?i=1000757433264&amp;uo=4" rel="alternate" />
-		<summary>Barry gaat met spoed naar een bevalling waarbij het niet goed gaat met de baby en de moeder. Hij komt binnen en overal ligt bloed. Dan krijgt hij te horen dat de moeder geen idee had dat ze zwanger was.
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal: @politie</summary>
+		<summary>Barry gaat met spoed naar een bevalling waarbij het niet goed gaat met de baby en de moeder. Hij komt binnen en overal ligt bloed. Dan krijgt hij te horen dat de moeder geen idee had dat ze zwanger was. 
+
+ 
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie en op ons TikTok kanaal: @politie</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -2700,12 +2798,21 @@ Deze podcast wordt mede mogelijk gemaakt door het ministerie van Binnenlandse Za
 		<title>Echte politieverhalen - 'Ze werd met haar gezicht onder water gehouden’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ze-werd-met-haar-gezicht-onder-water-gehouden/id1751266358?i=1000756090982&amp;uo=4" rel="alternate" />
 		<summary>LET OP : Deze podcast bevat expliciete inhoud over mensenhandel. Sommige luisteraars kunnen dit als heftig ervaren.
- Cher probeert een jonge vrouw te helpen die gedwongen in de prostitutie zit. Ze geeft niet toe dat ze misbruikt wordt, maar heeft ernstige verwondingen. Cher laat het er niet bij zitten en blijft terugkomen. Ze krijgt steeds mee informatie. Lukt het haar de vrouw hieruit te krijgen?
- In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie.
- Copyright: Politie Nederland
- Productie: Politie Nederland</summary>
+Cher probeert een jonge vrouw te helpen die gedwongen in de prostitutie zit. Ze geeft niet toe dat ze misbruikt wordt, maar heeft ernstige verwondingen. Cher laat het er niet bij zitten en blijft terugkomen. Ze krijgt steeds mee informatie. Lukt het haar de vrouw hieruit te krijgen?  
+
+  
+
+In de podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee. 
+
+ 
+
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?  
+
+ 
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie.
+Copyright: Politie Nederland
+Productie: Politie Nederland</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5234,9 +5341,18 @@ Werk je bij Defensie: vragen over het congres kun je stellen door een mail te st
 		<title>Echte politieverhalen - 'Slangen vangen'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/slangen-vangen/id1751266358?i=1000728338662&amp;uo=4" rel="alternate" />
 		<summary>Als een vrouw een slang in haar woning ziet, gaat wijkagent Peter er naartoe. Niemand weet of het beest giftig is. En hoe groot is het ding eigenlijk? Dat wordt al gauw duidelijk...
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5337,10 +5453,19 @@ Ook de politiek in Nederland is op zoek naar een betere balans tussen beleid en 
 	<entry>
 		<title>Echte politieverhalen - 'Wel of niet schieten?'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/wel-of-niet-schieten/id1751266358?i=1000726012384&amp;uo=4" rel="alternate" />
-		<summary>Een man met verward gedrag en een mes komt op Frans en zijn collega af. Ze proberen van alles om hem stoppen. Maar de man lijkt helemaal niks te voelen. Hoe kunnen ze hem tegenhouden?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Een man met verward gedrag en een mes komt op Frans en zijn collega af. Ze proberen van alles om hem stoppen. Maar de man lijkt helemaal niks te voelen. Hoe kunnen ze hem tegenhouden? 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5454,9 +5579,18 @@ Opname en montage gedaan in eigen beheer WODC.</summary>
 		<title>Echte politieverhalen - ‘Hij bleef maar tikken’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-bleef-maar-tikken/id1751266358?i=1000723832820&amp;uo=4" rel="alternate" />
 		<summary>Een man steekt op klaarlichte dag drie mensen neer die hij niet kent. Ze zijn zwaargewond. David gaat achter de dader aan. Als hij zijn wapen trekt vraagt hij zich af: kom ik nog wel thuis vanavond?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5497,9 +5631,18 @@ Volgende aflevering: Fase 2 - Begrijpen.</summary>
 		<title>Echte politieverhalen - 'Ik zag de vlammen uit het wapen komen’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-zag-de-vlammen-uit-het-wapen-komen/id1751266358?i=1000721902421&amp;uo=4" rel="alternate" />
 		<summary>Jan Willem sprint achter een inbreker aan die hij op heterdaad betrapt. Een gezin hoorde vanuit hun bed de insluiper. ‘De vader stond al met een mes klaar bovenaan de trap om zijn gezin te beschermen.’
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5710,10 +5853,19 @@ Logo: Aron Vellekoop León</summary>
 	<entry>
 		<title>Echte politieverhalen - ‘Ik zag heel, heel veel bloed’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-zag-heel-heel-veel-bloed/id1751266358?i=1000719950227&amp;uo=4" rel="alternate" />
-		<summary>Rechercheur Iris gaat naar een melding waar een man van het balkon is gevallen. Is er sprake van een ongeluk, of was het moord? Ze gaat op onderzoek uit.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Rechercheur Iris gaat naar een melding waar een man van het balkon is gevallen. Is er sprake van een ongeluk, of was het moord? Ze gaat op onderzoek uit. 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -5902,9 +6054,17 @@ Redactie en productie door Judith Wouters – Adviescollege ICT-toetsingMuziekco
 		<title>Echte politieverhalen - 'Hij was heel bang en lag te klappertanden'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-was-heel-bang-en-lag-te-klappertanden/id1751266358?i=1000717625107&amp;uo=4" rel="alternate" />
 		<summary>Als een straatrover met gestolen tasjes op de vlucht gaat, sprint Peter er met zijn collega achteraan. De dief loopt zichzelf in de val op een verlaten terrein met oude gebouwen. Maar hij laat zich niet zomaar vangen.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie of op ons TikTok kanaal @politie.
- Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het youtube kanaal van de politie: youtube.com/@politie of op ons TikTok kanaal @politie.
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 07.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -6057,10 +6217,19 @@ We schetsen een profiel voor publieke leiders in de uitvoering en bespreken zake
 	<entry>
 		<title>Echte politieverhalen - 'Elke seconde telt: Agent Cindy haalt mensen uit auto te water'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/elke-seconde-telt-agent-cindy-haalt-mensen-uit-auto-te-water/id1751266358?i=1000715595988&amp;uo=4" rel="alternate" />
-		<summary>Een auto belandt op z’n kop in een sloot en twee mensen zitten erin vast. Cindy en haar collega springen meteen in het water en proberen met een hamer de autoramen in te slaan.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Een auto belandt op z’n kop in een sloot en twee mensen zitten erin vast. Cindy en haar collega springen meteen in het water en proberen met een hamer de autoramen in te slaan. 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het  Youtube kanaal van de politie: youtube.com/@politie
+
+
+
+Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur
+
+
+
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -6283,10 +6452,14 @@ Met niemand minder dan de commandant van de Landmacht, de luitenant-generaal Jan
 	<entry>
 		<title>Echte politieverhalen - ‘Als ik de autodeur opendoe, zie ik het ineens..’</title>
 		<link href="https://podcasts.apple.com/nl/podcast/als-ik-de-autodeur-opendoe-zie-ik-het-ineens/id1751266358?i=1000713588499&amp;uo=4" rel="alternate" />
-		<summary>Als agent Frans naar een grote vechtpartij gaat, wil hij zijn politiehond Noppes meenemen. Een grote groep mannen gaat met elkaar op de vuist, ze hebben zelfs honkbalknuppels bij zich. Dan beseft Frans dat hij iets heel belangrijks is vergeten...
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube kanaal van de politie: youtube.com/@politie
- Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur.
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
+		<summary>Als agent Frans naar een grote vechtpartij gaat, wil hij zijn politiehond Noppes meenemen. Een grote groep mannen gaat met elkaar op de vuist, ze hebben zelfs honkbalknuppels bij zich. Dan beseft Frans dat hij iets heel belangrijks is vergeten... 
+
+
+
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube kanaal van de politie: youtube.com/@politie
+
+Elke donderdag om de twee weken een nieuwe aflevering om 15.00 uur.
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzonder en mooie dingen mee. In de serie Echte politieverhalen vertellen agenten over een melding die ze nooit zullen vergeten.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -15503,9 +15676,9 @@ Dit en meer in deze aflevering van Podium voor Goed Politiewerk. Volg ons nu voo
 		<title>Echte politieverhalen - 'Ik dacht: hij gooit haar overboord'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-dacht-hij-gooit-haar-overboord/id1751266358?i=1000663256673&amp;uo=4" rel="alternate" />
 		<summary>112-centralist Romy krijgt een jonge vrouw aan de telefoon die wordt vastgehouden op een boot. Op de achtergrond schreeuwt haar bedreiger hard: ‘Ik gooi je overboord!’ Romy voelt zich verantwoordelijk voor haar en hangt niet op.
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -15563,9 +15736,9 @@ Gaandeweg het gesprek wordt steeds duidelijker dat een analyse van beschikbare d
 		<title>Echte politieverhalen - 'Ik schoot bijna, toen hoorde ik een kinderstem'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ik-schoot-bijna-toen-hoorde-ik-een-kinderstem/id1751266358?i=1000662566870&amp;uo=4" rel="alternate" />
 		<summary>Agent Hicham wordt beschoten op een vakantiepark terwijl hij een man probeert te helpen. Als hij terug wil schieten, hoort hij ineens kinderstemmen. Hicham haalt snel zijn vinger van zijn trekker. Wat nu? 
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -15719,10 +15892,9 @@ Logo: Aron Vellekoop León</summary>
 		<title>Echte politieverhalen - ‘Waar is de schutter?!'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/waar-is-de-schutter/id1751266358?i=1000661839638&amp;uo=4" rel="alternate" />
 		<summary>Een man wordt door zijn hoofd geschoten op een groot illegaal feest. Agent Wesley en zijn collega’s zijn als eerste bij het slachtoffer. De schutter kan dan nog steeds in de buurt zijn…
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16270,9 +16442,9 @@ Het loont voor opspoorders (en iedereen mag natuurlijk mee luisteren) om te begr
 		<title>Echte politieverhalen - 'We doken de vechtpartij in'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/we-doken-de-vechtpartij-in/id1751266358?i=1000661082124&amp;uo=4" rel="alternate" />
 		<summary>Als er rellen uitbreken na een voetbalwedstrijd, springen agent Joyce en haar collega in de vechtpartij. Dat hadden ze beter niet kunnen doen. Asbakken, glazen en zelfs picknicktafels vliegen door de lucht. Er is versterking onderweg, maar het loopt al compleet uit de hand. Dan wordt Joyce’ collega geraakt en hij gaat tegen de grond. Hoe komen ze hier weer uit? 
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16436,10 +16608,9 @@ Opnames op locatie verzorgd door NFGD.</summary>
 		<title>Echte politieverhalen - 'Hij appte: ik heb haar vermoord'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/hij-appte-ik-heb-haar-vermoord/id1751266358?i=1000660366626&amp;uo=4" rel="alternate" />
 		<summary>Als Melvin aan het werk is, komt een groep vrienden nerveus lachend het politiebureau binnen. ‘Onze vriend zegt dat hij zijn vrouw heeft vermoord’. Ze hebben een gek appje van hem gekregen. ‘Is dit een grap?’, denkt Melvin. Maar dan slaat de stemming om. Ze gaan plankgas naar het huis van de vriend. Deze melding vergeet Melvin nooit meer.
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16791,9 +16962,9 @@ In gesprek met Daan Langkamp plaats professor Marc Schuilenburg kritische kantte
 		<title>Echte politieverhalen - 'We dachten dat hij dood was, tot hij ineens ging staan'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/we-dachten-dat-hij-dood-was-tot-hij-ineens-ging-staan/id1751266358?i=1000659565945&amp;uo=4" rel="alternate" />
 		<summary>Agent Britt krijgt een melding van een naakte man in een plas bloed in zijn huis. Ze heeft nog nooit zoveel bloed gezien. En het bizarre is: de man leeft nog. Britt wil hem helpen, maar is er nog een dader in huis? Als Britt ontdekt wat er met de man gebeurd is, kan ze het bijna niet geloven. 
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het YouTube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16805,10 +16976,9 @@ In gesprek met Daan Langkamp plaats professor Marc Schuilenburg kritische kantte
 		<title>Echte politieverhalen - 'Haar ogen zeiden: verraad me niet'</title>
 		<link href="https://podcasts.apple.com/nl/podcast/haar-ogen-zeiden-verraad-me-niet/id1751266358?i=1000659565968&amp;uo=4" rel="alternate" />
 		<summary>Bij de meldkamer komt een melding binnen van een meisje dat zich verstopt heeft in een kledingkast. Ze vreest voor haar gewelddadige vader. Agent Peter en zijn team sluipen haar huis binnen, ze mogen haar niet verraden. Wat doen ze om het meisje in veiligheid te brengen? 
-
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
- Iedere donderdag een nieuwe aflevering om 16:00 uur
- Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie 
+Iedere donderdag een nieuwe aflevering om 16:00 uur
+Waar anderen een stap terug doen, zetten politiemensen een stap naar voren. Ze zijn vaak als eerste bij heftige incidenten, maar maken ook bijzondere en mooie dingen mee. In de 7-delige serie Echte Politieverhalen vertellen agenten over een melding die veel indruk maakte.</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
@@ -16941,9 +17111,9 @@ In de podcast legt David uit wat hij met deze analogie precies bedoelt. Inspirer
 		<title>Echte politieverhalen - Trailer</title>
 		<link href="https://podcasts.apple.com/nl/podcast/trailer/id1751266358?i=1000658448502&amp;uo=4" rel="alternate" />
 		<summary>In de 7-delige podcast-serie Echte Politieverhalen vertellen agenten over de melding van hun leven. Waar anderen een stap terug doen, zetten zij een stap naar voren. Ze zijn daardoor vaak als eerste bij heftige incidenten. Maar ze maken ook mooie en bijzondere dingen mee.
- De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
- Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie
- Iedere donderdag een nieuwe aflevering om 16:00 uur</summary>
+De serie geeft een persoonlijke kijk achter de schermen van politiewerk. Want wie is de agent achter het uniform? En hoe beïnvloedt zo’n heftige melding hen misschien wel de rest van hun leven?
+Niet alleen luisteren, maar ook kijken? Deze interviews zijn als video te bekijken via het Youtube-kanaal van de politie: youtube.com/@politie
+Iedere donderdag een nieuwe aflevering om 16:00 uur</summary>
 		<author>
 			<name>Politie Nederland</name>
 		</author>
