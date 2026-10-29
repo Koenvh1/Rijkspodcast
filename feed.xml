@@ -3,11 +3,23 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-10-29T12:25:52Z</updated>
+	<updated>2026-10-29T20:06:20Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>ONE Podcast - Beyond the conference - 2026.02 - Scaling a Cybersecurity Company in Europe: Hadrian’s Perspective | Rogier Fischer | ONE Podcast</title>
+		<link href="https://podcasts.apple.com/nl/podcast/2026-02-scaling-a-cybersecurity-company-in-europe/id1834627264?i=1000798709800&amp;uo=4" rel="alternate" />
+		<summary>How can Europe build a stronger cybersecurity industry while preparing for the risks and opportunities of AI? In this episode, host Laurens Jagt of CyberSecurity District podcast speaks with Rogier Fischer, CEO and co-founder of Hadrian, about scaling cybersecurity companies in Europe and strengthening the continent’s digital sovereignty. Rogier shares his perspective on the changing European business landscape, the challenges that remain for scale-ups and whyEurope needs more cybersecurity companies with the potential to become global leaders. They also explore how AI could reshape cyberattacks, introducing new isks as autonomous systems become more widespread. Discover why Europe needs greater ambition, more successful cybersecurity companies and open conversations about the challenges ahead.
+Rogier Fischer was also part of a panel at the ONE Conference. You can watch the recording of this session in the RecapHub: https://studio.recaphub.co/share/0b73afc1-e90c-4fd4-9972-f83844e1e20e/65ad9d6c-a36a-4293-974c-fe6c530bfbb8</summary>
+		<author>
+			<name>ONE Conference</name>
+		</author>
+		<link href="https://anchor.fm/s/102ffe4e0/podcast/play/127883971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434726022-44100-2-c316098d27b9b.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000798709800</id>
+		<updated>2026-10-29T11:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De veranderende rol van een informatieprofessional - Special over de nieuwe Archiefwet – aflevering 5: - Toezicht volgens de Archiefwet 2026</title>
 		<link href="https://podcasts.apple.com/nl/podcast/special-over-de-nieuwe-archiefwet-aflevering-5/id1695522129?i=1000798671100&amp;uo=4" rel="alternate" />
