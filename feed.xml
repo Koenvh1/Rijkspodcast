@@ -3,11 +3,44 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-11-04T13:54:01Z</updated>
+	<updated>2026-11-05T02:01:39Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Delta en Duiten - Onno Dwars en Barbara Visser</title>
+		<link href="https://podcasts.apple.com/nl/podcast/onno-dwars-en-barbara-visser/id1810408656?i=1000799896840&amp;uo=4" rel="alternate" />
+		<summary>Er zijn plannen genoeg om Nederland klimaatbestendig te maken, maar ze blijven vaak steken in regels en eindeloze procedures. Ondertussen worden problemen als wateroverlast, verzilting en funderingsschade steeds urgenter. Waarom komen we zo moeilijk in beweging? En wie moet het voortouw nemen? In deze aflevering van Delta &amp; Duiten gaat presentator Maarten Bouwhuis daarover in gesprek met twee mensen die dagelijks met deze uitdagingen te maken hebben.
+Onno Dwars, CEO van Ballast Nedam Development en bestuursvoorzitter van de Dutch Green Building Council, vindt dat de bouwsector meer verantwoordelijkheid moet nemen, maar verwacht ook dat de overheid met duidelijke regels de hele sector vooruit helpt. Barbara Visser, CEO van ingenieursbureau Movares en oud-minister van Infrastructuur en Waterstaat, ziet vooral een gebrek aan uitvoeringskracht en de moed om knopen door te hakken. Waarom kijken we zo vaak naar de korte termijn? En hoe zorgen we ervoor dat goede plannen niet op de tekentafel blijven liggen, maar ook echt worden uitgevoerd?
+Delta &amp; Duiten is een podcast van de publieke-private samenwerking NL AAA Klimaatbestendig en wordt mogelijk gemaakt door het Ministerie van Infrastructuur en Waterstaat. Maarten Bouwhuis gaat in gesprek met beleidsmakers, wetenschappers en financiële experts, over klimaatadaptatie en over de fysieke en de financiële gevolgen hiervan.</summary>
+		<author>
+			<name>Bureau Scherpte Diepte</name>
+		</author>
+		<link href="https://media.transistor.fm/d3e1da28/02dbd17c.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000799896840</id>
+		<updated>2026-11-05T00:00:00Z</updated>
+	</entry>
+	<entry>
+		<title>De Wettenfabriek - De machine die het totaal overziet</title>
+		<link href="https://podcasts.apple.com/nl/podcast/de-machine-die-het-totaal-overziet/id1608202332?i=1000799886462&amp;uo=4" rel="alternate" />
+		<summary>‘Niemand heeft het overzicht meer’, zei Bart Snels in aflevering 4. Kan kunstmatige intelligentie dat overzicht wél bieden? In de laatste aflevering van seizoen 3 onderzoeken we hoe AI kan helpen bij het vereenvoudigen van wetten en de uitvoering ervan, bijvoorbeeld bij de behandeling van bezwaren in Amsterdam. En wie beslist er dan: de mens of de machine? Aan het woord: Mirjam van der Sluis (gemeente Amsterdam), hoogleraar Anne Meuwese en staatssecretaris Eric van der Burg.
+Een uitgeschreven versie van de aflevering is op www.wettenfabriek.nl te vinden.
+Wat vond jij van seizoen 3? Laat het ons weten in deze korte enquête.
+Overzicht fragmenten:
+Tweede Kamer der Staten-Generaal, 1 februari 2023 - vanaf 00 min
+Tweede Kamer der Staten-Generaal, 17 december 2024 - vanaf 2 min 58 s
+Tweede Kamer der Staten-Generaal, 16 september 2026 -  vanaf 11 min 59 s
+Tweede Kamer der Staten-Generaal, 16 september 2026 - vanaf 12 min 50 s
+Tweede Kamer der Staten-Generaal, 29 december 2025 - vanaf 13 min 
+Tweede Kamer der Staten-Generaal, 2 juni 2026 - vanaf 15 min 10 s</summary>
+		<author>
+			<name>Ministerie van Justitie en Veiligheid</name>
+		</author>
+		<link href="https://cdn.simplecast.com/media/audio/transcoded/a8fcbddf-cd9b-42c2-978b-f88c26450980/1b7fc897-945f-4c49-8adc-ab213cef6463/episodes/audio/group/3b7eabbb-df1b-48eb-938c-9057b0c99bbf/group-item/5f4d76fd-7cbe-41f7-bc91-6ad6ee978591/128_default_tc.mp3?aid=rss_feed&amp;feed=lravBCSq" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000799886462</id>
+		<updated>2026-11-04T23:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>Dossier WODC - Minder jeugdcriminaliteit na GTAV?</title>
 		<link href="https://podcasts.apple.com/nl/podcast/minder-jeugdcriminaliteit-na-gtav/id1724937331?i=1000799492160&amp;uo=4" rel="alternate" />
