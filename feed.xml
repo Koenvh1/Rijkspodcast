@@ -3,11 +3,43 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-11-10T03:59:36Z</updated>
+	<updated>2026-11-10T14:28:24Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>AMLC podcast - 117. Maarten Pijls - De FATF ontrafeld (1/2)</title>
+		<link href="https://podcasts.apple.com/nl/podcast/117-maarten-pijls-de-fatf-ontrafeld-1-2/id1565172628?i=1000800955843&amp;uo=4" rel="alternate" />
+		<summary>Wat gebeurt er achter de schermen van de Financial Action Task Force? De organisatie zet wereldwijd de standaard voor de bestrijding van witwassen, terrorismefinanciering en proliferatiefinanciering. 
+Erik Reissenweber spreekt erover met Maarten Pijls, werkzaam bij het Openbaar Ministerie en al jaren betrokken bij de FATF, onder andere als voorzitter van de Risk, Trends and Methods Group.
+In deze aflevering: de oprichting door de G7 in 1989, de samenstelling en werkwijze (secretariaat in Parijs, werkgroepen, plenaire vergadering), de vijf werkgroepen en de rol van de "grijze lijst"-groep, typologierapporten en hoe je die als professional gebruikt, en de strategische prioriteiten van de achtereenvolgende presidentschappen van Mexico en het Verenigd Koninkrijk.
+Drie voornaamste takeaways:
+De FATF is geen club die met het vingertje wijst. Ze is opgericht om landen te helpen de integriteit van hun financiële sector te waarborgen.Typologierapporten zijn direct praktisch toepasbaar: de indicatorenlijsten kun je gebruiken in je dagelijkse werk.De FATF kan geen wetten maken, maar landen implementeren haar aanbevelingen vrijwillig, want wie buiten de orde staat, wordt aantrekkelijk voor criminelen.Voor wie? Compliance officers, KYC-analisten, (fiu-)rechercheurs, officieren van justitie en andere professionals in de witwasbestrijding.
+Deze aflevering is deel 1 van een serie. In deel 2: landenevaluaties en de vertaling naar je eigen praktijk.</summary>
+		<author>
+			<name>AMLC/FIOD</name>
+		</author>
+		<link href="https://anchor.fm/s/56d70950/podcast/play/127775812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2Fd2dc5332-0dc0-98c4-f3a5-da05fa37c452.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000800955843</id>
+		<updated>2026-11-10T08:08:00Z</updated>
+	</entry>
+	<entry>
+		<title>Traag &amp; Van Mulligen | De podcast van het CBS - Koken, douchen of de verwarming aan? Leven met energiearmoede</title>
+		<link href="https://podcasts.apple.com/nl/podcast/koken-douchen-of-de-verwarming-aan-leven/id6812207088?i=1000800938387&amp;uo=4" rel="alternate" />
+		<summary>S1E5: Koken, douchen of de verwarming aan? Leven met energiearmoede
+In deze aflevering: wat is energiearmoede, wie worden erdoor getroffen en wat betekent het nog meer, behalve een hoe energierekening?
+We bespreken het met Anika Batenburg, senior onderzoeker bij TNO.
+Genoemde cijfers &amp; bronnen:
+https://publications.tno.nl/publication/34640440/YyUGjI/TNO-2023-gezondheidsrisico.pdf
+https://www.cbs.nl/nl-nl/maatwerk/2026/30/monitor-energiearmoede-2019-2024</summary>
+		<author>
+			<name>Centraal Bureau voor de Statistiek (CBS)</name>
+		</author>
+		<link href="https://content.rss.com/episodes/402267/3305622/traag-van-mulligen/2026_11_09_14_55_24_4b2b6691-ffba-4585-a94e-cfe004744e91.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000800938387</id>
+		<updated>2026-11-10T06:00:00Z</updated>
+	</entry>
 	<entry>
 		<title>De Publieke Ruimte - De stem van jongeren</title>
 		<link href="https://podcasts.apple.com/nl/podcast/de-stem-van-jongeren/id1568120402?i=1000800892329&amp;uo=4" rel="alternate" />
