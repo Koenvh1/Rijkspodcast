@@ -3,11 +3,26 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-11-09T15:25:57Z</updated>
+	<updated>2026-11-10T03:59:36Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>De Publieke Ruimte - De stem van jongeren</title>
+		<link href="https://podcasts.apple.com/nl/podcast/de-stem-van-jongeren/id1568120402?i=1000800892329&amp;uo=4" rel="alternate" />
+		<summary>Een toekomstgerichte overheid kan niet om de stem van de nieuwste generatie heen. Maar hoe voorkom je dat jongerenparticipatie verwordt tot een administratief afvinklijstje? Wat gebeurt er als je jongeren écht een stem en gelijkwaardige plek geeft in het beleid dat over hen gaat? En wat vraagt dat van ambtenaren die moeten schakelen tussen het hoge abstractieniveau van beleidstorens en de dynamische praktijk?
+
+Otto en Martijn gaan hierover in gesprek met Corine Duitman (directeur Jeugd en Familie bij het ministerie van Justitie en Veiligheid), Monique Veldhuis (coördinator Jeugdcriminaliteit bij het ministerie van Justitie en Veiligheid) en Giovanni van Bossé (lid van de Jongerenadviesraad Amsterdam).
+
+Tijdens het gesprek verkennen we hoe jongeren — van de Justitiële Jeugdinrichtingen (JJI's) tot gemeentelijke adviesraden — worden betrokken bij complexe maatschappelijke vraagstukken. We bespreken waarom overheden soms moeten vertragen om jongereninbreng op waarde te kunnen schatten, Natuurlijk zijn er instrumenten zoals het Beleidskompas en de toolkit Jeugdparticipatie, maar helpen deze ook om schijnparticipatie te voorkomen? En is het realistisch dat de overheid de kloof met de digitale belevingswereld van jongeren gaat overbruggen? Een goed gesprek over de zoektocht naar échte, fysieke en menselijke connectie als basis voor geslaagde participatie.</summary>
+		<author>
+			<name>De Publieke Ruimte</name>
+		</author>
+		<link href="https://mcdn.podbean.com/mf/web/qie9bum5t38u2ez3/De_stem_van_Jongeren_DPR79vny.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000800892329</id>
+		<updated>2026-11-10T00:12:00Z</updated>
+	</entry>
 	<entry>
 		<title>Boeiend de Podcast - LTOZ: Onder water op zoek naar antwoorden - Boeiend de Podcast</title>
 		<link href="https://podcasts.apple.com/nl/podcast/ltoz-onder-water-op-zoek-naar-antwoorden-boeiend-de-podcast/id1522926580?i=1000800710113&amp;uo=4" rel="alternate" />
