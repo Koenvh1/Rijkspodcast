@@ -3,11 +3,33 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-11-10T21:14:21Z</updated>
+	<updated>2026-11-11T21:46:54Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Zorgklank - handvatten voor professionals in de zorg - S2E28: 'Samenwerken in netwerken: durven we ook naar onszelf te kijken?'</title>
+		<link href="https://podcasts.apple.com/nl/podcast/s2e28-samenwerken-in-netwerken-durven-we-ook-naar-onszelf/id1780286589?i=1000801269986&amp;uo=4" rel="alternate" />
+		<summary>Iedereen is het eens over de noodzaak om samen te werken aan de toekomst van zorg en welzijn. Maar maken we ook onderdeel van de eigen organisatie? En durven we ook te bespreken waar het schuurt?
+  
+ In deze aflevering van Zorgklank spreken we met Bianca den Outer van Lorenz, die zich al jaren bezighield met domeinoverstijgend samenwerken lang voordat het IZA en AZWA bestonden.
+  
+ De samenleving verandert razendsnel, de vergrijzing neemt toe en het tekort aan professionals vraagt om fundamenteel andere keuzes. Volgens Bianca ligt de grootste uitdaging niet zozeer bij het geld, maar bij de mensen die het werk moeten doen. Dat vraagt om anders denken, anders organiseren en soms ook om stoppen met wat we altijd deden.
+  
+ We hebben de afgelopen jaren volop ingezet op regionale samenwerking en het bouwen van netwerken. Maar samenwerking is geen doel op zich. De echte verandering vraagt ook iets van de organisaties zelf die aan tafel zitten. Welke belangen spelen er? Wat belemmert de beweging? En hoeveel ruimte durven we elkaar te geven?
+  
+ Bianca pleit voor meer collectief leiderschap, minder denken vanuit structuren en vooral voor het bespreekbaar maken van de spanningen tussen gezamenlijke ambities en individuele belangen.
+  
+ Een prikkelend gesprek over de weerbarstigheid van samenwerken, begrip voor elkaars dilemma’s en de moed om ook binnen en vanuit je eigen organisatie het verschil te maken.
+  </summary>
+		<author>
+			<name>Ministerie van VWS</name>
+		</author>
+		<link href="https://rss.springcast.app/nJwuAw/g4u4efq2e/listen/https%3A%2F%2Fcdn-private.springcast.app%2Faudio%2FnJwuAw%2Fitems%2Fg4u4efq2e%2F6af4a9d01a2ee2.88664446.mp3?source=itms.apple.com" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000801269986</id>
+		<updated>2026-11-11T17:44:00Z</updated>
+	</entry>
 	<entry>
 		<title>AMLC podcast - 117. Maarten Pijls - De FATF ontrafeld (1/2)</title>
 		<link href="https://podcasts.apple.com/nl/podcast/117-maarten-pijls-de-fatf-ontrafeld-1-2/id1565172628?i=1000800955843&amp;uo=4" rel="alternate" />
