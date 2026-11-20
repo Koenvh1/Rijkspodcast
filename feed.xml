@@ -3,11 +3,35 @@
 	<title>Rijkspodcastregister</title>
 	<subtitle>Dit zijn de nieuwste afleveringen van podcasts geproduceerd door, in opdracht van, of in samenwerking met de Rijksoverheid.</subtitle>
 	<link href="https://rijkspodcast.koenvh.nl" />
-	<updated>2026-11-19T15:22:23Z</updated>
+	<updated>2026-11-20T15:00:28Z</updated>
 	<author>
 		<name>Koen van Hove</name>
 	</author>
 	<id>urn:uuid:c63bba2d-b196-4dc4-ae5d-312e0894f8f0</id>
+	<entry>
+		<title>Alles op Tafel - In gesprek met de strafrechtketen</title>
+		<link href="https://podcasts.apple.com/nl/podcast/in-gesprek-met-de-strafrechtketen/id1682977468?i=1000803012543&amp;uo=4" rel="alternate" />
+		<summary>In hoeverre is de strafrechtketen in staat om de veranderende maatschappelijke norm bij te benen? In deze op een na laatste aflevering van Alles op Tafel gaan Mariëtte en Jörgen op zoek naar het antwoord op deze vraag, met de belangrijkste schakels uit die strafrechtketen: Gerben Cabboort, adviseur Landelijk Expertiseteam Seksuele Misdrijven Politie Nederland, Judith van Schoonderwoerd den Bezemer-Wolters, landelijke officier van justitie, Shirin Milani, senior raadsheer Gerechtshof Amsterdam, Ruth de Jager, slachtofferadvocaat en Rosa Jansen, voorzitter Raad van Bestuur Slachtofferhulp Nederland.
+ 
+Van de allereerste stap: melding maken bij de politie, tot het uiteindelijke vonnis. De nieuwe Wet Seksuele Misdrijven biedt meer houvast voor slachtoffers om aangifte te doen. Maar wat doet het met een slachtoffer om steeds opnieuw het verhaal te vertellen en op de meest intieme details bevraagd en soms zelfs ondermijnd te worden? Het strafproces lijkt niet gemaakt voor verwerking en herstel van het slachtoffer. Het is ontstaan om te achterhalen of iemand zich wel of niet schuldig heeft gemaakt aan een strafbaar feit. Zelfs als de rechtbank deze schuld voldoende bewezen acht, is de vraag of dit de erkenning biedt waar het slachtoffer naar op zoek is.
+ 
+Samenwerking tussen de schakels in de keten lijkt essentieel om de ervaring van slachtoffers in het strafproces te verbeteren. En die bereidheid is er, zo blijkt aan deze tafel.
+
+ 
+Insta: ⁠@mariettehamer⁠
+Website: ⁠www.rcgog.nl⁠
+E-mail: ⁠contact@rcgog.nl⁠
+Geproduceerd door: PnP Media
+Cover: Jip van den Toorn
+Muziek: Bram Kniest
+Zang: Hadewych Minis</summary>
+		<author>
+			<name>Mariëtte Hamer met Jörgen Raymann (seizoen 2) en Sahil Amar Aïssa (seizoen 1)</name>
+		</author>
+		<link href="https://anchor.fm/s/df19415c/podcast/play/129768976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437172258-44100-2-811d76aa72ec58.mp3" type="audio/mpeg" rel="enclosure" />
+		<id>https://rijkspodcast.koenvh.nl/appleid/1000803012543</id>
+		<updated>2026-11-19T20:37:15Z</updated>
+	</entry>
 	<entry>
 		<title>ONE Podcast - Beyond the conference - S02E05 – Vishing At Scale: Humans vs. Voice Agents | Indy Mellink | ONE Podcast</title>
 		<link href="https://podcasts.apple.com/nl/podcast/s02e05-vishing-at-scale-humans-vs-voice-agents-indy/id1834627264?i=1000802913577&amp;uo=4" rel="alternate" />
